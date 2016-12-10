@@ -4,6 +4,12 @@
     <title>Philosopher Scholar</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" type="text/css" href="./styles/main.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Philosopher">
+    <style>
+    body {
+        font-family: 'Philosopher';font-size: 22px;
+    }
+    </style>
     <!--<link rel="shortcut icon" href="./name.ico">-->
     <!-- For common header and footer -->
     <!--<script src="//code.jquery.com/jquery-1.10.2.js"></script>
@@ -18,9 +24,15 @@
     <div id="header">
         <h1>A philosopher</h1>
     </div>
-    <div class="nav">
-        <a href="./pages/navigation/about.html">About</a>
-    </div>
+    <ul class="topnav" id="myTopnav">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="./pages/navigation/about.html">About</a></li>
+      <li class="icon">
+        <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
+      </li>
+    </ul>
     <div class="container">
         <h1> Website under construction </h1>
 
@@ -33,5 +45,17 @@
         </div>
     </div>
     <!--<div id="footer"></div>-->
+
   </body>
 </html>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
