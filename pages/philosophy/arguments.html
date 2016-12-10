@@ -3,7 +3,16 @@
   <head>
     <title>Philosopher Scholar - Arguments</title>
     <meta charset="utf-8"/>
-    <link rel="stylesheet" type="text/css" href="./styles/main.css">
+    <!--<link rel="stylesheet" type="text/css" href="../../styles/main.css">-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+    $(function(){
+      $("#headerContent").load("../../layout/header.html");
+    });
+    $(function(){
+      $("#footerContent").load("../../layout/footer.html");
+    });
+    </script>
     <!--<link href='//fonts.googleapis.com/css?family=Philosopher' rel='stylesheet'>
     <style>
     body {
@@ -12,7 +21,9 @@
     </style>-->
   </head>
   <body>
-    <h1>Arguments Philosopher</h1>
+    <div id="headerContent"></div>
+
+    <h1>Arguments</h1>
 
     <p>
       I'm trying a different kind of project. I often debate with people over the internet and use many of the same arguments over and over.
@@ -25,5 +36,6 @@
       on the situation. I will update as the arguments arise along with free time.
     </p>
 
+    <div id="footerContent"></div>
   </body>
 </html>
