@@ -3,10 +3,11 @@
   <head>
     <title>Philosopher Scholar</title>
     <meta charset="utf-8"/>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Philosopher">
 
     <style>
     html, body {
-      font-family: serif;
+      font-family: 'Philosopher', serif;
       margin: 0;
       width: 100%;
       height: 100%;
@@ -50,8 +51,9 @@
     /* Hide the list item that contains the link that should open and close the topnav on small screens */
     ul.topnav li.icon {display: none;}
 
-    /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
-    @media screen and (max-width:680px) {
+    /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home").
+    Show the list item that contains the link to open and close the topnav (li.icon) */
+    @media screen and (max-width:800px) {
       ul.topnav li:not(:first-child) {display: none;}
       ul.topnav li.icon {
         float: right;
@@ -59,8 +61,9 @@
       }
     }
 
-    /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
-    @media screen and (max-width:680px) {
+    /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon.
+    This class makes the topnav look good on small screens */
+    @media screen and (max-width:800px) {
       ul.topnav.responsive {position: relative;}
       ul.topnav.responsive li.icon {
         position: absolute;
@@ -86,6 +89,11 @@
     <ul class="topnav" id="myTopnav">
       <li><a href="/">Home</a></li>
       <li><a href="/pages/philosophy/">Philosophy</a></li>
+      <li><a href="/pages/computerScience/">Computer Science</a></li>
+      <li><a href="/pages/math/">Mathematics</a></li>
+      <li><a href="/pages/learning/">Learning</a></li>
+      <li><a href="/pages/nutrition/">Nutrition</a></li>
+      <li><a href="/pages/fitness/">Fitness</a></li>
       <li><a href="/pages/navigation/about.html">About</a></li>
       <li class="icon">
         <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
