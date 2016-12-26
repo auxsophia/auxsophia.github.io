@@ -7,9 +7,12 @@ html, body{
 
 .container {
   display: inline-block;
+  position: relative;
+  text-align: justify;
   padding-top: 1em;
   padding-left: 5em;
   padding-right: 5em;
   padding-bottom: 1em;
-  min-width: 75%;
+  min-width: 2rem;
+  max-width: 50rem;
 }
