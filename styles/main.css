@@ -6,13 +6,16 @@ html, body{
 }
 
 .container {
-  display: inline-block;
-  position: relative;
-  text-align: justify;
-  padding-top: 1em;
-  padding-left: 5em;
-  padding-right: 5em;
-  padding-bottom: 1em;
-  min-width: 2rem;
-  max-width: 50rem;
+  display: block;
+  position: absolute;
+
+  margin-top: auto;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: auto;
+
+  padding: 1em;
+
+  min-width: 40em;
+  max-width: 60%;
 }
