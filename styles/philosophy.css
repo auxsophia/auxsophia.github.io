@@ -1,5 +1,6 @@
 html, body {
   font-family: 'Philosopher', serif;
+  font-size: 16;
   margin: 0;
   width: 100%;
   height: 100%;
@@ -21,7 +22,7 @@ html, body {
 }
 
 #myInput {
-    background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+    background-image: url('../../images/icon.png'); /* Add a search icon to input */
     background-position: 10px 12px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
     width: 100%; /* Full-width */
@@ -32,7 +33,7 @@ html, body {
 }
 
 #argTable {
-    border-collapse: collapse; /* Collapse borders */
+    /*border-collapse: collapse; /* Collapse borders */
     width: 100%; /* Full-width */
     border: 1px solid #ddd; /* Add a grey border */
     font-size: 18px; /* Increase font-size */
