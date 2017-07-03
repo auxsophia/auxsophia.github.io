@@ -27,9 +27,11 @@ html, body {
     background-repeat: no-repeat; /* Do not repeat the icon image */
     /*width: 100%; /* Full-width */
     min-width: 50em;
-    max-width: 30px;
+    max-width: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
     font-size: 16px; /* Increase font-size */
-    padding: -12px 20px 12px 40px; /* Add some padding */
+    padding: 12px 20px 12px 40px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
     margin-bottom: 12px; /* Add some space below the input */
 }
@@ -37,8 +39,10 @@ html, body {
 #argTable {
     border-collapse: collapse; /* Collapse borders */
     width: 100%; /* Full-width */
-    min-width: 50em;
-    max-width: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-width: 60em;
+    max-width: 50px;
     border: 1px solid #ddd; /* Add a grey border */
     font-size: 18px; /* Increase font-size */
 }
