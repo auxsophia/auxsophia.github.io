@@ -35,7 +35,7 @@ html, body {
 }
 
 #argTable {
-    /*border-collapse: collapse; /* Collapse borders */
+    border-collapse: collapse; /* Collapse borders */
     width: 100%; /* Full-width */
     min-width: 50em;
     max-width: 30px;
