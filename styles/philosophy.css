@@ -23,7 +23,7 @@ html, body {
 
 #myInput {
     background-image: url('../../images/icon.png'); /* Add a search icon to input */
-    background-position: 5px 6px; /* Position the search icon */
+    background-position: 0px 0px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
     width: 100%; /* Full-width */
     min-width: 50em;
