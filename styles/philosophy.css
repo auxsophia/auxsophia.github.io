@@ -23,7 +23,7 @@ html, body {
 
 #myInput {
     display: block;
-    position: absolute;
+    position: relative;
     background-image: url('../../images/icon.png'); /* Add a search icon to input */
     background-position: 0px 0px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
@@ -40,7 +40,7 @@ html, body {
 
 #argTable {
     display: block;
-    position: absolute;
+    position: relative;
     border-collapse: collapse; /* Collapse borders */
     width: 100%; /* Full-width */
     margin-left: 20%;
