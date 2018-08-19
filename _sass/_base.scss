@@ -1,13 +1,14 @@
 $content-width: 800px;
-$main: #19CCAA;
-$font-style: 'Open Sans', sans-serif;
-$font-color: #262626;
-$link-color: #425469;
-$link-hover-color: $main;
-$heading-font: 'Muli', sans-serif;
-$heading-font-color: #425469;
+// Purple = 800080, royal purple = 7851A9, eminence = 6C3082
+$main: #6C3082;
+$font-style: 'Philosopher', sans-serif;
+$font-color: #000;
+$link-color: $main;
+$link-hover-color: #7851A9;
+$heading-font: 'Philosopher', sans-serif;
+$heading-font-color: #000;
 $light: #E7EDF4;
-$header:  #1D1425;
+$header: $main;
 
 *,
 *::before,

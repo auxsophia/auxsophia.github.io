@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page Template
+title: Philosopher Scholar - Page Template
 permalink: /page-template/
 ---
 

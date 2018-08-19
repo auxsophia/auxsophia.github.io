@@ -1,3 +1,7 @@
+# Now, when you want to work on the site locally, you will run the following command:
+# bundle exec jekyll serve --config _config.yml,_config_dev.yml --livereload
+
+
 # Special thanks to Tania Rascia for making such an excellent guide.
 # https://www.taniarascia.com/make-a-static-website-with-jekyll/
 
@@ -20,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Public notes on human flourishing, computer science, philosophy,
   and artificial (general) intelligence.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://philosopherscholar.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sophia_scholar
 github_username:  auxsophia
 

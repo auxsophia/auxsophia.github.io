@@ -7,10 +7,13 @@ navigation bar, except for the blog page, which I will load manually.
 	<div class="container">
 		<nav>
 			<ul>
-				{% for page in site.pages %} {% if page.title %}
+				<!--{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endfor %}
-				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+				{% endif %} {% endfor %}-->
+				<li><a href="{{ site.baseurl }}">Home</a></li>
+				<li><a href="{{ "/about/" | prepend: site.baseurl }}">About</a></li>
+				<li><a href="{{ "/_pages/humanFlourishing" | prepend: site.baseurl }}">Human Flourishing</a></li>
+				<li><a href="{{ "/philosophy/" | prepend: site.baseurl }}">Philosophy</a></li>
 			</ul>
 			</li>
 			</ul>
@@ -19,5 +22,5 @@ navigation bar, except for the blog page, which I will load manually.
 </aside>
 
 <header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+	<h1><a href="{{ site.baseurl }}" style="color:#FFF">{{ site.title }}</a></h1>
 </header>
