@@ -12,3 +12,5 @@ Add all folders and make an index for each.
 Do I want a special layout for each area, CS, AI, etc?
 
 Make sure the home button works!
+
+Include a fork of this page: https://github.com/owainlewis/awesome-artificial-intelligence
