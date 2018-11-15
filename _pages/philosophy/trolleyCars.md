@@ -6,7 +6,7 @@ permalink: /two-solutions-to-the-trolley-problem-for-self-driving-cars/
 
 # Two Solutions to the Trolley Problem for Self Driving Cars
 
-Imagine you're standing next to a lever near train tracks. The tracks split, where one side is being built by five workers and the other has just one worker making some final touches. You notice a runaway trolley careening towards the five workers, but all workers are unaware. Here are the things you know with certainty:
+Imagine you're standing next to a lever near train tracks. The tracks split where one side is being built by five workers and the other has just one worker making some final touches. You notice a runaway trolley careening towards the five workers, but all workers are unaware. Here are the things you know with certainty:
 - If you pull the lever, the trolley will be diverted to the track with one worker.
 - Whichever track the trolley goes down it will kill all workers on that track, either the one or the five.
 - There's no time to warn them or anyone else.

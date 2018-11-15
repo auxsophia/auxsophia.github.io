@@ -104,6 +104,10 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+### Center an image with Kramdown
+{:refdef: style="text-align: center;"}
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+{: refdef}
 
 ### Definition lists can be used with HTML syntax.
 
