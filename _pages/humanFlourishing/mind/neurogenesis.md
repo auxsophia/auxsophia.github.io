@@ -23,12 +23,12 @@ And physical activities:
 - Sex
 - Learning
 
-Things against neurogensis:
+Things against neurogenesis:
 - Vitamin E, B, A deficiency
 - Ethanol (alcohol - red wine counter balanced with reservatol)
 - High sugar
 - High saturated fat
-- Soft diet (So Japanese groups are fascinated with food textures, and they have shown that actually soft diet impairs neurogenesis, as opposed to food that requires mastication -- chewing -- or crunchy food.)
+- Soft diet (So Japanese groups are fascinated with food textures, and they have shown that soft diets impair neurogenesis, as opposed to food that requires mastication -- chewing -- or crunchy food.)
 And physical activities:
 - Sleep deprivation
 - Stress
