@@ -110,3 +110,62 @@ Center for Human-Compatible AI: reorient the general thrust of AI research towar
 - Will it make us better people?
 
 # [3 principles for creating safer AI | Stuart Russell](https://www.youtube.com/watch?v=EBK-a94IFHY)
+- Video published on Jun 6, 2017
+
+"...that reading is not yet happening in machines, at least with understanding. But that will happen, and when that happens, very soon afterwards, machines will have read everything that the human race has ever written. And that will enable machines, along with the ability to look further ahead than humans can, as we've already seen in Go, if they also have access to more information, they'll be able to make better decisions in the real world than we can. So is that a good thing? Well, I hope so.
+
+Our entire civilization, everything that we value, is based on our intelligence. And if we had access to a lot more intelligence, then there's really no limit to what the human race can do. And I think this could be, as some people have described it, the biggest event in human history. So why are people saying things like this, that AI might spell the end of the human race?"
+
+"Even if we could keep the machines in a subservient position, for instance, by _turning off the power_ at strategic moments, we should, as a species, feel greatly humbled." - Alan Turing 1951
+
+> So here's another quotation: "We had better be quite sure that the purpose put into the machine is the purpose which we really desire." This was said by Norbert Wiener in 1960, shortly after he watched one of the very early learning systems learn to play checkers better than its creator. But this could equally have been said by King Midas. King Midas said, "I want everything I touch to turn to gold," and he got exactly what he asked for. That was the purpose that he put into the machine, so to speak, and then his food and his drink and his relatives turned to gold and he died in misery and starvation. So we'll call this "the King Midas problem" of stating an objective which is not, in fact, truly aligned with what we want. In modern terms, we call this "the value alignment problem."
+
+> So this single-minded pursuit in a very defensive mode of an objective that is, in fact, not aligned with the true objectives of the human race -- that's the problem that we face. And in fact, that's the high-value takeaway from this talk. If you want to remember one thing, it's that you can't fetch the coffee if you're dead.
+
+> It's very simple. Just remember that. Repeat it to yourself three times a day.
+
+> And in fact, this is exactly the plot of "2001: [A Space Odyssey]" HAL has an objective, a mission, which is not aligned with the objectives of the humans, and that leads to this conflict. Now fortunately, HAL is not superintelligent. He's pretty smart, but eventually Dave outwits him and manages to switch him off. But we might not be so lucky. So what are we going to do?
+
+> I'm trying to redefine AI to get away from this classical notion of machines that intelligently pursue objectives. There are three principles involved. The first one is a principle of altruism, if you like, that the robot's only objective is to maximize the realization of human objectives, of human values. And by values here I don't mean touchy-feely, goody-goody values. I just mean whatever it is that the human would prefer their life to be like. And so this actually violates Asimov's law that the robot has to protect its own existence. It has no interest in preserving its existence whatsoever.
+
+> The second law is a law of humility, if you like. And this turns out to be really important to make robots safe. It says that the robot does not know what those human values are, so it has to maximize them, but it doesn't know what they are. And that avoids this problem of single-minded pursuit of an objective. This uncertainty turns out to be crucial.
+
+> Now, in order to be useful to us, it has to have some idea of what we want. It obtains that information primarily by observation of human choices, so our own choices reveal information about what it is that we prefer our lives to be like. So those are the three principles.
+
+3. Human behavior provides information about human values
+- Learn to predict which life each human will prefer
+
+"The real difficulty is **us**."
+
+You could come home after a hard day's work, and the computer says, "Long day?"
+
+"Yes, I didn't even have time for lunch."
+
+"You must be very hungry."
+
+"Starving, yeah. Could you make some dinner?"
+
+"There's something I need to tell you."
+
+(Laughter)
+
+"There are humans in South Sudan who are in more urgent need than you."
+
+(Laughter)
+
+"So I'm leaving. Make your own dinner."
+
+(Laughter)
+
+So we have to solve these problems, and I'm looking forward to working on them.
+
+### Changing AI
+- We require provably beneficial AI
+- The key components are
+  - purely altruistic robots,
+  - with uncertain **objectives**,
+  - that learn more by observing (all) humans
+
+Question: And you couldn't just boil it down to one law, you know, hardwired in: "if any human ever tries to switch me off, I comply. I comply."
+
+Stuart Russell: Absolutely not. That would be a terrible idea. So imagine that you have a self-driving car and you want to send your five-year-old off to preschool. Do you want your five-year-old to be able to switch off the car while it's driving along? Probably not. **So it needs to understand how rational and sensible the person is. The more rational the person, the more willing you are to be switched off.** If the person is completely random or even malicious, then you're less willing to be switched off.
