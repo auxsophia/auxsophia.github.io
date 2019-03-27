@@ -4,4 +4,4 @@ title: Philosopher Scholar - Body
 permalink: /humanFlourishing/body/
 ---
 
-The two main components of maintaining a body are [exercise](/calisthenics/) and [nutrition](/nutrition/).
+The three main components of maintaining a body are [nutrition](/nutrition/), use ([exercise](/calisthenics/)), and [posture](/posture/).
