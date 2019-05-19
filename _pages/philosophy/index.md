@@ -5,3 +5,5 @@ permalink: /philosophy/
 ---
 
 # For the love of wisdom!
+
+Check out some pretty cool [arguments](/philosophy/arguments/).
