@@ -88,3 +88,229 @@ The sum total of these biases is what makes climate change something the ecologi
 Philosophers are supposed to be the experts here! If we want our species and the current biosphere to flourish, we must act.
 
 ---
+
+Authors have preached extinction is nigh for thousands of years, but we now have more evidence for the thesis.
+
+# [Climate Change - Why we are heading for extinction and what to do about it](https://www.youtube.com/watch?time_continue=34&v=WgFc4Zhvjtg)
+
+Roger Hallam is co-founder of the Radical Think Tank. His PhD studies looked at protest movements and revolutionary campaigns and what factors make them successful.
+
+He assumes only three core premises:
+- 2 + 2 (simple arithmetic)
+- Consistency (no contradictions)
+- The world is **real** (there is an external world)
+
+We are currently at 1.2 degrees Celsius of warming. The Paris Agreement assumes we can extract carbon from the atmosphere to keep warming under 2 degrees globally. However, we don't yet have scale-able technology to do this. We're expecting 0.5C of warming in the next 10-20 years.
+
+Much of the CO2 locked into the system is in the ocean. Once the polar ice melts, we can expect another 0.5C warming. With less ice reflecting sunlight, the oceans will become warmer as they absorb heat.
+
+We're already locked into 1.2C + 0.5C + 0.5C = 2.2C.
+
+This is ignoring other variables that could contribute to warming and prediction which suggest 8C of warming in the next 10 years. However, as the ocean heats up, water vapor is expected to add another 1C of warming, so we're at 3.2C.
+
+Between 2.5C and 3.5C rain forests are expected to burn down, adding 1.5C.
+
+### This puts us at 4.7C of warming assuming average temperature increases.
+
+Based on physics, centers of continents warm faster than the coastal areas. The issue is at 4C of warming we can't grow grain in the center of continents.
+
+### We're looking at all of this in the next 10-15 years.
+
+There were 5 major extinctions in the historical record. One was caused by a meteor, the rest was caused by C02 (volcanoes) and methane build up in the atmosphere.
+
+From the record, at 12.5C all of the ice at the poles melt. At 23C, the paleo record shows 95% of life on Earth dies. When there is no polar ice, there's no wind. The ocean becomes more still and stagnant, then nitrate-sulfate is released from the ocean. The atmosphere becomes poisonous for mammals, but some reptiles might get away. At 6C, phyto-plankton which produce oxygen die, changing the concentration of oxygen in the air further. This is why higher-level mammals die.
+
+He's talking about 4 certain additions in warming, but there are 69 factors that could lead to warming. One is the release of methane trapped in the permafrost. If 1% of the methane is released, that could add 0.5C, and that can happen in a year. This is probabilistic, but 4C is supported by "basic physics."
+
+We're at a point where we know human action is going to cause mass-death and possibly extinction.
+
+"If a government is intending to kill the livelihood of its citizens, you don't have a right to rebel, you have a duty to rebel." - John Locke
+
+Since the 90's, carbon emissions have gone up 60% despite all efforts to reduce them.
+
+He argues based on previous research only about 3-5% of people will be activated to activism and most others will be pushed to defeatism.
+
+Civil disobedience like a street protest with 1 million individuals equates to 1,000 arrests or 500 jailed. If you can get people to go to prison, this will actually disrupt the system. Analyzing the civil rights movement of Martin Luther King Jr., 5,000 people jailed led to policy change. His estimate is 1,000 people imprisoned in prison can affect policy. This is simplistic, but we know the number needed to be imprisoned is lower than we think.
+
+There's a backfire effect when we see members of our group terribly oppressed by the dominant power. Through sympathy, others who would've been mobilized do not. Sometimes this also activates many who were unsure but become activated. We can't predict which way things will go but to try and see.
+
+He argues for psychological motivation. Many ardent activists are religious rather than rational. He argues this comes from action based on duty independent of the outcome. We tend to need a reason, but for people to mobilize, we need to ask questions about duty, honor, responsibility, and what it means to be a good person.
+
+---
+
+# [How to Enjoy the End of the World](https://www.youtube.com/watch?v=5WPB2u8EzL8&t=745s) by Professor Sid Smith
+
+This lecture had a profound effect on me because of the mathematical and intuitive explanation. He analyzes organisms, societies, and planets based on physics models of energy.
+
+A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards entropy). For instance, a fire is a dissipative structure. The fuel is exergy. The fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structure, including the universe itself, is complexity."
+
+Complexity appears to defy the second law of physics, which is in a closed system entropy will always increase. "Order is never spontaneously produced from disorder. Once a glass breaks, you can't un-break it." Every dissipative structure converts exergy to heat, but it does so based on the rules of energy transfer and the dissipative structures itself.
+
+As an example of complexity from dissipative structures arising from simple rules, he presents [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). There seems to be no limit to the complexity that can arise from these rules. However, these complex patterns can be easily disrupted, showing the vulnerability of this homeostasis.
+
+### Properties of Dissipative Structures
+
+- All dissipative structures consume exergy, transforming useful energy into less useful energy.
+
+- All dissipative structures give rise to complexity (i.e., they are self-organizing) as an emergent property of the way their inherent rules channel their energy flows.
+
+- No dissipative structure is immortal
+
+Crises can disrupt homeostasis. The more complex a system is the more possibility of a crisis occurring as well a crisis causing a cascade of further crises ultimately unraveling homeostasis.
+
+Assuming a dissipative structure has access to unlimited exergy and no crises, can it go on forever?
+
+"In general no, because they are never static and never go backwards. No natural process is reversible in itself, because entropy always increases, never spontaneously decreases. The same processes that brought a dissipative structure must continue, because energy must continue to flow, increasing complexity. Each increase in complexity has a metabolic cost. As these costs accumulate, eventually the system becomes unsustainable on its energy base and increasingly fragile. At some point, a crisis occurs and there's a complexity collapse. If exergy is still available post-collapse, new dissipative structures will arise anew, typically with significant differences from the old structure."
+
+The biologist [Eugene Odom](https://en.wikipedia.org/wiki/Eugene_Odum) describes this process in ecosystems called ecological succession. An ecosystem begins on pure rock. A new ecosystem is built on a previous ecosystem. Each community in the ecosystem alters the environment. "It culminates in a homeostatic ecosystem in which biomass and symbiotic function between organisms are maintained. Maximum that is per unit of energy flow. Nature always optimizes. To repeat, self-organization is directed towards achieving as large and diverse a dissipative structure within the limits set by the available energy input and the prevailing physical conditions. Once homeostasis is achieved, the ecosystem is mature. However, eventually the ecosystem succumbs to its own fragility. A small perturbation in climate, or a fire, or an evolution of a disruptive, invasive, or parasitic species, and all the intricate specializations that lead to the optimization of the structure become in turn the cause of the systems failures. In the long view, this is not a tragedy, but an essential component of the evolutionary process. It's precisely the story of life on this planet with its breathtaking diversity not only across continents, but across time."
+
+Eventually, every organism relies on the whole system to survive. Once the system dies, the individuals die as well.
+
+### What about civilization as dissipative structures?
+
+Energy Return on Investment (EROI)
+
+EROI = (total energy acquired) / energy spent to acquire energy
+
+EROI for most creatures is between 1 and 2. An EROI less than 1 is starvation. An EROI towards 2 means growth.
+
+The EROI of hunter-gatherer societies is roughly 1.5. Just enough to form kinship groups, reproduction, and the fastening of a few tools and decorations. The cultural complexity can be impressive, but the social connections are necessarily limited.
+
+Social connections tend to track closely with EROI. Agricultural settlements tend to have an EROI of 4, allowing specializations within the societies not directly related to energy gathering. Complex tools could be developed. Stored food also helps to preserve energy.
+
+Communities tended to over-exploit in agricultural area resulting in reduced yields over time, reducing EROI. Second, successful communities were an inviting target for raiders. This contributed to a second leap in complexity to agriculture-based empires. These empires tend to have an EROI of 6. Empires tend to have a boost in EROI after conquering other settlements, either over-exploiting them or continuing to slowly extract resources. This created highly complex hierarchies and specializations.
+
+However, after all surrounding settlements are conquered the must be administered and garrisoned, taking energy. Diminishing returns set in with settlements being further apart and EROI declines. To combat a declining EROI, taxes tend to increase on agricultural outputs and inexorably leads to resource depletion. Finally, the weakened empire is conquered or falls to pieces.
+
+Example, Rome. The Ancient Roman Empire was especially good at running an empire. Conquest temporarily increased EROI by a factor of 2, but each attempt they made to maintain increased the cost of homeostasis. Only excessive taxation could maintain the metabolic cost of empire. Resource depletion (including human resources) eventually led to permanently declining EROI and complexity (including economic, social, and political/administrative) collapse.
+
+He cites [Joseph Tainter](https://en.wikipedia.org/wiki/Joseph_Tainter)'s work Collapse of Complex Societies.
+
+"According to Tainter's Collapse of Complex Societies, societies become more complex as they try to solve problems. Social complexity can be recognized by numerous differentiated and specialised social and economic roles and many mechanisms through which they are coordinated, and by reliance on symbolic and abstract communication, and the existence of a class of information producers and analysts who are not involved in primary resource production. Such complexity requires a substantial "energy" subsidy (meaning the consumption of resources, or other forms of wealth).
+
+When a society confronts a "problem," such as a shortage of energy, or difficulty in gaining access to it, it tends to create new layers of bureaucracy, infrastructure, or social class to address the challenge. Tainter, who first (ch. 1) identifies seventeen examples of rapid collapse of societies, applies his model to three case studies: The Western Roman Empire, the Maya civilization, and the Chaco culture.
+
+For example, as Roman agricultural output slowly declined and population increased, per-capita energy availability dropped. The Romans "solved" this problem by conquering their neighbours to appropriate their energy surpluses (in concrete forms, as metals, grain, slaves, etc.). However, as the Empire grew, the cost of maintaining communications, garrisons, civil government, etc. grew with it. Eventually, this cost grew so great that any new challenges such as invasions and crop failures could not be solved by the acquisition of more territory."
+
+There were no resources left with to rebuild, fertile soil, harvestable forests, and stable human communities. Further developments in energy capture were limited before the industrial age. Capturing mechanical energy improved, but nothing to increase EROI above about 5.
+
+The invention of the combustion engine and acquisition of fossil fuels to produce the heat changed everything. Coal and later oil gave an EROI of 100. One unit of energy in, 100 units of energy out. A seemingly limitless energy use to create incredible complexity. The result is what we have today.
+
+Globalized Industrialized Civilization occurs at EROI > 20. Putting this into perspective, a healthy adult can sustain about 75 watts of energy for 8 hours. That's about 600 watt hours of work, 0.6 of a kilowatt. 10 people working together can produce  6 kilowatts a day. A gallon of gasoline can propel an automobile 30 miles in 30 minutes.
+
+How long would it take you to push your car 30 miles? How many friends would you need to help you?
+
+An average American consumer directly and indirectly uses enough energy daily to consume the work of hundreds of people. This energy imbalance sustains our global civilization and lifestyle.
+
+### The Challenges We Face
+- Our civilization is **designed** for high energy flows.
+- The quantity of fossil fuels remaining on Earth is dwindling
+- The less fossil fuel that remains, the more it costs to exploit
+- There are no **substitutable** energy sources that have a high EROI
+- Our non-energy resource base (minerals, water, arable land, etc.) is also dwindling
+- The ecological basis of any future low-EROI civilization is being destroyed
+
+EROI goal of 20? Because there isn't much difference between an EROI of 20 compared to an EROI of 100.
+
+We're falling off the "energy cliff." Greater extraction of energy needs infrastructure like paved roads, decreasing EROI of oil to 30. As the easy to access oil was used up, smaller pockets with cruder oil were found and extracted at greater cost. By the start of the 21st century, the EROI for oil was 20. The EROI of the smaller pockets of oil are 10 or less.
+
+Wind and solar are now competitive with oil at the point of generation, but if we need to store the energy, the EROI becomes 1. Unconventional oil sources become an EROI of less than 5. Arable land becomes too precious to use on bio-fuel.
+
+Established empires have metabolic costs. A reduction of 5% of metabolic costs means the empire must canabilize and use its reserves.
+
+### Scrambling back from the Energy Cliff
+- Exploit existing energy sources at a faster rate
+- Use the existing energy sources more efficiently
+- Make the existing economic and social orders less energy intensive
+- Find new energy sources to replace existing ones
+
+He argues none of these are possibilities.
+
+#### Increasing fossil energy production?
+- We can't exploit oil further due to low value of the remaining oil.  
+- Coal use can be increased but only at severe environmental cost even before climate change is considered, and that supply too will peak before long
+- Shale oil, recovered through fracking, already has too low of an EROI to make it profitable to extract
+- Continuing to release green house gases at our present rate, let alone an accelerating rate, puts the planet on track for global extinction by climate change in one to two decades, that will probably result in near-term global extinction of most life, including us. Carbon capture and sequestration technologies to mitigate this are unproven, and certain to reduce the EROI of fossil fuels to 1 or less if widely implemented
+
+#### Increasing Efficiency
+- We've dramatically increased efficiency already. Yet for every efficiency introduced, the rate of consumption has increased, not decreased. This is called the [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox), and it is an observable feature of natural economies. **In the absence of forced rationing, efficiency always increases rather than decreases the rate of consumption.**
+- Increasing efficiency requires the development of new technologies: new kinds of motors and devices, new lighting technologies, etc. New technologies require research, prototyping, and then capitalization in the marketplace, and each of these steps demands an energy budget. Moreover, there are diminishing returns on innovation, so each new increment of technical progress requires more energy, on average, than the ones that came before, and the rate of increase is exponential.
+
+He gives the example of patents in the early days compared to patents now. Edison, Tesla, and others got the low hanging fruit. Rarely in current times are patents awarded to single inventors but go to research groups of dozens of people on a team.
+
+#### The 4 Primary Energy Sources
+Solar, nuclear, tidal, geothermal.
+
+Fossil fuel isn't an energy source, it's an energy carrier, like a battery. The battery can be recharged but only over geological time periods of hundreds of millions of years, not for humans.
+
+Geothermal and tidal hasn't been exploited meaningfully because the engineering challenges are too great to make it economical.
+
+**Nuclear energy, in principle, is ideal.**
+Because of the cost in producing and deconstructing fission nuclear plants and the enormous risks involved, no nuclear plant has stood on its own economically. Most rely on subsidies. Few countries are still exploring this option because crises can and do occur.
+
+Nuclear fusion wouldn't have these problems, but it's been feasible for 40 years or so and still hasn't been developed.
+
+Liquid fuels (bio-mass) cannot replace other fuels with our current needs. The batteries to carry the energy requires lithium, which is abundant but energy intensive to recycle. A battery like this in your car could weigh several hundred pounds. There's enough lithium available to replace the engines of every car in the world __once__.
+
+For a car, we can recharge the batteries and make this feasible. However, freights and other large vehicles cannot sustain this. Trains can be converted as they run on electricity, but currently the generators runs on diesel. In Europe and Japan, they're wiring their trains to avoid diesel, but nothing is being done for American infrastructure.
+
+Hydrogen? Hydrogen is an energy carrier and has an energy efficiency of 30%. The real difficulty is in transportation with dangers like explosions. Example, [Hindenburg disaster](https://en.wikipedia.org/wiki/Hindenburg_disaster).
+
+The entire petroleum based transportation infrastructure needs to be converted to an electricity base. The cost would be several times the cost of any previous industrial initiative in human history, and we have to do it while at the same time reducing our overall energy use.
+
+A big problem is having energy on demand. To maintain the grid without fossil fuels means the generating capacity must be higher than the average demand, and the excess energy must be stored when the sun isn't shining and the wind isn't blowing.
+
+Numerous studies show this increases the cost per watt by an order of magnitude, i.e. by a factor of 10.
+
+Embodied energy is in everything we buy. On average, one calorie of food delivered to you requires 10 calories of energy from fossil fuels. In other words, the EROI of food in our society is 1/10th. 10 units of energy in to get 1 unit of energy out. Replacing this system with liquid fuel increases the cost beyond the reach of nearly everyone. What is true of food is true of nearly every commodity, from the house you live in to the socks on your feet.
+
+There are replacements for fossil fuels, but not for this society.
+
+#### Can we go back?
+Can we have a neo-modern version of society with 19th century energy use?
+
+Our food has changed in its biological function to be dependent on fossil fuels with fertilizers, pesticides, and herbicides.
+
+There is a solution: wide-scale, local, distributed farming. However, living off the land is very difficult without engines and pesticides. We also need a change in social priorities and cohesion.
+
+He says we've seen the climax of our society.
+
+#### The collapse is already underway.
+We use the word 'economy' equivocally. There's the material economy (the production, movement, and use of energy, including raw materials) and the financial economy (the system used to track and facilitate the material economy). In an economy that's in balance with its energy flows, the financial economy closely parallels the material economy and provides useful services like rational pricing, mitigation of risk. Another essential service is using excess resources to facilitate increased energy flows in the material economy and make growth possible.
+
+A universal symptom of complex civilization collapse is the financialization of growth.  The material economy shrinks while the financial economy grows, creating financial bubbles. Since 2008, incomes have declined while the stock market has tripled. He argues that billionaires don't have billions of dollars in the material economy. Our income relates to rent, food, and daily life. However, billionaires money relates to power. He's not against the revolution, but it's a mistake to think we can solve world hunger with "monopoly" money.
+
+In real terms, the economies of wealthy countries all went into permanent decline between 1970-1990. Emerging economies like China and India fueled massive growth based on coal and on the demand of manufactured goods from wealthy countries. The emerging economies have also peaked, and the material economy is shrinking. Governments responded by inflating the GDP.
+
+They put things in the GDP like inflated rent. If you own your own home, they impute rent paid. It has nothing to do with the material economy. Banks have been financing to keep this all afloat at the cost of increasing individual debt.
+
+Populations of vertebrates have declined by 60% since the 1970s. Land vertebrates, insects, fish, are all becoming extinct at an accelerating rate. There is no material economy for humans if the ecosystem collapses.
+
+"The science is now crystal clear. We've got at best 10 years to ween ourselves off fossil fuels, or we'll see at least 4C of additional warming possibly as soon as 2040, possibly by 2080, with no means whatsoever to bring the planet back to equilibrium."
+
+Feedback loops at that point could boost warming 10C more. Ecosystems would collapse, and there would not be a resource base for new civilizations to form. If this civilization were to continue another 20 years, it would mean omnicide. It's fortunate indeed that it cannot. The first step in enjoying the end of the world is knowing any hope in maintaining the current system is delusory, not by technology, renewable energy, nor political revolution will save us from complexity collapse. Step 2, he doesn't think any predictions of how collapse will play out in the short term are useful, it's too chaotic.
+
+There are worse outcomes than collapse. If we use our weapons of mass destruction, the outcome is not collapse but apocalypse.
+
+Even if New York were optimally farmed, it could only sustain 21% of the current population. To survive, we need a new way of thinking and a new way of being. He says that doomsday preppers and ultra-rich will learn a hard lesson. The aim is to build something better.
+
+The ecologist [C.S. Holling](https://en.wikipedia.org/wiki/C._S._Holling) developed the adaptive cycle of ecosystems. There's a cycle of creation, destruction, and renewal. Each of these is necessary for the development of life. With increasing complexity, the system becomes less able to adapt and change. That system becomes liquid energy for new life.
+
+And then he goes into a positive outlook on change.
+
+---
+
+# [Humanity: The Final Chapter](https://www.youtube.com/watch?v=EEcxVDRYZqk)
+
+Dr. Sid Smith has another great talk from a year earlier in early 2018.
+
+This introduced me to:
+["Earth Overshoot Day (EOD), previously known as Ecological Debt Day (EDD), is the calculated illustrative calendar date on which humanity’s resource consumption for the year exceeds Earth’s capacity to regenerate those resources that year. Earth Overshoot Day is calculated by dividing the world biocapacity (the amount of natural resources generated by Earth that year), by the world ecological footprint (humanity's consumption of Earth’s natural resources for that year), and multiplying by 365, the number of days in one Gregorian common calendar year."](https://en.wikipedia.org/wiki/Earth_Overshoot_Day)
+
+We began overshooting, going into ecological debt, in 1970.
+
+A great [XKCD comic to visualize land mammals](https://xkcd.com/1338/).
+
+{:refdef: style="text-align: center;"}
+![Table 1]({{ site.baseimg }}/images/land_mammals.png)
+{: refdef}
