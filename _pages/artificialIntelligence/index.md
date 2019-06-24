@@ -7,6 +7,7 @@ permalink: /ai/
 # [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [Outline of AI](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
 
+---
 [Provably Beneficial AI | Stuart Russell](https://www.youtube.com/watch?v=pARXQnX6QS8)
 - Value misalignment
   - AI systems that incredibly good at achieving something other than what we really want
@@ -169,3 +170,5 @@ So we have to solve these problems, and I'm looking forward to working on them.
 Question: And you couldn't just boil it down to one law, you know, hardwired in: "if any human ever tries to switch me off, I comply. I comply."
 
 Stuart Russell: Absolutely not. That would be a terrible idea. So imagine that you have a self-driving car and you want to send your five-year-old off to preschool. Do you want your five-year-old to be able to switch off the car while it's driving along? Probably not. **So it needs to understand how rational and sensible the person is. The more rational the person, the more willing you are to be switched off.** If the person is completely random or even malicious, then you're less willing to be switched off.
+
+---
