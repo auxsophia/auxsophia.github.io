@@ -33,3 +33,9 @@ This is from 2010, so he was a little off: "By 2018, converging food, water and 
 1. Emergence of a ‘post-materialist’ ethic recognizing that progressive values and ideals such as justice, compassion, and generosity are more conducive to the survival of the human species, and thus more in harmony with the natural order, than the conventional ‘materialistic’ behaviours associated with neoliberal consumerism.
 
 ---
+
+[Ecosystem Based Adaptation, - by, John D. Liu](https://www.youtube.com/watch?v=wwDNemiLE9k&feature=youtu.be&fbclid=IwAR3G2dZsJY_xVHl_w9Q5y_6nvmhZmEleeODRvFYqDGhzlABQ7qBkVRcCt5c)
+
+> In this presentation, John D. Liu describes and shows video of his long formative journey starting with the revitalization of the Loess Plateau in China. John later turned this experience into the BBC World Documentary, Hope In A Changing Climate.
+This is the Full Video of John D. Liu's presentation, Ecosystem Based Adaptation, The Great Work Of Our Time, that he presented at The Brooklyn Commons in New York on October 21st 2016.
+The Loess Plateau was a large, decimated eco-system and with an orchestrated community effort was able to be restored, a feet no one knew was possible before it started. John was transformed by this amazing restoration process and has been able to share it with many other countries such as Ethiopia and Rwanda to help them repeat the success. John is continuing these efforts with the company Commonland which is developing restoration camps around the world.

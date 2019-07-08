@@ -90,3 +90,7 @@ Additionality: How do you know the utility would not have built the wind farm bu
 Permanence: How do you know the timber company that planted those trees won’t just cut them down in a few years?
 
 Leakage: How do you know the landowner you just paid not to cut down an acre of rain forest won’t use the money to buy a different acre and clear that?"
+
+---
+
+Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast. 
