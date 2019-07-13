@@ -31,6 +31,8 @@ If you send me money, I promise it will probably go to important uses like fundi
 
 Please consider becoming a patron on [Patreon](https://www.patreon.com/philosopherscholar).
 
+<a href="https://www.patreon.com/bePatron?u=12450094" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 {:refdef: style="text-align: center;"}
 [![Patreon](../images/patreon_logo.png)](https://www.patreon.com/philosopherscholar)
 {: refdef}
