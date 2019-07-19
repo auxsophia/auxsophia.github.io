@@ -8,6 +8,21 @@ permalink: /globalWarming/
 
 I've started to be one of those environmental nuts who spouts wild claims like "society will collapse within 12 years" and "all life on Earth could go extinct." I'm creating this post to track my sources and discuss how I think we should respond to the situation.
 
+You guys remember that one time in 1992 when [1,700 scientists gave their signatures to warn humanity of an impending global disaster brought on by climate change](https://www.ucsusa.org/about/1992-world-scientists.html)? When they said, "Our massive tampering with the world's interdependent web of life—coupled with the environmental damage inflicted by deforestation, species loss, and climate change—could trigger widespread adverse effects, including unpredictable collapses of critical biological systems whose interactions and dynamics we only imperfectly understand."?
+
+Remember 25 years later in 2017 when more scientists issued a second warning?
+
+[World Scientists’ Warning to Humanity: A Second Notice](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
+12, December 2017
+
+"Twenty-five years ago, the Union of Concerned Scientists and more than 1700 independent scientists, including the majority of living Nobel laureates in the sciences, penned the 1992 “World Scientists’ Warning to Humanity”...They expressed concern about current, impending, or potential damage on planet Earth involving ozone depletion, freshwater availability, marine life depletion, ocean dead zones, forest loss, biodiversity destruction, climate change, and continued human population growth.
+
+The authors of the 1992 declaration feared that humanity was pushing Earth's ecosystems beyond their capacities to support the web of life. They described how we are fast approaching many of the limits of what the ­biosphere can tolerate ­without ­substantial and irreversible harm. The scientists pleaded that we stabilize the human population, describing how our large numbers—swelled by another 2 billion people since 1992, a 35 percent increase—exert stresses on Earth that can overwhelm other efforts to realize a sustainable future (Crist et al. 2017). They implored that we cut greenhouse gas (GHG) emissions and phase out fossil fuels, reduce deforestation, and reverse the trend of collapsing biodiversity.
+
+On the twenty-fifth anniversary of their call, we look back at their warning and evaluate the human response by exploring available time-series data. Since 1992, with the exception of stabilizing the stratospheric ozone layer, humanity has failed to make sufficient progress in generally solving these foreseen environmental challenges, and alarmingly, most of them are getting far worse..."
+
+Yeah...
+
 A paper by climate scientist Jem Bendell heavily influenced me. I gave a talk at my local philosophy club on the issue with a [write up](https://docs.google.com/document/d/1WV6NzLdr94pJmD2R0OfUlVGPj--_4kF1v6MRu5s2SEE/edit?usp=sharing) I include below.
 
 ---
@@ -333,6 +348,21 @@ A great [XKCD comic to visualize land mammals](https://xkcd.com/1338/).
 {:refdef: style="text-align: center;"}
 ![Table 1]({{ site.baseimg }}/images/land_mammals.png)
 {: refdef}
+
+---
+
+[An Anarchist Solution to Global Warming](https://theanarchistlibrary.org/library/peter-gelderloos-an-anarchist-solution-to-global-warming)
+Author: Peter Gelderloos
+Date: 2010
+
+An interesting and thorough take assuming the premises:
+
+- Fossil fuel extraction and consumption need to come to a full stop.
+- Industrial food production must be replaced with the sustainable growing of food at the local level.
+- Centralizing power structures are inherently exploitative of the environment and oppressive towards people.
+- The mentality of quantitative value, accumulation, production, and consumption — that is to say, the mentality of the market — is inherently exploitative of the environment and oppressive towards people.
+- Medical science is infused with a hatred of the body, and though it has perfected effective response to symptoms, it is damaging to our health as currently practiced.
+- Decentralization, voluntary association, self-organization, mutual aid, and non-coercion are fully practical and have worked, both within and outside of Western Civilization, time and time again.
 
 ---
 

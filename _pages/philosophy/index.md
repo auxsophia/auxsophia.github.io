@@ -39,7 +39,7 @@ Giving a small tree of philosophy:
   - Aesthetics
   - Ethics
     - Applied Ethics
-    - Political Philosophy 
+    - Political Philosophy
 
 
 ---
@@ -69,3 +69,6 @@ For any philosophical concept I write about, if you want to dig deeper I suggest
 
 [Philosophy bro](https://www.philosophybro.com/)
 - Philosophy Bro explains complex ideas of philosophy in easy to understand language, created by Tommy Maranges, the author of Descartes' Meditations, Bro.
+
+---
+[Cool philosophy articles](/philosophy/coolPhilosophyArticles/)
