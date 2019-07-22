@@ -44,3 +44,12 @@ In sum, ia AGI a mathematical pattern that can be implemented? **Definitely mayb
 Paradoxically, it seems the effect of the extra copies was to slow down individual brain development. This allowed time for neurons to develop more and better connections with one another.
 
 Gene duplications are rare in human history: only about 30 genes have copied themselves since we split from chimps 6 million years ago. Few have been studied, but those that have encode genes that are very exciting, says human geneticist Evan Eichler of the University of Washington in Seattle. Many are involved in brain development."
+
+---
+
+### [The amazing brains and morphing skin of octopuses and other cephalopods | Roger Hanlon](https://www.youtube.com/watch?v=ogCIqaCe2zI)
+Published on Jun 28, 2019
+
+"Octopus, squid and cuttlefish -- collectively known as cephalopods -- have strange, massive, distributed brains. What do they do with all that neural power? Dive into the ocean with marine biologist Roger Hanlon, who shares astonishing footage of the camouflaging abilities of cephalopods, which can change their skin color and texture in a flash. Learn how their smart skin, and their ability to deploy it in sophisticated ways, could be evidence of an alternative form of intelligence -- and how it could lead to breakthroughs in AI, fabrics, cosmetics and beyond."
+
+---

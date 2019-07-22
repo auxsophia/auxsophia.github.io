@@ -9,6 +9,9 @@ I started keeping track of articles discussing global warming in the news. Here 
 ---
 
 [Nasa-funded study: industrial civilisation headed for 'irreversible collapse'?](https://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists)
+
+**Fri 14 Mar 2014 14.28 EDT**
+
 > Noting that warnings of 'collapse' are often seen to be fringe or controversial, the study attempts to make sense of compelling historical data showing that "the process of rise-and-collapse is actually a recurrent cycle found throughout history." Cases of severe civilisational disruption due to "precipitous collapse - often lasting centuries - have been quite common."
 The independent research project is based on a new cross-disciplinary 'Human And Nature DYnamical' (HANDY) model, led by applied mathematician Safa Motesharrei of the US National Science Foundation-supported National Socio-Environmental Synthesis Center, in association with a team of natural and social scientists. The HANDY model was created using a minor Nasa grant, but the study based on it was conducted independently. The study based on the HANDY model has been accepted for publication in the peer-reviewed Elsevier journal, Ecological Economics.
 
@@ -40,10 +43,17 @@ Applying this lesson to our contemporary predicament, the study warns that:
 
 "Collapse can be avoided and population can reach equilibrium if the per capita rate of depletion of nature is reduced to a sustainable level, and if resources are distributed in a reasonably equitable fashion."
 
+---
+
 [Just 100 companies have been the source of more than 70% of the world’s greenhouse gas emissions since 1988, according to a new report.](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change)
+#### Mon 10 Jul 2017 01.26 EDT Last modified on Wed 14 Feb 2018 11.57 EST
+
 "The [Carbon Majors Report (pdf)](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499691240) “pinpoints how a relatively small set of fossil fuel producers may hold the key to systemic change on carbon emissions,” says Pedro Faria, technical director at environmental non-profit CDP, which published the report in collaboration with the Climate Accountability Institute."
 
+---
+
 [We Have Five Years To Save Ourselves From Climate Change, Harvard Scientist Says](https://www.forbes.com/sites/jeffmcmahon/2018/01/15/carbon-pollution-has-shoved-the-climate-backward-at-least-12-million-years-harvard-scientist-says/?fbclid=IwAR0zQtQ0kD8vvxlEsPvIFcG4TLAJ692uVdSIsGqzjxEQgmrBFuhjlU3f2gM#65838fce963e)
+#### Jan 15, 2018
 
 "The level of carbon now in the atmosphere hasn't been seen in 12 million years, a Harvard scientist said in Chicago Thursday, and this pollution is rapidly pushing the climate back to its state in the Eocene Epoch, more than 33 million years ago, when there was no ice on either pole."
 
@@ -57,7 +67,11 @@ This has do be done, Anderson added, within the next five years.
 
 "Can we lose 75-80 percent of permanent ice and recover? The answer is no."
 
+---
+
 [UN report finds temperature rise is 'locked in' for Arctic](https://thehill.com/policy/energy-environment/433886-un-report-finds-globe-is-past-the-point-of-halting-temperature-rise?fbclid=IwAR0Ve8rL1aulsOvXlTfYgo9ExVda1M0ID6kkWTwPV_aJpqbM0qh8j_Babrs)
+
+#### 03/13/19
 
 [The report](https://wedocs.unep.org/bitstream/handle/20.500.11822/27687/Arctic_Graphics.pdf?sequence=1&isAllowed=y)
 
@@ -69,7 +83,11 @@ This has do be done, Anderson added, within the next five years.
 
 "The report says the effects will first be felt by indigenous populations living in Arctic communities. Four million people and nearly 70 percent of today’s Arctic infrastructure will be affected by thawing permafrost by 2050, the report found."
 
+---
+
 [If Seeing the World Helps Ruin It, Should We Stay Home?](https://www.nytimes.com/2019/06/03/travel/traveling-climate-change.html)
+
+#### June 3, 2019
 
 "The number of airline passengers worldwide has more than doubled since 2003, and unlike with some other pollution sources, there’s not a ton that can be done right now to make flying significantly greener — electrified jets are not coming to an airport near you anytime soon.
 
@@ -93,4 +111,64 @@ Leakage: How do you know the landowner you just paid not to cut down an acre of 
 
 ---
 
-Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast. 
+[New Report Suggests ‘High Likelihood of Human Civilization Coming to an End’ Starting in 2050](https://www.vice.com/en_us/article/597kpd/new-report-suggests-high-likelihood-of-human-civilization-coming-to-an-end-in-2050)
+
+#### Jun 3 2019
+
+The climate change analysis was written by a former fossil fuel executive and backed by the former chief of Australia's military.
+
+"The only way to avoid the risks of this scenario is what the report describes as “akin in scale to the World War II emergency mobilization”—but this time focused on rapidly building out a zero-emissions industrial system to set in train the restoration of a safe climate."
+
+“A high-end 2050 scenario finds a world in social breakdown and outright chaos,” said Spratt. “But a short window of opportunity exists for an emergency, global mobilization of resources, in which the logistical and planning experiences of the national security sector could play a valuable role.”
+
+---
+
+[‘Climate apartheid’: UN expert says human rights may not survive](https://www.theguardian.com/environment/2019/jun/25/climate-apartheid-united-nations-expert-says-human-rights-may-not-survive-crisis)
+
+June 25 2019
+
+"The world is increasingly at risk of “climate apartheid”, where the rich pay to escape heat and hunger caused by the escalating climate crisis while the rest of the world suffers, a report from a UN human rights expert has said.
+
+Philip Alston, UN special rapporteur on extreme poverty and human rights, said the impacts of global heating are likely to undermine not only basic rights to life, water, food, and housing for hundreds of millions of people, but also democracy and the rule of law.
+
+,,,
+
+"Climate change threatens to undo the last 50 years of progress in development, global health, and poverty reduction,” Alston said. Developing countries will bear an estimated 75% of the costs of the climate crisis, the report said, despite the poorest half of the world’s population causing just 10% of carbon dioxide emissions.
+
+“Yet democracy and the rule of law, as well as a wide range of civil and political rights are every bit at risk,” Alston’s report said. “The risk of community discontent, of growing inequality, and of even greater levels of deprivation among some groups, will likely stimulate nationalist, xenophobic, racist and other responses. Maintaining a balanced approach to civil and political rights will be extremely complex.”
+
+The impacts of the climate crisis could increase divisions, Alston said. “We risk a ‘climate apartheid’ scenario where the wealthy pay to escape overheating, hunger, and conflict while the rest of the world is left to suffer,” he said."
+
+---
+
+[Tree planting 'has mind-blowing potential' to tackle climate crisis](https://www.theguardian.com/environment/2019/jul/04/planting-billions-trees-best-tackle-climate-crisis-scientists-canopy-emissions)
+
+July 4 2019
+
+"Planting billions of trees across the world is by far the biggest and cheapest way to tackle the climate crisis, according to scientists, who have made the first calculation of how many more trees could be planted without encroaching on crop land or urban areas.
+
+As trees grow, they absorb and store the carbon dioxide emissions that are driving global heating. New research estimates that a worldwide planting programme could remove two-thirds of all the emissions that have been pumped into the atmosphere by human activities, a figure the scientists describe as “mind-blowing”."
+
+---
+
+['Climate Despair' Is Making People Give Up on Life](https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life)
+
+"It's super painful to be a human being right now at this point in history."
+
+By Mike Pearl
+
+Jul 11 2019
+
+"...many people are suffering from what could be called "climate despair," a sense that climate change is an unstoppable force that will render humanity extinct and renders life in the meantime futile. As David Wallace-Wells noted in his 2019 bestseller The Uninhabitable Earth, "For most who perceive an already unfolding climate crisis and intuit a more complete metamorphosis of the world to come, the vision is a bleak one, often pieced together from perennial eschatological imagery inherited from existing apocalyptic texts like the Book of Revelation, the inescapable sourcebook for Western anxiety about the end of the world."
+
+...
+
+According to social scientist and psychology scholar Renee Lertzman, author of 2015's Environmental Melancholia, large numbers of people have recently come to the realization that climate change is real, scary, and not being addressed. "It's a surreal experience because we're still in the same system, so walking around, people are driving, and everyone's eating a lot of meat [and] everyone's acting like that's normal," she said. For some people, that feeling is incompatible with carrying on with the business of everyday life.
+
+...Instead of rallying us, climate despair asks us to give up. In a [2009 study](https://journals.sagepub.com/doi/abs/10.1177/1075547008329201) in the UK by researchers Saffron O'Neill and Sophie Nicholson-Cole, climate-related data visualizations were presented to test subjects who were urged, in fear-based terms, to take action or else. Most of the time these appeals produced "denial, apathy, avoidance, and negative associations." Ultimately, the researchers concluded, "climate change images can evoke powerful feelings of issue salience but these do not necessarily make participants feel able to do anything about it; in fact, it may do the reverse." In other words, if you tell people something must be done or we're all gonna die, they tend to take door number two, however irrational that impulse may seem."
+
+He goes on to introduce criticism and replies of Jem Bendell's paper and Wallace-Welles' book.
+
+---
+
+Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast.

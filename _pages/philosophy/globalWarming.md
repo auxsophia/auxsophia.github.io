@@ -126,6 +126,7 @@ Posted by jembendell on July 7, 2019
 ---
 
 # [Climate Change - Why we are heading for extinction and what to do about it](https://www.youtube.com/watch?time_continue=34&v=WgFc4Zhvjtg)
+#### Published on May 26, 2018
 
 Roger Hallam is co-founder of the Radical Think Tank. His PhD studies looked at protest movements and revolutionary campaigns and what factors make them successful.
 
@@ -173,6 +174,7 @@ He argues for psychological motivation. Many ardent activists are religious rath
 ---
 
 # [How to Enjoy the End of the World](https://www.youtube.com/watch?v=5WPB2u8EzL8&t=745s) by Professor Sid Smith
+#### Published on Apr 23, 2019
 
 This lecture had a profound effect on me because of the mathematical and intuitive explanation. He analyzes organisms, societies, and planets based on physics models of energy.
 
@@ -351,18 +353,17 @@ A great [XKCD comic to visualize land mammals](https://xkcd.com/1338/).
 
 ---
 
-[An Anarchist Solution to Global Warming](https://theanarchistlibrary.org/library/peter-gelderloos-an-anarchist-solution-to-global-warming)
-Author: Peter Gelderloos
-Date: 2010
+[What Changed My Mind About Climate Change?](https://thebulwark.com/what-changed-my-mind-about-climate-change/)
 
-An interesting and thorough take assuming the premises:
+MAY 21, 2019
 
-- Fossil fuel extraction and consumption need to come to a full stop.
-- Industrial food production must be replaced with the sustainable growing of food at the local level.
-- Centralizing power structures are inherently exploitative of the environment and oppressive towards people.
-- The mentality of quantitative value, accumulation, production, and consumption — that is to say, the mentality of the market — is inherently exploitative of the environment and oppressive towards people.
-- Medical science is infused with a hatred of the body, and though it has perfected effective response to symptoms, it is damaging to our health as currently practiced.
-- Decentralization, voluntary association, self-organization, mutual aid, and non-coercion are fully practical and have worked, both within and outside of Western Civilization, time and time again.
+This guy was in a libertarian think tank and initially rallied against thinking climate change would be devastating. He uses the perspective of risk management and investing to show why we should take climate change very seriously and change policy.
+
+>Unfortunately, no analogy is precisely applicable to the climate debate. We have a great deal of historical data, for instance, to inform our sense of the likely distribution of potential outcomes in the finance sector. We have many fewer data points to repair to in the course of informing our sense of the distribution of potential outcomes in the climate arena. We have imperfect geologic records. We have imperfect computer models, which reflect our imperfect understanding of climate dynamics. But that ambiguity is itself a motivating factor for reducing emissions. Never before have we run an experiment where greenhouse gases were loaded into the atmosphere at today’s rates. We have no backup planet if things go horribly wrong.
+When asked why I changed my mind about federal climate policy, this is a large part of my answer. Building an argument against climate action upon a forceful claim about the most likely outcome of greenhouse gas emissions is to build an argument upon analytic sand.
+You don’t have to believe with all your heart that the worst-case scenario is sure to happen. You just have to understand that it is one possible outcome. And that we should not be making policy based on an assumption that we are certain of this or that outcome.
+When it comes to managing large-scale risks, straight-forward economics suggests that we ought to take climate change very seriously.
+
 
 ---
 

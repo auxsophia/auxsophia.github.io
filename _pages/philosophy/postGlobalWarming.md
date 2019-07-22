@@ -39,3 +39,18 @@ This is from 2010, so he was a little off: "By 2018, converging food, water and 
 > In this presentation, John D. Liu describes and shows video of his long formative journey starting with the revitalization of the Loess Plateau in China. John later turned this experience into the BBC World Documentary, Hope In A Changing Climate.
 This is the Full Video of John D. Liu's presentation, Ecosystem Based Adaptation, The Great Work Of Our Time, that he presented at The Brooklyn Commons in New York on October 21st 2016.
 The Loess Plateau was a large, decimated eco-system and with an orchestrated community effort was able to be restored, a feet no one knew was possible before it started. John was transformed by this amazing restoration process and has been able to share it with many other countries such as Ethiopia and Rwanda to help them repeat the success. John is continuing these efforts with the company Commonland which is developing restoration camps around the world.
+
+---
+
+[An Anarchist Solution to Global Warming](https://theanarchistlibrary.org/library/peter-gelderloos-an-anarchist-solution-to-global-warming)
+Author: Peter Gelderloos
+Date: 2010
+
+An interesting and thorough take assuming the premises:
+
+- Fossil fuel extraction and consumption need to come to a full stop.
+- Industrial food production must be replaced with the sustainable growing of food at the local level.
+- Centralizing power structures are inherently exploitative of the environment and oppressive towards people.
+- The mentality of quantitative value, accumulation, production, and consumption — that is to say, the mentality of the market — is inherently exploitative of the environment and oppressive towards people.
+- Medical science is infused with a hatred of the body, and though it has perfected effective response to symptoms, it is damaging to our health as currently practiced.
+- Decentralization, voluntary association, self-organization, mutual aid, and non-coercion are fully practical and have worked, both within and outside of Western Civilization, time and time again.
