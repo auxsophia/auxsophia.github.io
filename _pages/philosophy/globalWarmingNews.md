@@ -44,6 +44,18 @@ Applying this lesson to our contemporary predicament, the study warns that:
 "Collapse can be avoided and population can reach equilibrium if the per capita rate of depletion of nature is reduced to a sustainable level, and if resources are distributed in a reasonably equitable fashion."
 
 ---
+[This country isn't just carbon neutral — it's carbon negative](https://www.ted.com/talks/tshering_tobgay_this_country_isn_t_just_carbon_neutral_it_s_carbon_negative#t-1122333)
+#### February 2016
+
+"Deep in the Himalayas, on the border between China and India, lies the Kingdom of Bhutan, which has pledged to remain carbon neutral for all time. In this illuminating talk, Bhutan's Prime Minister Tshering Tobgay shares his country's mission to put happiness before economic growth and set a world standard for environmental preservation."
+
+In July 2019, the same guy gave another talk:
+
+[An urgent call to protect the world's "Third Pole"](https://www.ted.com/talks/tshering_tobgay_an_urgent_call_to_protect_the_worlds_third_pole?language=en)
+
+He acknowledges that we all pretty much don't care about global warming until it effects us individually. For him, the Himalayan glaciers are melting. Reports by climate scientists informed him of the global and local problem. He argues we need to think globally and act regionally and locally. Bhutan hasn't contributed to global warming at all, in fact their country has negative carbon emissions, but they're suffering because of it. Bhutan's economy is around 2 billion dollars.
+
+---
 
 [Just 100 companies have been the source of more than 70% of the world’s greenhouse gas emissions since 1988, according to a new report.](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change)
 #### Mon 10 Jul 2017 01.26 EDT Last modified on Wed 14 Feb 2018 11.57 EST

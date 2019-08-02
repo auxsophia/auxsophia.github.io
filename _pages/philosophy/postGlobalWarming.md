@@ -54,3 +54,13 @@ An interesting and thorough take assuming the premises:
 - The mentality of quantitative value, accumulation, production, and consumption — that is to say, the mentality of the market — is inherently exploitative of the environment and oppressive towards people.
 - Medical science is infused with a hatred of the body, and though it has perfected effective response to symptoms, it is damaging to our health as currently practiced.
 - Decentralization, voluntary association, self-organization, mutual aid, and non-coercion are fully practical and have worked, both within and outside of Western Civilization, time and time again.
+
+---
+
+[Farm bot](https://farm.bot/)
+An awesome and opensource project for automated farming. [The hardware](https://farm.bot/pages/hardware), [the code](https://github.com/FarmBot), [the documentation](https://genesis.farm.bot/docs).
+
+This has gotta be some hyperbole:
+"By our estimations, FarmBot Express can grow all of the veggies needed by one person, continuously, for less cost after 2 years than shopping at the average US grocery store. Meanwhile, Express XL can serve a family of four with an ROI period of just 1 year."
+
+[Yields](https://farm.bot/pages/yield)
