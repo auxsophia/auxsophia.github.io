@@ -64,3 +64,37 @@ This has gotta be some hyperbole:
 "By our estimations, FarmBot Express can grow all of the veggies needed by one person, continuously, for less cost after 2 years than shopping at the average US grocery store. Meanwhile, Express XL can serve a family of four with an ROI period of just 1 year."
 
 [Yields](https://farm.bot/pages/yield)
+
+---
+
+From a guy on the Facebook Deep Adaptation Forum:
+
+Dan Matulich
+If you're not researching how to provide all of those things for yourself without fossil fuels, you're doing it wrong.
+
+It doesn't take long.
+
+Food:
+- Hugelkultur
+- Aquaponics
+- Permaculture
+- Korean natural farming
+
+Shelter:
+- Earthbag
+- Cob
+- Straw bale
+- Aircrete
+- Rammed Earth
+
+Power:
+- Vortex generators
+- Solar
+- DIY Rocket heater system
+- Geothermal
+
+-
+
+What about water, man?! I guess there's those water filters that collect water vapor. There's likely to be more water vapor as our planet heats up.
+
+---
