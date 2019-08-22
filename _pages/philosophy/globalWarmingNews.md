@@ -183,4 +183,46 @@ He goes on to introduce criticism and replies of Jem Bendell's paper and Wallace
 
 ---
 
+[This Land Is the Only Land There Is. Here are seven ways of understanding the IPCC’s newest climate warning.](https://www.theatlantic.com/science/archive/2019/08/how-think-about-dire-new-ipcc-climate-report/595705/)
+
+ROBINSON MEYER
+
+AUG 8, 2019
+
+---
+
+[Saving the Arctic's 'Last Ice Area' Is a Race Against Time](https://www.vice.com/en_us/article/pa7ym7/saving-the-arctics-last-ice-area-is-a-race-against-time)
+
+By Becky Ferreira
+
+Aug 12 2019, 6:00am
+
+"Canada has moved to protect the region, where Arctic wildlife is expected to make its last stand against climate change. Scientists say it's not enough."
+
+---
+
+[Does a Graphic Compare Weather Maps From 2050 and 2019?](https://www.snopes.com/fact-check/weather-maps-2050-and-2019/)
+
+A hypothetical weather map for the year 2050 bears a few similarities to a map of the June 2019 heat wave in Europe.
+
+DAN EVON
+
+PUBLISHED 31 JULY 2019
+
+---
+
+[Iceland holds funeral for first glacier lost to climate change](https://www.theguardian.com/world/2019/aug/19/iceland-holds-funeral-for-first-glacier-lost-to-climate-change?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR24_AXnMvHN1Gsfnb-zKCcXx2HEB35J10T47OhRIx5J91c83HtU8XHzs10#Echobox=1566203883)
+
+Sun 18 Aug 2019 23.09 EDT
+
+---
+
+[Brazil's Amazon rainforest is burning at a record rate, research center says](https://www.cnn.com/2019/08/21/americas/amazon-rainforest-fire-intl-hnk-trnd/index.html?fbclid=IwAR3SU_ephEft-QXDxf3kbUZreFvS1y7r96fVWiIFawhMp_dsDXDh5kcyGSY)
+
+By Jessie Yeung and Abel Alvarado, CNN
+
+Updated 2:29 PM ET, Wed August 21, 2019
+
+---
+
 Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast.
