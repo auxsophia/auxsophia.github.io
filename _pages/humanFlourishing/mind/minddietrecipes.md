@@ -25,3 +25,83 @@ Sourdough bread toasted with sauerkraut on top (optionally add yellowfin tuna or
 
 
 ## Meals
+
+
+---
+
+## A weekly meal plan
+
+**Sunday**
+
+_Sardine Sundays!_
+In a bowl:
+- Sardines
+- Whole grains (brown rice, quinoa, etc.)
+- Sauerkraut and/or kimchi
+
+Greens smoothie:
+- Spinach or kale
+- Mixed frozen vegetables
+- Flaxseed
+- Creatine
+- Plant-based protein powder
+- Chia seeds
+
+Turkey Chili:
+- Beans
+- Poultry
+- Slice of sourdough bread
+
+
+| Food Group             | Running total   |
+|:-----------------------|:----------------|
+| Green leafy vegetables | 1               |
+| Other vegetables       | 1               |
+| Nuts                   | 0               |
+| Berries                | 0               |
+| Beans                  | 2               |
+| Whole Grains           | 3               |
+| Fish (not fried)       | 1               |
+| Poultry (not fried)    | 1               |
+| Olive Oil              | 0               |
+| Red Wine               | 1               |
+
+**Monday**
+
+Greens smoothie:
+- Spinach or kale
+- Mixed frozen vegetables
+- Plant-based protein powder
+
+
+Carb smoothie:
+- Sprouted oats or granola
+- Flaxseed
+- Creatine
+- Plant-based protein powder
+- Chia seeds
+
+
+
+| Food Group             | Running total   |
+|:-----------------------|:----------------|
+| Green leafy vegetables | 2               |
+| Other vegetables       | 2               |
+| Nuts                   | 0               |
+| Berries                | 0               |
+| Beans                  | 2               |
+| Whole Grains           | 4               |
+| Fish (not fried)       | 1               |
+| Poultry (not fried)    | 1               |
+| Olive Oil              | 0               |
+| Red Wine               | 1               |
+
+**Tuesday**
+
+**Wednesday**
+
+**Thursday**
+
+**Friday**
+
+**Saturday**
