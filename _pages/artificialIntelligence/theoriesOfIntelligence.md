@@ -4,6 +4,16 @@ title: Philosopher Scholar - Theories of Intelligence
 permalink: /ai/intelligence/
 ---
 
+
+---
+### [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360)
+
+By Juergen Schmidhuber on April 15th, 2009
+
+This gets more fascinating with each read! 
+
+---
+
 ### [Are Brains Bayesian?](https://blogs.scientificamerican.com/cross-check/are-brains-bayesian/)
 By John Horgan on January 6, 2016
 

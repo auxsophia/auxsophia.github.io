@@ -71,4 +71,7 @@ For any philosophical concept I write about, if you want to dig deeper I suggest
 - Philosophy Bro explains complex ideas of philosophy in easy to understand language, created by Tommy Maranges, the author of Descartes' Meditations, Bro.
 
 ---
+
 [Cool philosophy articles](/philosophy/coolPhilosophyArticles/)
+
+[Cool quotes from philosophy and literature](/philosophy/quotes/)

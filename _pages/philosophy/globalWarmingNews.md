@@ -225,4 +225,16 @@ Updated 2:29 PM ET, Wed August 21, 2019
 
 ---
 
+[Climate crisis: 11,000 scientists warn of ‘untold suffering’](https://www.theguardian.com/environment/2019/nov/05/climate-crisis-11000-scientists-warn-of-untold-suffering)
+
+ 5 Nov 2019 10.00 EST
+
+ From the [quoted report](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biz088/5610806)
+
+> Scientists have a moral obligation to clearly warn humanity of any catastrophic threat and to “tell it like it is.” On the basis of this obligation and the graphical indicators presented below, we declare, with more than 11,000 scientist signatories from around the world, clearly and unequivocally that planet Earth is facing a climate emergency.
+Exactly 40 years ago, scientists from 50 nations met at the First World Climate Conference (in Geneva 1979) and agreed that alarming trends for climate change made it urgently necessary to act. Since then, similar alarms have been made through the 1992 Rio Summit, the 1997 Kyoto Protocol, and the 2015 Paris Agreement, as well as scores of other global assemblies and scientists’ explicit warnings of insufficient progress (Ripple et al. 2017). Yet greenhouse gas (GHG) emissions are still rapidly rising, with increasingly damaging effects on the Earth's climate. An immense increase of scale in endeavors to conserve our biosphere is needed to avoid untold suffering due to the climate crisis (IPCC 2018).
+Most public discussions on climate change are based on global surface temperature only, an inadequate measure to capture the breadth of human activities and the real dangers stemming from a warming planet (Briggs et al. 2015). Policymakers and the public now urgently need access to a set of indicators that convey the effects of human activities on GHG emissions and the consequent impacts on climate, our environment, and society. Building on prior work (see supplemental file S2), we present a suite of graphical vital signs of climate change over the last 40 years for human activities that can affect GHG emissions and change the climate (figure 1), as well as actual climatic impacts (figure 2). We use only relevant data sets that are clear, understandable, systematically collected for at least the last 5 years, and updated at least annually.
+
+---
+
 Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast.
