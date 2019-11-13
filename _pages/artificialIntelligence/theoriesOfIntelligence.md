@@ -10,7 +10,17 @@ permalink: /ai/intelligence/
 
 By Juergen Schmidhuber on April 15th, 2009
 
-This gets more fascinating with each read! 
+This gets more fascinating with each read!
+
+---
+
+### [Daniel Wolpert: The real reason for brains](https://www.youtube.com/watch?v=7s0CpRfyYp8)
+
+> Neuroscientist Daniel Wolpert starts from a surprising premise: the brain evolved, not to think or feel, but to control movement. In this entertaining, data-rich talk he gives us a glimpse into how the brain creates the grace and agility of human motion.
+
+He considers himself a "movement chauvinist."
+
+A related video on movement and the brain, [Why the Brain is Built for Movement | Anders Hansen](https://www.youtube.com/watch?v=a9p3Z7L0f0U).
 
 ---
 
