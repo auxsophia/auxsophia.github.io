@@ -234,6 +234,71 @@ Updated 2:29 PM ET, Wed August 21, 2019
 > Scientists have a moral obligation to clearly warn humanity of any catastrophic threat and to “tell it like it is.” On the basis of this obligation and the graphical indicators presented below, we declare, with more than 11,000 scientist signatories from around the world, clearly and unequivocally that planet Earth is facing a climate emergency.
 Exactly 40 years ago, scientists from 50 nations met at the First World Climate Conference (in Geneva 1979) and agreed that alarming trends for climate change made it urgently necessary to act. Since then, similar alarms have been made through the 1992 Rio Summit, the 1997 Kyoto Protocol, and the 2015 Paris Agreement, as well as scores of other global assemblies and scientists’ explicit warnings of insufficient progress (Ripple et al. 2017). Yet greenhouse gas (GHG) emissions are still rapidly rising, with increasingly damaging effects on the Earth's climate. An immense increase of scale in endeavors to conserve our biosphere is needed to avoid untold suffering due to the climate crisis (IPCC 2018).
 Most public discussions on climate change are based on global surface temperature only, an inadequate measure to capture the breadth of human activities and the real dangers stemming from a warming planet (Briggs et al. 2015). Policymakers and the public now urgently need access to a set of indicators that convey the effects of human activities on GHG emissions and the consequent impacts on climate, our environment, and society. Building on prior work (see supplemental file S2), we present a suite of graphical vital signs of climate change over the last 40 years for human activities that can affect GHG emissions and change the climate (figure 1), as well as actual climatic impacts (figure 2). We use only relevant data sets that are clear, understandable, systematically collected for at least the last 5 years, and updated at least annually.
+---
+
+[The Collapse of Civilization May Have Already Begun](https://www.vice.com/en_us/article/8xwygg/the-collapse-of-civilization-may-have-already-begun?fbclid=IwAR2Sf6OMQzAA0rZG7gMHuaIodOJiKZf8pYeJF8toofygzVbZcyhMb81m5Cw)
+
+Nov 22 2019
+
+"Bendell argues that the main trigger for some sort of collapse—which he defines as “an uneven ending of our normal modes of sustenance, security, pleasure, identity, meaning, and hope”—will come from accelerating failures in the global food system.
+
+We know that it is a distinct possibility that so-called multi-breadbasket failures (when major yield reductions take place simultaneously across agricultural areas producing staple crops like rice, wheat, or maize) can be triggered by climate change—and have already happened."
+
+"When exactly such a crisis might happen is not clear. Neither reports suggest it would result in the collapse of civilization, or even most countries, within 10 years. And the UN also emphasizes that it is not too late to avert these risks through a shift to organic and agro-ecological methods.
+
+NASA’s Gavin Schmidt acknowledged “increasing impacts from climate change on global food production,” but said that a collapse “is not predicted and certainly not inevitable.”"
+
+"Williams, who was a coordinating lead author of the UN global disaster risk assessment, put it more bluntly: “In a nutshell, Bendell is closer to the mark than his critics.”
+
+He pointed me to the [second chapter](https://gar.unisdr.org/sites/default/files/chapter/2019-06/chapter_2.pdf) of the UN report which, he said, expressed the imminent risk to global civilization in a “necessarily politically desensitized” form. The chapter is “close to stating that ‘collapse is inevitable’ and that the methods that we—scientists, modellers, researchers, etc—are using are wholly inadequate to understand that nature of complex, uncertain ‘transitions,’ in other words, collapses.”
+
+Williams fell short of saying that such a collapse scenario was definitely unavoidable, and the UN report—while setting out an alarming level of risk—did not do so either. What they did make clear is that a major global food crisis could erupt unexpectedly, with climate change as a key trigger."
+
+"Surpassing the 1.5 °C threshold could potentially trigger major “production losses” of millions of tonnes of maize, wheat and soybean.
+
+Right now, carbon dioxide emissions are on track to dramatically increase this risk of multi-breadbasket failures. Last year, the IPCC found that unless we reduce our emissions levels by five times their current amount, we could hit 1.5°C as [early as 2030](https://www.vice.com/en_us/article/43e8yp/the-uns-devastating-climate-change-report-was-too-optimistic), and no later than mid-century. This would dramatically increase the risk of simultaneous crop failures, food production shocks and other devastating climate impacts.
+
+In April this year, the European Commission’s European Strategy and Policy Analysis System published its second major [report to EU policymakers](https://ec.europa.eu/assets/epsc/pages/espas/ESPAS_Report2019.pdf), Global Trends to 2030: Challenges and Choices for Europe. The report, which explores incoming national security, geopolitical and socio-economic risks, concluded: “An increase of 1.5 degrees is the maximum the planet can tolerate; should temperatures increase further beyond 2030, we will face even more droughts, floods, extreme heat and poverty for hundreds of millions of people; the likely demise of the most vulnerable populations—and at worst, the extinction of humankind altogether.”
+
+But the IPCC’s newer models suggest that the situation is even worse than previously thought. Based on increased supercomputing power and sharper representations of weather systems, those new climate models—presented at a press conference in Paris in late September—reveal the latest findings of the IPCC’s sixth assessment report now underway.
+
+The models now show that we are heading for 7°C by the end of the century if carbon emissions continue unabated, two degrees higher than last year’s models. This means the earth is far more sensitive to atmospheric carbon than previously believed.
+
+This suggests that the climate models we've been using are not too alarmist; they are consistently too conservative, and we have only recently understood how bad the situation really is."
+
+“While we are undeniably observing rapid and widespread climate change across the planet, there is no concrete evidence that suggests we are facing ‘an inevitable, near term society collapse due to climate change,’” she said. “Yes, we are absolutely hurtling towards conditions that will create major instabilities in the climate system, and time is running out, but I don’t believe it is a done deal just yet.” - Dr. Gergis.
+
+"Earlier this year, Bardi and his team co-wrote [a paper](https://link.springer.com/article/10.1007/s41247-018-0049-0) in the journal BioPhysical Economics and Resource Quality, drawing on the work of anthropologist Joseph Tainter at Utah State University’s Department of Environment and Society. Tainter’s seminal book, The Collapse of Complex Societies, concluded that societies collapse when their investments in social complexity reach a point of diminishing marginal returns.
+
+Tainter studied the fall of the Western Roman empire, Mayan civilization, and Chaco civilization. As societies develop more complex and specialized bureaucracies to solve emerging problems, these new layers of problem-solving infrastructure generate new orders of problems. Further infrastructure is then developed to solve those problems, and the spiral of growth escalates.
+
+As each new layer also requires a new ‘energy’ subsidy (greater consumption of resources), it eventually cannot produce enough resources to both sustain itself and resolve the problems generated. The result is that society collapses to a new equilibrium by shedding layers of complex infrastructure amassed in previous centuries. This descent takes between decades and centuries.
+
+In his [recent paper](https://link.springer.com/article/10.1007%2Fs41247-018-0049-0), Bardi used computer models to test how Tainter’s framework stood-up. He found that diminishing returns from complexity were not the main driver of a system’s decline; rather the decline in complexity of the system is due to diminishing returns from exploiting natural resources.
+
+In other words, collapse is a result of a form of endless growth premised on the unsustainable consumption of resources, and the new order of increasingly unresolvable crises this generates."
+
+"Collapse also often paves the way for the emergence of new, evolutionary structures."
+
+"In an unpublished manuscript titled Before the Collapse: A Guide to the Other Side of Growth, due to be published by science publisher Springer-Nature next year, Bardi’s examination of the collapse and growth of human civilizations reveals that after collapse, a "Seneca Rebound" often takes place in which new societies grow, often at a rate faster than preceding growth rates.
+
+This is because collapse eliminates outmoded, obsolete structures, paving the way for new structures to emerge which often thrive from the remnants of the old and in the new spaces that emerge.
+
+He thus explains the Seneca Rebound as “as an engine that propels civilizations forward in bursts. If this is the case, can we expect a rebound if the world’s civilization goes through a new Seneca Collapse in the coming decades?”"
+
+"Complex systems, whether in nature or in human societies, pass through four phases in their life cycle, [writes Lent](https://patternsofmeaning.com/2019/09/12/as-society-unravels-the-future-is-up-for-grabs/). First is a rapid growth phase of innovation and opportunity for new structures; second is a phase of stability and consolidation, during which these structures become brittle and resistant to change; third is a release phase consisting of breakdown, generating chaos and uncertainty; the fourth is reorganization, opening up the possibility that small, seemingly insignificant forces might drastically change the future of the forthcoming new cycle.
+
+It is here, in the last two phases, that the possibility of triggering and shaping a Seneca Rebound becomes apparent. The increasing chaos of global politics, Lent suggests, is evidence that we are “entering the chaotic release phase,” where the old order begins to unravel. At this point, the system could either regress, or it could reorganize in a way that enables a new civilizational rebound. “This is a crucially important moment in the system’s life cycle for those who wish to change the predominant order.”
+
+So as alarming as the mounting evidence of the risk of collapse is, it also indicates that we are moving into a genuinely new and indeterminate phase in the life cycle of our current civilization, during which we have a radical opportunity to mobilize the spread of new ideas that can transform societies.
+
+**I have been tracking the risks of collapse throughout my career as a journalist and systems theorist. I could not find any decisive confirmation that climate change will inevitably produce near-term societal collapse.**
+
+But the science does not rule this out as a possibility. Therefore, dismissing the risk of some sort of collapse—whether by end of century, mid-century, or within the next 10 years—contravenes the implications of the most robust scientific models we have.
+
+All the scientific data available suggests that if we continue on our current course of resource exploitation, human civilization could begin experiencing collapse within coming decades. Exactly where and how such a collapse process might take off is not certain; and whether it is already locked in is as yet unknown. And as NASA’s Gavin Schmidt told me, local collapses are already underway."
+
+"Most of all, the emerging science of collapse suggests that civilization in its current form, premised on endless growth and massive inequalities, is unlikely to survive this century. It will either evolve into or be succeeded by a new configuration, perhaps an “ecological civilization”, premised on a fundamentally new relationship with the Earth and all its inhabitants—or it will, whether slowly or more abruptly, regress and contract."
 
 ---
 

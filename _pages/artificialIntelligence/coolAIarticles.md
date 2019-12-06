@@ -54,6 +54,15 @@ POSTED ON AUG 31, 2018
 
 ---
 
+### [Unsupervised word embeddings capture latent knowledge from materials science literature](https://www.nature.com/articles/s41586-019-1335-8.epdf?referrer_access_token=E_gxidZzqpBnSXCFVd0VHNRgN0jAjWel9jnR3ZoTv0P9QxlcO86f_GXZRxwYijrqa11Mx55SgniZXv55YKOR_sn816NK2x0O46Vim16XrS-SjyP9GMXeDQinUN75ES6enlxK__J5UabR6JdgR19bZSVLL5ZsK8146qMcipEbItW65C8aSk29Q_BfrKz4Gb5-kjz3m7dIaoRxs3e1I6qW4x23kzzVbKCK6isCLQOmMBOsANyYUBJYzqcqggABZCtnjrOFA-c0x8VdHOyno8vByCKqhWEdnq4Xbiztsh3zveQOvqeMUxnWHSjhVHUHsIXdb4mIC62ZNTY3aesjgkjKEWrx9KNNArDa2rgCEiL6mNwFPdqZPj0YTrhkOVfsYtm1hYSLIQQ7hgnoLl4WAgMpakaRVGz6RFCmp6MN6zooUKgpznSFcQELGbYUtyXAOPko&tracking_referrer=www.vice.com)
+July 4th, 2019
+
+> Furthermore, we demonstrate that an unsupervised method can recommend materials for functional applications several years before their discovery. This suggests that latent knowledge regarding future discoveries is to a large extent embedded in past publications. Our findings highlight the possibility of extracting knowledge and relationships from the massive body of scientific literature in a collective manner, and point towards a generalized approach to the mining of scientific literature.
+
+Gotta do this with philosophy!
+
+---
+
 ### [AI Has Already Taken Over. It’s Called the Corporation.](/ai/AIasCorporations/)
 Futurists warning about the threats of AI are looking in the wrong place. Humanity is already facing an existential threat from an artificial intelligence we created hundreds of years ago. It’s called the Corporation.
 by Jeremy Lent

@@ -22,6 +22,29 @@ He considers himself a "movement chauvinist."
 
 A related video on movement and the brain, [Why the Brain is Built for Movement | Anders Hansen](https://www.youtube.com/watch?v=a9p3Z7L0f0U).
 
+Another related video:
+[The Moving Mind: Neuroscience, Philosophy, and Fitness | Michael Mannino](https://www.youtube.com/watch?v=nQH6CQ_qqY0)
+
+Embodied cognition - movement is necessary for the mind.
+
+"The brain is a dynamical system, and the mind is an emergent, self-organizing, embodied, process that happens because of movement."
+
+Creatures which don't move often don't have a brain. Example of a sea squirt.
+
+“The juvenile sea squirt wanders through the sea searching for a suitable rock or hunk of coral to cling to and make its home for life. For this task, it has a rudimentary nervous system. When it finds its spot and takes root, it doesn't need its brain anymore, so it eats it! It's rather like getting tenure.”
+
+― Daniel Dennett
+
+The brain is a complex system: self-organization, emergence, pattern formation, coordination dynamics
+
+"The mind is a pattern of movement." - embodied cognition
+
+He shows a clip of [Alva Noë: You Are Not Your Brain](https://www.youtube.com/watch?v=MoOHWHEJOLU)
+
+"Looking for consciousness in the brain is like looking for the value of money in the composition of a dollar bill or trying to find dancing in the musculature of a dancer." - Alva
+
+"We must perceive in order to move, but we must also move in order to perceive," James Gibson, Psychologist.
+
 ---
 
 ### [Are Brains Bayesian?](https://blogs.scientificamerican.com/cross-check/are-brains-bayesian/)
