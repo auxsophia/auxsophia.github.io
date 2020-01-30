@@ -302,4 +302,16 @@ All the scientific data available suggests that if we continue on our current co
 
 ---
 
+[The Arctic may have crossed key threshold, emitting billions of tons of carbon into the air, in a long-dreaded climate feedback](https://www.washingtonpost.com/weather/2019/12/10/arctic-may-have-crossed-key-threshold-emitting-billions-tons-carbon-into-air-long-dreaded-climate-feedback/?utm_source=reddit.com)
+
+"The findings are contained in the 2019 Arctic Report Card, a major federal assessment of climate change trends and impacts throughout the region. The study paints an ominous picture of a region lurching to an entirely new and unfamiliar environment."
+
+"There has been concern throughout the scientific community that the approximately 1,460 billion to 1,600 billion metric tons of organic carbon stored in frozen Arctic soils, almost twice the amount of greenhouse gases as what is contained in the atmosphere, could be released as the permafrost melts."
+
+"...the report concludes permafrost ecosystems could be releasing as much as 1.1 billion to 2.2 billion tons of carbon per year. This is almost as much as the annual emissions of Japan and Russia in 2018, respectively."
+
+"The report notes there is still considerable uncertainty about carbon emissions estimates given the relatively limited observational measurements. But it also warns that the Arctic region — which is warming at more than twice the rate of the rest of the world — may already have become the global warming accelerator many have feared."
+
+---
+
 Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast.

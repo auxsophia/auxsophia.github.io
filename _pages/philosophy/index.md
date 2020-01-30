@@ -13,7 +13,7 @@ permalink: /philosophy/
  [Raphael's The School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens)
 {: refdef}
 
-[Philosophy](https://en.wikipedia.org/wiki/Philosophy) is a complex concept. I believe philosophy is a combination of thinking about thinking and thinking about how our thoughts relate to reality. The three major branches broken into three questions are
+[Philosophy](https://en.wikipedia.org/wiki/Philosophy) is a complex concept. I believe philosophy is a combination of thinking about thinking and thinking about how our thoughts relate to reality. The three modern major branches as questions are
 - What is reality? (_Metaphysics_)
 - What is knowledge? (_Epistemology_)
 - What are values? (_Value theory/Axiology_)

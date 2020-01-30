@@ -9,6 +9,8 @@ Some have the false idea that philosophy is about short quotes and pithy sayings
 ---
 # Bruce Lee
 
+### I said empty your mind. Be formless, shapeless. Like water. Now you put water into a cup; it becomes the cup. You put water into a bottle; it becomes the bottle. You put it in a teapot; it becomes the teapot. Now water can flow, or it can crash. Be water my friend.
+
 Cease negative mental chattering. - If you think a thing is impossible, you'll make it impossible.
 
 A wise man can learn more from a foolish question than a fool can learn from a wise answer.
@@ -19,7 +21,7 @@ Don't fear failure. Not failure, but low aim, is the crime. In great attempts, i
 
 If you always put limits on everything you do, physical or anything else, it will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.
 
-Adapt what is useful, reject what is useless, and add what is specifically your own.
+### Research your own experience; absorb what is useful, reject what is useless and add what is essentially your own.
 
 Knowing is not enough; we must apply. Willing is not enough; we must do.
 
@@ -31,9 +33,9 @@ To hell with circumstances; I create opportunities.
 
 Ultimately the greatest help is self-help.
 
-What is is more important than what should be.
+What is more important than what should be.
 
-Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+### Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 
 As you think, so shall you become.
 
@@ -356,3 +358,5 @@ Defeat is a state of mind; no one is ever defeated until defeat has been accepte
 "One-third to one-half of humanity are said to go to bed hungry every night. In the Old Stone Age the fraction must have been much smaller. This is the era of hunger unprecedented. Now, in the time of the greatest technical power, is starvation an institution. Reverse another venerable formula: the amount of hunger increases relatively and absolutely with the evolution of culture." - Marshall Sahlins, Stone Age Economics
 
 "I Keep Six Honest Serving Men ..." <br/><br/>I keep six honest serving-men<br/> (They taught me all I knew);<br/>Their names are What and Why and When <br/> And How and Where and Who.<br/><br/>I send them over land and sea,<br/> I send them east and west;<br/>But after they have worked for me,<br/> I give them all a rest.<br/><br/>I let them rest from nine till five,<br/> For I am busy then,<br/>As well as breakfast, lunch, and tea,<br/> For they are hungry men.<br/><br/>But different folk have different views; <br/>I know a person small—<br/>She keeps ten million serving-men,<br/>Who get no rest at all!<br/><br/>She sends'em abroad on her own affairs,<br/> From the second she opens her eyes—<br/>One million Hows, two million Wheres,<br/>And seven million Whys!" - Rudyard Kipling, The Elephant's Child (Just So Stories)
+
+"Jumping from failure to failure with undiminished enthusiasm is the big secret to success." - Savas Dimopoulos

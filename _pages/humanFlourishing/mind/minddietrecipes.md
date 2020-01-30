@@ -8,6 +8,10 @@ A random list of recipes and foods that support the [MIND diet](/humanFlourishin
 
 Drinking a glass of red wine, cabernet sauvignon, with a small handful of frozen blueberries everyday will take care of two of the requirements. Flash frozen fruits and vegetables carry more nutrients than food that has degraded in transit.
 
+# The current goal is 14 meal recipes and 7 snacks.
+
+In a week of intermittent fasting, that means meals for lunch and dinner with a snack (linner) in between. This gives variety everyday and most likely meals will be repeated in the same week, creating a rotation. 
+
 ## Snacks
 ---
 Nuts

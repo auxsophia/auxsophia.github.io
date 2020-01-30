@@ -16,3 +16,47 @@ permalink: /on-happiness/
 >In another way, variety might also be considered the opposite of adaptation. By having “many memorable, positive events day to day,” Sheldon says, you can prevent your brain from getting too used to any single one too quickly.
 
 >But cultivating happiness isn’t a one-size-fits-all affair. If appreciation and variety don’t work for you, Jordi Quoidbach, a psychology professor at the University Pompeu Fabra in Spain has identified another strategy in his research: occasional [abstinence](https://journals.sagepub.com/doi/abs/10.1177/1948550612473489?journalCode=sppa) from something that makes you happy. Too much of a good thing, Quoidbach has found, can have a dulling effect. If you keep chocolate on hand all the time, it doesn’t really feel like a treat anymore. If you and your spouse both work from home, you may see too much of each other and never have that “excited to see you again” feeling. One of Quoidbach’s [studies](https://www.ncbi.nlm.nih.gov/pubmed/25583943) found that just feeling well-traveled, regardless of actual experience, can make people less interested in spending time at a given tourist destination. Spacing out your pleasures can make each one that much more potent.
+
+---
+
+[Planting Seeds Of Happiness The Danish Way | Malene Rydahl | TEDxINSEADSingapore](https://www.youtube.com/watch?v=biQGa89O5O4)
+
+1. Trust
+2. Freedom to be you
+3. Finding purpose
+
+In Denmark people are told they are valuable to society no matter what they plan to do.
+
+---
+
+[Happy Brain: How to Overcome Our Neural Predispositions to Suffering | Amit Sood, MD | TEDxUNI](https://www.youtube.com/watch?v=KZIGekgoaz4&list=LLn8hh0YbCJQFZl1GGhNdiKQ&index=4&t=0s)
+
+> Twenty years ago, Dr. Amit Sood, a Professor of Medicine at Mayo Clinic, came to the U.S. thinking he was coming to the Disneyland of the world. He expected everyone here to be very happy. What he saw surprised and shocked him. In this funny, fast-moving, and deeply insightful talk, Dr. Sood shares his journey over two decades and across two continents, finding a way to help us outsmart our neural predispositions to suffering. In the process, he takes us on a back-stage tour of the human brain and outlines the gist of a structured program he is taking globally to decrease stress and improve focus, resilience, and happiness.
+Amit Sood, MD, is Professor of Medicine at Mayo Clinic and Director of Mayo's Complementary and Integrative Medicine program. He is the author of The Mayo Clinic Guide to Stress-Free Living and The Mayo Clinic Guide to Happiness. He is one of the most sought-after speakers at Mayo. He has received several NIH and foundation awards to test and implement integrative and mind-body approaches within medicine. Dr. Sood received the 2010 Distinguished Service Award, the 2010 Innovator of the Year Award, and the 2013 Outstanding Physician Award from Mayo Clinic.
+
+Negative Adaptations:  
+
+1. Mind Wandering - uncontrolled thoughts
+2. Negativity Bias - we remember negative over positives
+3. Hedonic Adaptations - we get used to the good.
+
+The Solution: Science and Spirituality
+
+1. Gratitude in the morning: think about 5 people you are grateful for
+
+2. Find novelty where love is: Meet family each day as if you're meeting them after 30 days (3 minutes or so)
+
+3. Creatively Praise! Do not judge
+
+4. Silently wish people good when first meeting. Look at the world the way you want people to look at your children.
+
+5. Reframe your challenges using higher order principles
+Gratitude
+Compassion
+Acceptance
+Meaning
+Forgiveness
+
+Dr. Soot says to practice the above 5 principles Monday - Friday.
+
+---
