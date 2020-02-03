@@ -178,9 +178,9 @@ He argues for psychological motivation. Many ardent activists are religious rath
 
 This lecture had a profound effect on me because of the mathematical and intuitive explanation. He analyzes organisms, societies, and planets based on physics models of energy.
 
-A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards entropy). For instance, a fire is a dissipative structure. The fuel is exergy. The fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structure, including the universe itself, is complexity."
+A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards entropy). For instance, a fire is a dissipative structure. The fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structure, including the universe itself, is complexity."
 
-Complexity appears to defy the second law of physics, which is in a closed system entropy will always increase. "Order is never spontaneously produced from disorder. Once a glass breaks, you can't un-break it." Every dissipative structure converts exergy to heat, but it does so based on the rules of energy transfer and the dissipative structures itself.
+Complexity appears to defy the second law of physics, which is in a closed system entropy will always increase. "Order is never spontaneously produced from disorder. Once a glass breaks, you can't un-break it." Every dissipative structure converts exergy to heat, but it does so based on the rules of energy transfer and the dissipative structure itself.
 
 As an example of complexity from dissipative structures arising from simple rules, he presents [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). There seems to be no limit to the complexity that can arise from these rules. However, these complex patterns can be easily disrupted, showing the vulnerability of this homeostasis.
 
@@ -214,9 +214,9 @@ The EROI of hunter-gatherer societies is roughly 1.5. Just enough to form kinshi
 
 Social connections tend to track closely with EROI. Agricultural settlements tend to have an EROI of 4, allowing specializations within the societies not directly related to energy gathering. Complex tools could be developed. Stored food also helps to preserve energy.
 
-Communities tended to over-exploit in agricultural area resulting in reduced yields over time, reducing EROI. Second, successful communities were an inviting target for raiders. This contributed to a second leap in complexity to agriculture-based empires. These empires tend to have an EROI of 6. Empires tend to have a boost in EROI after conquering other settlements, either over-exploiting them or continuing to slowly extract resources. This created highly complex hierarchies and specializations.
+Communities tended to over-exploit an agricultural area resulting in reduced yields over time, reducing EROI. Second, successful communities were an inviting target for raiders. This contributed to a second leap in complexity to agriculture-based empires. These empires tend to have an EROI of 6. Empires tend to have a boost in EROI after conquering other settlements, either over-exploiting them or continuing to slowly extract resources. This created highly complex hierarchies and specializations.
 
-However, after all surrounding settlements are conquered the must be administered and garrisoned, taking energy. Diminishing returns set in with settlements being further apart and EROI declines. To combat a declining EROI, taxes tend to increase on agricultural outputs and inexorably leads to resource depletion. Finally, the weakened empire is conquered or falls to pieces.
+However, after all surrounding settlements are conquered they must be administered and garrisoned, taking energy. Diminishing returns set in with settlements being further apart and EROI declines. To combat a declining EROI, taxes tend to increase on agricultural outputs and inexorably leads to resource depletion. Finally, the weakened empire is conquered or falls to pieces.
 
 Example, Rome. The Ancient Roman Empire was especially good at running an empire. Conquest temporarily increased EROI by a factor of 2, but each attempt they made to maintain increased the cost of homeostasis. Only excessive taxation could maintain the metabolic cost of empire. Resource depletion (including human resources) eventually led to permanently declining EROI and complexity (including economic, social, and political/administrative) collapse.
 
@@ -232,7 +232,7 @@ There were no resources left with to rebuild, fertile soil, harvestable forests,
 
 The invention of the combustion engine and acquisition of fossil fuels to produce the heat changed everything. Coal and later oil gave an EROI of 100. One unit of energy in, 100 units of energy out. A seemingly limitless energy use to create incredible complexity. The result is what we have today.
 
-Globalized Industrialized Civilization occurs at EROI > 20. Putting this into perspective, a healthy adult can sustain about 75 watts of energy for 8 hours. That's about 600 watt hours of work, 0.6 of a kilowatt. 10 people working together can produce  6 kilowatts a day. A gallon of gasoline can propel an automobile 30 miles in 30 minutes.
+Globalized Industrialized Civilization occurs at EROI > 20. Putting this into perspective, a healthy adult can sustain about 75 watts of energy for 8 hours. That's about 600 watt hours of work, 0.6 of a kilowatt. 10 people working together can produce 6 kilowatts a day. A gallon of gasoline can propel an automobile 30 miles in 30 minutes.
 
 How long would it take you to push your car 30 miles? How many friends would you need to help you?
 
@@ -252,7 +252,7 @@ We're falling off the "energy cliff." Greater extraction of energy needs infrast
 
 Wind and solar are now competitive with oil at the point of generation, but if we need to store the energy, the EROI becomes 1. Unconventional oil sources become an EROI of less than 5. Arable land becomes too precious to use on bio-fuel.
 
-Established empires have metabolic costs. A reduction of 5% of metabolic costs means the empire must canabilize and use its reserves.
+Established empires have metabolic costs. A reduction of 5% of metabolic costs means the empire must cannibalize and use its reserves.
 
 ### Scrambling back from the Energy Cliff
 - Exploit existing energy sources at a faster rate
