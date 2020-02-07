@@ -147,6 +147,8 @@ The law is intended to allow the existence of an empirical parameter, the temper
 
 Life can be extensively explained from the implications of these laws.
 
+---
+
 I am strongly influenced by Professor Sid Smith's lecture, [How to Enjoy the End of the World](https://www.youtube.com/watch?v=5WPB2u8EzL8&t=745s) published on Apr 23, 2019.
 
 This lecture had a profound effect on me because of the mathematical and intuitive explanation. He analyzes organisms, societies, and planets based on physics models of energy.
@@ -167,14 +169,191 @@ Complexity appears to defy the second law of physics, which is in a closed syste
 
 Living creatures are dissipative structures. We are not unlike a fire which consumes all available fuel to expand and maintain itself until there is no more fuel. The fuel needed for life is simply more complex. We require many different kinds of fuel, food, typically other complex dissipative structures like plants and animals, to maintain and grow our own structures, our bodies. The way heat and energy are dissipated from our body is governed by physics and biology, where biology is the study of living dissipative structures. Fire doesn't appear to consciously direct itself just like we don't decide how to sweat or where our blood vessels should grow. Our bodies emerged from a long evolutionary process. Evolutionary processes selected for the rules which govern our bodies, and we need an understanding of evolution to understand life.
 
-Just like how complex patterns emerged in Conway's game of life, so too did life emerge as a complex pattern from an initial state. Do the patterns we see moving across the grid decide which way they would go? No, it's clearly an outcome determined by the rules of the game. The story of our life is similar.
+Just like how complex patterns emerged in Conway's game of life, so too did life emerge as a complex pattern from an initial state. Do the patterns we see moving across the grid decide which way they go? No, it's clearly an outcome determined by the rules of the game. The story of our life is similar.
 
+### Properties of Dissipative Structures
 
+- All dissipative structures consume exergy, transforming useful energy into less useful energy.
 
+- All dissipative structures give rise to complexity (i.e., they are self-organizing) as an emergent property of the way their inherent rules channel their energy flows.
 
+- No dissipative structure is immortal
 
+Crises can disrupt homeostasis. The more complex a system is the more possibility of a crisis occurring as well a crisis causing a cascade of further crises ultimately unraveling homeostasis.
+
+Assuming a dissipative structure has access to unlimited exergy and no crises, can it go on forever?
+
+"In general no, because they are never static and never go backwards. No natural process is reversible in itself, because entropy always increases, never spontaneously decreases. The same processes that brought a dissipative structure must continue, because energy must continue to flow, increasing complexity. Each increase in complexity has a metabolic cost. As these costs accumulate, eventually the system becomes unsustainable on its energy base and increasingly fragile. At some point, a crisis occurs and there's a complexity collapse. If exergy is still available post-collapse, new dissipative structures will arise anew, typically with significant differences from the old structure."
+
+The biologist [Eugene Odom](https://en.wikipedia.org/wiki/Eugene_Odum) describes this process in ecosystems called ecological succession. Ecosystem means a biological community of interacting organisms and their physical environment. An ecosystem begins on pure rock with small and simple dissipative structures. Eventually the entire ecosystem collapses and ends. A new ecosystem is built on a previous ecosystem. Each community of organisms in the ecosystem alters the environment. "It culminates in a homeostatic ecosystem in which biomass and symbiotic function between organisms are maintained. Maximum that is per unit of energy flow. Nature always optimizes. To repeat, self-organization is directed towards achieving as large and diverse a dissipative structure within the limits set by the available energy input and the prevailing physical conditions. Once homeostasis is achieved, the ecosystem is mature. However, eventually the ecosystem succumbs to its own fragility. A small perturbation in climate, or a fire, or an evolution of a disruptive, invasive, or parasitic species, and all the intricate specializations that lead to the optimization of the structure become in turn the cause of the system's failures. In the long view, this is not a tragedy, but an essential component of the evolutionary process. It's precisely the story of life on this planet with its breathtaking diversity not only across continents, but across time."
+
+Eventually, every organism relies on the whole system to survive. Once the system dies, the individuals die as well. In a similar way to how a fire will burn available fuel, organisms and ecosystems adapt to consume available fuel (exergy), specializing in the process of transforming that useful energy into less useful energy.
 
 ---
+
+The below timeline is taken from [Sapiens: A Brief History of Humankind](https://www.ynharari.com/book/sapiens/) by Professor Yuval Noah Harari.
+
+
+### Timeline of History
+
+Years Before the Present
+
+---
+13.5 billion
+
+Matter and energy appear. Beginning of physics. Atoms and molecules appear. Beginning of chemistry.
+
+---
+4.5 billion
+
+Formation of planet Earth.
+
+---
+3.8 billion
+
+Emergence of organisms. Beginning of biology.
+
+---
+6 million
+
+Last common grandmother of humans and chimpanzees.
+
+---
+2.5 million
+
+Evolution of the genus Homo in Africa. First stone tools.
+
+---
+2 million
+
+Humans spread from Africa to Eurasia. Evolution of different human species.
+
+---
+500,000
+
+Neanderthals evolve in Europe and the Middle East.
+
+---
+300,000
+
+Daily usage of fire.
+
+---
+200,000
+
+Homo sapiens evolves in East Africa.
+
+---
+70,000
+
+The Cognitive Revolution. Emergence of fictive language.
+Beginning of history. Sapiens spread out of Africa.
+
+---
+45,000
+
+Sapiens settle Australia. Extinction of Australian megafauna.
+
+---
+30,000
+
+Extinction of Neanderthals.
+
+---
+16,000
+
+Sapiens settle America. Extinction of American megafauna.
+
+---
+13,000
+
+Extinction of Homo floresiensis. Homo sapiens the only surviving human species.
+
+---
+12,000
+
+The Agricultural Revolution. Domestication of plants and animals. Permanent settlements.
+
+---
+5,000
+
+First kingdoms, script and money. Polytheistic religions.
+
+---
+4,250
+
+First empire – the Akkadian Empire of Sargon.
+
+---
+2,500
+
+Invention of coinage – a universal money.
+The Persian Empire – a universal political order ‘for the benefit of all humans’.
+Buddhism in India – a universal truth ‘to liberate all beings from suffering’.
+
+---
+2,000
+
+Han Empire in China. Roman Empire in the Mediterranean. Christianity.
+
+---
+1,400
+
+Islam.
+
+---
+500
+
+The Scientific Revolution. Humankind admits its ignorance and begins to acquire unprecedented power. Europeans begin to conquer America and the oceans. The entire planet becomes a single historical arena. The rise of capitalism.
+
+---
+200
+
+The Industrial Revolution. Family and community are replaced by state and market. Massive extinction of plants and animals.
+
+---
+The Present
+
+Humans transcend the boundaries of planet Earth. Nuclear weapons threaten the survival of humankind. Organisms are increasingly shaped by intelligent design rather than natural selection.
+
+---
+The Future
+
+Intelligent design becomes the basic principle of life? Homo sapiens is replaced by superhumans?
+
+---
+
+Sapiens begins at the big bang and fast forwards through time to about 2.5 million years ago where it traces homo erectus and the many cousin-species of homo sapiens. What is so impactful to me about this book is how it breaks down the long held hubris of humankind. **"They [humans] were insignificant animals, whose ecological impact was less than that of fireflies or jellyfish."** With homo sapiens appearing just 0.2 million years ago, we likely held a niche spot in the ecosystem similar to the woodpecker. Just like the woodpecker evolved to eat grubs by hammering through dense bark, we might have evolved to eat bone marrow. When an apex predator such as a tiger killed a giraffe, early humans watched as the tiger and pride ate most of the giraffe. Then the hyenas came to eat the remaining parts. Finally, early humans, after looking all around for predators, slunk towards the carcass to eat any remaining tissue and use stone tools to break bones and eat the marrow. That was our niche.
+
+However, for 2 million years from homo erectus to homo sapiens, our brains just kept growing. We are still unsure as the reason why. With the domestication of fire, humans could scare away beasts, keep themselves warm, cook food, and control their environment. One human could easily burn down a forest in a matter of 20 minutes. How did humans control themselves not to destroy everything? Humans learned to do controlled burning which allowed them to pick through charred meat and other foods in the aftermath of a fire.
+
+Of course, cooking food allowed our bodies to absorb the nutrients better. This hints at what was to come, humans getting more resources from the same amount of food or land when compared to other species.
+
+---
+
+Returning to Professor Smith's lecture:
+
+### What about civilization as dissipative structures?
+
+Energy Return on Investment (EROI)
+
+EROI = (total energy acquired) / energy spent to acquire energy
+
+EROI for most creatures is between 1 and 2. An EROI less than 1 is starvation. An EROI towards 2 means growth.
+
+The EROI of hunter-gatherer societies is roughly 1.5. Just enough to form kinship groups, reproduction, and the fastening of a few tools and decorations. The cultural complexity can be impressive, but the social connections are necessarily limited.
+
+Social connections tend to track closely with EROI. Agricultural settlements tend to have an EROI of 4, allowing specializations within the societies not directly related to energy gathering. Complex tools could be developed. Stored food also helps to preserve energy.
+
+Communities tended to over-exploit an agricultural area resulting in reduced yields over time, reducing EROI. Second, successful communities were an inviting target for raiders. This contributed to a second leap in complexity to agriculture-based empires. These empires tend to have an EROI of 6. Empires tend to have a boost in EROI after conquering other settlements, either over-exploiting them or continuing to slowly extract resources. This created highly complex hierarchies and specializations.
+
+However, after all surrounding settlements are conquered they must be administered and garrisoned, taking energy. Diminishing returns set in with settlements being further apart and EROI declines. To combat a declining EROI, taxes tend to increase on agricultural outputs and inexorably leads to resource depletion. Finally, the weakened empire is conquered or falls to pieces.
+
+Example, Rome. The Ancient Roman Empire was especially good at running an empire. Conquest temporarily increased EROI by a factor of 2, but each attempt they made to maintain increased the cost of homeostasis. Only excessive taxation could maintain the metabolic cost of empire. Resource depletion (including human resources) eventually led to permanently declining EROI and complexity (including economic, social, and political/administrative) collapse.
+
+---
+
+Humans occupy a strange place in the ecosystem. We are creatures that have multiplied our EROI's beyond the standard range. Fossil fuels are like batteries which have been slowly charged by the sun over thousands of years. 
 
 ### We are like water.
 

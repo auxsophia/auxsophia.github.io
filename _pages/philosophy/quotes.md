@@ -75,6 +75,8 @@ Defeat is a state of mind; no one is ever defeated until defeat has been accepte
 
 "A room without books is like a body without a soul." - Marcus Tullius Cicero
 
+“The only constant in life is change” - Heraclitus
+
 "You only live once, but if you do it right, once is enough." - Mae West
 
 "No one can make you feel inferior without your consent." - Eleanor Roosevelt, This is My Story
