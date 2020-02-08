@@ -353,9 +353,60 @@ Example, Rome. The Ancient Roman Empire was especially good at running an empire
 
 ---
 
-Humans occupy a strange place in the ecosystem. We are creatures that have multiplied our EROI's beyond the standard range. Fossil fuels are like batteries which have been slowly charged by the sun over thousands of years. 
+Humans occupy a strange place in the ecosystem. We are creatures that have multiplied our EROI's beyond the standard range of [0,2]. Fossil fuels are like batteries which have been slowly charged by the sun over thousands of years.
 
 ### We are like water.
+
+Water is an excellent heat conductor. Since we are a slow but dynamic burning fire, we need a way for our body to expel heat (thermal energy) less we burn up too quickly and lose homeostasis to maintain our form in working order. Water saps the heat away from our bodies by changing its state. Water can leave our body through sweating. The sweat beads on our skin and eventually absorbs enough thermal energy that the sweat changes from a liquid state into a gaseous state, evaporating on the skin. Water is how we measure temperature in Celsius. [Under normal atmospheric conditions, water is solid (ice) at 0 degrees Celsius, water vapor at 100 degrees Celsius, and liquid in between](https://www.grc.nasa.gov/WWW/K-12/rocket/state.html).
+
+"In physics, a state of matter is one of the distinct forms in which matter can exist. Four states of matter are observable in everyday life: solid, liquid, gas, and plasma. Many intermediate states are known to exist, such as liquid crystal, and some states only exist under extreme conditions, such as Bose–Einstein condensates, neutron-degenerate matter, and quark–gluon plasma, which only occur, respectively, in situations of extreme cold, extreme density, and extremely high energy. For a complete list of all exotic states of matter, see the list of states of matter.
+
+Historically, the distinction is made based on qualitative differences in properties. Matter in the solid state maintains a fixed volume and shape, with component particles (atoms, molecules or ions) close together and fixed into place. Matter in the liquid state maintains a fixed volume, but has a variable shape that adapts to fit its container. Its particles are still close together but move freely. Matter in the gaseous state has both variable volume and shape, adapting both to fit its container. Its particles are neither close together nor fixed in place. Matter in the plasma state has variable volume and shape, and contains neutral atoms as well as a significant number of ions and electrons, both of which can move around freely.
+
+The term phase is sometimes used as a synonym for state of matter, but a system can contain several immiscible phases of the same state of matter." [State of matter](https://en.wikipedia.org/wiki/State_of_matter)
+
+Every element has a range of temperatures at which it's in a solid state. Passed a melting point, a liquid state. Passed a boiling point, a gas. Finally, a plasma state like the surface of the Sun with electromagnetic properties. There are other states of matter, but these are the ones we typically interact with and categorize as daily reality.
+
+We humans studied these states, but if we think of the island concept to isolate objective reality, what is this constant state of change? On an island with no life, no complex structures, the ocean waves crash against the shore. To describe the location objectively, different elements and molecules in different states of matter are interacting and exchanging energy flows according to the laws of thermodynamics and physics. All the living things which we see around us today came from those early times of our planet's life.
+
+### We are an incredibly complex game of life left on for roughly 3.8 billion years.
+
+Our planet Earth exists in perfect distance from the Sun to allow for complex life structures to arise. The energy from the Sun is like cooking over a fire. The heat is hottest closest and coldest farther away. To cook just right you need the right distance. Too cold and we're frozen where there's not enough changes in matter. Too hot the energy present is so high nothing solid can form. We are in a space that can allow for many states and in a time of homeostasis. There are so many qualities of the universe and our solar system which are in a delicate balance to bring about life.
+
+---
+
+### [The Earth is an open and closed system](https://course.oeru.org/csf101/learning-pathways/from-the-holocene-to-the-anthropocene/the-earth-is-an-open-and-closed-system/)
+
+#### The Earth is a closed system for matter
+The Earth is made up of chemical elements – think of the periodic table.  That is a list of all basic elemental materials on our planet.  Because of gravity, matter (comprising all solids, liquids and gases) does not leave the system.  It is a closed box.  And, the laws of thermodynamics, long agreed by scientists, tell us that it’s impossible to destroy matter.  So the chemical matter we have on Earth will always be here.  The important question is, how are those chemicals organised?
+
+#### The Earth is an open system for energy
+It is accepted science that the Earth is an open system for energy.  Energy radiates into the Earth’s system, mainly from the sun.  Energy is then radiated back into space from the Earth, with the flows being regulated by the Earth’s atmosphere and ozone layer.  This delicate balanced transfer of energy maintains the surface temperature at a level that is suited to the forms of life that have evolved and currently exist.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/Natural_Cycles.png" width="100%" height="100%">
+{: refdef}
+
+---
+
+Scientists say there is no life on Mars, our neighboring planet. There are storms on the surface with tornadoes the size of states and countries here on Earth. Thunderstorms, lightning strikes, and sand cutting through the air at high kilometers per hour. Earth allows for a steadier stream and flow of energy states that allow for complex structures.
+
+
+Our bodies evolved to be formed of "Almost 99% of the mass of the human body is made up of six elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. Only about 0.85% is composed of another five elements: potassium, sulfur, sodium, chlorine, and magnesium. All 11 are necessary for life. The remaining elements are trace elements, of which more than a dozen are thought on the basis of good evidence to be necessary for life [1]. All of the mass of the trace elements put together (less than 10 grams for a human body) do not add up to the body mass of magnesium, the least common of the 11 non-trace elements...Most of the elements needed for life are relatively common in the Earth's crust.," [Composition of the human body
+](https://en.wikipedia.org/wiki/Composition_of_the_human_body).
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/body_composition.png" width="100%" height="100%">
+{: refdef}
+
+"Carbon is a primary component of all known life on Earth, representing approximately 45–50% of all dry biomass. Carbon compounds occur naturally in great abundance on Earth. Complex biological molecules almost always consist of carbon atoms bonded with other elements, especially oxygen and hydrogen and frequently also nitrogen, phosphorus, and sulfur...Carbon is capable of forming a vast number of compounds, more than any other element, with almost ten million compounds described to date, and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. For this reason, carbon has often been referred to as the "king of the elements". The enormous diversity of carbon-containing compounds, known as organic compounds, has led to a distinction between them and compounds that do not contain carbon, known as inorganic compounds. The branch of chemistry that studies organic compounds is known as organic chemistry.
+
+Carbon is the 15th most abundant element in the Earth's crust, and the fourth most abundant element in the universe by mass, after hydrogen, helium, and oxygen. Carbon's widespread abundance, its ability to form stable bonds with numerous other elements, and its unusual ability to form polymers at the temperatures commonly encountered on Earth enables it to serve as a common element of all known living organisms."[Carbon-based life](https://en.wikipedia.org/wiki/Carbon-based_life)
+
+
+
+### Returning to the self
+
 
 
 ---
