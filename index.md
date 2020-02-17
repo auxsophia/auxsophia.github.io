@@ -7,19 +7,19 @@ This website is the open notebook of [Elliott Collin Ploutz](/about/). I am a ph
 ---
 ## [Human Flourishing](/humanFlourishing/)
 
-I've made self-improvement a hobby. With the aim of maximizing cognitive potential, these are my notes on living well and flourishing. This includes topics such as mental training, proper diet, exercise, and hygiene.
+I've made self-improvement a hobby. With the aim of maximizing cognitive potential, these are my notes on living well and flourishing, including topics such as mental training, proper diet, exercise, and hygiene.
 
 ---
 
 ## [Philosophy](/philosophy/)
 
-I obtained a bachelors degree in philosophy from UNLV in 2012, but I've had an interest in philosophical ideas my whole life. In these notes, I offer good resources in learning philosophy as well as my own philosophical musings.
+I obtained a bachelors degree in philosophy from UNLV in 2012, but I've had an interest in philosophical ideas my whole life. In these notes, I offer good resources for learning philosophy as well as my own philosophical musings.
 
 ---
 
 ## [Artificial Intelligence](/ai/)
 
-I believe artificial general intelligence should be the aim of humanity and all sentient, intelligent life. AI has been a motivating force in my personal life and directed my decision making. 
+I believe artificial general intelligence should be the aim of humanity and all sentient, intelligent life. AI is a motivating force in my personal life and directs my decision making.
 
 ---
 
