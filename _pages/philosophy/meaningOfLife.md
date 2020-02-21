@@ -423,7 +423,51 @@ The timelines displayed here cover events from the beginning of the 11th millenn
 
 ### Returning to the self
 
+We live on the surface of a water planet tuned to just the right energy levels to allow for an extremely complex change in matter and energy resulting in the observable universe. The constant, ongoing change we call life our blips of energy from one state of energy to another state. Change, information, is a measure of entropy which is the change from moments and times before.
 
+---
+
+blip
+/blip/
+noun
+1.
+an unexpected, minor, and typically temporary deviation from a general trend.
+"an upward blip in house prices"
+2.
+a short high-pitched sound made by an electronic device.
+- Google
+
+---
+
+Renee Descartes was a philosopher who took doubt to an extreme. He locked himself in a room and systematically questioned his most basic beliefs. He didn't have as advanced physics and explanations for phenomena as we do today, so he believed in a top down approach to an explanation of reality. Like a good tool is created by an intelligent agent, a human with technical skill, Descartes believed as many enlightened people of the day did, an intelligent designer created the observable universe. The complexity of animals, plants, the sky, and everything is so great, the intelligent designer must be greater in complexity still. To craft a boat and paddle takes an experienced human. To craft a universe must be in some proportion greater. God is an intelligent agent who is all good, all knowing, and all powerful. God designed everything.
+
+This is the opposite of the explanation of particle physics which emerges from the most basic units of information up. With the idea of god, Descartes still has doubt about what he can know about his own experience. Things like candles and fire change shape and change how they effect the senses. Candles change in smell and touch. Change leads to defied expectations. Descartes was in a boat with the paddle in the water. The water refracts light, making the sight of the paddle look distorted and wavy. The paddle looked to be a third of a meter long but when pulled out of the water is clearly a meter long and solid. If his sense of sight can be so easily distorted under certain conditions, what about all of his senses? What about the times where all of reality can be distorted, sleeps full of dreams. In a dream, structures and changes we never see in waking life appear real to us for a short time. Upon waking, we realize the dream was not a part of our daily experience. In the moment of the dream, we should be doubting what we experience.
+
+Although in a dream we should doubt all sensory experience, Descartes believed we didn't have reason to doubt mathematical truths. 2 + 2 = 4 whether you are dreaming or not. However, many parts of dreams gives us false confidence in beliefs. What if god is at least not all good. What if god is malevolent and wants to confuse us. God could create a world or a mind in which we are deceived on the most fundamental levels. God could make us believe god is all good with certainty. We could believe that 2 + 2 = 5 with the feeling of absolute certainty. Is there any claim which we cannot doubt?
+
+The only claim Descartes believed to be beyond doubt is that even if we are being deceived, there is a thinking thing, our mind or soul, which is being deceived. In the original Latin, this is _cogito ergo sum_, I think therefore I am. Descartes was confident that he existed.
+
+A later linguist and philosopher, Nietzsche, cast doubt on the _cogito_ claim. Consider the statement 'it is raining.' What is the 'it' which is raining? Is 'it' the clouds? In language, subjects are inferred. Rain and rain drops spontaneously appear. There is no subject that causes or creates the rain. Analogously, perhaps there is no 'I' in _I think therefore I am_; perhaps there is only thinking like there is only raining.
+
+Thus we arrive at the only claim beyond doubt, the only statement we can be certain of: we are at least **a momentary blip of consciousness**.
+
+There is some theoretical backing to these ideas of blips of consciousness.
+
+"The [Boltzmann brain argument](https://en.wikipedia.org/wiki/Boltzmann_brain) suggests that it is more likely for a single brain to spontaneously and briefly form in a void (complete with a false memory of having existed in our universe) than it is for our universe to have come about in the way modern science thinks it actually did. It was first proposed as a reductio ad absurdum response to Ludwig Boltzmann's early explanation for the low-entropy state of our universe.
+
+In this physics thought experiment, a Boltzmann brain is a fully formed brain, complete with memories of a full human life in our universe, that arises due to extremely rare random fluctuations out of a state of thermodynamic equilibrium. Theoretically over a period of time on the order of hundreds of billions of years, by sheer chance atoms in a void could spontaneously come together in such a way as to assemble a functioning human brain. Like any brain in such circumstances, it would almost immediately stop functioning and begin to deteriorate."
+
+Another way of thinking of randomness is to imagine a small image of 32x32 pixels. For simplicity, the pixels are either white or black, on or off, at random. How long would it take for the number 1 to form in the image? Only the pixels showing the 1 would be white. Of course, there are many images that look like white noise, just random white and black dots with no order, but after some time, the 1 will appear recognizable. Given enough time, every possible image that can be constructed out of those pixels will appear. This is similar to how reality is said to pop into existence.
+
+"Bertrand Russell wrote, in The Analysis of Mind: "There is no logical impossibility in the hypothesis that the world sprang into being five minutes ago, exactly as it then was, with a population that 'remembered' a wholly unreal past." - [Omphalos hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis#A_deceptive_creator)
+
+How do we know the universe didn't pop into existence in its current form 5 minutes ago? We might have all of the memories, but those popped into existence when we did too. I can think of no way around this idea, because the point of the thought experiment is that all experience and knowledge outside of the present moment is cut off. If we look to the future to perform some experiment or verify continued existence, the reply is that the present is when we were created.
+
+So what can we derive, what more can we know with the certain truth that we are a momentary blip of consciousness?
+
+Here lies the problem of removing all certainty.
+
+[Different forms of justification, foundationalism, coherentism, Agrippa's trilemma]
 
 ---
 
