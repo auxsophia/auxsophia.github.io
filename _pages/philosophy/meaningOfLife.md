@@ -329,6 +329,8 @@ However, for 2 million years from homo erectus to homo sapiens, our brains just 
 
 Of course, cooking food allowed our bodies to absorb the nutrients better. This hints at what was to come, humans getting more resources from the same amount of food or land when compared to other species.
 
+What makes humans so unique is our ability to cooperate flexibly in large numbers. Other swarm and hive creatures cooperate in large numbers, but they all follow simple rules. Humans can learn new rules and collectively change their behaviors. The accumulation of knowledge in various subjects and the depths explored lead me to believe we can give a more detailed and accurate answer to the meaning of life than ever before.
+
 ---
 
 Returning to Professor Smith's lecture:
@@ -431,10 +433,10 @@ blip
 /blip/
 noun
 1.
-an unexpected, minor, and typically temporary deviation from a general trend.
-"an upward blip in house prices"
+_an unexpected, minor, and typically temporary deviation from a general trend.
+"an upward blip in house prices"_
 2.
-a short high-pitched sound made by an electronic device.
+_a short high-pitched sound made by an electronic device._
 - Google
 
 ---
@@ -465,9 +467,64 @@ How do we know the universe didn't pop into existence in its current form 5 minu
 
 So what can we derive, what more can we know with the certain truth that we are a momentary blip of consciousness?
 
-Here lies the problem of removing all certainty.
+Here lies the problem of removing all certainty. Descartes was attempting to form a foundation for further beliefs. If we can have a fundamental belief that is known to be absolutely true and a set of rules which are guaranteed to result in a justified and true belief, then we can have a set of true and justified beliefs beyond doubt. This is the axiomatic approach.
 
-[Different forms of justification, foundationalism, coherentism, Agrippa's trilemma]
+---
+Axiom
+/ˈaksēəm/
+noun
+_a statement or proposition which is regarded as being established, accepted, or self-evidently true._
+- Google
+
+---
+
+What else can you know based on the statement that existence is at least a momentary blip of consciousness?
+
+For a meaning of life, I want to be certain and justified in the meaning.
+
+[Agrippa’s Trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma) is the culmination of [ancient skepticism on justification](https://plato.stanford.edu/entries/skepticism-ancient/#AgrFivMod). In order to have certainty and knowledge, we believe some type of justification must be given. Agrippa’s Trilemma aims to show the failure of justification, and therefore that certainty is unachievable.
+
+The position is that justification is based on three main types:
+1. Assumption - Some premises are assumed to be true, typically they are accepted to be self-evident. This rests on an assumption, which does not give us certainty.
+2. Infinite regress - Each claim must be supported by another claim, and that supporting claim must in turn be supported by another claim. The third supporting claim must also be supported, _ad infinitum_. Since we must ultimately stop on an unsupported claim, we can never be certain that we have proper support of our claims.
+3. Circularity - Instead of an infinite regress, we find that claims support each other in some kind of circular fashion. However, this is widely regarded as a fallacious way of reasoning.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/trilemma.png" width="100%" height="100%">
+{: refdef}
+
+This analysis of justification is top-down instead of bottom-up. We should look closer on how justification evolves.
+
+The ancient Greek philosopher Plato wrote that enlightenment of the mind is like quick illumination of the eyes. When entering a brilliant area our eyes hurt and need to adjust. Similarly, illumination of the mind is painful and takes adjustment.
+
+A summary of one of Plato's famous stories, the [allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave).
+
+---
+
+#### Imprisonment in the cave
+Plato begins by having Socrates ask Glaucon to imagine a cave where people have been imprisoned from childhood (important to note that they were (based on text) imprisoned from childhood but not from birth). These prisoners are chained so that their legs and necks are fixed, forcing them to gaze at the wall in front of them and not look around at the cave, each other, or themselves (514a–b). Behind the prisoners is a fire, and between the fire and the prisoners is a raised walkway with a low wall, behind which people walk carrying objects or puppets "of men and other living things" (514b). The people walk behind the wall so their bodies do not cast shadows for the prisoners to see, but the objects they carry do ("just as puppet showmen have screens in front of them at which they work their puppets" (514a)[3]). The prisoners cannot see any of what is happening behind them, they are only able to see the shadows cast upon the cave wall in front of them. The sounds of the people talking echo off the walls, and the prisoners believe these sounds come from the shadows (514c).
+
+Socrates suggests that the shadows are reality for the prisoners because they have never seen anything else; they do not realize that what they see are shadows of objects in front of a fire, much less that these objects are inspired by real things outside the cave which they do not see (514b–515a).
+
+The fire, or human made light, and the puppets, used to make shadows, are done by the artists. This can be compared to how illusions are made with light and sound today, with electronics, videos, movies, and 3D visuals. Plato, however, indicates that the fire is also the political doctrine that is taught in a nation state. The artists use light and shadows to teach the dominant doctrines of a time and place.
+
+Also, few humans will ever escape the cave. This is not some easy task, and only a true philosopher, with decades of preparation, would be able to leave the cave, up the steep incline. Most humans will live at the bottom of the cave, and a small few will be the major artists that project the shadows with the use of human-made light.
+
+#### Departure from the cave
+Plato then supposes that one prisoner is freed. This prisoner would look around and see the fire. The light would hurt his eyes and make it difficult for him to see the objects casting the shadows. If he were told that what he is seeing is real instead of the other version of reality he sees on the wall, he would not believe it. In his pain, Plato continues, the freed prisoner would turn away and run back to what he is accustomed to (that is, the shadows of the carried objects). He writes "... it would hurt his eyes, and he would escape by turning away to the things which he was able to look at, and these he would believe to be clearer than what was being shown to him."
+
+Plato continues: "Suppose... that someone should drag him... by force, up the rough ascent, the steep way up, and never stop until he could drag him out into the light of the sun." The prisoner would be angry and in pain, and this would only worsen when the radiant light of the sun overwhelms his eyes and blinds him.
+
+"Slowly, his eyes adjust to the light of the sun. First he can only see shadows. Gradually he can see the reflections of people and things in water and then later see the people and things themselves. Eventually, he is able to look at the stars and moon at night until finally he can look upon the sun itself (516a)." Only after he can look straight at the sun "is he able to reason about it" and what it is (516b). (See also Plato's analogy of the sun, which occurs near the end of The Republic, Book VI.[4][5])
+
+####  Return to the cave
+Plato continues, saying that the freed prisoner would think that the world outside the cave was superior to the world he experienced in the cave and attempt to share this with the prisoners remaining in the cave attempting to bring them onto the journey he had just endured; "he would bless himself for the change, and pity [the other prisoners]" and would want to bring his fellow cave dwellers out of the cave and into the sunlight (516c).
+
+The returning prisoner, whose eyes have become accustomed to the sunlight, would be blind when he re-enters the cave, just as he was when he was first exposed to the sun (516e). The prisoners, according to Plato, would infer from the returning man's blindness that the journey out of the cave had harmed him and that they should not undertake a similar journey. Plato concludes that the prisoners, if they were able, would therefore reach out and kill anyone who attempted to drag them out of the cave (517a).
+
+---
+
+Plato remains relevant more than 2,000 years after his death because his stories by analogy apply to so many ideas. We are all living in a cave, and most of that cave is our skull. Our head encases our brain, the most complex organ or object in the observable universe. There are holes for sense organs to communicate with the brain, our eyes, nose, ears, and mouth. Our sense of touch travels from all over our body and especially through the spinal cord. 
 
 ---
 
