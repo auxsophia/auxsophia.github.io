@@ -524,7 +524,36 @@ The returning prisoner, whose eyes have become accustomed to the sunlight, would
 
 ---
 
-Plato remains relevant more than 2,000 years after his death because his stories by analogy apply to so many ideas. We are all living in a cave, and most of that cave is our skull. Our head encases our brain, the most complex organ or object in the observable universe. There are holes for sense organs to communicate with the brain, our eyes, nose, ears, and mouth. Our sense of touch travels from all over our body and especially through the spinal cord. 
+Plato remains relevant more than 2,000 years after his death because his stories by analogy apply to so many ideas. We are all living in a cave, and most of that cave is our skull. Our head encases our brain, the most complex organ or object in the observable universe. There are holes for sense organs to communicate with the brain, our eyes, nose, ears, and mouth. Our sense of touch travels from all over our body and especially through the spinal cord.
+
+Consider hearing:
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/Hearing_mechanics_cropped.jpg" width="100%" height="100%">
+{: refdef}
+
+
+
+---
+
+[Function of the brain](https://en.wikipedia.org/wiki/Brain#Function)
+"Information from the sense organs is collected in the brain. There it is used to determine what actions the organism is to take. The brain processes the raw data to extract information about the structure of the environment. Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. Finally, on the basis of the results, it generates motor response patterns. These signal-processing tasks require intricate interplay between a variety of functional subsystems.
+
+The function of the brain is to provide coherent control over the actions of an animal. A centralized brain allows groups of muscles to be co-activated in complex patterns; it also allows stimuli impinging on one part of the body to evoke responses in other parts, and it can prevent different parts of the body from acting at cross-purposes to each other."
+
+- Perception
+- Motor control
+- Arousal
+- Homeostasis
+- Motivation
+- Learning and memory
+  - Working memory
+  - Episodic memory
+  - Semantic memory
+  - Instrumental learning
+  - Motor learning
+
+
 
 ---
 
