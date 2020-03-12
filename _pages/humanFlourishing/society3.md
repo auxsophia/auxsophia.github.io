@@ -32,7 +32,7 @@ The Sustainable Development Goals are:
 16. Peace, Justice, and Strong Institutions
 17. Partnerships for the Goals
 
-
+---
 
 [First-ever compendium of indigenous technologies provides a powerful toolkit for climate-resilient design](https://www.gsd.harvard.edu/2020/02/first-ever-compendium-of-indigenous-technologies-provides-a-powerful-toolkit-for-climate-resilient-design/?fbclid=IwAR3pSSnJmXAUfbdzIffobCPOt_x0-7dZT-ql5z8LvGNKTqrdIhBDiJxdB4U)
 

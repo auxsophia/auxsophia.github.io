@@ -372,36 +372,3 @@ When it comes to managing large-scale risks, straight-forward economics suggests
 ## News Articles
 
 [Global warming in the news](/globalWarmingNews/)
-
-## Music
-
-[Childish Gambino - Feels Like Summer](https://www.youtube.com/watch?v=F1B9Fk_SgI0) September 1st, 2018
-
-> Every day gets hotter than the one before
-Running out of water, it's about to go down
-Go down
-Air that kill the bees that we depend upon
-Birds were made for singing, wakin' up to no sound
-No sound
-I know
-Oh, I know you know my pain (woah, no no no)
-I'm hopin' that this world will change
-(This world will change, yeah)
-But it just seems the same (woah)
-
-[Poppy - Time Is Up (feat. Diplo)](https://www.youtube.com/watch?v=gg2pS9KN28U)
-
-> Exponentially, every day I'm growing my memory
-You wouldn't believe
-Your life is meaningless, you're just like cockroaches
-Extermination's your only hope
-Human history, pollution, and overcrowded cities
-That's your legacy
-But don't look so depressed
-You'll soon be nothingness
-Oh my God, you don't even know
-[Pre-Chorus]
-I don't need air to breathe when you kill the bees
-And every river bed is dry as a bone
-Oh, I will still survive when the plants have died
-And the atmosphere is just a big hole

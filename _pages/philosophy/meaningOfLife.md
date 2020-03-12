@@ -524,7 +524,7 @@ The returning prisoner, whose eyes have become accustomed to the sunlight, would
 
 ---
 
-Plato remains relevant more than 2,000 years after his death because his stories by analogy apply to so many ideas. We are all living in a cave, and most of that cave is our skull. Our head encases our brain, the most complex organ or object in the observable universe. There are holes for sense organs to communicate with the brain, our eyes, nose, ears, and mouth. Our sense of touch travels from all over our body and especially through the spinal cord.
+Plato remains relevant more than 2,500 years after his death because his stories by analogy apply to so many ideas. We are all living in a cave, and most of that cave is our skull. Our head encases our brain, the most complex organ or object in the observable universe. There are holes for sense organs to communicate with the brain, our eyes, nose, ears, and mouth. Our sense of touch travels from all over our body and especially through the spinal cord.
 
 Consider hearing:
 
@@ -532,7 +532,19 @@ Consider hearing:
 <img src="../../images/Hearing_mechanics_cropped.jpg" width="100%" height="100%">
 {: refdef}
 
+Sound must travel through a medium, air. The vibrating air moves tiny hairs inside our ears as well as vibrating a small bone in our inner ear, amplifying the sound. Our brain has dedicated areas to make sense of the sound for more information. What is the source of the sound? Where is its potential location? Our brain attempts to understand, predict, and find meaning in the vibration of the air.
 
+Consider the question: [If a tree falls in a forest and no one is around to hear it, does it make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
+
+
+
+Our brain receives data, bits of information, about the outside world through its sense organs. Consider sight, we see using our eyes. Our eyes are sensors that can detect a narrow width of the energy spectrum. Some creatures see far with clarity, others near sighted, some see better under water or at night. The sense data we receive is processed in our brains. We refine our understanding of the world based on incoming data and our interaction.
+
+We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes.
+
+
+
+However, Bayes theorem is not the most powerful explanation. [The Book of Why]
 
 ---
 
