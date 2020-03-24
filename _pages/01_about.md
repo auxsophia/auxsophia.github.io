@@ -40,7 +40,7 @@ Please consider becoming a patron on [Patreon](https://www.patreon.com/philosoph
 {: refdef}
 
 
-You can also use [Paypal](https://www.paypal.me/ploutze) for one-time donations.
+You can also use [Paypal](https://www.paypal.me/ploutze) for one-time donations. (Buy me a burrito?)
 
 {:refdef: style="text-align: center;"}
 [![Paypal](../images/paypal_logo.png)](https://www.paypal.me/ploutze)
