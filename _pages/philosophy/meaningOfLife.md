@@ -570,3 +570,11 @@ The function of the brain is to provide coherent control over the actions of an 
 ---
 
 Philosophy exists as a reflection on the three levels of reality and how they relate to one another.
+
+---
+
+The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. The universe we exist in appears to be a chain reaction from a fraction of a moment after the beginning of the universe. The next moment is a function of the current moment. A future moment can likely only be determined by the passage of each moment to that moment, that is, things must play out cannot be fully predetermined. Our universe may just be one data point in a probability distribution of possible universes.
+
+The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and the interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization.
+
+The inter-subjective meaning of life is to support the sustainable flourishing of life. 
