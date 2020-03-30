@@ -44,7 +44,7 @@ For more details, please refer to the [design document](https://github.com/auxso
 
 I helped design the overall system and interface. I implemented the in-game inventory interface and expanded the chat interface. Additionally, I kept track of our weekly meeting minutes and provided research resources to the team.
 
-<iframe width="760" height="500" src="https://www.youtube.com/embed/YddksRc9IkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="500" src="https://www.youtube.com/watch?v=vQnzlxNzpkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/blindwow1.png" width="80%" height="80%">
