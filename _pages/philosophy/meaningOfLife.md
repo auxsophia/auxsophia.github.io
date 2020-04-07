@@ -542,7 +542,78 @@ Our brain receives data, bits of information, about the outside world through it
 
 We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation.
 
-Critical rationalism, can't confirm hypotheses, all white swans and contrapositive confirmation example, determining cause and effect (book of why), physics based equation for intelligence, simple rule explaining intelligent behavior (maximizing compression).
+---
+
+“Critical rationalism is an epistemological philosophy advanced by Karl Popper...Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.” [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+
+“Critical rationalists hold that scientific theories and any other claims to knowledge can and should be rationally criticized, and (if they have empirical content) can and should be subjected to tests which may falsify them.”
+
+“If [claims to knowledge are] retained, further differentiation may be made on the basis of how much subjection to criticism they have received, how severe such criticism has been, and how probable the theory is, with the least probable theory that still withstands attempts to falsify it being the one to be preferred.”
+
+With verificationism, our intuition is to have the most probable, most corroborated theory. However, Karl Popper and David Miller propose criticisms of justificationism and positivism.
+
+1. Doubts the naive empiricism of induction based on the critical arguments of David Hume. “According to the critical rationalist, if there is a sense in which humans accrue knowledge positively by experience, it is only by pivoting observations off existing conjectural theories pertinent to the observations, or off underlying cognitive schemas which unconsciously handle perceptions and use them to generate new theories...The myth that we induce theories from particulars is persistent because when we do this we are often successful, but this is due to the advanced state of our evolved tendencies. If we were really "inducting" theories from particulars, it would be inductively logical to claim that the sun sets because I get up in the morning, or that all buses must have drivers in them (if you've never seen an empty bus).”
+
+2. “Popper and David Miller showed in 1983 that evidence supposed to partly support a hypothesis can, in fact, only be neutral to, or even be counter-supportive of the hypothesis.” - A proof of the impossibility of inductive probability
+
+Consider the claim: “All swans are white.”
+
+To confirm this hypothesis, we can look for swans and each white swan we find confirms the claim, supposedly adding more support. Now consider the [contrapositive](https://en.wikipedia.org/wiki/Contraposition#Intuitive_explanation) of the claim, “All non-white things are not-swans.” These two claims are logically equivalent; they hold the same truth value, supporting or disproving one effects the other equally. Now we can confirm our claim with anything that is not white.
+
+3. Related to the point above, David Miller, attacks the use of "good reasons" in general (including evidence supposed to support the excess content of a hypothesis). He argues that good reasons are neither attainable, nor even desirable. Basically, Miller asserts that all arguments purporting to give valid support for a claim are either circular or question-begging. That is, if one provides a valid deductive argument (an inference from premises to a conclusion) for a given claim, then the content of the claim must already be contained within the premises of the argument (if it is not, then the argument is ampliative and so is invalid). Therefore, the claim is already presupposed by the premises, and is no more "supported" than are the assumptions upon which the claim rests, i.e. begging the question.
+
+All squares have 4 sides
+
+This shape is a square
+
+Therefore this shape has 4 sides
+
+Notice the conclusion is stated in the premises. The support of the conclusion is equal to the support of the premises.
+
+The justificatory difficulty is also seen in [Agrippa’s trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma): arguments are supported by circular reasoning, unattainable infinite regression, or unsupported axioms.
+
+**Key Principles**:
+- Criticize our hypotheses/conjectures rationally and empirically (falsify)
+- Retain the least probable hypotheses with the highest information content
+    - This leaves the hypotheses sensitive to future falsification
+- Knowledge and truth are objective
+    - But not in the “traditional” sense
+    - We can approximate truth
+
+“Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.”
+
+Thought Experiment:
+Consider if everyone lost their engineering knowledge. They might have some beliefs, but they are all untrue beliefs. Although the knowledge of engineering books doesn’t cohere with the beliefs of people, humans would eventually learn engineering skills through texts. Therefore knowledge can exist independently of belief in books.
+
+“...scientists gain knowledge not by proofs but by refutations of good conjectures and by replacing them with new and better ones. These new conjectures avoid earlier mistakes, explain more, and invite new tests,” [IEP](https://www.iep.utm.edu/cr-ratio/).
+
+Be bold in your hypotheses so you can be wrong!
+
+---
+
+We have some mental model, a schema, to successfully determine cause and effect. What is it? How does it work?
+
+Consider the relationship of altitude and temperature. The higher up we go away from the surface of the Earth, the colder things get, but the relationship goes one way. If we cool an object down, it doesn't change its altitude, its height. Why does that make sense?
+
+If you ask a child who has only seen buses with a bus driver and ask them, "can there be a bus without a bus driver?" they should answer yes. We intuitively know bus drivers are separate from buses even though 100% of buses in observations have bus drivers, how? Are we justified?
+
+In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. They argue the topic is confused because of a lack of precise language to formulate cause and effect questions. With the right language, we can determine cause and effect. Pearl argues for a three layered explanation of interpreting observations, seeing, doing, and imagining.
+
+**1. Seeing (Association)**
+
+Seeing is pure observation. This is the statistical level of correlation. The majority of animals besides humans are at this stage. Does a scary predator jump out from behind a bush? Associate that bush with the predator and avoid it. Do prey congregate around specific trees? Stick near those trees to find prey.
+
+**Doing**
+
+Doing is interacting with the environment. Cognition is embodied. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled. The visual change occurs with the sunglasses covering the eyes.
+
+**Imagining**
+
+Imagination is the highest level of understanding.
+
+---
+
+determining cause and effect (book of why), physics based equation for intelligence, simple rule explaining intelligent behavior (maximizing compression).
 
 However, Bayes theorem is not the most powerful explanation. [The Book of Why]
 
@@ -577,4 +648,4 @@ The objective meaning of life is to resist entropy, the inevitable dispersal of 
 
 The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and the interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization.
 
-The inter-subjective meaning of life is to support the sustainable flourishing of life. 
+The inter-subjective meaning of life is to support the sustainable flourishing of life.
