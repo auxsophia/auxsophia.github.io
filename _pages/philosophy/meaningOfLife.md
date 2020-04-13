@@ -540,7 +540,7 @@ Consider the question: [If a tree falls in a forest and no one is around to hear
 
 Our brain receives data, bits of information, about the outside world through its sense organs. Consider sight, we see using our eyes. Our eyes are sensors that can detect a narrow width of the energy spectrum. Some creatures see far with clarity, others near sighted, some see better under water or at night. The sense data we receive is processed in our brains. We refine our understanding of the world based on incoming data and our interaction.
 
-We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation.
+We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation. Bayesian inference provides a method for inferring unobserved phenomena.
 
 ---
 
@@ -597,25 +597,74 @@ Consider the relationship of altitude and temperature. The higher up we go away 
 
 If you ask a child who has only seen buses with a bus driver and ask them, "can there be a bus without a bus driver?" they should answer yes. We intuitively know bus drivers are separate from buses even though 100% of buses in observations have bus drivers, how? Are we justified?
 
-In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. They argue the topic is confused because of a lack of precise language to formulate cause and effect questions. With the right language, we can determine cause and effect. Pearl argues for a three layered explanation of interpreting observations, seeing, doing, and imagining.
+In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. They argue the topic is confused because of a lack of precise language to formulate cause and effect questions. With the right language, we can determine cause and effect. Pearl argues for a three layered explanation of interpreting observations, seeing, doing, and imagining. (See figure 1.2 from the book.)
 
 **1. Seeing (Association)**
 
+Activity: seeing, observing
+
+Questions: _What if I see...?_ How are the variables related? How would seeing X change my belief in Y?
+
 Seeing is pure observation. This is the statistical level of correlation. The majority of animals besides humans are at this stage. Does a scary predator jump out from behind a bush? Associate that bush with the predator and avoid it. Do prey congregate around specific trees? Stick near those trees to find prey.
 
-**Doing**
+**2. Doing (Intervention)**
 
-Doing is interacting with the environment. Cognition is embodied. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled. The visual change occurs with the sunglasses covering the eyes.
+Activity: doing, intervening
 
-**Imagining**
+Questions: _What if I do...? How?_ What would Y be if I do X? How can I make Y happen?
 
-Imagination is the highest level of understanding.
+Doing is interacting with the environment. Cognition is embodied. Tool using creatures that plan are on this level. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled. The visual change occurs with the sunglasses covering the eyes.
+
+**3. Imagining (Counterfactuals)**
+
+Activity: imagining, retrospection, understanding
+
+Questions: _What if I had done...? Why?_ Was it X that caused Y? What if X had not occurred? What if I had acted differently?
+
+Imagination is the highest level of understanding. "Counterfactual learners, on the top rung, can imagine worlds that do not exist and infer reasons for observed phenomena."
+
+Pearl once believed as many others that Bayesian rationalist was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect with many colleagues, scientists and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/confounding.png" width="100%" height="100%">
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/walking-cause.png" width="100%" height="100%">
+{: refdef}
 
 ---
 
-determining cause and effect (book of why), physics based equation for intelligence, simple rule explaining intelligent behavior (maximizing compression).
+So far much of this explanation is objective. For many this will not help our personal woes or provide direction. We expect the meaning of life to tell us what we _should_ be doing. First we will attempt to explain why we are currently doing what we are doing.
 
-However, Bayes theorem is not the most powerful explanation. [The Book of Why]
+I found the work of Juergen Schmidhuber incredible. In his paper, [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360), Schmidhuber gives an algorithmic framework of the drive of all intelligent creatures.
+
+The abstract:
+> I argue that data becomes temporarily interesting by itself to some self-improving, but computationally limited, subjective observer once he learns to predict or compress the data in a better way, thus making it subjectively simpler and more beautiful. Curiosity is the desire to create or discover more non-random, non-arbitrary, regular data that is novel and surprising not in the traditional sense of Boltzmann and Shannon but in the sense that it allows for compression progress because its regularity was not yet known. This drive maximizes interestingness, the first derivative of subjective beauty or compressibility, that is, the steepness of the learning curve. It motivates exploring infants, pure mathematicians, composers, artists, dancers, comedians, yourself, and (since 1990) artificial systems.
+
+A simple example of compression is:
+“For example, if you receive a data package which contains "AAAAABBBB", you could compress that into "5A4B", which has the same meaning but takes up less space. This type of compression is called "run-length encoding", because you define how long the "run" of a character is. In the above example, there are two runs: a run of 5 A's, and another of 4 B's,” [Data Compression](https://simple.wikipedia.org/wiki/Data_compression).
+
+In the human case, our data stream is not a sequence of letters but the whole of our experience, our thoughts, feelings, and sensations. Our encoding, decoding, and compression scheme is still not fully known. However, the algorithmic framework is given in section 1.2 as follows (with citations removed):
+
+1. **Store everything**. During interaction with the world, store the entire raw history of actions and sensory observations including reward signals—the data is holy as it is the only basis of all that can be known about the world. To see that full data storage is not unrealistic: A human lifetime rarely lasts much longer than 3×10^9 seconds. The human brain has roughly 10^10 neurons, each with 10^4 synapses on average. Assuming that only half of the brain’s capacity is used for storing raw data, and that each synapse can store at most 6 bits, there is still enough capacity to encode the lifelong sensory input stream with a rate of roughly 10^5 bits/s, comparable to the demands of a movie with reasonable resolution. The storage capacity of affordable technical systems will soon exceed this value. If you can store the data, do not throw it away!
+
+2. **Improve subjective compressibility**. In principle, any regularity in the data history can be used to compress it. The compressed version of the data can be viewed as its simplifying explanation. Thus, to better explain the world, spend some of the computation time on an adaptive compression algorithm trying to partially compress the data. For example, an adaptive neural network may be able to learn to predict or postdict some of the historic data from other historic data, thus incrementally reducing the number of bits required to encode the whole.
+
+3. **Let intrinsic curiosity reward reflect compression progress**. The agent should monitor the improvements of the adaptive data compressor: whenever it learns to reduce the number of bits required to encode the historic data, generate an intrinsic reward signal or curiosity reward signal in proportion to the learning progress or compression progress, that is, the number of saved bits.
+
+4. **Maximize intrinsic curiosity reward**. Let the action selector or controller use a general Reinforcement Learning (RL) algorithm (which should be able to observe the current state of the adaptive compressor) to maximize expected reward, including intrinsic curiosity reward. To optimize the latter, a good RL algorithm will select actions that focus the agent’s attention and learning capabilities on those aspects of the world that allow for finding or creating new, previously unknown but learnable regularities. In other words, it will try to maximize the steepness of the compressor’s learning curve. This type of active unsupervised learning can help to figure out how the world works.
+
+Section 1.3 discusses the relation to external reward. The description given applies to internal rewards, curiosity, satisfaction, but "Of course, the real goal of many cognitive systems is not just to satisfy their curiosity, but to solve externally given problems. Any formalizable problem can be phrased as an RL problem for an agent living in a possibly unknown environment, trying to maximize the future external reward expected until the end of its possibly finite lifetime."
+
+In many contexts, we live in a rare reward environment. One way of focusing and directing our actions is through our internal rewards of compression until an external (rare) reward is reached.
+
+Section 2 discusses the consequences of the compression progress drive which Schmidhuber argues intelligence and cognition are by-products of.
+
+---
+
+
+physics based equation for intelligence, simple rule explaining intelligent behavior (maximizing compression).
 
 ---
 
@@ -643,6 +692,20 @@ The function of the brain is to provide coherent control over the actions of an 
 Philosophy exists as a reflection on the three levels of reality and how they relate to one another.
 
 ---
+
+Returning to objective reality, we can define important and meaningful events. The example of water as entropy is again useful. Water as ice is a low entropy configuration where entropy is the number of ways the atoms can be arranged to create the form of ice. Imagine an ice cube melts into a liquid puddle. The more likely configuration of the puddle is an even circle in all directions. If we were able to follow a specific atom of water, H2O, for instance the atom in the top right corner of the cube, its journey to its place in the configuration of the puddle can take multiple paths. All that matters for the configuration is the position at some time. If that atom took an alternate path and another atom took the original atom's path, we would have a puddle with an indistinguishable form. The entropy of both puddles would be the same at that moment. Configurations with high entropy are common or likely events.
+
+Unlikely events are rare configurations with a small number of paths. Some configurations have one path, one sequence of events, that lead to the arrangement. The meaningful and important events limit the number of possible configurations of matter. With an understanding of cause and effect we can determine which events are necessary or the reason for a configuration. Our universe is like water in that existence has an incredible number of possible configurations, and we exist in this one.
+
+Physicists say observers within a universe will experience it as infinite though it may be finite. Why does we live in this configuration? Perhaps there are multiple universes all existing at the same time. When the string of an instrument is plucked and vibrates the oscillation creates a wave in the air to create sound. If we could slow time to see the oscillation of the string clearly, the string's position would spend most of its time around the center and moving to the farthest distances the least number of times. There could be an incredible number of universes almost exactly like ours taking on the most likely configurations. There are also those universes with rare configurations which would require an increasingly unlikely chain of events, unlikely but not impossible. In the infinity of time and space, if they are infinite, even the rarest probability can occur.
+
+From the inside, our universe appears to be a deterministic state, each moment an effect dependent on the chain of causes prior. Our configuration is set, and we're living through it. The truth appears to be that we are in no more control of our futures than a single atom. Our path simply has an extremely complex number of configurations. Of course we desire certain arrangements more than others. There are universes with no conscious life. There are universes of conscious lives of intense suffering, greatness, flourishing. We have all evolved with drives and desires. We want some futures more than others. From an objective perspective they are all simply the state of events, but subjectively we work towards and hope for events which satisfy our needs and wants.
+
+All we can really do is hope; hope we are in the universe which arranges our lives into a state we want. We can hope our actions and events outside of us are a part of the sequence of events which lead to a desired life, but we are powerless to create change within our universe. The chain of cause and effect from the big bang, the origin of our universe, appears to be unbroken. We are subjective finite beings with imagination. We can understand the moments which will likely lead to desired outcomes, but we can't change what's already in motion.
+
+Subjectively, we will feel as though we are making choices, but our choices are the result of information processing. Life is based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals. 
+
+
 
 The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. The universe we exist in appears to be a chain reaction from a fraction of a moment after the beginning of the universe. The next moment is a function of the current moment. A future moment can likely only be determined by the passage of each moment to that moment, that is, things must play out cannot be fully predetermined. Our universe may just be one data point in a probability distribution of possible universes.
 
