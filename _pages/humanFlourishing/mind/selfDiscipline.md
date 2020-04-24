@@ -36,3 +36,24 @@ This is related to drug addiction and addiction in general which is often seen a
 Here is an [awesome comic](http://www.stuartmcmillen.com/comic/rat-park/#page-1) explaining the experiments by artist Stuart McMillen.
 
 ***
+
+---
+
+# Self-mastery
+
+The work of [Shaolin Master Shi Heng Yi](https://www.youtube.com/watch?v=4-079YIasck) provides a guide on self-mastery:
+
+### 5 Hindrances to Self-Mastery
+
+1. Sensual desire (sight/touch/taste/smell/hearing) = Am I addicted?
+2. Ill will / aversion = Am I feeling a negative emotion?
+3. Dullness / heaviness = Am I unmotivated?
+4. Restlessness = Is my mind jumping from thought to thought?
+5. Sceptical doubt = Am I indecisive?
+
+### Rain
+
+Recognize which hindrance you're experiencing
+Accept what you're experiencing
+Investigate why you're experiencing the hindrance
+Non-identify with the experience: 'I am not the body, I am not the mind, I am not my emotion'
