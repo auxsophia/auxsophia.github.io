@@ -10,6 +10,13 @@ _by Elliott Ploutz_
 
 ---
 
+This is my video summary of the online course Learning How to Learn: Powerful mental tools to help you master tough subjects.
+
+<iframe width="760" height="500" src="https://youtu.be/m2IKTZ1ZjuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+
 ### Introduction
 
 I took an online course from [Coursera.org](https://www.coursera.org/) on [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn), finishing the material on January 1st, 2016. The lecturers cover evidence based research on how to learn and master any academic concepts. This is my summary for myself which I now share. Based on what I know of learning, I highly recommend you take the course yourself to solidify your understanding, however using these tips will bring immediate benefits. The summary is 14 pages followed by references and supplemental material.
