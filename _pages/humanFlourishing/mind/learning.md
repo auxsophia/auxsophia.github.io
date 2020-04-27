@@ -12,7 +12,7 @@ _by Elliott Ploutz_
 
 This is my video summary of the online course Learning How to Learn: Powerful mental tools to help you master tough subjects.
 
-<iframe width="760" height="500" src="https://youtu.be/m2IKTZ1ZjuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/m2IKTZ1ZjuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
