@@ -811,9 +811,55 @@ The ranking and placement of moral spheres also divides the cultures of liberals
 
 So why aren't we interacting with aliens right now?
 
-"The Fermi paradox...is the apparent contradiction between the lack of evidence for extraterrestrial civilizations and various high estimates for their probability (such as some optimistic estimates for the Drake equation)," [Wikipedia](https://en.wikipedia.org/wiki/Fermi_paradox).
+"The Fermi paradox...is the apparent contradiction between the lack of evidence for extraterrestrial civilizations and various high estimates for their probability (such as some optimistic estimates for the Drake equation)," [Wikipedia](https://en.wikipedia.org/wiki/Fermi_paradox). A response to the Fermi paradox is the idea of a _Great Filter_ preventing civilizations from reaching space travel and interplanetary communication.
 
-There are likely a small number of possible ethical systems which can support and sustain civilizations through advanced stages of life.
+---
+
+### [The Great Filter](https://en.wikipedia.org/wiki/Great_Filter)
+
+> The concept originates in Robin Hanson's argument that the failure to find any extraterrestrial civilizations in the observable universe implies the possibility something is wrong with one or more of the arguments from various scientific disciplines that the appearance of advanced intelligent life is probable; this observation is conceptualized in terms of a "Great Filter" which acts to reduce the great number of sites where intelligent life might arise to the tiny number of intelligent species with advanced civilizations actually observed (currently just one: human). This probability threshold, which could lie behind us (in our past) or in front of us (in our future), might work as a barrier to the evolution of intelligent life, or as a high probability of self-destruction. The main counter-intuitive conclusion of this observation is that the easier it was for life to evolve to our stage, the bleaker our future chances probably are.
+
+With no evidence of intelligent life other than ourselves, it appears that the process of starting with a star and ending with "advanced explosive lasting life" must be unlikely. This implies that at least one step in this process must be improbable. Hanson's list, while incomplete, describes the following nine steps in an "evolutionary path" that results in the colonization of the observable universe:
+
+1. The right star system (including organics and potentially habitable planets)
+2. Reproductive molecules (e.g. RNA)
+3. Simple (prokaryotic) single-cell life
+4. Complex (eukaryotic) single-cell life
+5. Sexual reproduction
+6. Multi-cell life
+7. Tool-using animals with intelligence
+8. Where we are now
+9. Colonization explosion
+
+According to the Great Filter hypothesis at least one of these steps—if the list were complete—must be improbable. If it's not an early step (i.e., in our past), then the implication is that the improbable step lies in our future and our prospects of reaching step 9 (interstellar colonization) are still bleak. If the past steps are likely, then many civilizations would have developed to the current level of the human species. However, none appear to have made it to step 9, or the Milky Way would be full of colonies. So perhaps step 9 is the unlikely one, and the only things that appear likely to keep us from step 9 are some sort of catastrophe, an underestimation of the impact of procrastination as technology increasingly unburdens existence or resource exhaustion leading to the impossibility of making the step due to consumption of the available resources (like for example highly constrained energy resources). So by this argument, finding multicellular life on Mars (provided it evolved independently) would be bad news, since it would imply steps 2–6 are easy, and hence only 1, 7, 8 or 9 (or some unknown step) could be the big problem.
+
+---
+
+Of course there are counter responses to the Great Filter, like aliens could choose to explore virtual worlds instead of traveling space. Virtual exploration is much more manageable in terms of resources, time, and risk.
+
+---
+
+Importantly, the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale) is a method of measuring a civilization's level of technological advancement based on the amount of energy they are able to use.
+
+- A Type I civilization, also called a planetary civilization—can use and store all of the energy available on its planet.
+- A Type II civilization, also called a stellar civilization—can use and control energy at the scale of its planetary system.
+- A Type III civilization, also called a galactic civilization—can control energy at the scale of its entire host galaxy.
+
+---
+
+Based on the Kardashev scale, our species is approaching but well beneath a type I civilization. There are likely a small number of possible ethical systems which can support and sustain civilizations through advanced stages of life. As Aristotle explained, there are many ways to go wrong, but few ways to be correct.
+
+The moralities and strategies which lead to self destruction represent the boundaries of ethical systems. Any morality which involves killing all its offspring will not survive to the next generation. Do we ever see animals killing their offspring? Yes, but typically there's an evolutionary reason. Male lions kill all the cubs when they take over a group of lionesses. They do this to make room for their cubs and so those cubs don't grow to usurp the new lion later. Species which have long gestation and narrow windows of reproduction tend to have some infanticide. What this shows is there can be exceptions to general moral strategies in particular situations.
+
+Morality can be universal given the limits of the situation. If we have full information an optimal strategy or choice can be determined in principle. Of course, life is rarely a full-information situation, and we are finite, subjective creatures. In morality, we must give our best guess at what will bring about our desired end state of events.
+
+---
+
+# The Link to Artificial Intelligence
+
+Is evolution moving toward something? Is there an end goal? Will evolution go towards perfection? But what does perfection mean?
+
+Creatures tend toward a state of equilibrium exchange with their environment. What exists and continues to exist will be a product of luck and natural selection. Where conditions allow, ecosystems will continuously arise, die, and new complexity will arise from the previous ecosystem. 
 
 
 ---
@@ -853,7 +899,7 @@ From the inside, our universe appears to be a deterministic state, each moment a
 
 All we can really do is hope; hope we are in the universe which arranges our lives into a state we want. We can hope our actions and events outside of us are a part of the sequence of events which lead to a desired life, but we are powerless to create change within our universe. The chain of cause and effect from the big bang, the origin of our universe, appears to be unbroken. We are subjective finite beings with imagination. We can understand the moments which will likely lead to desired outcomes, but we can't change what's already in motion.
 
-Subjectively, we will feel as though we are making choices, but our choices are the result of information processing. Life is based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
+Subjectively, we will feel as though we are making choices, but our choices are the result of information processing according to the laws of nature. Life is based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
 
 
 
@@ -862,3 +908,7 @@ The objective meaning of life is to resist entropy, the inevitable dispersal of 
 The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and the interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization.
 
 The inter-subjective meaning of life is to support the sustainable flourishing of life.
+
+We come from nothing, and we will return to nothing. From cosmic dust to cosmic dust.
+
+What will you do with your cosmically brief time? What information will you embody?
