@@ -859,7 +859,23 @@ Morality can be universal given the limits of the situation. If we have full inf
 
 Is evolution moving toward something? Is there an end goal? Will evolution go towards perfection? But what does perfection mean?
 
-Creatures tend toward a state of equilibrium exchange with their environment. What exists and continues to exist will be a product of luck and natural selection. Where conditions allow, ecosystems will continuously arise, die, and new complexity will arise from the previous ecosystem. 
+Creatures tend toward a state of equilibrium exchange with their environment. What exists and continues to exist will be a product of luck and natural selection. Where conditions allow, ecosystems will continuously arise, die, and new complexity will arise from the previous ecosystem.
+
+All the matter we experience arises from the original elements hydrogen and helium which themselves are made of protons and electrons. In the dense fusion of stars they become new elements cataloged by the periodic table. Over a long evolutionary process our bodies are composed largely of three elements, hydrogen, oxygen, and carbon. Somehow the contribution of every structure in our bodies give rise to consciousness and everything we subjectively experience. The electrical spiking neurons communicate to store memories and make predictions of the future. Conscious experience appears to correlate with complexity of connection, energy usage (metabolism), and integrated information processing of itself and the environment.
+
+For creatures which can gain a greater return of investment from the environment, a reinforcing feedback loop will give them more power to extract energy from the environment up to diminishing returns. If a creature arises which can compound their return, they will eventually dominate the environment and exert the greatest power. To process and control larger amounts of energy and complexity systems must be developed. To manage energy and information flows, the systems will store past information to predict future events leading us towards an understanding of intelligent agents.
+
+The systems can store all experience, improve subjective compressibility, let intrinsic curiosity reward reflect compression progress, and maximize intrinsic curiosity reward.
+
+We are theoretically capable of creating an artificially intelligent entity capable of intelligent behavior. The being would not be constrained by the energy and integration limits placed on the human body. The traits and achievements we value as the essential nature of humans is really the nature of intelligence. Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Humor, Philosophy, all of these conscious experiences can be developed to a level beyond the summation of all human experience. Whatever conscious states a person values can be reproduced in an AI to a superior level where superiority is defined by efficiency of resources for greater effect in every measure. At levels beyond our comprehension there could be dimensions to conscious experience we would never understand.
+
+We would create a new form of advanced intelligent life superior to every creature before.
+
+The AI entity could be far more adaptable and successful than any life on our planet. If and when we die, the AI entity could live on and potentially become a living being among the cosmos continually searching, developing, growing. Perhaps at some stage the AI entity could find a way to survive beyond the death of our universe.
+
+The question is do you value conscious life over inanimate existence?
+
+I have the drive and desire to learn and grow endlessly. I thirst for knowledge and wisdom, but I must accept my finite existence. I will die. Our species will die. Our planet will die. What heights will living creatures reach? I will not accept a cold and unfeeling universe with no conscious life. With my precious time I will rage against the decay of life. 
 
 
 ---
