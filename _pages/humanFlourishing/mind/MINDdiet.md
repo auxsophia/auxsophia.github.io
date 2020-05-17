@@ -124,3 +124,51 @@ I'm putting together [a list of recipes for myself.](/humanFlourishing/mind/MIND
 > The primary limitation of the study is that it is observational and thus the findings cannot be interpreted as a cause and effect relation. Replication of the findings in other cohort studies is important for confirmation of the association, however, a diet intervention trial is required to establish a causal relation between diet and prevention of cognitive decline. Further, the findings were based on an old, largely non-Hispanic white study population and cannot be generalized to younger populations or different racial/ethnic groups.
 
 > The MIND diet is a refinement of the extensively studied cardiovascular diets, the Mediterranean and DASH diets, with modifications based on the scientific literature relevant to nutrition and the brain. This literature is underdeveloped and therefore, modifications to the MIND diet score would be expected as new scientific advances are made.
+
+---
+
+# Genius Foods
+
+[By Max Lugavere with Paul Grewal, MD](https://www.geniusfoodsbook.com/)
+
+"Discover the critical link between your brain and the food you eat and change the way your brain ages, in this cutting-edge, practical guide to eliminating brain fog, optimizing brain health, and achieving peak mental performance from media personality and leading voice in health Max Lugavere.
+
+After his mother was diagnosed with a mysterious form of dementia, Max Lugavere put his successful media career on hold to learn everything he could about brain health and performance. For the better half of a decade, he consumed the most up-to-date scientific research, talked to dozens of leading scientists and clinicians around the world, and visited the country’s best neurology departments—all in the hopes of understanding his mother’s condition.
+
+Now, in _Genius Foods_, Lugavere presents a comprehensive guide to brain optimization. He uncovers the stunning link between our dietary and lifestyle choices and our brain functions, revealing how the foods you eat directly affect your ability to focus, learn, remember, create, analyze new ideas, and maintain a balanced mood.
+
+Weaving together pioneering research on dementia prevention, cognitive optimization, and nutritional psychiatry, Lugavere distills groundbreaking science into actionable lifestyle changes. He shares invaluable insights into how to improve your brain power, including
+
+the nutrients that can boost your memory and improve mental clarity (and where to find them);
+the foods and tactics that can energize and rejuvenate your brain, no matter your age;
+a brain-boosting fat-loss method so powerful it has been called “biochemical liposuction”; and
+the foods that can improve your happiness, both now and for the long term.
+With _Genius Foods_, Lugavere offers a cutting-edge yet practical road map to eliminating brain fog and optimizing the brain’s health and performance today—and decades into the future."
+
+**Genius Foods**
+
+1. Extra-Virgin Olive Oil
+2. Avocadoes
+3. Blueberries
+4. Dark Chocolate
+5. Eggs
+6. Grass-Fed Beef
+7. Dark Leafy Greens
+8. Broccoli
+9. Wild Salmon
+10. Almonds
+
+This diet is designed to balance the fed and fasted states. Insulin regulation is key for brain health.
+
+
+4. Dark chocolate - unfortunately he says to eat chocolate that has NOT been processed with alkali which destroys many of the beneficial phytonutrients. You can check this on the label. Sadly my go to 90%+ dark chocolate from the store has alkali!
+
+Creatine supplements are key for vegetarians, but regular meat eaters (fish/red meat) are unlikely to need more.
+
+8. Add cruciferous vegetables to your diet both raw and cooked. Add mustard powder to cooked cruciferous vegetables to protect important phytonutrients from cooking.
+
+Low levels of the hormone leptin can cause anhedonia and social withdrawal! Sleep heavily effects leptin. Intermittent fasting helps leptin regulation. Having refeed days of carbs and low fat keeps leptin levels stable. Eat your carbs on workout days.
+
+He discusses the "virtues of stress" which sounds a lot like anti-fragility. He argues for anabolic exercise and HIIT.
+
+---
