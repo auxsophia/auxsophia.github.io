@@ -4,6 +4,6 @@ title: Philosopher Scholar - Body
 permalink: /humanFlourishing/body/
 ---
 
-The three main components of maintaining a body are [nutrition](/nutrition/), use ([exercise](/calisthenics/)), and [posture](/posture/).
+The three main pillars of health are [sleep](/sleep/), [nutrition](/nutrition/), and [exercise](/calisthenics/).
 
-Very important is proper [hygiene](/hygiene/).
+Very important is proper [hygiene](/hygiene/) and [posture](/posture/).

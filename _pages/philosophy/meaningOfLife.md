@@ -6,7 +6,7 @@ permalink: /philosophy/meaningOfLife/
 
 Here is my attempt to answer the question of the meaning of life.
 
-I'm a person who's had a lot of time to think and reflect on life and my experience. I've searched for meaning my whole life. Any talk of meaning has focused my attention.
+I'm a person who's had a lot of time to think and reflect on life and my experience. I've searched for meaning my entire life. Any talk of meaning has focused my attention.
 
 If you think the answer will bring you peace, tranquility, or happiness, then I will tell you this:
 
@@ -26,7 +26,38 @@ Reflect on what need is missing from your life and work to satisfy it.
 
 The level beyond a lack of needs is a state of flow.
 
+---
 
+"In positive psychology, a [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)), also known colloquially as being in the zone, is the mental state in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by the complete absorption in what one does, and a resulting transformation in one's sense of time."
+
+Components of flow:
+- Intense and focused concentration on the present moment
+- Merging of action and awareness
+- A loss of reflective self-consciousness
+- A sense of personal control or agency over the situation or activity
+- A distortion of temporal experience, one's subjective experience of time is altered
+- Experience of the activity as intrinsically rewarding, also referred to as autotelic experience
+- Immediate feedback
+- Feeling the potential to succeed
+- Feeling so engrossed in the experience, that other needs become negligible
+
+Flow theory postulates three conditions that have to be met to achieve a flow state:
+
+1. One must be involved in an activity with a clear set of goals and progress. This adds direction and structure to the task.
+2. The task at hand must have clear and immediate feedback. This helps the person negotiate any changing demands and allows them to adjust their performance to maintain the flow state.
+3. One must have a good balance between the perceived challenges of the task at hand and their own perceived skills. One must have confidence in one's ability to complete the task at hand.
+
+Schaffer (2013) proposed seven flow conditions:
+
+1. Knowing what to do
+2. Knowing how to do it
+3. Knowing how well you are doing
+4. Knowing where to go (if navigation is involved)
+5. High perceived challenges
+6. High perceived skills
+7. Freedom from distractions
+
+---
 
 Haidt proposes the equation for happiness as: H = S + C + V
 
@@ -35,31 +66,83 @@ S = your biological set point of emotions
 C = circumstances
 V = voluntary actions
 
-We mostly need to invest work and energy into our voluntary actions to make ourselves as happy as we desire.
+S - "The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes," [hedonic adaptation - Wikipedia](https://en.wikipedia.org/wiki/Hedonic_treadmill), "Hedonic adaptation is a process or mechanism that reduces the effective impact of emotional events. Generally, hedonic adaptation involves a happiness "set point", whereby humans generally maintain a constant level of happiness throughout their lives, despite events that occur in their environment. The process of hedonic adaptation is often conceptualized as a treadmill, since one must continually work to maintain a certain level of happiness."
+
+Many of the things we think will make us happy will only lead to a fleeting, temporary happiness which we adapt to. Anything you are searching for that will be static and unchanging will eventually not bring you happiness. We evolved this way because content creatures often become stagnant and don't grow.
+
+If you want to know how happy you will be you should reflect on how happy you have been. The average is likely your set point.
+
+_If your average happiness makes you dissatisfied, don't give up yet!_
+
+You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on [sleep](/sleep/), [nutrition](/MINDdiet/), and [exercise](/calisthenics/), in that order.
+
+Your circumstances influence happiness and your ability to maintain your health. Some environments are toxic or don't support growth. We must make a voluntary action to change to a different set of circumstances as best we can.
+
+We mostly need to invest work and energy into our voluntary actions to make ourselves as happy as we desire. We must choose to prioritize our health with a focus on balancing our needs in life.
+
+Recognize and accept that happiness and well-being are not a destination to reach and rest at but you must continually strive for and renew.
+
+A short story on controlling emotions:
+
+---
+
+A monk asked their master how to control their own emotions. The master told the monk to go down to the ocean and stop the waves from crashing. Accustomed to strange challenges, the monk went down to the ocean and tried to stop the waves by punching and kicking. The waves did break in some parts, but the monk was still pushed over and tumbled by the strong waves. The monk tried many techniques including going under or over the waves, but the waves kept coming.
+
+Emotions are like waves. Sometimes they are pleasant and gentle. Sometimes we can ignore them. Sometimes the waves are so powerful they threaten to destroy us.
+
+We all have different levels of sensitivity. Some of us are in the ocean of emotion with water at our waist. Some are deeper in the ocean with turbulent and frightening currents. Some of us are not even in the water but stand far away.
+
+In all cases we must accept the waves will come. The waves will hit us and they will recede.
+
+With this reflection, the monk sits in the ocean and no longer attempts to break the waves. The waves wash over the monk, each one unique and different from the last. Some waves push the monk out of balance, but the monk in time returns to their position and peace. The monk cannot control the waves, but the monk has the most influence over their reaction.
+
+---
 
 The work of [Shaolin Master Shi Heng Yi](https://www.youtube.com/watch?v=4-079YIasck) provides a guide on self-mastery:
 
 ### 5 Hindrances to Self-Mastery
 
-1. Sensual desire (sight/touch/taste/smell/hearing) = Am I addicted?
+1. Sensual desire (sight/touch/taste/smell/hearing) = Am I distracted or addicted?
 2. Ill will / aversion = Am I feeling a negative emotion?
 3. Dullness / heaviness = Am I unmotivated?
 4. Restlessness = Is my mind jumping from thought to thought?
-5. Sceptical doubt = Am I indecisive?
+5. Skeptical doubt = Am I indecisive?
 
 ### Rain
 
-Recognize which hindrance you're experiencing
-Accept what you're experiencing
-Investigate why you're experiencing the hindrance
-Non-identify with the experience: 'I am not the body, I am not the mind, I am not my emotion'
+- Recognize which hindrance you're experiencing
+- Accept what you're experiencing
+- Investigate why you're experiencing the hindrance
+- Non-identify with the experience: 'I am not the body, I am not the mind, I am not my emotion'
 
+---
+
+### Loving Yourself and Others
+
+How can you learn to love yourself and others?
+
+The information surrounding relationships is so powerful I hesitate to share it, because it can cause as much harm as it can good. However, the tools of relationships are critical for a full and healthy human life.
+
+I will propose three parts to satisfying relationships based on social engineering which you can use to reflect on your past relationships. Your most cherished relationships will often involve:
+
+1. Trust
+2. Empathy
+3. Rationality
+
+You must trust the other person. You should be able to accurately predict how they will react. That person should have the ability to understand the emotional content of your experience. You should trust the other person to be rational, to make appropriate choices given enough information. Do your best relationships have these characteristics?
+
+Learning to love yourself is much like building a deep relationship with another person. You should demonstrate your trustworthiness, display empathy, and be rational. Do you trust yourself? Do you keep your personal promises and commitments? Are you consistent in your behavior? Are you empathetic and understanding with your emotions? Do you forgive yourself for past actions? How often do you check in and assess how you are feeling? Are you rational and make the right choices given what you know? Do you fall into impulses and easy routines?
+
+To love yourself, treat yourself as a friend. Invest in yourself. Make a commitment to your emotional health then follow up later. You will build trust and empathy in yourself. Invest in your rationality. Take time to explore all of your options. First determine what is best then assess how able you are to reach the best outcome. Try to be objective and fair. Recognize your judgment of yourself and others is likely at least 10% inaccurate. With doubt cut yourself and others slack for failures, but work towards overcoming those obstacles in the future.
+
+If this is so clear, why is it rare or difficult? Loving yourself and others takes work, energy, and investment. Relationships and selves are highly complex. Forces outside of our control will eventually disrupt our bonds. When that happens we can do our best to repair and reinforce our relationships.
 
 If you find this answer satisfying, I suggest you stop now. I wish you a good life.
 
 ---
+---
 
-As for the truest, most objective, most accurate description of reality and the meaning of life, before I get into it I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are productive lies, but inaccurate to the most faithful description of reality.
+As for the truest, most objective, most accurate description of reality and the meaning of life, before I get into it I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are productive lies, but inaccurate to the truest description of reality.
 
 When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. Now the subjective experience is when a human being appears on the island.
 
@@ -75,7 +158,7 @@ As we have described money on an analysis of three levels of reality, we can spl
   - Physics giving rise to chemistry giving rise to biology
 
 - Subjective reality
-  - Psychology arising from biology.
+  - Cognition and psychology arising from biology.
 
 - Inter-subjective
   - Psychology giving rise to mass psychology, sociology, and the social sciences
@@ -117,8 +200,7 @@ Do you think a computer could arise from these three simple rules? In fact, a co
 
 A large part of this demonstration is to show what properties can arise from simple operations. I didn't expect to see so many incredible patterns. Consider the universe we inhabit. What are the basic rules that govern this universe? [Here's a list of fundamental physics formulas.](https://en.wikiversity.org/wiki/Fundamental_Physics/Formulas)
 
-Instead of a few basic rules, humans have discovered many laws governing the transfer of energy, heat, motion, etc. We could hardly predict what would come about from three simple rules, so what can we expect from hundreds of laws interacting? Our ideas of cells were extremely simple, alive or dead. Physics gives rise to all the elements on the periodic table with their interactions.
-
+Instead of a few basic rules, humans have discovered many laws governing the transfer of energy, heat, motion, etc. We could hardly predict what would come about from three simple rules, so what can we expect from hundreds of laws interacting? Our ideas of cells were extremely simple, alive or dead, yet the biology of our lives are extremely complex. Physics gives rise to all the elements on the periodic table with their interactions.
 
 ---
 
@@ -388,11 +470,11 @@ The term phase is sometimes used as a synonym for state of matter, but a system 
 
 Every element has a range of temperatures at which it's in a solid state. Passed a melting point, a liquid state. Passed a boiling point, a gas. Finally, a plasma state like the surface of the Sun with electromagnetic properties. There are other states of matter, but these are the ones we typically interact with and categorize as daily reality.
 
-We humans studied these states, but if we think of the island concept to isolate objective reality, what is this constant state of change? On an island with no life, no complex structures, the ocean waves crash against the shore. To describe the location objectively, different elements and molecules in different states of matter are interacting and exchanging energy flows according to the laws of thermodynamics and physics. All the living things which we see around us today came from those early times of our planet's life.
+We humans studied these states, but if we think of the island concept to isolate objective reality, what is this constant state of change? On an island with no life, no complex structures, the ocean waves crash against the shore. To describe the location objectively, different elements and molecules in different states of matter are interacting and exchanging energy flows according to the laws of thermodynamics and physics. All living things which we see around us today came from those early times of our planet's life.
 
 ### We are an incredibly complex game of life left on for roughly 3.8 billion years.
 
-Our planet Earth exists in perfect distance from the Sun to allow for complex life structures to arise. The energy from the Sun is like cooking over a fire. The heat is hottest closest and coldest farther away. To cook just right you need the right distance. Too cold and we're frozen where there's not enough changes in matter. Too hot the energy present is so high nothing solid can form. We are in a space that can allow for many states and in a time of homeostasis. There are so many qualities of the universe and our solar system which are in a delicate balance to bring about life.
+Our planet Earth exists in perfect distance from the Sun to allow for complex life structures to arise. The energy from the Sun is like cooking over a fire. The heat is hottest closest and coldest farther away. To cook just right you need the right distance. Too cold and we're frozen where there's not enough changes in matter. Too hot the energy present is so high nothing solid can form. We are in a space that allows for many states and in a time of homeostasis. There are so many qualities of the universe and our solar system which are in a delicate balance to bring about life.
 
 ---
 
@@ -412,7 +494,6 @@ It is accepted science that the Earth is an open system for energy.  Energy radi
 
 Scientists say there is no life on Mars, our neighboring planet. There are storms on the surface with tornadoes the size of states and countries here on Earth. Thunderstorms, lightning strikes, and sand cutting through the air at high kilometers per hour. Earth allows for a steadier stream and flow of energy states that allow for complex structures.
 
-
 Our bodies evolved to be formed of "Almost 99% of the mass of the human body is made up of six elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. Only about 0.85% is composed of another five elements: potassium, sulfur, sodium, chlorine, and magnesium. All 11 are necessary for life. The remaining elements are trace elements, of which more than a dozen are thought on the basis of good evidence to be necessary for life. All of the mass of the trace elements put together (less than 10 grams for a human body) do not add up to the body mass of magnesium, the least common of the 11 non-trace elements...Most of the elements needed for life are relatively common in the Earth's crust.," [Composition of the human body
 ](https://en.wikipedia.org/wiki/Composition_of_the_human_body).
 
@@ -428,7 +509,9 @@ We are roughly 70% water. The next time you hold a glass of water, consider what
 
 The organization and structure of the elements gives rise to our conscious experience. The dynamic pattern of the flow of water, matter, and energy through, in, and around our bodies is the spark of life. A disruption of the structure of our bodies can cause a terminal crisis or trauma. A traumatic brain injury disorganizes the structure of our important organ, disconnecting the knowledge and function developed.
 
-Is the meaning of life simply to burn? Like the universe is a dissipative structure, transforming energy through entropy, are we a miniature version of it? We are like the crackling sparks of a fire. Our lives are so short in comparison to the sun and cosmos, a brief and fleeting flame. Enough of life sparks a new flame for life to persist through time by having children, progeny. Child birth is like a fire whose heat sparks a fire in something near to it, sometimes by touching, sometimes simply by being hot enough. A new flame starts and the original flame dies. No flame burns forever. Even the stars will die.
+### Is the meaning of life simply to burn?
+
+Like the universe is a dissipative structure, transforming energy through entropy, are we a miniature version of it? We are like the crackling sparks of a fire. Our lives are so short in comparison to the sun and cosmos, a brief and fleeting flame. Enough of life sparks a new flame for life to persist through time by having children, progeny. Child birth is like a fire whose heat sparks a fire in something near to it, sometimes by touching, sometimes simply by being hot enough. A new flame starts and the original flame dies. No flame burns forever. Even the stars will die.
 
 What is likely to become of the future of our planet, life, and the universe? I highly recommend [TIMELAPSE OF THE FUTURE: A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA). The universe is projected to have [5 eras](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe), the Primordial, Stelliferous, Degenerate, Black Hole, and Dark eras. We currently live in the Stelliferous. "In addition to explaining current cosmological theory, the authors speculate on what kinds of life might exist in future eras of the universe. The speculation is based on a scaling hypothesis, credited to Freeman Dyson, the idea being, that all other things being equal the rate of metabolism—and therefore rate of consciousness—of an organism should be in direct proportion to the temperature at which that organism thrives," [The Five Ages of the Universe](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe).
 
@@ -563,6 +646,8 @@ We have a hypothesis generated in our brains to fit the data we store in memory.
 
 ---
 
+## Epistemology
+
 “Critical rationalism is an epistemological philosophy advanced by Karl Popper...Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.” [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
 
 “Critical rationalists hold that scientific theories and any other claims to knowledge can and should be rationally criticized, and (if they have empirical content) can and should be subjected to tests which may falsify them.”
@@ -645,11 +730,11 @@ Imagination is the highest level of understanding. "Counterfactual learners, on 
 Pearl once believed as many others that Bayesian rationalist was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect with many colleagues, scientists and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/confounding.png" width="100%" height="100%">
+<img src="../../images/confounding.png" width="75%" height="75%">
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/walking-cause.png" width="100%" height="100%">
+<img src="../../images/walking-cause.png" width="75%" height="75%">
 {: refdef}
 
 ---
@@ -792,20 +877,33 @@ The three major moral frameworks of philosophy are virtue ethics, consequentiali
 Morality is a strategy; it is a way of planning actions to achieve goals. The best moral strategies are dependent on the environment. The most basic moralities must meet survival needs. If a survival strategy leads to extinction, then the belief system of that morality will literally die out.
 
 
-"When anthropologists like Richard Shweder and Alan Fiske survey moral concerns across the globe, they find that a few themes keep popping up from amid the diversity. People everywhere, at least in some circumstances and with certain other folks in mind, think it’s bad to harm others and good to help them. They have a sense of fairness: that one should reciprocate favors, reward benefactors and punish cheaters. They value loyalty to a group, sharing and solidarity among its members and conformity to its norms. They believe that it is right to defer to legitimate authorities and to respect people with high status. And they exalt purity, cleanliness and sanctity while loathing defilement, contamination and carnality.
+> "When anthropologists like Richard Shweder and Alan Fiske survey moral concerns across the globe, they find that a few themes keep popping up from amid the diversity. People everywhere, at least in some circumstances and with certain other folks in mind, think it’s bad to harm others and good to help them. They have a sense of fairness: that one should reciprocate favors, reward benefactors and punish cheaters. They value loyalty to a group, sharing and solidarity among its members and conformity to its norms. They believe that it is right to defer to legitimate authorities and to respect people with high status. And they exalt purity, cleanliness and sanctity while loathing defilement, contamination and carnality.
 
-The exact number of themes depends on whether you’re a lumper or a splitter, but Haidt counts five — harm, fairness, community (or group loyalty), authority and purity — and suggests that they are the primary colors of our moral sense. Not only do they keep reappearing in cross-cultural surveys, but each one tugs on the moral intuitions of people in our own culture.
-...
-All this brings us to a theory of how the moral sense can be universal and variable at the same time. The five moral spheres are universal, a legacy of evolution. But how they are ranked in importance, and which is brought in to moralize which area of social life — sex, government, commerce, religion, diet and so on — depends on the culture.
+>The exact number of themes depends on whether you’re a lumper or a splitter, but Haidt counts five — harm, fairness, community (or group loyalty), authority and purity — and suggests that they are the primary colors of our moral sense. Not only do they keep reappearing in cross-cultural surveys, but each one tugs on the moral intuitions of people in our own culture.
 
-Many of the flabbergasting practices in faraway places become more intelligible when you recognize that the same moralizing impulse that Western elites channel toward violations of harm and fairness (our moral obsessions) is channeled elsewhere to violations in the other spheres. Think of the Japanese fear of nonconformity (community), the holy ablutions and dietary restrictions of Hindus and Orthodox Jews (purity), the outrage at insulting the Prophet among Muslims (authority). In the West, we believe that in business and government, fairness should trump community and try to root out nepotism and cronyism. In other parts of the world this is incomprehensible — what heartless creep would favor a perfect stranger over his own brother?
+> ...
 
-The ranking and placement of moral spheres also divides the cultures of liberals and conservatives in the United States. Many bones of contention, like homosexuality, atheism and one-parent families from the right, or racial imbalances, sweatshops and executive pay from the left, reflect different weightings of the spheres. In a large Web survey, Haidt found that liberals put a lopsided moral weight on harm and fairness while playing down group loyalty, authority and purity. Conservatives instead place a moderately high weight on all five. It’s not surprising that each side thinks it is driven by lofty ethical values and that the other side is base and unprincipled."
+> All this brings us to a theory of how the moral sense can be universal and variable at the same time. The five moral spheres are universal, a legacy of evolution. But how they are ranked in importance, and which is brought in to moralize which area of social life — sex, government, commerce, religion, diet and so on — depends on the culture.
 
-- The Moral Instinct, Steven Pinker, 2008
+> Many of the flabbergasting practices in faraway places become more intelligible when you recognize that the same moralizing impulse that Western elites channel toward violations of harm and fairness (our moral obsessions) is channeled elsewhere to violations in the other spheres. Think of the Japanese fear of nonconformity (community), the holy ablutions and dietary restrictions of Hindus and Orthodox Jews (purity), the outrage at insulting the Prophet among Muslims (authority). In the West, we believe that in business and government, fairness should trump community and try to root out nepotism and cronyism. In other parts of the world this is incomprehensible — what heartless creep would favor a perfect stranger over his own brother?
+
+> The ranking and placement of moral spheres also divides the cultures of liberals and conservatives in the United States. Many bones of contention, like homosexuality, atheism and one-parent families from the right, or racial imbalances, sweatshops and executive pay from the left, reflect different weightings of the spheres. In a large Web survey, Haidt found that liberals put a lopsided moral weight on harm and fairness while playing down group loyalty, authority and purity. Conservatives instead place a moderately high weight on all five. It’s not surprising that each side thinks it is driven by lofty ethical values and that the other side is base and unprincipled."
+
+-- The Moral Instinct, Steven Pinker, 2008
 
 (Notice how the moral spheres **compress**, unite, and explain moral behavior?)
 
+What societies consider virtues reflect the values evolved by the society according to its environment and time. We would expect to see certain virtues given a particular time with environmental pressures.
+
+Many ethical theories like Utilitarianism emphasize certain conscious states over others. Pleasure and happiness are desirable while pain and suffering are not. On an objective level, emotions are patterns of activities in our bodies and brains giving rise to conscious states and a sense of subjectivity.
+
+An emotion is like a color. Colors have patterns of waves and frequencies of light. Emotions are patterns in the body and brain. Is it clear which color is morally correct? Does the question make sense? Is purple an objectively "greater" color than aquamarine? Why is pleasure more moral than pain? Morality cannot be guided on an objective level by the subjective desires of intelligent, emotional beings.
+
+Of course subjectively we care about conscious states. Many of us are attracted to enjoyment and repulsed by suffering. We evolved this relationship to emotions because more often than not the emotions signaled a survival advantage. Events which improve our survival chances bring happiness and suffering tends to give rise from toxic environments and situations. However the emotions we feel are signals, information, which each cell and system in our bodies are contributing to. Like other pieces of information we should evaluate it, keep which is a good signal and discard the unimportant signals and noise.
+
+How many positive emotions are correlated and caused by pursuing well-being? There is likely significant overlap! Well-being is by definition wellness, an organism growing and maintaining in accordance with its evolved structure. Negative emotions _should_ still be felt to encourage growth and adaptability. Negative emotions which are too strong can cross the threshold from harmful to traumatizing resulting in more permanent dysfunction potentially inhibiting future wellness, so these should be avoided.
+
+---
 
 "The Drake equation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy," [Wikipedia](https://en.wikipedia.org/wiki/Drake_equation). Based on the known values and the assumptions of the unknown, the range of civilizations is between 20 and 100 million.
 
@@ -883,11 +981,85 @@ The question is do you value conscious life over inanimate existence?
 
 I have the drive and desire to learn and grow endlessly. I thirst for knowledge and wisdom, but I must accept my finite existence. I will die. Our species will die. Our planet will die. What heights will living creatures reach? I will not accept a cold and unfeeling universe with no conscious life. There are ice cold planets with almost no movement on their surfaces or within. There are fiery planets with storms raging the size of our continents. The storms rip apart any complex structure. In thousands of years, the activity on the surface of planets can be described as shifting sands and wind. When I think of our planet and life returning to a state of disorder I am filled with a profound sense of loss. Yet the same laws of nature which govern uninhabitable planets govern Earth and all the life on it. With my precious time I will rage against the decay of life.
 
+## We are an evolutionary algorithm.
 
+All of life is an [evolutionary algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm):
+
+Step One: Generate the initial population of individuals randomly. (First generation)
+
+Step Two: Repeat the following regenerational steps until termination:
+
+1. Evaluate the fitness of each individual in the population (time limit, sufficient fitness achieved, etc.)
+2. Select the fittest individuals for reproduction. (Parents)
+3. Breed new individuals through crossover and mutation operations to give birth to offspring.
+4. Replace the least-fit individuals of the population with new individuals.
+
+Here we are speaking of fitness in the context of evolution. "The term "Darwinian fitness" can be used to make clear the distinction with physical fitness. Fitness does not include a measure of survival or life-span; Herbert Spencer's well-known phrase "survival of the fittest" should be interpreted as: "Survival of the form (phenotypic or genotypic) that will leave the most copies of itself in successive generations."" [Fitness (biology)](https://en.wikipedia.org/wiki/Fitness_(biology)).
+
+---
+
+In their paper, [_Fitness	Beats Truth	in the Evolution of Perception_](http://cogsci.uci.edu/~ddhoff/FBT-7-30-17), the authors present and prove the _Fitness-beats-Truth Theorem_ through evolutionary game theory and Bayesian decision theory. Evolutionary creatures who favor seeing the world truthfully and objectively will fail in comparison to creatures who see the world to maximize fitness.
+
+"Our main message in this paper has been that, contrary to this prevalent view [that we perceive objective reality accurately], attempting to estimate the "true" state of the world corresponding to a given sensory state, confers no evolutionary benefit whatsoever. Rather a strategy that simply seeks to maximize expected-fitness payoff, with no attempt to estimate the "true" world state, does consistently better (in the precise sense articulated in the statement of the "Fitness Beats Truth" Theorem).
+
+"Evolution can fashion perceptual systems	that are, in this	sense, ignorant	of the objective world because natural selection depends only on fitness	and	not	on seeing the “truth.”"
+
+"As human observers, we are prone to imputing structure to the objective world that is properly part of our own perceptual experience. For example, our _perceived_ world is three-dimensional and populated with objects of various shapes, colors, and motions, and so we tend to conclude that the _objective world_ is as well. But if, as the _Fitness-beats-Truth Theorem_ shows, evolutionary pressures do not push perception in the direction of being increasingly reflective of objective reality, then such imputations have no logical basis whatsoever."
+
+---
+
+From the _Fitness-beats-Truth Theorem_ we would expect to see brains with more internal input than external input, i.e. that incoming sensory input matters less than how our brains transforms the incoming data into a useful representation to maximize utility. That is exactly what we see.
+
+---
+
+[Your brain hallucinates your conscious reality -- by Anil Seth (2017)](https://www.ted.com/talks/anil_seth_your_brain_hallucinates_your_conscious_reality)
+
+One example of how the brain amplifies its own perceptual predictions instead of anaylyzing the raw incoming sensory data is the [checker shadow illusion](https://en.wikipedia.org/wiki/Checker_shadow_illusion).
+
+<img src="../../images/1280px-Checker_shadow_illusion.svg.png" width="100%" height="100%">
+
+"The image depicts a checkerboard with light and dark squares, partly shadowed by another object. The optical illusion is that the area labeled A appears to be a darker color than the area labeled B. However, within the context of the two-dimensional image, they are of identical brightness, i.e., they would be printed with identical mixtures of ink, or displayed on a screen with pixels of identical colour."
+
+<img src="../../images/1024px-Grey_square_optical_illusion_proof2.svg.png" width="100%" height="100%">
+
+Even with the second image and various ways to verify the color of the two tiles, it's still hard to believe they are the same color. Our brains sense the shadow and adjust the visual sensory input to to convince our conscious mind that the colors are different. This applies to all conscious experience shaped by evolution.
+
+> "Instead of perception depending largely on signals coming into the brain from the outside world, it depends as much, if not more, on perceptual predictions flowing in the opposite direction. We don't just passively perceive the world, we actively generate it. The world we experience comes as much, if not more, from the inside out as from the outside in..."
+
+> There's one last thing I want to draw your attention to, which is that experiences of the body from the inside are very different from experiences of the world around us. When I look around me, the world seems full of objects -- tables, chairs, rubber hands, people, you lot -- even my own body in the world, I can perceive it as an object from the outside. But my experiences of the body from within, they're not like that at all. I don't perceive my kidneys here, my liver here, my spleen ... I don't know where my spleen is, but it's somewhere. I don't perceive my insides as objects. In fact, I don't experience them much at all unless they go wrong. And this is important, I think. Perception of the internal state of the body isn't about figuring out what's there, it's about control and regulation -- keeping the physiological variables within the tight bounds that are compatible with survival. When the brain uses predictions to figure out what's there, we perceive objects as the causes of sensations. When the brain uses predictions to control and regulate things, we experience how well or how badly that control is going.
+
+> So our most basic experiences of being a self, of being an embodied organism, are deeply grounded in the biological mechanisms that keep us alive. And when we follow this idea all the way through, we can start to see that all of our conscious experiences, since they all depend on the same mechanisms of predictive perception, all stem from this basic drive to stay alive. We experience the world and ourselves with, through and because of our living bodies.
+
+> Let me bring things together step-by-step. What we consciously see depends on the brain's best guess of what's out there. Our experienced world comes from the inside out, not just the outside in. The rubber hand illusion shows that this applies to our experiences of what is and what is not our body. And these self-related predictions depend critically on sensory signals coming from deep inside the body. And finally, experiences of being an embodied self are more about control and regulation than figuring out what's there. So our experiences of the world around us and ourselves within it -- well, they're kinds of controlled hallucinations that have been shaped over millions of years of evolution to keep us alive in worlds full of danger and opportunity. We predict ourselves into existence.
+
+> Now, I leave you with three implications of all this. First, just as we can misperceive the world, we can misperceive ourselves when the mechanisms of prediction go wrong. Understanding this opens many new opportunities in psychiatry and neurology, because we can finally get at the mechanisms rather than just treating the symptoms in conditions like depression and schizophrenia.
+
+> Second: what it means to be me cannot be reduced to or uploaded to a software program running on a robot, however smart or sophisticated. We are biological, flesh-and-blood animals whose conscious experiences are shaped at all levels by the biological mechanisms that keep us alive. Just making computers smarter is not going to make them sentient.
+
+> Finally, our own individual inner universe, our way of being conscious, is just one possible way of being conscious. And even human consciousness generally -- it's just a tiny region in a vast space of possible consciousnesses. Our individual self and worlds are unique to each of us, but they're all grounded in biological mechanisms shared with many other living creatures." -- Anil Seth
+
+---
+
+As evolutionary creatures we see the world in a delusional and distorted way shaped by the evolution of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
+
+If we wanted to create a creature which can sense the world in a true and honest way without the constant need to compete with fitness, we could do our best to create a creature with direct sensors while limiting our biases. Of course imagining a mental schema which allows for directly thinking about experience and the world is itself difficult.
+
+---
+
+The work of [Why Information Grows: The Evolution of Order, from Atoms to Economies by César A. Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) is fascinating. The author argues for a re-framing of economics in terms of information and knowledge growth. The growth of information is a necessary by-product of the second law of thermodynamics. The Earth is a system out of equilibrium allowing for the temporary resistance of entropy and disorder. Information is physically embodied in solid matter. The author makes a distinction between two forms of knowledge, explicit and tacit. Explicit knowledge is the knowledge we can communicate and describe. Knowledge unites information in a meaningful way. Tacit knowledge is _know-how_; the skills we are able to perform even if we can't perfectly explain what we're doing, like how to balance while riding a bike.
+
+If the universe tends toward disorder, how does information grow? The author argues that knowledge and information processing power co-evolve. Plants, animals, and life act as a trap for information which maintains it. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun. They are performing some type of information processing to adjust and grow their bodies to track the sun. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
+
+The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_.
+
+Firms with high trust are flexible and adaptable. More familial firms are stronger but more closed. The products networks of humans produce are _crystallized imagination_. Every product had to first form in the imagination of the human mind, either at the person-byte or firm-byte. The objects of our creation cause a growth of order in the universe. The physically embodied product is information and imagination in solid form until entropy inevitably releases the embodied information into disorder. 
+
+---
 
 ---
 
 [Function of the brain](https://en.wikipedia.org/wiki/Brain#Function)
+
 "Information from the sense organs is collected in the brain. There it is used to determine what actions the organism is to take. The brain processes the raw data to extract information about the structure of the environment. Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. Finally, on the basis of the results, it generates motor response patterns. These signal-processing tasks require intricate interplay between a variety of functional subsystems.
 
 The function of the brain is to provide coherent control over the actions of an animal. A centralized brain allows groups of muscles to be co-activated in complex patterns; it also allows stimuli impinging on one part of the body to evoke responses in other parts, and it can prevent different parts of the body from acting at cross-purposes to each other."
@@ -926,11 +1098,13 @@ Subjectively, we will feel as though we are making choices, but our choices are 
 
 
 
-The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. The universe we exist in appears to be a chain reaction from a fraction of a moment after the beginning of the universe. The next moment is a function of the current moment. A future moment can likely only be determined by the passage of each moment to that moment, that is, things must play out and cannot be fully predetermined. Our universe may just be one data point in a probability distribution of possible universes, a multi-verse.
+The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. The universe we exist in appears to be a chain reaction from a fraction of a moment after the beginning of the universe. The next moment is a function of the current moment. A future moment can likely only be determined by the passage of each moment to that moment, that is, things must play out and cannot be fully predetermined. Our universe may just be one data point in a probability distribution of possible universes, a multi-verse.
 
-The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and the interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization.
+The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and their interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization for a new path.
 
-The inter-subjective meaning of life is to support the sustainable flourishing of life. The inter-subjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way inter-subjective ideologies are subject to natural selection. 
+The inter-subjective meaning of life is to support the sustainable flourishing of life. The inter-subjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way inter-subjective ideologies are subject to natural selection.
+
+All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a more perfect living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
 
 We come from nothing, and we will return to nothing. From cosmic dust to cosmic dust.
 

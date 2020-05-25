@@ -148,7 +148,7 @@ With _Genius Foods_, Lugavere offers a cutting-edge yet practical road map to el
 **Genius Foods**
 
 1. Extra-Virgin Olive Oil
-2. Avocadoes
+2. Avocados
 3. Blueberries
 4. Dark Chocolate
 5. Eggs
@@ -167,8 +167,10 @@ Creatine supplements are key for vegetarians, but regular meat eaters (fish/red 
 
 8. Add cruciferous vegetables to your diet both raw and cooked. Add mustard powder to cooked cruciferous vegetables to protect important phytonutrients from cooking.
 
-Low levels of the hormone leptin can cause anhedonia and social withdrawal! Sleep heavily effects leptin. Intermittent fasting helps leptin regulation. Having refeed days of carbs and low fat keeps leptin levels stable. Eat your carbs on workout days.
+Low levels of the hormone leptin can cause anhedonia and social withdrawal! Sleep heavily effects leptin. Intermittent fasting helps leptin regulation. Having refeed days of carbs and low fat keeps leptin levels stable. Eat your carbs on workout days. A high carb day is 150g of carbs where most Americans eat 300g of carbs on average. Low carb is 30-80g. Ketogenic diets hover around 30g carbs. The minimum necessary carbs for healthy brain function is 30g and lower causes serious health decline. 
 
 He discusses the "virtues of stress" which sounds a lot like anti-fragility. He argues for anabolic exercise and HIIT.
+
+
 
 ---

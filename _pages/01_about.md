@@ -6,7 +6,7 @@ permalink: /about/
 
 **Hello!** <img src="../images/selfie500m.png" align="right" height="300" width="300">
 
-This website is the open notebook of Elliott Collin Ploutz. I am a philosopher, computer scientist, [YouTuber](https://www.youtube.com/channel/UCn8hh0YbCJQFZl1GGhNdiKQ/featured?view_as=subscriber) and aspiring influencer. These pages are my public notes on various topics I investigate. If you’re interested in living a good life, optimizing productivity, philosophy, computer science, artificial intelligence, and making sense of this absurd universe we live in, I hope something on this site saves you time and energy.
+This website is the open notebook of Elliott Collin Ploutz. I am a philosopher, computer scientist, [YouTuber](https://www.youtube.com/c/PhilosopherScholar), and aspiring influencer. These pages are my public notes on various topics I investigate. If you’re interested in living a good life, optimizing productivity, philosophy, computer science, artificial intelligence, and making sense of this absurd universe we live in, I hope something on this site saves you time and energy.
 
 Please feel free to contact me at:
 
@@ -21,7 +21,7 @@ Please feel free to contact me at:
  [![Medium](../images/medium_logo.ico)](https://medium.com/@philosopher.scholar)
  [![LinkedIn](../images/linkedin_logo.png)](https://www.linkedin.com/in/elliottploutz/)
  [![Quora](../images/quora_logo.png)](https://www.quora.com/profile/Elliott-Collin-Ploutz)
- [![YouTube](../images/YouTube-icon.png)](https://www.youtube.com/channel/UCn8hh0YbCJQFZl1GGhNdiKQ?view_as=subscriber)
+ [![YouTube](../images/YouTube-icon.png)](https://www.youtube.com/c/PhilosopherScholar)
  [![Facebook](../images/facebook_logo.png)](https://fb.me/philosopherscholar)
 {: refdef}
 

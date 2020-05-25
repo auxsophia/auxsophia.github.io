@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosopher Scholar - Philosophy
-permalink: /philosophy/intelligenceExplosion/
+permalink: /ai/intelligenceExplosion/
 ---
 
 The intelligence explosion idea was expressed by statistician I.J. Good in 1965:

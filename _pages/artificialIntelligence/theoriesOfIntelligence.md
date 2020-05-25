@@ -62,10 +62,12 @@ In the same way, Bowers contended, Bayesian models can replicate virtually any c
 ### [Imperfect Bayesian inference in visual perception](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006465)
 Published: April 18, 2019
 
-Abstract
+**Abstract:**
+
 Optimal Bayesian models have been highly successful in describing human performance on perceptual decision-making tasks, such as cue combination and visual search. However, recent studies have argued that these models are often overly flexible and therefore lack explanatory power. Moreover, there are indications that neural computation is inherently imprecise, which makes it implausible that humans would perform optimally on any non-trivial task. Here, we reconsider human performance on a visual-search task by using an approach that constrains model flexibility and tests for computational imperfections. Subjects performed a target detection task in which targets and distractors were tilted ellipses with orientations drawn from Gaussian distributions with different means. We varied the amount of overlap between these distributions to create multiple levels of external uncertainty. We also varied the level of sensory noise, by testing subjects under both short and unlimited display times. On average, empirical performance—measured as d’—fell 18.1% short of optimal performance. We found no evidence that the magnitude of this suboptimality was affected by the level of internal or external uncertainty. The data were well accounted for by a Bayesian model with imperfections in its computations. This “imperfect Bayesian” model convincingly outperformed the “flawless Bayesian” model as well as all ten heuristic models that we tested. These results suggest that perception is founded on Bayesian principles, but with suboptimalities in the implementation of these principles. The view of perception as imperfect Bayesian inference can provide a middle ground between traditional Bayesian and anti-Bayesian views.
 
-Author summary
+**Author summary:**
+
 The main task of perceptual systems is to make truthful inferences about the environment. The sensory input to these systems is often astonishingly imprecise, which makes human perception prone to error. Nevertheless, numerous studies have reported that humans often perform as accurately as is possible given these sensory imprecisions. This suggests that the brain makes optimal use of the sensory input and computes without error. The validity of this claim has recently been questioned for two reasons. First, it has been argued that a lot of the evidence for optimality comes from studies that used overly flexible models. Second, optimality in human perception is implausible due to limitations inherent to neural systems. In this study, we reconsider optimality in a standard visual perception task by devising a research method that addresses both concerns. In contrast to previous studies, we find clear indications of suboptimalities. Our data are best explained by a model that is based on the optimal decision strategy, but with imperfections in its execution.
 
 ---
@@ -75,7 +77,7 @@ Posted Mar 28, 2018
 
 "If achieving artificial general intelligence is indeed a pattern that already exists, uncovering it involves mathematics, the science of patterns. Mathematicians look for patterns to form a conclusion, called a conjecture, and set out to support the proposition by creating a proof, or theorem."
 
-In sum, ia AGI a mathematical pattern that can be implemented? **Definitely maybe**.
+In sum, is AGI a mathematical pattern that can be implemented? **Definitely maybe**.
 
 ---
 
