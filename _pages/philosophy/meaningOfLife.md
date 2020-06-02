@@ -971,7 +971,7 @@ We would create a new form of advanced intelligent life superior to every creatu
 
 Before life on Earth there was non-life. Abiogenesis is "the original evolution of life or living organisms from inorganic or inanimate substances." In the earliest days there were automata, complex cellular machines. They transferred energy through simple chemical reactions. Some of these automata captured the radiating energy of the sun creating photosynthetic life. The automata could capture and use more energy than it needed providing a greater return on energy investment (they get more than they spend). Alternatively, other cells could devour and use the energy stored in photosynthetic cells. Eventually animal cells were born of a mitochondrial cell being symbiotically absorbed by a cellular automata. The symbiosis created a division of labor. The outer cell would focus on survival while the mitochondria focus on generating energy in the form of ATP. The mitochondria could generate energy to excess, and the more successful cells found a balance of using the excess energy to increase survival. With EROI greater than one, the cells were able to evolve to more complex structures and multiply.
 
-We've seen what happens when life gets too little energy and more than what's required for survival. Our earliest hunter-gatherer tribes had an EROI between zero and two. Human agricultural societies through farming and cooking could increase their EROI further still allowing for specialization of labor. With specialization came a greater EROI up to a diminishing return. With coal and gasoline, we were able to use the energy stored in the Earth like a battery storing sunlight. With the excess energy from fossil fuels our society reached new levels of civilization and complexity. We are growing and learning at levels never before possible.
+We've seen what happens when life gets too little energy and more than what's required for survival. Our earliest hunter-gatherer tribes had an EROI between zero and two. Human agricultural societies through farming and cooking could increase their EROI further still allowing for specialization of labor. With specialization came a greater EROI up to a diminishing return. With fossil fuels, we were able to use the energy stored in the Earth like a battery storing sunlight. With the excess energy from fossil fuels our society reached new levels of civilization and complexity. We are growing and learning at levels never before possible.
 
 Imagine if we could construct an artificial being capable of living on the edge of maximum energy and equilibrium.
 
@@ -1042,6 +1042,8 @@ Even with the second image and various ways to verify the color of the two tiles
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the evolution of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
+We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is. As finite creatures who have evolved we should doubt our most fundamental views and feelings. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and our accumulated falsehoods give rise to inter-subjective beliefs.
+
 If we wanted to create a creature which can sense the world in a true and honest way without the constant need to compete with fitness, we could do our best to create a creature with direct sensors while limiting our biases. Of course imagining a mental schema which allows for directly thinking about experience and the world is itself difficult.
 
 ---
@@ -1050,11 +1052,30 @@ The work of [Why Information Grows: The Evolution of Order, from Atoms to Econom
 
 If the universe tends toward disorder, how does information grow? The author argues that knowledge and information processing power co-evolve. Plants, animals, and life act as a trap for information which maintains it. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun. They are performing some type of information processing to adjust and grow their bodies to track the sun. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
 
-The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_.
+The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_. We can begin to find limits to knowledge and skills such as the minimum number of person-bytes needed formed into a network to create a firm-byte to produce a product.
 
-Firms with high trust are flexible and adaptable. More familial firms are stronger but more closed. The products networks of humans produce are _crystallized imagination_. Every product had to first form in the imagination of the human mind, either at the person-byte or firm-byte. The objects of our creation cause a growth of order in the universe. The physically embodied product is information and imagination in solid form until entropy inevitably releases the embodied information into disorder. 
+Firms with high trust are flexible and adaptable. More familial firms are stronger but more closed. The products networks of humans produce are _crystallized imagination_. Every product had to first form in the imagination of the human mind, either at the person-byte or firm-byte. The objects of our creation cause a growth of order in the universe. The physically embodied product is information and imagination in solid form until entropy inevitably releases the embodied information into disorder.
 
 ---
+
+With artificial intelligence, we can expand beyond person-byte and firm-byte knowledge and computation to create a greater power than our cumulative processing. We can exceed our biological limits.
+
+I don't believe humans and other animals will be replaced by AI soon. We are all over 4 billion years in the making through an evolutionary process. The amount of computation time required to understand everything useful about humans and our lives to make us redundant or a problem to be disposed of is likely a greater cost than simply keeping us around and re-training or re-purposing us.
+
+If AI does destroy us the cause will likely be from proceeding too quickly without caution. Wisdom comes from experience. We typically must do then reflect to determine which paths to avoid and which to choose. To chart a path to beneficial AI we should proceed slowly over generations. The biggest AI threats come from governments engaged in covert cyber-warfare with each government rushing in an arms race to dominate others. Social media and ad-based companies will use AI to hack you for your attention, learning everything that makes you _pay_ attention, netting them more profit for each ad impression you consume. Of course any company with a CEO who aims their AI at maximizing their profit with no constraints could lead to an errant AI enslaving many of us for the profit of a handful of people.
+
+However I believe a properly aligned AI will only grow more moral with knowledge and computation.
+
+---
+
+## Moral AI
+
+
+
+<img src="../../images/why-bigdata-CD.png" width="100%" height="100%">
+
+
+
 
 ---
 
@@ -1108,4 +1129,6 @@ All of the meanings of life can be enhanced through the proper development of ar
 
 We come from nothing, and we will return to nothing. From cosmic dust to cosmic dust.
 
-What will you do with your cosmically brief time? What information will you embody?
+# What will you do with your cosmically brief time? What information will you embody?
+
+For next moves, please see [Society 3.0](/society3/)
