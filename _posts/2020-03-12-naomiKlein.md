@@ -2,7 +2,7 @@
 layout: post
 title:  "Naomi Klein - On Fire"
 permalink: /naomiKlein/
-date:   2020-3-12 21:36:30 -0700
+date:   2020-03-12 21:36:30 -0700
 categories: books
 ---
 
@@ -31,7 +31,7 @@ A little too close to home, she argues many deniers have a messiah or superhero 
 
 Finally she gets into the fights that matter and what the most successful battles have been. Many island countries feel the threat of climate collapse now and have had to fight for their way of life. She reports on indigenous rights and indigenous fights against fossil fuel companies.
 
-Overall, her book is an insightful, in-depth analysis of the past and emerging current of the climate crisis and some of what needs to happen to avoid the worst catastrophes. 
+Overall, her book is an insightful, in-depth analysis of the past and emerging current of the climate crisis and some of what needs to happen to avoid the worst catastrophes.
 
 ---
 
@@ -41,8 +41,12 @@ Overall, her book is an insightful, in-depth analysis of the past and emerging c
 
 On Fire’s long-form essays, based on her extensive research and reporting, show Klein at her most prophetic and philosophical, investigating the climate crisis not only as a profound political challenge but as a spiritual and imaginative one as well. Delving into the clash between ecological time and our culture of “perpetual now”; the soaring history of rapid human change in the face of grave threats; rising white supremacy and fortressed borders as a form of “climate barbarism” and more, this is a rousing call to transformation – and a dire warning about what awaits if we fail to act.
 
-With dispatches from the ghostly Great Barrier Reef to the smoke-choked skies of the Pacific Northwest, to post-hurricane Puerto Rico, to a Vatican waking up to the case for radical change, recognizing that we will rise to the existential challenge of climate change only if we are willing to transform the systems that produced this crisis — On Fire captures the burning urgency of the climate crisis, as well as the fiery energy of a global movement demanding a catalytic Green New Deal."
-
-
+With dispatches from the ghostly Great Barrier Reef to the smoke-choked skies of the Pacific Northwest, to post-hurricane Puerto Rico, to a Vatican waking up to the case for radical change, recognizing that we will rise to the existential challenge of climate change only if we are willing to transform the systems that produced this crisis — On Fire captures the burning urgency of the climate crisis, as well as the fiery energy of a global movement demanding a catalytic Green New Deal.
 
 Either we leap—or we sink."
+
+---
+
+## [Naomi Klein on How Healthcare Industry & Silicon Valley Plan to Profit from Coronavirus Crisis](https://www.youtube.com/watch?v=-rmt3t94vxM)
+
+An interview, Klein discusses how Silicon Valley is shaping people into two classes, those who can afford to stay at home and have their needs delivered and the workers who support the at home class at great risk for themselves. While staying at home people are plugged in constantly to their phones and computers consuming a barrage of media giving their attention to digital companies. The ads flow and money is made. 
