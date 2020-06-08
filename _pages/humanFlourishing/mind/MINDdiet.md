@@ -167,10 +167,122 @@ Creatine supplements are key for vegetarians, but regular meat eaters (fish/red 
 
 8. Add cruciferous vegetables to your diet both raw and cooked. Add mustard powder to cooked cruciferous vegetables to protect important phytonutrients from cooking.
 
-Low levels of the hormone leptin can cause anhedonia and social withdrawal! Sleep heavily effects leptin. Intermittent fasting helps leptin regulation. Having refeed days of carbs and low fat keeps leptin levels stable. Eat your carbs on workout days. A high carb day is 150g of carbs where most Americans eat 300g of carbs on average. Low carb is 30-80g. Ketogenic diets hover around 30g carbs. The minimum necessary carbs for healthy brain function is 30g and lower causes serious health decline. 
+Low levels of the hormone leptin can cause anhedonia (a lack of pleasure and happiness) and social withdrawal! Sleep heavily effects leptin. Intermittent fasting helps leptin regulation. Having refeed days of carbs and low fat keeps leptin levels stable. Eat your carbs on workout days. A high carb day is 150g of carbs where most Americans eat 300g of carbs on average. Low carb is 30-80g. Ketogenic diets hover around 30g carbs. The minimum necessary carbs for healthy brain function is 30g and lower causes serious health decline.
 
-He discusses the "virtues of stress" which sounds a lot like anti-fragility. He argues for anabolic exercise and HIIT.
+He discusses the "virtues of stress" and quotes the anti-fragility author directly! He argues for anabolic exercise and HIIT.
 
+Avoid emulsifiers in nutmilks. Avoid aluminum in deoderant.
+
+Foods which can be consumed liberally throughout the diet. If you're looking to gain/lose weight, adjust concentrated fats.
+
+Oils and fats:
+- Olive oil
+- Grassfed tallo
+- Grassfed/Organic butter or ghee  
+- Avocado oil
+- Coconut oil
+
+Protein:
+- Grassfed beef
+- Free range poultry
+- Pasture raised pork
+- Lamb
+- Bison
+- Elk
+- Whole eggs
+- Wild salmon
+- Sardines
+- Anchovies
+- Shellfish
+- Mollusks
+- Shrimp
+- Crab
+- Lobster
+- Muscles
+- Clams
+- Oysters
+- Low sugar beef
+- Salmon jerky
+
+Nuts and seeds:
+- Almonds and almond butter
+- Brazil nuts
+- Cashews
+- Macadamia
+- Pistachios
+- Pecans
+- Walnuts
+- Flaxseeds
+- Sunflower seeds
+- Pumpkin seeds
+- Sesame seeds
+- Chia seeds
+
+Vegetables:
+- Mixed greens
+- Kale
+- Spinach
+- Collard greens
+- Mustard greens
+- Broccoli
+- Chard
+- Cabbage
+- Onions
+- Mushrooms
+- Cauliflower
+- Brussel sprouts
+- Sauerkraut
+- Kimchi
+- Pickles
+- Artichokes
+- Alfalfa sprouts
+- Green beans
+- Celery
+- Bok choi
+- Watercress
+- Turnips
+- Asparagus
+- Garlic
+- Leeks
+- Fennel
+- Challets
+- Scallions
+- Ginger
+- Jicama
+- Parsley
+- Water chestnuts
+- Nori
+- Kelp
+- Seaweed 
+
+Non-starchy root vegetables:
+- Beets
+- Carrots
+- Radishes
+- Turnips
+- Parsnips
+
+Low-sugar fruits:
+- Avocados
+- Coconuts
+- Olives
+- Blueberries
+- Blackberries
+- Raspberries
+- Grapefruits
+- Kiwis
+- Bell peppers
+- Cucumbers
+- Zucchini
+- Squash
+- Pumpkin
+- Eggplant
+- Lemons
+- Limes
+- Cacao nibs
+- Okra
+
+Herbs/Seasonings/Condiments:
 
 
 ---
