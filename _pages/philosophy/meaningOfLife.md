@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Philosopher Scholar - Meaning of Life
-permalink: /philosophy/meaningOfLife/
+title: Philosopher Scholar - The Meaning of Life
+permalink: /meaningOfLife/
 ---
 
 Here is my attempt to answer the question of the meaning of life.
@@ -1046,11 +1046,37 @@ We should assign our levels of trust in reality in this order: objective, subjec
 
 If we wanted to create a creature which can sense the world in a true and honest way without the constant need to compete with fitness, we could do our best to create a creature with direct sensors while limiting our biases. Of course imagining a mental schema which allows for directly thinking about experience and the world is itself difficult.
 
+We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
+
+We can in principle graph life on a two dimensional plane of fitness over time. Alternatively, we could graph loss of fitness, the error, over time. Measuring the error is truth agnostic. If we don't know what's true and what strategy works long term, we can measure how wrong we are by a lack of success.
+
+Many strategies will not work. Some strategies will. Fewer still will be very successful over the long term.
+
+Of course the evaluation of life is multidimensional. We are in a constant need to maintain homeostasis, necessitating powerful urges for water, food, socializing, etc. An individual life may be full of error yet that individual contributes much more to the whole group, so the group fitness overall is increased. The problem is described as the [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality).
+
+"The curse of dimensionality refers to various phenomena that arise when analyzing and organizing data in high-dimensional spaces that do not occur in low-dimensional settings such as the three-dimensional physical space of everyday experience...The common theme of these problems is that when the dimensionality increases, the volume of the space increases so fast that the available data become sparse. This sparsity is problematic for any method that requires statistical significance. In order to obtain a statistically sound and reliable result, the amount of data needed to support the result often grows exponentially with the dimensionality. Also, organizing and searching data often relies on detecting areas where objects form groups with similar properties; in high dimensional data, however, all objects appear to be sparse and dissimilar in many ways, which prevents common data organization strategies from being efficient."
+
+Limiting ourselves to three dimensions, we can visualize the shape error takes. Each point represents a pattern, a state, a strategy taken by an agent. The proximity of a point means a similar strategy.
+
+[<img src="../../images/convex_cost_function.jpg" width="100%" height="100%">](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
+
+If this is confusing to you, imagine that you are on top of a mountain and want to get down as fast as you can. You look for the steepest descent. Every once in a while, you pause to look around if any part looks faster, steeper, then you take that. If an agent followed a rule: never go up only go down, we can see what might happen. If they find a small valley, a sunken area, they would get into the hole and stay there. They can't get out because they would break their rule, going up, which is the opposite of what they want to do. They're stuck, and we know this is silly. If they walk a little further they will quickly see that is not the lowest point, just the lowest point near them. We need to get to the bottom! The sunken valleys we find can become traps! It only seems like the best option. These are local minima, the lowest errors in a given region.
+
+[<img src="../../images/challenges-MoL.png" width="100%" height="100%">](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
+
+The lowest error of all errors is the global minima. That's the least error we can have given the conditions. The global minima represents the optimal strategy, the best we can do. Unfortunately, not every problem space has a global minima, or we can never find it. The curse of dimensionality makes the problem worse because each new dimension makes us less certain we've found a minima because there's so much more space to explore! There are many non-obvious problems like [saddle points](https://en.wikipedia.org/wiki/Saddle_point) which appear as though we've found a local minima, but it's an oscillation at a balanced point keeping us from moving further.
+
+In three dimensions, we can make sense of it. We can make analogies of skiing down mountain slopes and have an understanding of momentum. However, when the dimensions (variables) we measure go beyond three, we quickly lose the capacity to visualize and make sense of the space. In our discussion of morality, we list five major spheres which means at least five dimensions to optimize for.
+
 ---
 
 The work of [Why Information Grows: The Evolution of Order, from Atoms to Economies by César A. Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) is fascinating. The author argues for a re-framing of economics in terms of information and knowledge growth. The growth of information is a necessary by-product of the second law of thermodynamics. The Earth is a system out of equilibrium allowing for the temporary resistance of entropy and disorder. Information is physically embodied in solid matter. The author makes a distinction between two forms of knowledge, explicit and tacit. Explicit knowledge is the knowledge we can communicate and describe. Knowledge unites information in a meaningful way. Tacit knowledge is _know-how_; the skills we are able to perform even if we can't perfectly explain what we're doing, like how to balance while riding a bike.
 
-If the universe tends toward disorder, how does information grow? The author argues that knowledge and information processing power co-evolve. Plants, animals, and life act as a trap for information which maintains it. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun. They are performing some type of information processing to adjust and grow their bodies to track the sun. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
+If the universe tends toward disorder, how does information grow? The author argues that knowledge and information processing power co-evolve. Three things are needed for the growth of information, a system out of equilibrium, the ability for matter to embody information in solid form, and the ability of matter to compute. Physics points to a universe which should disperse into a homogeneous soup, but life fights entropy at every moment. [Systems out of equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) have a flux of energy into and out of itself. The author gives the example of a whirlpool of water. Water at rest is a [steady state](https://en.wikipedia.org/wiki/Steady_state). Water flowing down a drain has much more information, the velocity of a water molecule is correlated with the molecules surrounding it.
+
+The ability of matter to embody information in solid form allows the recombination of information to produce new information. If we could freeze the whirlpool we would retain some of the information about the whirlpool in a solid object.
+
+Plants, animals, and life act as a trap which maintains and grows information. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun, tracking its position from morning to night. They are performing some type of information processing to adjust and grow their bodies. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
 
 The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_. We can begin to find limits to knowledge and skills such as the minimum number of person-bytes needed formed into a network to create a firm-byte to produce a product.
 
@@ -1060,9 +1086,21 @@ Firms with high trust are flexible and adaptable. More familial firms are strong
 
 With artificial intelligence, we can expand beyond person-byte and firm-byte knowledge and computation to create a greater power than our cumulative processing. We can exceed our biological limits.
 
-I don't believe humans and other animals will be replaced by AI soon. We are all over 4 billion years in the making through an evolutionary process. The amount of computation time required to understand everything useful about humans and our lives to make us redundant or a problem to be disposed of is likely a greater cost than simply keeping us around and re-training or re-purposing us.
+I don't believe humans and other animals will be replaced by AI soon. We are all over 4.5 billion years in the making through an evolutionary process. The amount of computation time required to understand everything useful about humans and our lives to make us redundant or a problem to be disposed of is likely a greater cost than simply keeping us around and re-training or re-purposing us.
 
 If AI does destroy us the cause will likely be from proceeding too quickly without caution. Wisdom comes from experience. We typically must do then reflect to determine which paths to avoid and which to choose. To chart a path to beneficial AI we should proceed slowly over generations. The biggest AI threats come from governments engaged in covert cyber-warfare with each government rushing in an arms race to dominate others. Social media and ad-based companies will use AI to hack you for your attention, learning everything that makes you _pay_ attention, netting them more profit for each ad impression you consume. Of course any company with a CEO who aims their AI at maximizing their profit with no constraints could lead to an errant AI enslaving many of us for the profit of a handful of people.
+
+## Singularity
+
+> "The technological singularity—also, simply, the singularity—is a hypothetical point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. According to the most popular version of the singularity hypothesis, called intelligence explosion, an upgradable intelligent agent will eventually enter a "runaway reaction" of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an "explosion" in intelligence and resulting in a powerful superintelligence that qualitatively far surpasses all human intelligence." - [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity)
+
+The pace of exponential growth is so great some technologists are concerned we will lose control of an AI system within moments of activation. A rapidly self-improving system would make itself better, which would then make itself better. At each improved stage, the AI would be that much better at evolving into the next stage, quickly rocketing into heights we cannot imagine.
+
+We can get lost in imaginations of these possible worlds, but there are quite a few critical assumptions such as: the idea of intelligence being one dimensional and ignoring diminishing returns. A clear [definition of intelligence is difficult and still in progress](https://arxiv.org/abs/1911.01547), but an objective of "maximize smartness" may not be as clear to a machine as we think. Additionally, we rarely get increasing returns forever. Often we hit limits and barriers we can't go past. We can only make designs so efficient before we run into the impassable laws of physics. Others have pointed out the nature of empirical scientific knowledge is to test. Even a superintelligent AI would need to verify its hypotheses and perform experiments.
+
+However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. In Judea Pearl's The Book of Why, the authors show a general method of inference from big data. 
+
+<img src="../../images/why-bigdata-CD.png" width="100%" height="100%">
 
 However I believe a properly aligned AI will only grow more moral with knowledge and computation.
 
@@ -1070,9 +1108,11 @@ However I believe a properly aligned AI will only grow more moral with knowledge
 
 ## Moral AI
 
+Moral feelings in humans are based around the five spheres of morality, harm, authority, fairness, purity, and community. As individuals we have different weightings for each principle. Our sense of morality is likely evolved from our sense of taste. We are attracted to some behaviors and disgusted by others like foods. Our bodies and minds give a subconscious evaluation of behavior resulting in a moral sense of good and bad. Moral actions can be interpreted as a path to a desired goal state where the goal is to maximize moral value/wellness/fitness. Because environments change and have different pressures, moral tastes adapt to the setting to guide intelligent and moral agents. The more complex the environment the more complex the moral system and evaluation.
+
+We should greatly respect are innate moral senses; evolution honed our senses over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality.
 
 
-<img src="../../images/why-bigdata-CD.png" width="100%" height="100%">
 
 
 
