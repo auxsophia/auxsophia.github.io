@@ -176,6 +176,7 @@ Avoid emulsifiers in nutmilks. Avoid aluminum in deoderant.
 Foods which can be consumed liberally throughout the diet. If you're looking to gain/lose weight, adjust concentrated fats.
 
 Oils and fats:
+
 - Olive oil
 - Grassfed tallo
 - Grassfed/Organic butter or ghee  
@@ -183,6 +184,7 @@ Oils and fats:
 - Coconut oil
 
 Protein:
+
 - Grassfed beef
 - Free range poultry
 - Pasture raised pork
@@ -205,6 +207,7 @@ Protein:
 - Salmon jerky
 
 Nuts and seeds:
+
 - Almonds and almond butter
 - Brazil nuts
 - Cashews
@@ -219,6 +222,7 @@ Nuts and seeds:
 - Chia seeds
 
 Vegetables:
+
 - Mixed greens
 - Kale
 - Spinach
@@ -253,9 +257,10 @@ Vegetables:
 - Water chestnuts
 - Nori
 - Kelp
-- Seaweed 
+- Seaweed
 
 Non-starchy root vegetables:
+
 - Beets
 - Carrots
 - Radishes
@@ -263,6 +268,7 @@ Non-starchy root vegetables:
 - Parsnips
 
 Low-sugar fruits:
+
 - Avocados
 - Coconuts
 - Olives
@@ -273,6 +279,7 @@ Low-sugar fruits:
 - Kiwis
 - Bell peppers
 - Cucumbers
+- Tomatoes
 - Zucchini
 - Squash
 - Pumpkin
@@ -283,6 +290,135 @@ Low-sugar fruits:
 - Okra
 
 Herbs/Seasonings/Condiments:
+
+- Parsely
+- Rosemary
+- Thyme
+- Cilantro
+- Sage
+- Turmeric
+- Cinnamon
+- Cumin
+- Allspice
+- Cardemum
+- Ginger
+- Cayenne
+- Coriander
+- Oregano
+- Fenukreek
+- Paprika
+- Salt
+- Black Pepper
+- Apple cider, white, balsamic vinegar
+- Mustard
+- Horse radish
+- Tapenad
+- Salsa
+- Nutritional yeast
+
+Fermented organic soy:
+
+- Nato
+- Miso
+- Tempeh
+- Tamari sauce (organic/gluten-free)
+- Dark chocolate (80%+)
+
+Beverages:
+
+- Filtered water
+- Coffee
+- Tea
+- (Unsweetened) almond milk, flax milk, coconut milk, cashew milk
+
+Sometimes-foods (moderation, post-two week adaptation, later at night):
+
+At most 3-4 servings per week. Organic if possible
+
+Starchy root vegetables:
+
+- White potatoes
+- Sweet potatoes
+
+Non-gluten containing unprocessed grains:
+
+- Buckwheat
+- Rice (brown, white, wild)
+- Millet
+- Quinoa
+- Sorgum
+- Teff
+- Gluten free oatmeal
+- Non-GMO corn or popcorn
+
+Dairy:
+
+- Grass-fed, full-fat, antibiotic/hormone free yogurt
+- Heavy cream
+- Hard cheeses
+
+Whole, sweet fruit:
+
+- Apples
+- Apricots
+- Mangoes
+- Melons
+- Pineapples
+- Pomegranates
+- Bananas
+
+Legumes:
+
+- Beans
+- Lentils
+- Peas
+- Chickpeas
+- Hummus
+- Peanuts
+
+Sweeteners:
+
+- Stevia
+- Non-GMO sugar alcohols
+- Monk fruit
+
+Once adapted a higher carb meal is fine, especially timed around after a workout. Total daily carbs should be less than 150g.
+
+Polyphenol food sources:
+
+Catechins - Green/white tea, grapes, cocoa, berries
+Flavanones - Oranges, grapefruits, lemons
+Flavanols - Cocoa, green vegetables, onions, berries
+Anthocyanins - Berries, red grapes, red onions
+Reservatrol - Red wine, grape skins, pistachios, peanuts
+Curcumin - Turmeric, mustard
+Oleocanthal - Extra-virgin olive oil
+
+Phenol - Found in - Benefits
+
+Reservatrol - Red wine, dark chocolate, pistachios - Improves brain glucose metabolism, cognitive function
+Quercetin - Onions - Strengthens gut barrier integrity and reduces permeability
+Anthocyanins - Blueberries - Reduces cognitive aging and Alzheimer's risk
+Fisetin - Strawberries, cucumbers - Reduces brain inflammation, protects from cognitive decline
+
+### Custom Carb Pyramid (3 Tiers)
+
+Ultra-low/Ketogenic (Days 1-14)
+
+- Consume only 20-40 grams of carbohydrates per day
+- Depletes glycogen stores and gets brain fat adapted
+- "If you are eating this way longer-term for weight loss, add a one-time weekly high-carb refeed. This means you can indulge in higher-starch foods (aim to keep the meal low-fat) to replenish muscle energy stores once a week. There's no magic number, but shoot for 100 to 150 grams of carbs with that meal."
+
+Low(er) carb (after 14 days)
+- Consume 50-75g of carbs per day
+- "People who are looking for weight maintenance and perform light physical activity should stay at this level."
+
+Optional: Carb cycling
+
+- Carb intake can increase after vigorous training
+- Consume 75-150g carbs per day (heavy workout days)
+- Still vastly lower than average American diet
+
 
 
 ---

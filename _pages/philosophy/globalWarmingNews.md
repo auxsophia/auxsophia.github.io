@@ -314,4 +314,78 @@ All the scientific data available suggests that if we continue on our current co
 
 ---
 
+[‘Collapse of civilisation is the most likely outcome’: top climate scientists](https://voiceofaction.org/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/?fbclid=IwAR2gjgKLt80vNIOd_yeODWmTPzJrrZzKhfs3WMIbi2ptmEStowTeZly-1lU)
+
+6/5/20
+
+> "Australia’s top climate scientist says “we are already deep into the trajectory towards collapse” of civilisation, which may now be inevitable because 9 of the 15 known global climate tipping points that regulate the state of the planet have been activated."
+
+> "Steffen says it would take 30 years at best (more likely 40-60 years) to transition to net zero emissions, but when it comes to tipping points such as Arctic sea ice we could have already run out of time."
+
+"Evidence shows we will also lose control of the tipping points for the Amazon rainforest, the West Antarctic ice sheet, and the Greenland ice sheet in much less time than it’s going to take us to get to net zero emissions, Steffen says.
+
+“Given the momentum in both the Earth and human systems, and the growing difference between the ‘reaction time’ needed to steer humanity towards a more sustainable future, and the ‘intervention time’ left to avert a range of catastrophes in both the physical climate system (e.g., melting of Arctic sea ice) and the biosphere (e.g., loss of the Great Barrier Reef), we are already deep into the trajectory towards collapse,” said Steffen.
+
+“That is, the intervention time we have left has, in many cases, shrunk to levels that are shorter than the time it would take to transition to a more sustainable system.
+
+“The fact that many of the features of the Earth System that are being damaged or lost constitute ‘tipping points’ that could well link to form a ‘tipping cascade’ raises the ultimate question: Have we already lost control of the system? Is collapse now inevitable?”
+
+This is not a unique view – leading Stanford University biologists, who were first to reveal that we are already experiencing the sixth mass extinction on Earth, released new research this week showing species extinctions are accelerating in an unprecedented manner, which may be a tipping point for the collapse of human civilisation.
+
+Also in the past week research emerged showing the world’s major food baskets will experience more extreme droughts than previously forecast, with southern Australia among the worst hit globally.
+
+Steffen used the metaphor of the Titanic in one of his recent talks to describe how we may cross tipping points faster than the time it would take us to react to get our impact on the climate under control.
+
+“If the Titanic realises that it’s in trouble and it has about 5km that it needs to slow and steer the ship, but it’s only 3km away from the iceberg, it’s already doomed,” he said."
+
+<img src="../../images/tipping-points-climate-change.jpg" width="100%" height="100%">
+
+## +4°C world would support < 1 billion people
+
+> Professor Hans Joachim Schellnhuber, director emeritus and founder of the Potsdam Institute for Climate Impact Research, believes if we go much above 2°C we will quickly get to 4°C anyway because of the tipping points and feedbacks, which would spell the end of human civilisation.
+
+> Johan Rockström, the head of one of Europe’s leading research institutes, warned in 2019 that in a 4°C-warmer world it would be “difficult to see how we could accommodate a billion people or even half of that … There will be a rich minority of people who survive with modern lifestyles, no doubt, but it will be a turbulent, conflict-ridden world”.
+
+> Schellnhuber, one of the world’s leading authorities on climate change, said that if we continue down the present path “there is a very big risk that we will just end our civilisation. The human species will survive somehow but we will destroy almost everything we have built up over the last two thousand years.”
+
+"Steffen told Voice of Action that the three main challenges to humanity – climate change, the degradation of the biosphere and the growing inequalities between and among countries – were “just different facets of the same fundamental problem”.
+
+This problem was the “neoliberal economic system” that spread across the world through globalisation, underpinning “high production high consumption lifestyles” and a “religion built not around eternal life but around eternal growth”.
+
+“It is becoming abundantly clear that (i) this system is incompatible with a well-functioning Earth System at the planetary level; (ii) this system is eroding human- and societal-well being, even in the wealthiest countries, and (iii) collapse is the most likely outcome of the present trajectory of the current system, as prophetically modelled in 1972 in the Limits to Growth work,” Steffen told Voice of Action."
+
+> Steffen told Voice of Action that it’s “highly likely that by 2030 we’ll know what pathway we’ve taken”, “the pathway towards sustainability or the current pathway towards likely collapse”.
+
+> Steffen told Voice of Action he believes collapse “will likely not come as a dramatic global collapse, but rather as overall deterioration in many features of life, with regional collapses occurring here and there”.
+
+"Alexander, who studies the economic, political and cultural challenges of living on a full planet in an age of limits, believes the future will be “post-growth / post capitalist / post-industrial in some form”."
+
+"“It seems obvious that very fundamental changes are required, all the way down to core values – what do we really value in life?,” said Steffen.
+
+Turner said the “absolutely immense changes” required to deliver a sustainable future were just “too hard for the vast majority of people to contemplate”.
+
+“You’d have to halve the birth rate, you’d have to have net zero immigration, you’d have to go totally renewable energy and double efficiencies in every sector of the economy, and the really key thing is you’d have to reduce the working week over time so that it would become half of what it is,” said Turner.
+
+“But that would also mean that people wouldn’t have the same level of income and it goes hand in hand with reducing household consumption by half. And unless you do all of those things, you don’t achieve a steady state, sustainable future, and if you leave some things out you’ve got to go even harder at the others.”
+
+Turner believes it would be possible to provide for everyone’s needs in a sustainable way but we would have to live a 1950s or 1960s-style lifestyle with limits such as one car and TV per household. We wouldn’t be living in caves and we’d still have technology but the rate of change would be a lot slower.
+
+“I think if we all manage to live a simpler and arguably more fulfilling life then it would be possible still with some technological advances to have a sustainable future, but it would seem that it’s more likely … that we are headed towards or perhaps on the cusp of a sort of global collapse,” Turner told Voice of Action."
+
+<img src="../../images/15-tipping-points.jpg" width="100%" height="100%">
+
+"Instead of firms competing in a global market we need to be “localising economies” so that “basically people are producing locally for local needs and only basic needs”. This would involve having “autonomous communities” with “substantive and direct democracy” and consensus decision making."
+
+---
+
+[Plastic Rain Is the New Acid Rain](https://www.wired.com/story/plastic-rain-is-the-new-acid-rain/?utm_source=facebook&utm_brand=wired&utm_medium=social&mbid=social_facebook&utm_social-type=owned&fbclid=IwAR1IDZGxFC6lgs3fMqRiS-1e0QgCy5pBn4xcsb9oKLNE2jKcH_AdkiX_aq4)
+
+06/11/20
+
+> Writing today in the journal Science, researchers report a startling discovery: After collecting rainwater and air samples for 14 months, they calculated that over 1,000 metric tons of microplastic particles fall into 11 protected areas in the western US each year. That’s the equivalent of over 120 million plastic water bottles. “We just did that for the area of protected areas in the West, which is only 6 percent of the total US area,” says lead author Janice Brahney, an environmental scientist at Utah State University. “The number was just so large, it's shocking.”
+
+> Plastic rain could prove to be a more insidious problem than acid rain, which is a consequence of sulfur dioxide and nitrogen oxide emissions. By deploying scrubbers in power plants to control the former, and catalytic converters in cars to control the latter, the US and other countries have over the last several decades cut down on the acidification problem. But microplastic has already corrupted even the most remote environments, and there’s no way to scrub water or land or air of the particles—the stuff is absolutely everywhere, and it’s not like there’s a plastic magnet we can drag through the oceans. What makes plastic so useful—its hardiness—is what also makes it an alarming pollutant: Plastic never really goes away, instead breaking into ever smaller bits that infiltrate ever smaller corners of the planet. Even worse, plastic waste is expected to skyrocket from 260 million tons a year to 460 million tons by 2030, according to the consultancy McKinsey. More people joining the middle class in economically-developing countries means more consumerism and more plastic packaging.
+
+---
+
 Well, if we start to see more earthquakes and tsunamis, expect more [nuclear disasters](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster). There are tons of reactors on our East coast.

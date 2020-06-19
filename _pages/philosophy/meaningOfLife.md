@@ -1098,9 +1098,19 @@ The pace of exponential growth is so great some technologists are concerned we w
 
 We can get lost in imaginations of these possible worlds, but there are quite a few critical assumptions such as: the idea of intelligence being one dimensional and ignoring diminishing returns. A clear [definition of intelligence is difficult and still in progress](https://arxiv.org/abs/1911.01547), but an objective of "maximize smartness" may not be as clear to a machine as we think. Additionally, we rarely get increasing returns forever. Often we hit limits and barriers we can't go past. We can only make designs so efficient before we run into the impassable laws of physics. Others have pointed out the nature of empirical scientific knowledge is to test. Even a superintelligent AI would need to verify its hypotheses and perform experiments.
 
-However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. In Judea Pearl's The Book of Why, the authors show a general method of inference from big data. 
+However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. In Judea Pearl's The Book of Why, the authors show a general method of inference from big data. Framing the criticism of superintelligence from the perspective of Pearl's Ladder of Causation, seeing, doing, and imagining, AI systems are at the seeing (association) level. They have incredible amounts of data, but they lack the ability to imagine. Superintelligence would be having a superhuman imagination where imagination is adjusting the weights or probabilities of a causal model. To have a causal model which is tied to reality an intelligent agent would need to _do_ which is to intervene, experiment, and update its causal model.
+
+Through the work of Pearl and many others, researchers have discovered a general algorithm for _transportability_, taking the data and results of one population and applying it to another. Studies which involve mice are only so transportable to humans, since we genetically separated millions of years ago. Our species still share similarities. If we can estimate which factors in mice and humans are similar and accurate and which are contaminating and should be accounted for, we could use mice models to better understand effects in humans.
 
 <img src="../../images/why-bigdata-CD.png" width="100%" height="100%">
+
+Pearl explains the rule developed by Ilya Shpitser as "The rule is quite simple: if you can perform a valid sequence of _do_-operations (using the rules from chapter 7) that transforms the target quantity into another expression in which any factor involving _S_ is free of _do_-operators, then the estimate is transportable," The Book of Why, page 418.
+
+Additionally, even if a study is not transportable and doesn't meet the criteria, we can still use the data to estimate specific connections when those conditions in one study are not contaminated. Elias Bareinboim extended Shpitser's work on the _do_-calculus to a general algorithm, e.g. P(W|X) can be updated "By combining this with estimates of P(W|X) from other studies, we can increase the precision of this subexpression. By carefully combining such subexpressions, we may be able to synthesize an accurate overall estimate of the target quantity."
+
+There is a similar argument to handle [selection bias](https://en.wikipedia.org/wiki/Selection_bias). What was once a threat is now an opportunity. "If we understand the mechanism by which we recruit subjects for the study, we can recover from bias by collecting data on the right set of deconfounders and using an appropriate reweighting or adjustment formula. Bareinboim's work allows us to exploit causal logic and Big Data to perform miracles that were previously inconceivable."
+
+"Instead of seeing the difference between populations as a threat to the "external validity" of a study, we now have a methodology for establishing validity in situations that would have appeared hopeless before. It is precisely because we live in the era of Big Data that we have to information on many studies and on many of the auxiliary variables (like _Z_ and _W_) that will allow us to transport results from one population to another."
 
 However I believe a properly aligned AI will only grow more moral with knowledge and computation.
 
@@ -1110,9 +1120,21 @@ However I believe a properly aligned AI will only grow more moral with knowledge
 
 Moral feelings in humans are based around the five spheres of morality, harm, authority, fairness, purity, and community. As individuals we have different weightings for each principle. Our sense of morality is likely evolved from our sense of taste. We are attracted to some behaviors and disgusted by others like foods. Our bodies and minds give a subconscious evaluation of behavior resulting in a moral sense of good and bad. Moral actions can be interpreted as a path to a desired goal state where the goal is to maximize moral value/wellness/fitness. Because environments change and have different pressures, moral tastes adapt to the setting to guide intelligent and moral agents. The more complex the environment the more complex the moral system and evaluation.
 
-We should greatly respect are innate moral senses; evolution honed our senses over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality.
+We should greatly respect are innate moral senses; evolution honed our senses over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality. An AI system can also adapt and respond to new situations faster than our moral senses.
 
+Human morality is built on genetic and epi-genetic responses (objective reality), giving rise to our personal moral feelings (subjective reality), influenced by the moral standards of our time and society (inter-subjective reality of society's beliefs and the objective reality imposing boundaries and limitations). At least our genetic moral senses are 10,000 years old. We're wired for close human bonds of small groups. Humans had to adapt to larger groups. We should be careful if our moral senses disagree with what is rational in a given situation. We may not have the moral update needed to reach the optimal conclusion.
 
+Moral AI systems will be able to update quickly with new information. These systems can be used to augment and enhance our moral systems shaped by evolution.
+
+---
+
+I highly recommend the section "Strong AI and Free Will" from _The Book of Why_.
+
+Remember the current limitations of deep learning. AI programs are on rung one, seeing/association, of the Ladder of Causation. We need to build systems with the capabilities of doing and particularly imagining. We need to build a causal understanding of the world into the machine which should be possible from recent advances in cause and effect.
+
+Pearl is a [compatibilist](https://en.wikipedia.org/wiki/Compatibilism).
+
+What if I had "changed my mind?" What if I had taken a different action which would likely lead to a better outcome? "This expression is mathematically the same as the effect of treatment on the treated (mentioned in ch 8), and we have lots of results indicating how to estimate it," Location 5494.
 
 
 
