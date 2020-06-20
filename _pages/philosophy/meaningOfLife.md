@@ -1132,10 +1132,35 @@ I highly recommend the section "Strong AI and Free Will" from _The Book of Why_.
 
 Remember the current limitations of deep learning. AI programs are on rung one, seeing/association, of the Ladder of Causation. We need to build systems with the capabilities of doing and particularly imagining. We need to build a causal understanding of the world into the machine which should be possible from recent advances in cause and effect.
 
-Pearl is a [compatibilist](https://en.wikipedia.org/wiki/Compatibilism).
+Earlier we spoke of the universe being a deterministic process. At least on the macro level, every event occurs from a preceding cause. On the objective level, we don't have any choice. We were always going to choose the path we've taken and will take. We're only a more complex version of a leaf blowing in the wind. We're just a leaf that is aware it's floating and thinks it can steer.
 
-What if I had "changed my mind?" What if I had taken a different action which would likely lead to a better outcome? "This expression is mathematically the same as the effect of treatment on the treated (mentioned in ch 8), and we have lots of results indicating how to estimate it," Location 5494.
+The objective level of description often makes us feel bad. Not having control doesn't feel good. Accepting determinism takes away all control we hope for. When we observe neurons in the brain, there appears to be no more magic than brain chemistry. Neurons fire and never appear to break the natural laws of physics. Every moment of your life determined by mechanistic chemical signaling. At the same time, determinism doesn't feel true. Don't you feel like you make choices? Right now I can choose to touch my nose or not. How do we join the descriptions of objective and subjective reality?
 
+Pearl is a [compatibilist](https://en.wikipedia.org/wiki/Compatibilism). He believes that free will and determinism are philosophically coherent. We can explain both worlds, a determined universe and our inner experience.
+
+Free will is actually imagination, the highest rung of the Ladder of Causation. Choices and options are _what-if_ scenarios. We have causal models of the world which allow us to ask what if I had "changed my mind?" What if I had taken a different action which would likely lead to a better outcome? "This expression is mathematically the same as the effect of treatment on the treated (mentioned in ch 8), and we have lots of results indicating how to estimate it," Location 5494.
+
+Given the _fitness beats truth theorem_, we should consider that free will is an illusion. Remember, senses outside the body need to be more precise. Senses inside the body can be vague enough to satisfy needs. What computational benefit is there to free will?
+
+"I think that understanding the benefits of the illusion of free will is the key to the stubbornly enigmatic problem of reconciling it with determinism. The problem will dissolve before our eyes once we endow a deterministic machine with the same benefits," Location 5519.
+
+Well let's look at what neural activations are considered "willed" or intentional and unintentional. "In many cases, voluntary actions are recognized by a trace they leave in short-term memory, with the trace reflecting a purpose or motivation."
+
+Pearl uses an example of a soccer game. If a player runs to the center of the match, that player understands they are motivated to be in the action of the match. Maybe their motivation is to have fun or impress the fans. The player takes intentional actions. When we pick out a single action, we see how explanations for choices requires reflection. If a player chooses to make a shot for the goal or pass to another player, we can only ask later for the player to explain their choice. "Rationalization of actions may be a reconstructive, post-action process...In the heat of the game, thousands of input signals compete for the player's attention. The crucial decision is which signals to prioritize, and the reasons can hardly be recalled and articulated."
+
+"AI researchers are therefore trying to answer two questions -- about function and simulation -- with the first driving the second. Once we understand what computational function free will serves in our lives, then we can attend to equipping machines with such functions."
+
+"The illusion of free will gives us the ability to speak about our intents and to subject them to rational thinking, possibly using counterfactual logic. When the coach pulls us out of a soccer game and says, "You should have passed the ball to Charlie," consider all the complex meanings embedded in these eight words.
+
+First, the purpose of such a "should have" instruction is to swiftly transmit valuable information from the coach to the player: in the future, when faced with a similar situation, choose action _B_ rather than action _A_. But the "similar situations" are far too numerous to list and are hardly known even to the coach themself. Instead of listing the features of these "similar situations" the coach points to the player's action, which is representative of the player's intent at decision time. By proclaiming the action inadequate, the coach is asking the player to identify the software packages that led to the player's decision and then reset priorities among those packages so that "pass to Charlie" becomes the preferred action. There is profound wisdom in this instruction because who, if not the player themself, would know the identities of those packages? They are nameless neural paths that cannot be referenced by the coach or any external observer. Asking the player to take an action different from the one taken amounts to encouraging an intent-specific analysis, like the one we mentioned above. Thinking in terms of intents, therefore, offers us a shorthand to convert complicated causal instructions into simple ones.
+
+I would conjecture, then, that a team of robots would play better soccer if they were programmed to communicate as if they had free will. No matter how technically proficient the individual robots are at soccer, their team's performance will improve when they can speak to each other as if they are not preprogrammed robots but autonomous agents believing they have options...
+
+In order to communicate naturally with humans, strong AIs will certainly need to understand the vocabulary of options and intents, and thus they will need to emulate the illusion of free will...
+
+The ability to reason about one's own beliefs, intents, and desires has been a major challenge to AI researchers and defines the notion of "agency." Philosophers, on the other hand, have studied these abilities as part of the classical question of consciousness. Questions such "Can machines have consciousness?" or "What makes a software agent different from an ordinary program?" have engaged the best minds of many generations, and I would not pretend to answer them in full. I believe, Nevertheless, that the algorithmization of counterfactuals is a major step toward understanding these questions and making consciousness and agency a computational reality...
+
+In summary, I believe that the software package that can give a thinking machine the benefits of agency would consist of at least three parts: a causal model of the world; a causal model of its own software, however superficial; and a memory that records how intents in its mind correspond to events in the outside world."
 
 
 

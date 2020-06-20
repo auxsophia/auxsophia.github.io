@@ -386,20 +386,20 @@ Once adapted a higher carb meal is fine, especially timed around after a workout
 
 Polyphenol food sources:
 
-Catechins - Green/white tea, grapes, cocoa, berries
-Flavanones - Oranges, grapefruits, lemons
-Flavanols - Cocoa, green vegetables, onions, berries
-Anthocyanins - Berries, red grapes, red onions
-Reservatrol - Red wine, grape skins, pistachios, peanuts
-Curcumin - Turmeric, mustard
-Oleocanthal - Extra-virgin olive oil
+- Catechins - Green/white tea, grapes, cocoa, berries
+- Flavanones - Oranges, grapefruits, lemons
+- Flavanols - Cocoa, green vegetables, onions, berries
+- Anthocyanins - Berries, red grapes, red onions
+- Reservatrol - Red wine, grape skins, pistachios, peanuts
+- Curcumin - Turmeric, mustard
+- Oleocanthal - Extra-virgin olive oil
 
-Phenol - Found in - Benefits
-
-Reservatrol - Red wine, dark chocolate, pistachios - Improves brain glucose metabolism, cognitive function
-Quercetin - Onions - Strengthens gut barrier integrity and reduces permeability
-Anthocyanins - Blueberries - Reduces cognitive aging and Alzheimer's risk
-Fisetin - Strawberries, cucumbers - Reduces brain inflammation, protects from cognitive decline
+| Phenol         | Found in            | Benefits                     |
+|:---------------|:--------------------|:-----------------------------|
+| Reservatrol | Red wine, dark chocolate, pistachios | Improves brain glucose metabolism, cognitive function |
+| Quercetin | Onions | Strengthens gut barrier integrity and reduces permeability |
+| Anthocyanins | Blueberries | Reduces cognitive aging and Alzheimer's risk |
+| Fisetin | Strawberries, cucumbers | Reduces brain inflammation, protects from cognitive decline |
 
 ### Custom Carb Pyramid (3 Tiers)
 
@@ -419,6 +419,36 @@ Optional: Carb cycling
 - Consume 75-150g carbs per day (heavy workout days)
 - Still vastly lower than average American diet
 
-
-
 ---
+
+Honestly I didn't think I would read a book that would change my mind about the MINDDiet. Genius Foods modifies the MINDDiet. It can fit the framework. What's tough is that many nutritionists and cognitive-optimizers have recommended ketosis for brain benefits. People disagree on proper carb intake. I have to say I'm amazed and thoroughly convinced by _Deep Nutrition: Why Your Genes Need Traditional Food_, Catherine Shanahan, M.D.
+
+Dr. Shanahan argues we can separate traditional foods (indigenous diets) into four neat categories. We need to eat these as often as we can, preferably daily.
+
+## 4 Pillars of the Human Diet
+* Meat cooked on the bone
+* Organ meat
+* Fresh, raw plant and animal products
+* Fermented and sprouted foods
+
+"Proved to be essential by virtue of their ubiquitousness." They proved to be successful by the robust health of their followers.
+
+Shanahan argues health and beauty come from the fabric of the universe. Beautiful people are beautiful because of their health and nutrition. Our genetics have rules for how to grow and develop that are naturally appealing, like the fibonacci sequence and fractals. Poor health and nutrition distort the natural processes and symmetry resulting in unattractive traits. Tough foods that require us to chew help shape developing mouths. Animals in the wild don't need braces ever! We only need braces now largely because we eat softer foods from cooking. Our foods are now ultra-soft because they were designed that way.
+
+We're eating an unusual "astronaut" diet never seen in human history before! From babies drinking human designed formula to the packaged and preservative filled foods we eat from the grocery store, we have yet to see the full impact our diet has on health.  
+
+Antioxidant supplements can cause oxidative stress or do nothing to help if the chemical environment is not supportive of antioxidation. Vegetable oils must be removed from the diet.
+
+We should cook meat on the bone, especially stews. Cook with skin and fat on. Nutrients are more bio-available after slow cooking. If something has natural foods and each bite packs powerful flavor, that's where the nutrients are most free and absorbed by the body.
+
+If there's an excess of protein, sugar, vitamins, and minerals aside from calcium and phosphorous, part is stored in the liver until needed. "Liver is therefore the most outstanding meat which can be purchased." However, mass-farmed animals likely have low nutrient density and don't have much excess.
+
+Plants have natural defenses because they don't want to be eaten! Plants spend a great deal of energy thwarting grazers. To a lesser degree, even fruit has defenses. They don't want to be grazed to extinction. Fermenting and sprouting counteracts these defenses. Simultaneously these practices help to preserve food naturally and safely. Cheese is fermented in a way where the microbiomes devour the sugar and leave nutrients behind.
+
+Raw milk is very healthy. Pasteurized not better for an individual but for mass production. Milk is one of the few substances meant to actually nurture another creature.
+
+Chapter 15 covers losing body weight through food. Calories in calories out ignores the information food sends to your body. Cells are communicating and understanding on a chemical level. _Food as information!_
+
+
+
+Sugar is pro-inflammatory. 100g or more of sugar a day traps carbs at your liver and converts to fat.
