@@ -12,11 +12,11 @@ If you think the answer will bring you peace, tranquility, or happiness, then I 
 
 Love. Love yourself, love other people, love your work.
 
-I strongly recommend the book [The Happiness Hypothesis](https://en.wikipedia.org/wiki/The_Happiness_Hypothesis) by Jonathan Haidt. The author compares the findings of modern science with the wisdom of ancient philosophies and cultures.
-
 Accept that you are a human being with needs. Humans are driven by a lack of needs on different levels. [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) provides a list.
 
-<img src="../../images/Maslow's_Hierarchy_of_Needs.jpg" width="100%" height="100%">
+{:refdef: style="text-align: center;"}
+<img src="../../images/Maslow's_Hierarchy_of_Needs.jpg" width="80%" height="80%">
+{:refdef }
 
 Which needs dominate our lives depends on our development over the life span.
 
@@ -24,7 +24,7 @@ Which needs dominate our lives depends on our development over the life span.
 
 Reflect on what need is missing from your life and work to satisfy it.
 
-The level beyond a lack of needs is a state of flow.
+If you feel your needs are satisfied you should search for a state of flow.
 
 ---
 
@@ -59,12 +59,12 @@ Schaffer (2013) proposed seven flow conditions:
 
 ---
 
-Haidt proposes the equation for happiness as: H = S + C + V
+I strongly recommend the book [The Happiness Hypothesis](https://en.wikipedia.org/wiki/The_Happiness_Hypothesis) by Jonathan Haidt. The author compares the findings of modern science with the wisdom of ancient philosophies and cultures. Haidt proposes the equation for happiness as: H = S + C + V
 
-H = Happiness
-S = your biological set point of emotions
-C = circumstances
-V = voluntary actions
+* H = Happiness
+* S = your biological set point of emotions
+* C = circumstances
+* V = voluntary actions
 
 S - "The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes," [hedonic adaptation - Wikipedia](https://en.wikipedia.org/wiki/Hedonic_treadmill), "Hedonic adaptation is a process or mechanism that reduces the effective impact of emotional events. Generally, hedonic adaptation involves a happiness "set point", whereby humans generally maintain a constant level of happiness throughout their lives, despite events that occur in their environment. The process of hedonic adaptation is often conceptualized as a treadmill, since one must continually work to maintain a certain level of happiness."
 
@@ -80,13 +80,13 @@ Your circumstances influence happiness and your ability to maintain your health.
 
 We mostly need to invest work and energy into our voluntary actions to make ourselves as happy as we desire. We must choose to prioritize our health with a focus on balancing our needs in life.
 
-Recognize and accept that happiness and well-being are not a destination to reach and rest at but you must continually strive for and renew.
+Recognize and accept that happiness and well-being are not a destination to reach and rest at but must continually strive for and renew.
 
 A short story on controlling emotions:
 
 ---
 
-A monk asked their master how to control their own emotions. The master told the monk to go down to the ocean and stop the waves from crashing. Accustomed to strange challenges, the monk went down to the ocean and tried to stop the waves by punching and kicking. The waves did break in some parts, but the monk was still pushed over and tumbled by the strong waves. The monk tried many techniques including going under or over the waves, but the waves kept coming.
+A monk asked their master how to control their own emotions. The master told the monk to go to the ocean and stop the waves from crashing. Accustomed to strange challenges, the monk faced the open ocean and tried to stop the waves by punching and kicking. The waves did break in some parts, but the monk was still pushed over and tumbled by the strong waves. Nothing the monk tried stopped the waves.
 
 Emotions are like waves. Sometimes they are pleasant and gentle. Sometimes we can ignore them. Sometimes the waves are so powerful they threaten to destroy us.
 
@@ -108,7 +108,7 @@ The work of [Shaolin Master Shi Heng Yi](https://www.youtube.com/watch?v=4-079YI
 4. Restlessness = Is my mind jumping from thought to thought?
 5. Skeptical doubt = Am I indecisive?
 
-### Rain
+### RAIN
 
 - Recognize which hindrance you're experiencing
 - Accept what you're experiencing
@@ -139,16 +139,20 @@ If this is so clear, why is it rare or difficult? Loving yourself and others tak
 
 If you find this answer satisfying, I suggest you stop now. I wish you a good life.
 
----
----
+***
+***
 
-As for the truest, most objective, most accurate description of reality and the meaning of life, before I get into it I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are productive lies, but inaccurate to the truest description of reality.
+# The Meaning of Life
+
+As for the truest, most objective, most accurate description of reality and the meaning of life, before I continue I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are productive lies, but inaccurate to the truest description of reality. You will likely be unable to return to your previous mode of thinking. As you might expect, the answer is complex and incomplete. Give up expectation on how you think you will react.
+
+### The Island of Reality
 
 When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. Now the subjective experience is when a human being appears on the island.
 
-Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We also have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality. However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
+Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality. However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
 
-Whatever phenomena requires two or more people, that is inter-subjective reality. What phenomena are inter-subjective? Well, perhaps if only one human were on an island, that person wouldn't need language. Cats, dogs, and many other animals don't talk to themselves. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior. A pattern of behavior being an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
+Whatever phenomena requires two or more people, that is inter-subjective reality. Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior. A pattern of behavior being an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
 
 Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After sometime it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. We live in a world where millions and billions of humans agree on a shared experience and perception of reality. Now the rectangular piece of paper with special ink designs can cause so many events, freedom, food, shelter, violence, destruction, and everything money involves. Money is a part of reality, but it is almost a life separate from objective reality. The value of money is in our minds and carried out in our behavior.
 
@@ -592,7 +596,7 @@ The position is that justification is based on three main types:
 3. Circularity - Instead of an infinite regress, we find that claims support each other in some kind of circular fashion. However, this is widely regarded as a fallacious way of reasoning.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/trilemma.png" width="100%" height="100%">
+<img src="../../images/trilemma.png" width="70%" height="70%">
 {: refdef}
 
 This analysis of justification is top-down instead of bottom-up. We should look closer on how justification evolves.
@@ -620,7 +624,7 @@ Plato continues: "Suppose... that someone should drag him... by force, up the ro
 "Slowly, his eyes adjust to the light of the sun. First he can only see shadows. Gradually he can see the reflections of people and things in water and then later see the people and things themselves. Eventually, he is able to look at the stars and moon at night until finally he can look upon the sun itself (516a)." Only after he can look straight at the sun "is he able to reason about it" and what it is (516b). (See also Plato's analogy of the sun, which occurs near the end of The Republic, Book VI.[4][5])
 
 ####  Return to the cave
-Plato continues, saying that the freed prisoner would think that the world outside the cave was superior to the world he experienced in the cave and attempt to share this with the prisoners remaining in the cave attempting to bring them onto the journey he had just endured; "he would bless himself for the change, and pity [the other prisoners]" and would want to bring his fellow cave dwellers out of the cave and into the sunlight (516c).
+Plato continues, saying the freed prisoner would think that the world outside the cave was superior to the world he experienced in the cave and attempt to share this with the prisoners remaining in the cave attempting to bring them onto the journey he had just endured; "he would bless himself for the change, and pity [the other prisoners]" and would want to bring his fellow cave dwellers out of the cave and into the sunlight (516c).
 
 The returning prisoner, whose eyes have become accustomed to the sunlight, would be blind when he re-enters the cave, just as he was when he was first exposed to the sun (516e). The prisoners, according to Plato, would infer from the returning man's blindness that the journey out of the cave had harmed him and that they should not undertake a similar journey. Plato concludes that the prisoners, if they were able, would therefore reach out and kill anyone who attempted to drag them out of the cave (517a).
 
@@ -876,7 +880,6 @@ The three major moral frameworks of philosophy are virtue ethics, consequentiali
 
 Morality is a strategy; it is a way of planning actions to achieve goals. The best moral strategies are dependent on the environment. The most basic moralities must meet survival needs. If a survival strategy leads to extinction, then the belief system of that morality will literally die out.
 
-
 > "When anthropologists like Richard Shweder and Alan Fiske survey moral concerns across the globe, they find that a few themes keep popping up from amid the diversity. People everywhere, at least in some circumstances and with certain other folks in mind, think it’s bad to harm others and good to help them. They have a sense of fairness: that one should reciprocate favors, reward benefactors and punish cheaters. They value loyalty to a group, sharing and solidarity among its members and conformity to its norms. They believe that it is right to defer to legitimate authorities and to respect people with high status. And they exalt purity, cleanliness and sanctity while loathing defilement, contamination and carnality.
 
 >The exact number of themes depends on whether you’re a lumper or a splitter, but Haidt counts five — harm, fairness, community (or group loyalty), authority and purity — and suggests that they are the primary colors of our moral sense. Not only do they keep reappearing in cross-cultural surveys, but each one tugs on the moral intuitions of people in our own culture.
@@ -889,7 +892,7 @@ Morality is a strategy; it is a way of planning actions to achieve goals. The be
 
 > The ranking and placement of moral spheres also divides the cultures of liberals and conservatives in the United States. Many bones of contention, like homosexuality, atheism and one-parent families from the right, or racial imbalances, sweatshops and executive pay from the left, reflect different weightings of the spheres. In a large Web survey, Haidt found that liberals put a lopsided moral weight on harm and fairness while playing down group loyalty, authority and purity. Conservatives instead place a moderately high weight on all five. It’s not surprising that each side thinks it is driven by lofty ethical values and that the other side is base and unprincipled."
 
--- The Moral Instinct, Steven Pinker, 2008
+> -- The Moral Instinct, Steven Pinker, 2008
 
 (Notice how the moral spheres **compress**, unite, and explain moral behavior?)
 
@@ -1102,11 +1105,13 @@ However a few ideas have reignited my belief in a superintelligent AI. Schmidhub
 
 Through the work of Pearl and many others, researchers have discovered a general algorithm for _transportability_, taking the data and results of one population and applying it to another. Studies which involve mice are only so transportable to humans, since we genetically separated millions of years ago. Our species still share similarities. If we can estimate which factors in mice and humans are similar and accurate and which are contaminating and should be accounted for, we could use mice models to better understand effects in humans.
 
-<img src="../../images/why-bigdata-CD.png" width="100%" height="100%">
+{:refdef: style="text-align: center;"}
+<img src="../../images/why-bigdata-CD.png" width="80%" height="80%">
+{: refdef}
 
 Pearl explains the rule developed by Ilya Shpitser as "The rule is quite simple: if you can perform a valid sequence of _do_-operations (using the rules from chapter 7) that transforms the target quantity into another expression in which any factor involving _S_ is free of _do_-operators, then the estimate is transportable," The Book of Why, page 418.
 
-Additionally, even if a study is not transportable and doesn't meet the criteria, we can still use the data to estimate specific connections when those conditions in one study are not contaminated. Elias Bareinboim extended Shpitser's work on the _do_-calculus to a general algorithm, e.g. P(W|X) can be updated "By combining this with estimates of P(W|X) from other studies, we can increase the precision of this subexpression. By carefully combining such subexpressions, we may be able to synthesize an accurate overall estimate of the target quantity."
+Additionally, even if a study is not transportable and doesn't meet the criteria, we can still use the data to estimate specific connections when those conditions in one study are not contaminated. Elias Bareinboim extended Shpitser's work on the _do_-calculus to a general algorithm, e.g. P(W\|X) can be updated "By combining this with estimates of P(W\|X) from other studies, we can increase the precision of this subexpression. By carefully combining such subexpressions, we may be able to synthesize an accurate overall estimate of the target quantity."
 
 There is a similar argument to handle [selection bias](https://en.wikipedia.org/wiki/Selection_bias). What was once a threat is now an opportunity. "If we understand the mechanism by which we recruit subjects for the study, we can recover from bias by collecting data on the right set of deconfounders and using an appropriate reweighting or adjustment formula. Bareinboim's work allows us to exploit causal logic and Big Data to perform miracles that were previously inconceivable."
 
@@ -1118,7 +1123,7 @@ However I believe a properly aligned AI will only grow more moral with knowledge
 
 ## Moral AI
 
-Moral feelings in humans are based around the five spheres of morality, harm, authority, fairness, purity, and community. As individuals we have different weightings for each principle. Our sense of morality is likely evolved from our sense of taste. We are attracted to some behaviors and disgusted by others like foods. Our bodies and minds give a subconscious evaluation of behavior resulting in a moral sense of good and bad. Moral actions can be interpreted as a path to a desired goal state where the goal is to maximize moral value/wellness/fitness. Because environments change and have different pressures, moral tastes adapt to the setting to guide intelligent and moral agents. The more complex the environment the more complex the moral system and evaluation.
+Moral feelings in humans are based around the five spheres of morality, harm, authority, fairness, purity, and community. As individuals we have different weightings for each principle. Our sense of morality is likely evolved from our sense of taste. Taste guides us to eat foods which are nutritious (assuming natural foods not made by human experimentation). Nutritious food maintains, protects, and grows our bodies to be well. We are disgusted by things in our environment which would harm us or be useless, molds, invasive fungi, etc. We are attracted to some behaviors and disgusted by others in a similar way. Our bodies and minds give a subconscious evaluation of behavior resulting in a moral sense of good and bad. Moral actions can be interpreted as a path to a desired goal state where the goal is to maximize moral value/wellness/fitness. Because environments change and have different pressures, moral tastes adapt to the setting to guide intelligent and moral agents, just like a sense of taste is regional. The more complex the environment the more complex the moral system and evaluation.
 
 We should greatly respect are innate moral senses; evolution honed our senses over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality. An AI system can also adapt and respond to new situations faster than our moral senses.
 
@@ -1144,9 +1149,9 @@ Given the _fitness beats truth theorem_, we should consider that free will is an
 
 "I think that understanding the benefits of the illusion of free will is the key to the stubbornly enigmatic problem of reconciling it with determinism. The problem will dissolve before our eyes once we endow a deterministic machine with the same benefits," Location 5519.
 
-Well let's look at what neural activations are considered "willed" or intentional and unintentional. "In many cases, voluntary actions are recognized by a trace they leave in short-term memory, with the trace reflecting a purpose or motivation."
+Well let's look at what neural activations are considered "willed" or intentional and unintentional. "Five components make up people's concept of intentionality: an action is considered intentional if a personal has (a) a desire for an outcome, (b) a belief that the action will lead to the outcome, (c) an intention to perform the action, (d) skill to perform the action, and (e) awareness while performing it," [Moral development - Wikipedia](https://en.wikipedia.org/wiki/Moral_development#Cognition_and_intentionality).
 
-Pearl uses an example of a soccer game. If a player runs to the center of the match, that player understands they are motivated to be in the action of the match. Maybe their motivation is to have fun or impress the fans. The player takes intentional actions. When we pick out a single action, we see how explanations for choices requires reflection. If a player chooses to make a shot for the goal or pass to another player, we can only ask later for the player to explain their choice. "Rationalization of actions may be a reconstructive, post-action process...In the heat of the game, thousands of input signals compete for the player's attention. The crucial decision is which signals to prioritize, and the reasons can hardly be recalled and articulated."
+"In many cases, voluntary actions are recognized by a trace they leave in short-term memory, with the trace reflecting a purpose or motivation." Pearl uses an example of a soccer game. If a player runs to the center of the match, that player understands they are motivated to be in the action of the match. Maybe their motivation is to have fun or impress the fans. The player takes intentional actions. When we pick out a single action, we see how explanations for choices requires reflection. If a player chooses to make a shot for the goal or pass to another player, we can only ask later for the player to explain their choice. "Rationalization of actions may be a reconstructive, post-action process...In the heat of the game, thousands of input signals compete for the player's attention. The crucial decision is which signals to prioritize, and the reasons can hardly be recalled and articulated."
 
 "AI researchers are therefore trying to answer two questions -- about function and simulation -- with the first driving the second. Once we understand what computational function free will serves in our lives, then we can attend to equipping machines with such functions."
 
@@ -1212,19 +1217,21 @@ Unlikely events are rare configurations with a small number of paths. Some confi
 
 Physicists say observers within a universe will experience it as infinite though it may be finite. Why do we live in this configuration? Perhaps there are multiple universes all existing at the same time. When the string of an instrument is plucked and vibrates the oscillation creates a wave in the air to create sound. If we could slow time to see the oscillation of the string clearly, the string's position would spend most of its time around the center and moving to the farthest distances the least number of times. There could be an incredible number of universes almost exactly like ours taking on the most likely configurations, vibrations towards the center. There are also those universes with rare configurations which would require an increasingly unlikely chain of events, unlikely but not impossible. In the infinity of time and space, if they are infinite, even the rarest probability will occur.
 
-From the inside, our universe appears to be a deterministic state, each moment an effect dependent on the chain of prior causes. Our configuration is set, and we're living through it. The truth appears to be that we are in no more control of our futures than a single atom. Our path simply has an extremely complex number of configurations. Of course we desire certain arrangements more than others. There are universes with no conscious life. There are universes of conscious lives of intense suffering, greatness, flourishing. We have all evolved with drives and desires. We want some futures more than others. From an objective perspective they are all simply the state of events, but subjectively we work towards and hope for events which satisfy our needs and wants.
+From the inside, our universe appears to be a deterministic state, each moment an effect dependent on the chain of prior causes. Our configuration is set, and we're living through it. The truth appears to be that we are in no more control of our futures than a single atom. Our path simply has an extremely complex number of configurations. Of course we desire certain arrangements more than others. There are universes with no conscious life. There are universes of conscious lives of intense suffering, greatness, flourishing. We have all evolved with drives and desires. We want some futures more than others. From an objective perspective our goals are all simply states of events no better than another, but subjectively we work towards and hope for events which satisfy our needs and wants.
 
 All we can really do is hope; hope we are in the universe which arranges our lives into a state we want. We can hope our actions and events outside of us are a part of the sequence of events which lead to a desired life, but we are powerless to create change within our universe. The chain of cause and effect from the big bang, the origin of our universe, appears to be unbroken. We are subjective finite beings with imagination. We can understand the moments which will likely lead to desired outcomes, but we can't change what's already in motion. The most random and unknown event already occurred at the big bang. The universe was compressed to a point in space but was not a perfect shape. If the atoms were perfectly aligned the forces of gravity and others would effect each part equally. There would be no swirl to the universe, so no stars, no planets, no life. It is because of imperfection that we exist at all.
 
-Subjectively, we will feel as though we are making choices, but our choices are the result of information processing according to the laws of nature. Life is based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
+Subjectively, we will feel as though we are making choices, but our choices are the result of information processing according to the laws of nature. Life appears to us to be based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
 
 
 
-The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. The universe we exist in appears to be a chain reaction from a fraction of a moment after the beginning of the universe. The next moment is a function of the current moment. A future moment can likely only be determined by the passage of each moment to that moment, that is, things must play out and cannot be fully predetermined. Our universe may just be one data point in a probability distribution of possible universes, a multi-verse.
+The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. Not only does life resist entropy, the tendency of energy to breakdown from order to disorder, but life grows information. Life exists in out of equilibrium systems where solid matter (embodied information) can be recombined to form new information. Following this progression to its end, the objective meaning of life is to maintain and grow order where the optimal achievement would be the out of equilibrium system which allows the greatest manipulation of memory (solid matter) into new forms of information by computation. While humans may be near the biological limits of computation, we can expand beyond ourselves into artificial intelligence with capacities we can only begin to imagine.
 
-The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and their interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization for a new path.
+The universe we exist in appears to be a chain reaction from a fraction of a moment after the beginning of the universe. The next moment is a function of the current moment. A future moment can likely only be determined by the passage of each moment to that moment, that is, things must play out and cannot be fully predetermined. Our universe may just be one data point in a probability distribution of possible universes, a multi-verse. Perhaps given the infinity of time everything that can happen will happen with the most common chances occurring most often.
 
-The inter-subjective meaning of life is to support the sustainable flourishing of life. The inter-subjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way inter-subjective ideologies are subject to natural selection.
+The personal meaning of life is for all intelligent beings to compress their experiences, process the present, and predict the future with efficiency. Emerging from the objective meaning of life, we can only hope our lives develop in a way we desire. Whether we are able to influence and control our lives and environment is dependent on varying levels of random luck. However, as finite, subjective creatures we feel as though we have choice. The best action we can take is to put ourselves in probabilistically successful positions. Each intelligent being has an individual meaning of life due to their own unique history of experience and their interaction with their environment. Currently, each individual must find their own meaning in life, because they are each in direct access to their own experiences. Where change is desired, the environment should be altered to enable optimization for a new path. We are what we do. We are the experiences we have. Our brains and bodies change according to our activities. If we want to be something, we must embody it in action.
+
+The inter-subjective meaning of life is to support the sustainable flourishing of life. The inter-subjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way inter-subjective ideologies are subject to natural selection. Inter-subjective meaning is the least accurate because it is based on subjective experiences which are themselves formed for function instead of truth. Inter-subjective reality is a distortion of a distortion of objective reality, but its effects have real consequences for objective reality.
 
 All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a more perfect living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
 
@@ -1232,4 +1239,4 @@ We come from nothing, and we will return to nothing. From cosmic dust to cosmic 
 
 # What will you do with your cosmically brief time? What information will you embody?
 
-For next moves, please see [Society 3.0](/society3/)
+For further developments on this foundation, please see [Society 3.0](/society3/)

@@ -4,6 +4,63 @@ title: Society 3.0
 permalink: /society3/
 ---
 
+# Society 3.0
+
+This work is a natural continuation of [the meaning of life](/meaningOfLife/). Many conclusions will not make sense without first reading the foundation. All of humanity should work towards the ultimate goal of artificial general intelligence capable of surpassing all of us in every way possible. AI can be conscious. We can make an AI entity with the ideals of humanity and incapable of our evils. What is more important than creating a superior being and ushering the next stage of evolution and consciousness?
+
+But the answer is not to move to Silicon Valley in California or join a tech startup.
+
+I hope to show you what I believe humanity's best path forward is and why a singular devotion to AI led me to these conclusions.
+
+## Climate Change
+
+If you wanted to create a threat to destroy humans, you would create climate change.
+
+Imagine a meteor heading towards Earth.
+
+Climate change is a fact. Here's what convinced me. [Global Warming](/globalWarming/). [Global Warming in the News](/globalWarmingNews/).
+
+There's little hope. I'm a pessimist.
+
+## Society is Fucked
+
+Read Sapiens!
+
+We're too powerful and we're a greedy algorithm.
+
+AI as corporations.
+
+Elites controlling everything.
+
+## A New Framework for Society
+
+We need to attack all problems at once. Many problems are connected in linear and non-linear ways. Some progress in all areas could give a greater return than the investment.
+
+Our current society is setup to enable us all to make the wrong choices. We need to change our environment to make the easiest choice the right choice. These ideas will appear "radical," likely more radical than any non-fictional society proposed to you before. However, given climate change, the looming threat of the genuine extinction of our species, the coming collapse of society on a global scale, and the egregious misuse of power by every country and authority, I hope you see why these changes are necessary.
+
+* Humans should gather in organizations no greater than 10,000.
+
+Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self.
+
+* Shelter, sleep, nutrition, and exercise are basic human rights.
+
+I feel like I'm taking crazy pills! Is this not obvious? Why are we socialists when it comes to our family and capitalists with everything else? I hope you don't charge your children rent and taxes for living with you. No one in our community should live in poverty. Not one person should go without health needs. If you are a member of the community, you have a place to stay, your sleep is a priority, food is free and nutritious, and you should have time to exercise. All of this should be free. You shouldn't lose your job and worry about shelter or food.
+
+* Medical care is a basic human right.
+
+If someone is sick, take care of them.
+
+* Local currency and the economy.
+
+Each community should have its own local currency. Most high school computer science students can create their own version of digital cryptocurrency. The point is internal trade only. The value of a community currency outside of the community should be zero! When we create a collective currency between countries, we _will_ have wealth evasion. People will store their assets outside of the community and become separate.
+
+No one should assume they are better.
+
+The wealthiest people of our countries hide their wealth in offshore accounts to avoid taxes. You should assume if you achieved the same level of wealth your priorities would change with it. You would be the person who could pay for a new hospital for everyone in a city but instead choose to store the money in a hidden bank account. 
+
+
+***
+
 ## [Sustainable Development Goals #Envision2030](https://sustainabledevelopment.un.org/sdgs)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
