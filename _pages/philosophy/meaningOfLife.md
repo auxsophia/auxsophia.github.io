@@ -152,9 +152,9 @@ When I speak of reality, I divide our experience into three parts, objective, su
 
 Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality. However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
 
-Whatever phenomena requires two or more people, that is inter-subjective reality. Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior. A pattern of behavior being an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
+Whatever phenomena requires two or more people, that is inter-subjective reality. Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
 
-Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After sometime it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. We live in a world where millions and billions of humans agree on a shared experience and perception of reality. Now the rectangular piece of paper with special ink designs can cause so many events, freedom, food, shelter, violence, destruction, and everything money involves. Money is a part of reality, but it is almost a life separate from objective reality. The value of money is in our minds and carried out in our behavior.
+Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After sometime it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. We live in a world where millions and billions of humans agree on a shared experience and perception of reality. Now the rectangular piece of paper with special ink designs can cause so many events, freedom, food, shelter, violence, destruction, and everything money involves. Money is a part of reality, but it is almost a life separate from objective reality. Observing money, much of what money is and how it effects change in the world is not on the objective level. The value of money tracks in the beliefs and behaviors of humans. The value of money is in our minds and carried out in our behavior.
 
 As we have described money on an analysis of three levels of reality, we can split our memories and experience into an analysis by three parts. Investigations into the three parts of experience in science are described by:
 
@@ -167,9 +167,7 @@ As we have described money on an analysis of three levels of reality, we can spl
 - Inter-subjective
   - Psychology giving rise to mass psychology, sociology, and the social sciences
 
-So we can analyze experience on each level of reality. With gender, there is an objective level at which we can categorize creatures. Let's discuss human beings. Men and women have differently shaped bodies and expressions. Our DNA can be categorized as XX and XY. Many things are independent of what we individually and collectively think or feel. There is also a subjective sense of gender, what we believe we should or should not do. The brain reacts and operates differently depending on the hormone balance in the body, causing a change in its function. How our subjective sense expresses itself is often a function of the social level, inter-subjectivity. There are patterns of behavior accepted as masculine or feminine, and these change across time and cultures. Notice that if we were to compare a woman from 10,000 years ago with a woman of modern times, biologically we will see many similarities in hormone profile, shape, etc. However, the culture has changed dramatically. Even in modern times, one country to another can have great dissimilarity. However, biological sex exists on the objective level, sexual and gender identity exists on the subjective level (on top of the objective level), and gender norms exist on the inter-subjective level.
-
-Looking at money, much of what money is and how it effects change in the world is not on the objective level. The value of money tracks in the beliefs and behaviors of humans.
+So we can analyze experience on each level of reality. By considering life on each level, I hope the clarification leads us to similar conclusions. Philosophy is a reflection on the three levels of reality and how they relate to one another. I will give a perspective on many sub-problems of philosophy throughout.
 
 ---
 
@@ -179,15 +177,35 @@ To simplify the question, let's start with very basic rules for a "universe."
 
 [<img src="../../images/gameoflife.png" width="100%" height="100%">](https://www.samcodes.co.uk/project/game-of-life/)
 
-Imagine the above grid spread out in all directions. Each square represents either a living cell or a dead spot. Let's say the white parts are dead, and the black parts are living cells. The way the grid starts at moment zero, the beginning of the universe, is randomly assigned. Some cells will be alive and some will be dead. Now, [here are the rules of this basic universe](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life):
+Imagine the above grid spread out in all directions, instead of 3x3 it's ∞x∞. Each square represents either a living cell or a dead spot. Let's say the white parts are dead, and the black parts are living cells. Which cells are alive and which are dead at moment zero, the beginning of the universe, is randomly assigned. Now, [here are the rules of this basic universe](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life):
 
 1. Any live cell with two or three neighbors survives.
 2. Any dead cell with three live neighbors becomes a live cell.
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
-With every "tick," every moment after the start, the rules are applied to each cell on the grid at the current moment. Please take a moment to apply these rules to the grid above.
+With every "tick," every moment after the start, the rules are applied to each cell on the grid. Please take a moment to apply these rules to the grid above. We can do the top row together.
 
-Of course, we can get a computer to calculate these rules on a much larger grid. From these three rules, what do you expect to see? Really try to imagine the possibilities. How much will the living cells spread and move? With there be something like groups of cells moving across the grid? Can we make a stable formation that will never change or die? What's a weird looking group that could pop up? Will the grid just be flashing lights of cells popping in and out with no forms?
+For the top left cell:
+
+* Rule 1 does not apply. (The cell is dead.)
+* Rule 2 is not true.
+* Rule 3 applies, the dead cell stays dead.
+
+For the top middle cell:
+
+* Rule 1 does not apply. (Only one neighboring living cell.)
+* Rule 2 does not apply.
+* Rule 3 applies, the cell is marked dead in the next generation. (From black to white.)
+
+For the top right cell:
+
+* Rule 1 does not apply.
+* Rule 2 is not true. (Only 2 neighbors.)
+* Rule 3 applies, the dead cell stays dead.
+
+What about the middle left cell in the next generation? Keep in mind the cell is calculated with the current cells, not the cells already calculated for the next generation.
+
+Of course, we can get a computer to calculate these rules on a much larger grid. From these three rules, what do you expect to see? Really try to imagine the possibilities. How much will the living cells spread and move? Will there be something like groups of cells moving across the grid? Can we make a stable formation that will never change or die? What's a weird looking group that could pop up? Will the grid just be flashing lights of cells popping in and out with no forms?
 
 The answer isn't obvious to me. The easier way to know what will happen is to run the simulation and see what we get. Some people have let the simulation run for days on a vast grid and cataloged what happens.
 
@@ -196,19 +214,29 @@ The answer isn't obvious to me. The easier way to know what will happen is to ru
 There was never a specific design for any of these patterns. They occur from the initial state and the rules on that state. The results are fascinating as "creatures," groups of connected cells, interact with each other. There are self-replicating creatures which create new groups of cells which are sent off.
 
 {:refdef: style="text-align: center;"}
+<img src="../../images/MoL/still-lifes.png" width="25%" height="25%">
+{: refdef}
+
+{:refdef: style="text-align: center;"}
 <img src="../../images/Gospers_glider_gun.gif" width="50%" height="50%">
 <br>A pattern called Gosper's glider gun.
 {: refdef}
 
-Do you think a computer could arise from these three simple rules? In fact, a computer can arise without intervention or design, a Turing machine. Conway's game of life is Turing complete, and can simulate any Turing machine. This means any algorithm can be carried out by a complex enough group of cells in the game. So groups of cells can self-replicate and carry out programs, processing information, all from three simple rules.
+> "Many patterns in the Game of Life eventually become a combination of still lifes, oscillators, and spaceships; other patterns may be called chaotic. A pattern may stay chaotic for a very long time until it eventually settles to such a combination.
+
+> The Game of Life is [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem), which means that given an initial pattern and a later pattern, no algorithm exists that can tell whether the later pattern is ever going to appear. This is a corollary of the [halting problem](https://en.wikipedia.org/wiki/Halting_problem): the problem of determining whether a given program will finish running or continue to run forever from an initial input," -- [Game of Life - Undecidability](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Undecidability).
+
+Do you think a functioning computer could arise from these three simple rules? In fact, a computer can arise without intervention or design, called a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). Conway's game of life is Turing complete, and can simulate any Turing machine. This means any algorithm can be carried out by a complex enough group of cells in the game. So groups of cells can self-replicate and carry out programs, processing information, all from three simple rules.
 
 A large part of this demonstration is to show what properties can arise from simple operations. I didn't expect to see so many incredible patterns. Consider the universe we inhabit. What are the basic rules that govern this universe? [Here's a list of fundamental physics formulas.](https://en.wikiversity.org/wiki/Fundamental_Physics/Formulas)
 
-Instead of a few basic rules, humans have discovered many laws governing the transfer of energy, heat, motion, etc. We could hardly predict what would come about from three simple rules, so what can we expect from hundreds of laws interacting? Our ideas of cells were extremely simple, alive or dead, yet the biology of our lives are extremely complex. Physics gives rise to all the elements on the periodic table with their interactions.
+Instead of a few basic rules, humans have discovered many laws governing the transfer of energy, heat, motion, etc. We could hardly predict what would come about from three simple rules, so what can we expect from hundreds of laws interacting? Our ideas of cells were extremely simple, alive or dead, yet the biology of our lives are extremely complex. Physics gives rise to all the elements on the periodic table with their interactions. I would like to explore some of these rules as their implications for life are significant.
 
 ---
 
-To gain an understanding of life and the world, we need an understanding of [thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics). "Thermodynamics is a branch of physics that deals with heat and temperature, and their relation to energy, work, radiation, and properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics which convey a quantitative description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents by statistical mechanics," ([https://en.wikipedia.org/wiki/Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics)).
+### A Little Physics - The Laws of Thermodynamics
+
+To gain an understanding of life and the world, we need an understanding of [thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics). "Thermodynamics is a branch of physics that deals with heat and temperature, and their relation to energy, work, radiation, and properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics which convey a quantitative description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents by statistical mechanics," ([Thermodynamics -- Wikipedia](https://en.wikipedia.org/wiki/Thermodynamics)).
 
 "The three [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics) define physical quantities (temperature, energy, and entropy) that characterize thermodynamic systems at thermodynamic equilibrium. The laws describe how these quantities behave under various circumstances, and preclude the possibility of certain phenomena (such as perpetual motion)."
 
@@ -244,7 +272,7 @@ At zero temperature the system must be in a state with the minimum thermal energ
 
 _The entropy of a system approaches a constant value as the temperature approaches zero._"
 
-"The zeroth law of thermodynamics may be stated in the following form:
+"The **zeroth law of thermodynamics** may be stated in the following form:
 
 _If two systems are both in thermal equilibrium with a third system then they are in thermal equilibrium with each other._
 
@@ -1203,11 +1231,7 @@ The function of the brain is to provide coherent control over the actions of an 
   - Instrumental learning
   - Motor learning
 
-
-
----
-
-Philosophy exists as a reflection on the three levels of reality and how they relate to one another.
+With gender, there is an objective level at which we can categorize creatures. Let's discuss human beings. Men and women have differently shaped bodies and expressions. Our DNA can be categorized as XX and XY. Many things are independent of what we individually and collectively think or feel. There is also a subjective sense of gender, what we believe we should or should not do. The brain reacts and operates differently depending on the hormone balance in the body, causing a change in its function. How our subjective sense expresses itself is often a function of the social level, inter-subjectivity. There are patterns of behavior accepted as masculine or feminine, and these change across time and cultures. Notice that if we were to compare a woman from 10,000 years ago with a woman of modern times, biologically we will see many similarities in hormone profile, shape, etc. However, the culture has changed dramatically. Even in modern times, one country to another can have great dissimilarity. However, biological sex exists on the objective level, sexual and gender identity exists on the subjective level (on top of the objective level), and gender norms exist on the inter-subjective level.
 
 ---
 
