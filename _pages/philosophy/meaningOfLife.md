@@ -15,12 +15,12 @@ Love. Love yourself, love other people, love your work.
 Accept that you are a human being with needs. Humans are driven by a lack of needs on different levels. [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) provides a list.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/Maslow's_Hierarchy_of_Needs.jpg" width="80%" height="80%">
+<img src="../../images/MoL/Maslow's_Hierarchy_of_Needs.jpg" width="80%" height="80%">
 {:refdef }
 
 Which needs dominate our lives depends on our development over the life span.
 
-<img src="../../images/needs_over_lifespan.png" width="100%" height="100%">
+<img src="../../images/MoL/needs_over_lifespan.png" width="100%" height="100%">
 
 Reflect on what need is missing from your life and work to satisfy it.
 
@@ -175,7 +175,7 @@ How did objective reality come to be? How did life start? These are difficult qu
 
 To simplify the question, let's start with very basic rules for a "universe."
 
-[<img src="../../images/gameoflife.png" width="100%" height="100%">](https://www.samcodes.co.uk/project/game-of-life/)
+[<img src="../../images/MoL/gameoflife.png" width="100%" height="100%">](https://www.samcodes.co.uk/project/game-of-life/)
 
 Imagine the above grid spread out in all directions, instead of 3x3 it's ∞x∞. Each square represents either a living cell or a dead spot. Let's say the white parts are dead, and the black parts are living cells. Which cells are alive and which are dead at moment zero, the beginning of the universe, is randomly assigned. Now, [here are the rules of this basic universe](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life):
 
@@ -218,7 +218,7 @@ There was never a specific design for any of these patterns. They occur from the
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/Gospers_glider_gun.gif" width="50%" height="50%">
+<img src="../../images/MoL/Gospers_glider_gun.gif" width="50%" height="50%">
 <br>A pattern called Gosper's glider gun.
 {: refdef}
 
@@ -294,7 +294,7 @@ The second law of thermodynamics states that the entropy of an isolated system n
 
 Because it is determined by the number of random microstates, entropy is related to the amount of additional information needed to specify the exact physical state of a system, given its macroscopic specification. For this reason, it is often said that entropy is an expression of the disorder, or randomness of a system, or of the lack of information about it."
 
-A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards entropy). For instance, a fire is a dissipative structure. The fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structure, including the universe itself, is complexity."
+A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards increasing entropy). For instance, a fire is a dissipative structure. Fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structure, including the universe itself, is complexity."
 
 Complexity appears to defy the second law of physics, which is in a closed system entropy will always increase. "Order is never spontaneously produced from disorder. Once a glass breaks, you can't un-break it." Every dissipative structure converts exergy to heat, but it does so based on the rules of energy transfer and the dissipative structure itself.
 
@@ -519,7 +519,7 @@ The Earth is made up of chemical elements – think of the periodic table.  That
 It is accepted science that the Earth is an open system for energy.  Energy radiates into the Earth’s system, mainly from the sun.  Energy is then radiated back into space from the Earth, with the flows being regulated by the Earth’s atmosphere and ozone layer.  This delicate balanced transfer of energy maintains the surface temperature at a level that is suited to the forms of life that have evolved and currently exist.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/Natural_Cycles.png" width="100%" height="100%">
+<img src="../../images/MoL/Natural_Cycles.png" width="100%" height="100%">
 {: refdef}
 
 ---
@@ -530,7 +530,7 @@ Our bodies evolved to be formed of "Almost 99% of the mass of the human body is 
 ](https://en.wikipedia.org/wiki/Composition_of_the_human_body).
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/body_composition.png" width="100%" height="100%">
+<img src="../../images/MoL/body_composition.png" width="100%" height="100%">
 {: refdef}
 
 "Carbon is a primary component of all known life on Earth, representing approximately 45–50% of all dry biomass. Carbon compounds occur naturally in great abundance on Earth. Complex biological molecules almost always consist of carbon atoms bonded with other elements, especially oxygen and hydrogen and frequently also nitrogen, phosphorus, and sulfur...Carbon is capable of forming a vast number of compounds, more than any other element, with almost ten million compounds described to date, and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. For this reason, carbon has often been referred to as the "king of the elements". The enormous diversity of carbon-containing compounds, known as organic compounds, has led to a distinction between them and compounds that do not contain carbon, known as inorganic compounds. The branch of chemistry that studies organic compounds is known as organic chemistry.
@@ -624,7 +624,7 @@ The position is that justification is based on three main types:
 3. Circularity - Instead of an infinite regress, we find that claims support each other in some kind of circular fashion. However, this is widely regarded as a fallacious way of reasoning.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/trilemma.png" width="70%" height="70%">
+<img src="../../images/MoL/trilemma.png" width="70%" height="70%">
 {: refdef}
 
 This analysis of justification is top-down instead of bottom-up. We should look closer on how justification evolves.
@@ -663,7 +663,7 @@ Plato remains relevant more than 2,500 years after his death because his stories
 Consider hearing:
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/Hearing_mechanics_cropped.jpg" width="100%" height="100%">
+<img src="../../images/MoL/Hearing_mechanics_cropped.jpg" width="100%" height="100%">
 {: refdef}
 
 Sound must travel through a medium, air. The vibrating air moves tiny hairs inside our ears as well as vibrating a small bone in our inner ear, amplifying the sound. Our brain has dedicated areas to make sense of the sound for more information. What is the source of the sound? Where is its potential location? Our brain attempts to understand, predict, and find meaning in the vibration of the air.
@@ -762,11 +762,11 @@ Imagination is the highest level of understanding. "Counterfactual learners, on 
 Pearl once believed as many others that Bayesian rationalist was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect with many colleagues, scientists and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/confounding.png" width="75%" height="75%">
+<img src="../../images/MoL/confounding.png" width="75%" height="75%">
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/walking-cause.png" width="75%" height="75%">
+<img src="../../images/MoL/walking-cause.png" width="75%" height="75%">
 {: refdef}
 
 ---
@@ -1047,11 +1047,11 @@ From the _Fitness-beats-Truth Theorem_ we would expect to see brains with more i
 
 One example of how the brain amplifies its own perceptual predictions instead of anaylyzing the raw incoming sensory data is the [checker shadow illusion](https://en.wikipedia.org/wiki/Checker_shadow_illusion).
 
-<img src="../../images/1280px-Checker_shadow_illusion.svg.png" width="100%" height="100%">
+<img src="../../images/MoL/1280px-Checker_shadow_illusion.svg.png" width="100%" height="100%">
 
 "The image depicts a checkerboard with light and dark squares, partly shadowed by another object. The optical illusion is that the area labeled A appears to be a darker color than the area labeled B. However, within the context of the two-dimensional image, they are of identical brightness, i.e., they would be printed with identical mixtures of ink, or displayed on a screen with pixels of identical colour."
 
-<img src="../../images/1024px-Grey_square_optical_illusion_proof2.svg.png" width="100%" height="100%">
+<img src="../../images/MoL/1024px-Grey_square_optical_illusion_proof2.svg.png" width="100%" height="100%">
 
 Even with the second image and various ways to verify the color of the two tiles, it's still hard to believe they are the same color. Our brains sense the shadow and adjust the visual sensory input to to convince our conscious mind that the colors are different. This applies to all conscious experience shaped by evolution.
 
@@ -1089,17 +1089,21 @@ Of course the evaluation of life is multidimensional. We are in a constant need 
 
 Limiting ourselves to three dimensions, we can visualize the shape error takes. Each point represents a pattern, a state, a strategy taken by an agent. The proximity of a point means a similar strategy.
 
-[<img src="../../images/convex_cost_function.jpg" width="100%" height="100%">](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
+[<img src="../../images/MoL/convex_cost_function.jpg" width="100%" height="100%">](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
 
 If this is confusing to you, imagine that you are on top of a mountain and want to get down as fast as you can. You look for the steepest descent. Every once in a while, you pause to look around if any part looks faster, steeper, then you take that. If an agent followed a rule: never go up only go down, we can see what might happen. If they find a small valley, a sunken area, they would get into the hole and stay there. They can't get out because they would break their rule, going up, which is the opposite of what they want to do. They're stuck, and we know this is silly. If they walk a little further they will quickly see that is not the lowest point, just the lowest point near them. We need to get to the bottom! The sunken valleys we find can become traps! It only seems like the best option. These are local minima, the lowest errors in a given region.
 
-[<img src="../../images/challenges-MoL.png" width="100%" height="100%">](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
+[<img src="../../images/MoL/challenges-MoL.png" width="100%" height="100%">](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
 
 The lowest error of all errors is the global minima. That's the least error we can have given the conditions. The global minima represents the optimal strategy, the best we can do. Unfortunately, not every problem space has a global minima, or we can never find it. The curse of dimensionality makes the problem worse because each new dimension makes us less certain we've found a minima because there's so much more space to explore! There are many non-obvious problems like [saddle points](https://en.wikipedia.org/wiki/Saddle_point) which appear as though we've found a local minima, but it's an oscillation at a balanced point keeping us from moving further.
 
 In three dimensions, we can make sense of it. We can make analogies of skiing down mountain slopes and have an understanding of momentum. However, when the dimensions (variables) we measure go beyond three, we quickly lose the capacity to visualize and make sense of the space. In our discussion of morality, we list five major spheres which means at least five dimensions to optimize for.
 
 ---
+
+{:refdef: style="text-align: center;"}
+[<img src="../../images/MoL/knowledge-insight-wisdom.png" width="80%" height="80%">](https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/)
+{:refdef}
 
 The work of [Why Information Grows: The Evolution of Order, from Atoms to Economies by César A. Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) is fascinating. The author argues for a re-framing of economics in terms of information and knowledge growth. The growth of information is a necessary by-product of the second law of thermodynamics. The Earth is a system out of equilibrium allowing for the temporary resistance of entropy and disorder. Information is physically embodied in solid matter. The author makes a distinction between two forms of knowledge, explicit and tacit. Explicit knowledge is the knowledge we can communicate and describe. Knowledge unites information in a meaningful way. Tacit knowledge is _know-how_; the skills we are able to perform even if we can't perfectly explain what we're doing, like how to balance while riding a bike.
 
@@ -1134,7 +1138,7 @@ However a few ideas have reignited my belief in a superintelligent AI. Schmidhub
 Through the work of Pearl and many others, researchers have discovered a general algorithm for _transportability_, taking the data and results of one population and applying it to another. Studies which involve mice are only so transportable to humans, since we genetically separated millions of years ago. Our species still share similarities. If we can estimate which factors in mice and humans are similar and accurate and which are contaminating and should be accounted for, we could use mice models to better understand effects in humans.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/why-bigdata-CD.png" width="80%" height="80%">
+<img src="../../images/MoL/why-bigdata-CD.png" width="80%" height="80%">
 {: refdef}
 
 Pearl explains the rule developed by Ilya Shpitser as "The rule is quite simple: if you can perform a valid sequence of _do_-operations (using the rules from chapter 7) that transforms the target quantity into another expression in which any factor involving _S_ is free of _do_-operators, then the estimate is transportable," The Book of Why, page 418.

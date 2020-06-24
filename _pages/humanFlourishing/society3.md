@@ -32,7 +32,7 @@ AI as corporations.
 
 Elites controlling everything.
 
-## A New Framework for Society
+## A New Framework - Opensource Society
 
 We need to attack all problems at once. Many problems are connected in linear and non-linear ways. Some progress in all areas could give a greater return than the investment.
 
@@ -44,13 +44,44 @@ Humans should form into distinct, self-sustainable communities of no more than 1
 
 Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self.
 
+* Automation for all.
+
+Every human activity deemed not intrinsically worth doing should be automated as much as possible. If people don't like doing it, automate it!
+
+Much of our food production should be automated with [Farm Bot](https://farm.bot/). Farm bot is opensource. While we can buy a kit, it's also possible to download the code and schematics online to build ourselves. We can have a farm bot for every community household. Distributing food production will make us more secure and resilient.
+
+An ever growing amount of medical care can be automated. From [diagnosing skin conditions almost as well as a dermatologist](https://ai.googleblog.com/2019/09/using-deep-learning-to-inform.html) to [estimating cardiovascular risks based on retinal scans](https://ai.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html), AI can be the first step in the medical care process. Search engines are AI which help diagnose. Where our medical automation fails and the scope of treatment is beyond the scope of the community medical team, we will work with established hospitals for treatment, trading their money for service.
+
+We see that automation currently favors the wealthiest among us and serves their whims. The point of automation is for _all of us_. No small group should be the main benefactors or hold unequal power. Humans should be involved where ever humanity is needed.
+
 * Shelter, sleep, nutrition, and exercise are basic human rights.
 
 I feel like I'm taking crazy pills! Is this not obvious? Why are we socialists when it comes to our family and capitalists with everything else? I hope you don't charge your children rent and taxes for living with you. No one in our community should live in poverty. Not one person should go without health needs. If you are a member of the community, you have a place to stay, your sleep is a priority, food is free and nutritious, and you should have time to exercise. All of this should be free. You shouldn't lose your job and worry about shelter or food.
 
+Internal nutritious food should be free while unhealthy food should come at a cost. You should be **paid** to exercise! You should complete a workout and earn money. Staying fit saves the community medical expenses while keeping the individual well. Fitness helps in nearly every aspect of life.
+
+We need to focus on sustainable housing. Everyone should have access to an [Earthship](https://en.wikipedia.org/wiki/Earthship).
+
+---
+
+> An Earthship is a brand of passive solar earth shelter that is made of both natural and upcycled materials such as earth-packed tires, pioneered by architect Michael Reynolds.
+
+> Earthships are predicated upon the idea that there are six human needs which can be addressed through environmentally sustainable building design:
+
+> - Energy: Thermal and/or solar heating and cooling, solar and wind electricity
+- Garbage Management: Reuse and recycling built into construction and daily living
+- Sewage Treatment: Self-contained sewage treatment and water recycling
+- Shelter: Building with natural and recycled materials
+- Clean Water: Water harvesting and long term storage
+- Food: In-home organic food production capability
+
+> Earthship structures are intended to be "off-the-grid-ready" homes, with minimal reliance on public utilities and fossil fuels. They are constructed to use available natural resources, especially energy from the sun and rain water. They are designed with thermal mass construction and natural cross-ventilation to regulate indoor temperature, and the designs are intentionally uncomplicated and mainly single-story, so that people with little building knowledge can construct them.
+
+---
+
 * Medical care is a basic human right.
 
-If someone is sick, take care of them.
+If someone is ill, take care of them.
 
 * Local currency and the economy.
 
@@ -67,6 +98,12 @@ Here is where I would like the input of economists and others with a fresh persp
 Local currency should only be generated internally by work; never traded for established or other currency. No one should be able to "buy in." Every community member's immediate physical and emotional needs should be provided for. Money beyond that is the motivation to work more than necessary. Once generated, our local currency can be given back to the community bank. The community bank exchanges the local currency for the established currency which trades the good or service. Established currency should be generated by the entire community and held in a collective pool. From the pool, needs (and wants) which can only be obtained outside of the community can be exchanged. No established currency should be traded among community members for community owned goods and services.
 
 With the blockchain, we can immediately know the total wealth and other statistics of every member. We can choose to make this anonymous or tied directly to each member. Importantly, we can create _diminishing returns_. We can set a wealth cap based on each community where earning more doesn't generate money for the individual but is sent to the community bank. This creates a dis-incentive for people to hoard wealth and an incentive for members to continue spending, circulating currency through the community.
+
+* Sustainable Jobs -- Stewards of the Earth
+
+Many of our jobs should be based solely in redeveloping symbiosis with nature. We should disrupt the ecosystem as little as possible while making it robust to the coming climate changes. We should have a section of our population planting trees and growing [food forests](https://en.wikipedia.org/wiki/Forest_gardening). You should be paid to plant trees.
+
+Alongside our necessities, we need sustainability engineers to redesign our modern lives. We need to decide as a community what we can give up and what we can keep in a post-fossil fuel world. 
 
 * Information exchange.
 
