@@ -294,15 +294,15 @@ The second law of thermodynamics states that the entropy of an isolated system n
 
 Because it is determined by the number of random microstates, entropy is related to the amount of additional information needed to specify the exact physical state of a system, given its macroscopic specification. For this reason, it is often said that entropy is an expression of the disorder, or randomness of a system, or of the lack of information about it."
 
-A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards increasing entropy). For instance, a fire is a dissipative structure. Fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structure, including the universe itself, is complexity."
+A dissipative structure is embodied energy that takes in exergy (low entropy energy) and expels heat (high entropy energy), according to the arrow of time (tending towards increasing entropy). For instance, a fire is a dissipative structure. Fire uses fuel (exergy) to maintain and grow until the fuel is used. Once the fuel is gone, all exergy has been released as heat. The energy is the same, but the exergy is gone. "One can view the entire universe as a dissipative structure. The big bang released exergy, creating time and space. The feature that is perhaps most characteristic of dissipative structures, including the universe itself, is complexity."
 
-Complexity appears to defy the second law of physics, which is in a closed system entropy will always increase. "Order is never spontaneously produced from disorder. Once a glass breaks, you can't un-break it." Every dissipative structure converts exergy to heat, but it does so based on the rules of energy transfer and the dissipative structure itself.
+Complexity appears to defy the second law of physics, which is in a closed system entropy will always increase. "Order is never spontaneously produced from disorder. Once a glass breaks, you can't un-break it." Every dissipative structure converts exergy to heat, but it does so based on the rules of energy transfer and the self-organization of the dissipative structure itself.
 
 ### We are like fire.
 
 Living creatures are dissipative structures. We are not unlike a fire which consumes all available fuel to expand and maintain itself until there is no more fuel. The fuel needed for life is simply more complex. We require many different kinds of fuel, food, typically other complex dissipative structures like plants and animals, to maintain and grow our own structures, our bodies. The way heat and energy are dissipated from our body is governed by physics and biology, where biology is the study of living dissipative structures. Fire doesn't appear to consciously direct itself just like we don't decide how to sweat or where our blood vessels should grow. Our bodies emerged from a long evolutionary process. Evolutionary processes selected for the rules which govern our bodies, and we need an understanding of evolution to understand life.
 
-Just like how complex patterns emerged in Conway's game of life, so too did life emerge as a complex pattern from an initial state. Do the patterns we see moving across the grid decide which way they go? No, it's clearly an outcome determined by the rules of the game. The story of our life is similar.
+Just like how complex patterns emerged in Conway's Game of Life, so too did life emerge as a complex pattern from an initial state. Do the patterns we see moving across the grid decide which way they go? No, it's clearly an outcome determined by the rules of the game. The story of our life is similar.
 
 ### Properties of Dissipative Structures
 
@@ -312,7 +312,7 @@ Just like how complex patterns emerged in Conway's game of life, so too did life
 
 - No dissipative structure is immortal
 
-Crises can disrupt homeostasis. The more complex a system is the more possibility of a crisis occurring as well a crisis causing a cascade of further crises ultimately unraveling homeostasis.
+Crises can disrupt [homeostasis](https://en.wikipedia.org/wiki/Homeostasis). The more complex a system is the more ways it can go wrong. Greater complexity increases the possibility of a crisis occurring as well as a crisis causing a cascade of further crises ultimately unraveling homeostasis causing death. This gives a basic explanation for aging. An organism reaches its peak maturity and accrues damage and mistakes over time. There is a crisis like a burn on the body. Your body tries to heal as best it can and work around the trauma, but the system becomes less able to adapt in the future. The scar tissue cannot function as flexibly as undamaged skin, opening a path to a future crisis. There are all kinds of crises occurring in our bodies that we won't feel. Eventually the organism cannot adapt and dies.
 
 Assuming a dissipative structure has access to unlimited exergy and no crises, can it go on forever?
 
@@ -320,12 +320,11 @@ Assuming a dissipative structure has access to unlimited exergy and no crises, c
 
 The biologist [Eugene Odom](https://en.wikipedia.org/wiki/Eugene_Odum) describes this process in ecosystems called ecological succession. Ecosystem means a biological community of interacting organisms and their physical environment. An ecosystem begins on pure rock with small and simple dissipative structures. Eventually the entire ecosystem collapses and ends. A new ecosystem is built on a previous ecosystem. Each community of organisms in the ecosystem alters the environment. "It culminates in a homeostatic ecosystem in which biomass and symbiotic function between organisms are maintained. Maximum that is per unit of energy flow. Nature always optimizes. To repeat, self-organization is directed towards achieving as large and diverse a dissipative structure within the limits set by the available energy input and the prevailing physical conditions. Once homeostasis is achieved, the ecosystem is mature. However, eventually the ecosystem succumbs to its own fragility. A small perturbation in climate, or a fire, or an evolution of a disruptive, invasive, or parasitic species, and all the intricate specializations that lead to the optimization of the structure become in turn the cause of the system's failures. In the long view, this is not a tragedy, but an essential component of the evolutionary process. It's precisely the story of life on this planet with its breathtaking diversity not only across continents, but across time."
 
-Eventually, every organism relies on the whole system to survive. Once the system dies, the individuals die as well. In a similar way to how a fire will burn available fuel, organisms and ecosystems adapt to consume available fuel (exergy), specializing in the process of transforming that useful energy into less useful energy.
+Eventually, every organism relies on the whole system to survive. Once the system dies, the individuals die as well. In a similar way to how a fire will burn available fuel, organisms and ecosystems adapt to consume available fuel (exergy), specializing in the process of transforming that useful energy into less useful energy. We see that specialization is a natural drive. When an organism specializes they typically have a fuel source that other organisms find useless or undesirable, the rules governing other self-organizing organisms don't allow them to use that energy, while the specialists become efficient.
 
 ---
 
-The below timeline is taken from [Sapiens: A Brief History of Humankind](https://www.ynharari.com/book/sapiens/) by Professor Yuval Noah Harari.
-
+When we talk about life, we often mean human life. The story of biological life and ecosystems is the beginning of the story of humans. The below timeline is taken from [Sapiens: A Brief History of Humankind](https://www.ynharari.com/book/sapiens/) by Professor Yuval Noah Harari. I highly recommend this book as it is the origin of our species and how we came to dominate the planet. I really cannot recommend it enough! You can find a [summary on Wikipedia](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind). Please do your best to get a sense of the timescale.
 
 ### Timeline of History
 
@@ -458,9 +457,30 @@ Intelligent design becomes the basic principle of life? Homo sapiens is replaced
 
 Sapiens begins at the big bang and fast forwards through time to about 2.5 million years ago where it traces homo erectus and the many cousin-species of homo sapiens. What is so impactful to me about this book is how it breaks down the long held hubris of humankind. **"They [humans] were insignificant animals, whose ecological impact was less than that of fireflies or jellyfish."** With homo sapiens appearing just 0.2 million years ago, we likely held a niche spot in the ecosystem similar to the woodpecker. Just like the woodpecker evolved to eat grubs by hammering through dense bark, we might have evolved to eat bone marrow. When an apex predator such as a tiger killed a giraffe, early humans watched as the tiger and pride ate most of the giraffe. Then the hyenas came to eat the remaining parts. Finally, early humans, after looking all around for predators, slunk towards the carcass to eat any remaining tissue and use stone tools to break bones and eat the marrow. That was our niche.
 
-However, for 2 million years from homo erectus to homo sapiens, our brains just kept growing. We are still unsure as the reason why. With the domestication of fire, humans could scare away beasts, keep themselves warm, cook food, and control their environment. One human could easily burn down a forest in a matter of 20 minutes. How did humans control themselves not to destroy everything? Humans learned to do controlled burning which allowed them to pick through charred meat and other foods in the aftermath of a fire.
+However, for 2 million years from homo erectus to homo sapiens, our brains just kept growing. We are still unsure as the reason why. With the domestication of fire, humans could scare away beasts, keep themselves warm, cook food, and control their environment. Of course, cooking food allowed our bodies to absorb nutrients better. This hints at what was to come, humans getting more resources from the same amount of food or land compared to other species. One human could easily burn down a forest in a matter of 20 minutes. How did humans control themselves not to destroy everything? Humans learned to do controlled burning which allowed them to pick through charred meat and other foods in the aftermath of a fire. Our species co-evolved with the use of fire.
 
-Of course, cooking food allowed our bodies to absorb the nutrients better. This hints at what was to come, humans getting more resources from the same amount of food or land when compared to other species.
+Harari divides the history of Sapiens into 4 parts:
+
+1. The Cognitive Revolution (c. 70,000 BCE, when Sapiens evolved imagination).
+2. The Agricultural Revolution (c. 10,000 BCE, the development of agriculture).
+3. The unification of humankind (the gradual consolidation of human political organisations towards one global empire).
+4. The Scientific Revolution (c. 1500 CE, the emergence of objective science).
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/lionman.jpg" width="50%" height="50%">
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+The "Lion-man" sculpture is the oldest known work of figurative art, the first sculpture known depicting a creature entirely from the human imagination, half-man, half-lion. The work is 35,000-40,000 years old. [Lion-man -- Wikipedia](https://en.wikipedia.org/wiki/Lion-man)
+{: refdef}
+
+> Harari's main argument is that Sapiens came to dominate the world because it is the only animal that can cooperate flexibly in large numbers. He argues that prehistoric Sapiens were a key cause of the extinction of other human species such as the Neanderthals, along with numerous other megafauna. He further argues that the ability of Sapiens to cooperate in large numbers arises from its unique capacity to believe in things existing purely in the imagination, such as gods, nations, money, and human rights. He argues that these beliefs give rise to discrimination – whether that be racial, sexual or political and it is potentially impossible to have a completely unbiased society. Harari claims that all large-scale human cooperation systems – including religions, political structures, trade networks, and legal institutions – owe their emergence to Sapiens' distinctive cognitive capacity for fiction. Accordingly, Harari regards money as a system of mutual trust and sees political and economic systems as more or less identical with religions.
+
+> Harari's key claim regarding the Agricultural Revolution is that while it promoted population growth for Sapiens and co-evolving species like wheat and cows, it made the lives of most individuals (and animals) worse than they had been when Sapiens were mostly hunter-gatherers, since their diet and daily lives became significantly less varied. Humans' violent treatment of other animals is a theme that runs throughout the book.
+
+> In discussing the unification of humankind, Harari argues that over its history, the trend for Sapiens has increasingly been towards political and economic interdependence. For centuries, the majority of humans have lived in empires, and capitalist globalization is effectively producing one, global empire. Harari argues that money, empires, and universal religions are the principal drivers of this process.
+
+> -- [Summary - Wikipedia](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 
 What makes humans so unique is our ability to cooperate flexibly in large numbers. Other swarm and hive creatures cooperate in large numbers, but they all follow simple rules. Humans can learn new rules and collectively change their behaviors. The accumulation of knowledge in various subjects and the depths explored lead me to believe we can give a more detailed and accurate answer to the meaning of life than ever before.
 
@@ -488,17 +508,17 @@ Example, Rome. The Ancient Roman Empire was especially good at running an empire
 
 ---
 
-Humans occupy a strange place in the ecosystem. We are creatures that have multiplied our EROI's beyond the standard range of [0,2]. Fossil fuels are like batteries which have been slowly charged by the sun over thousands of years.
+Humans occupy a strange place in the ecosystem. We are creatures that have multiplied our EROI's beyond the standard range of [0,2]. Fossil fuels are like batteries which have been slowly charged by the sun over thousands of years. The EROI of fossil fuels is massive at 1:100. For every one unit of energy we put in, we get the equivalent of one hundred units of power back. We dig and extract the fossil fuel, costing energy, then we burn the fuel in an explosion one hundred times the force of extraction. Fossil fuels used to give a 1:100 ratio of EROI, but we are largely left with crude oil now. The EROI is closer to 1:30 which is still enough to support the advanced society we live in today, something beyond the nature of ecosystems.
 
 ### We are like water.
 
 Water is an excellent heat conductor. Since we are a slow but dynamic burning fire, we need a way for our body to expel heat (thermal energy) less we burn up too quickly and lose homeostasis to maintain our form in working order. Water saps the heat away from our bodies by changing its state. Water can leave our body through sweating. The sweat beads on our skin and eventually absorbs enough thermal energy that the sweat changes from a liquid state into a gaseous state, evaporating on the skin. Water is how we measure temperature in Celsius. [Under normal atmospheric conditions, water is solid (ice) at 0 degrees Celsius, water vapor at 100 degrees Celsius, and liquid in between](https://www.grc.nasa.gov/WWW/K-12/rocket/state.html).
 
-"In physics, a state of matter is one of the distinct forms in which matter can exist. Four states of matter are observable in everyday life: solid, liquid, gas, and plasma. Many intermediate states are known to exist, such as liquid crystal, and some states only exist under extreme conditions, such as Bose–Einstein condensates, neutron-degenerate matter, and quark–gluon plasma, which only occur, respectively, in situations of extreme cold, extreme density, and extremely high energy. For a complete list of all exotic states of matter, see the list of states of matter.
+> "In physics, a state of matter is one of the distinct forms in which matter can exist. Four states of matter are observable in everyday life: solid, liquid, gas, and plasma. Many intermediate states are known to exist, such as liquid crystal, and some states only exist under extreme conditions, such as Bose–Einstein condensates, neutron-degenerate matter, and quark–gluon plasma, which only occur, respectively, in situations of extreme cold, extreme density, and extremely high energy. For a complete list of all exotic states of matter, see the [list of states of matter](https://en.wikipedia.org/wiki/List_of_states_of_matter).
 
-Historically, the distinction is made based on qualitative differences in properties. Matter in the solid state maintains a fixed volume and shape, with component particles (atoms, molecules or ions) close together and fixed into place. Matter in the liquid state maintains a fixed volume, but has a variable shape that adapts to fit its container. Its particles are still close together but move freely. Matter in the gaseous state has both variable volume and shape, adapting both to fit its container. Its particles are neither close together nor fixed in place. Matter in the plasma state has variable volume and shape, and contains neutral atoms as well as a significant number of ions and electrons, both of which can move around freely.
+> Historically, the distinction is made based on qualitative differences in properties. Matter in the solid state maintains a fixed volume and shape, with component particles (atoms, molecules or ions) close together and fixed into place. Matter in the liquid state maintains a fixed volume, but has a variable shape that adapts to fit its container. Its particles are still close together but move freely. Matter in the gaseous state has both variable volume and shape, adapting both to fit its container. Its particles are neither close together nor fixed in place. Matter in the plasma state has variable volume and shape, and contains neutral atoms as well as a significant number of ions and electrons, both of which can move around freely.
 
-The term phase is sometimes used as a synonym for state of matter, but a system can contain several immiscible phases of the same state of matter." [State of matter](https://en.wikipedia.org/wiki/State_of_matter)
+> The term phase is sometimes used as a synonym for state of matter, but a system can contain several immiscible phases of the same state of matter." [State of matter](https://en.wikipedia.org/wiki/State_of_matter)
 
 Every element has a range of temperatures at which it's in a solid state. Passed a melting point, a liquid state. Passed a boiling point, a gas. Finally, a plasma state like the surface of the Sun with electromagnetic properties. There are other states of matter, but these are the ones we typically interact with and categorize as daily reality.
 
@@ -506,17 +526,17 @@ We humans studied these states, but if we think of the island concept to isolate
 
 ### We are an incredibly complex game of life left on for roughly 3.8 billion years.
 
-Our planet Earth exists in perfect distance from the Sun to allow for complex life structures to arise. The energy from the Sun is like cooking over a fire. The heat is hottest closest and coldest farther away. To cook just right you need the right distance. Too cold and we're frozen where there's not enough changes in matter. Too hot the energy present is so high nothing solid can form. We are in a space that allows for many states and in a time of homeostasis. There are so many qualities of the universe and our solar system which are in a delicate balance to bring about life.
+Our planet Earth exists in perfect distance from the Sun to allow for complex life structures to arise. The energy from the Sun is like cooking over a fire. The heat is hottest closest and coldest farther away. To cook just right you need the right distance. Too cold and we're frozen where there's not enough changes in matter. Too hot and the energy present is so high nothing solid can form. We are in a space that allows for many states and in a time of homeostasis. There are so many qualities of the universe and our solar system which are in a delicate balance to bring about life.
 
 ---
 
 ### [The Earth is an open and closed system](https://course.oeru.org/csf101/learning-pathways/from-the-holocene-to-the-anthropocene/the-earth-is-an-open-and-closed-system/)
 
 #### The Earth is a closed system for matter
-The Earth is made up of chemical elements – think of the periodic table.  That is a list of all basic elemental materials on our planet.  Because of gravity, matter (comprising all solids, liquids and gases) does not leave the system.  It is a closed box.  And, the laws of thermodynamics, long agreed by scientists, tell us that it’s impossible to destroy matter.  So the chemical matter we have on Earth will always be here.  The important question is, how are those chemicals organised?
+> The Earth is made up of chemical elements – think of the periodic table. That is a list of all basic elemental materials on our planet. Because of gravity, matter (comprising all solids, liquids and gases) does not leave the system. It is a closed box.  And, the laws of thermodynamics, long agreed by scientists, tell us that it’s impossible to destroy matter. So the chemical matter we have on Earth will always be here. The important question is, how are those chemicals organised?
 
 #### The Earth is an open system for energy
-It is accepted science that the Earth is an open system for energy.  Energy radiates into the Earth’s system, mainly from the sun.  Energy is then radiated back into space from the Earth, with the flows being regulated by the Earth’s atmosphere and ozone layer.  This delicate balanced transfer of energy maintains the surface temperature at a level that is suited to the forms of life that have evolved and currently exist.
+> It is accepted science that the Earth is an open system for energy. Energy radiates into the Earth’s system, mainly from the sun. Energy is then radiated back into space from the Earth, with the flows being regulated by the Earth’s atmosphere and ozone layer. This delicate balanced transfer of energy maintains the surface temperature at a level that is suited to the forms of life that have evolved and currently exist.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/Natural_Cycles.png" width="100%" height="100%">
@@ -524,20 +544,17 @@ It is accepted science that the Earth is an open system for energy.  Energy radi
 
 ---
 
-Scientists say there is no life on Mars, our neighboring planet. There are storms on the surface with tornadoes the size of states and countries here on Earth. Thunderstorms, lightning strikes, and sand cutting through the air at high kilometers per hour. Earth allows for a steadier stream and flow of energy states that allow for complex structures.
-
-Our bodies evolved to be formed of "Almost 99% of the mass of the human body is made up of six elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. Only about 0.85% is composed of another five elements: potassium, sulfur, sodium, chlorine, and magnesium. All 11 are necessary for life. The remaining elements are trace elements, of which more than a dozen are thought on the basis of good evidence to be necessary for life. All of the mass of the trace elements put together (less than 10 grams for a human body) do not add up to the body mass of magnesium, the least common of the 11 non-trace elements...Most of the elements needed for life are relatively common in the Earth's crust.," [Composition of the human body
-](https://en.wikipedia.org/wiki/Composition_of_the_human_body).
+Let's analyze us, humans, objectively based on what we are made of. Our bodies evolved to be formed of "Almost 99% of the mass of the human body is made up of six elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. Only about 0.85% is composed of another five elements: potassium, sulfur, sodium, chlorine, and magnesium. All 11 are necessary for life. The remaining elements are trace elements, of which more than a dozen are thought on the basis of good evidence to be necessary for life. All of the mass of the trace elements put together (less than 10 grams for a human body) do not add up to the body mass of magnesium, the least common of the 11 non-trace elements...Most of the elements needed for life are relatively common in the Earth's crust," [Composition of the human body](https://en.wikipedia.org/wiki/Composition_of_the_human_body).
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/body_composition.png" width="100%" height="100%">
 {: refdef}
 
-"Carbon is a primary component of all known life on Earth, representing approximately 45–50% of all dry biomass. Carbon compounds occur naturally in great abundance on Earth. Complex biological molecules almost always consist of carbon atoms bonded with other elements, especially oxygen and hydrogen and frequently also nitrogen, phosphorus, and sulfur...Carbon is capable of forming a vast number of compounds, more than any other element, with almost ten million compounds described to date, and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. For this reason, carbon has often been referred to as the "king of the elements". The enormous diversity of carbon-containing compounds, known as organic compounds, has led to a distinction between them and compounds that do not contain carbon, known as inorganic compounds. The branch of chemistry that studies organic compounds is known as organic chemistry.
+> "Carbon is a primary component of all known life on Earth, representing approximately 45–50% of all dry biomass. Carbon compounds occur naturally in great abundance on Earth. Complex biological molecules almost always consist of carbon atoms bonded with other elements, especially oxygen and hydrogen and frequently also nitrogen, phosphorus, and sulfur...Carbon is capable of forming a vast number of compounds, more than any other element, with almost ten million compounds described to date, and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions. For this reason, carbon has often been referred to as the "king of the elements". The enormous diversity of carbon-containing compounds, known as organic compounds, has led to a distinction between them and compounds that do not contain carbon, known as inorganic compounds. The branch of chemistry that studies organic compounds is known as organic chemistry.
 
-Carbon is the 15th most abundant element in the Earth's crust, and the fourth most abundant element in the universe by mass, after hydrogen, helium, and oxygen. Carbon's widespread abundance, its ability to form stable bonds with numerous other elements, and its unusual ability to form polymers at the temperatures commonly encountered on Earth enables it to serve as a common element of all known living organisms." [Carbon-based life](https://en.wikipedia.org/wiki/Carbon-based_life)
+> Carbon is the 15th most abundant element in the Earth's crust, and the fourth most abundant element in the universe by mass, after hydrogen, helium, and oxygen. Carbon's widespread abundance, its ability to form stable bonds with numerous other elements, and its unusual ability to form polymers at the temperatures commonly encountered on Earth enables it to serve as a common element of all known living organisms." [Carbon-based life](https://en.wikipedia.org/wiki/Carbon-based_life)
 
-We are roughly 70% water. The next time you hold a glass of water, consider what would be left of you if all the water was separated from your body. You would most certainly stop living. Water is essential to the function of our bodies. We would shrivel up to only 30% of our body weight. You would be a dried husk. Looking at the glass of water, how does it create all the wonder of life we experience? What of the carbon that remains? Does this substance hold the secret of living experience? But carbon by itself doesn't appear to hold the spark of life.
+We are roughly 70% water. The next time you hold a glass of water, consider what would be left of you if all the water was separated from your body. You would most certainly stop living. Water is essential to the function of our bodies. We would shrivel up to only 30% of our body weight. You would be a dried husk. Looking at the glass of water, how does it create all the wonder of life we experience? What of the carbon that remains? Does this substance hold the secret of living experience? Carbon by itself doesn't appear to hold the spark of life.
 
 The organization and structure of the elements gives rise to our conscious experience. The dynamic pattern of the flow of water, matter, and energy through, in, and around our bodies is the spark of life. A disruption of the structure of our bodies can cause a terminal crisis or trauma. A traumatic brain injury disorganizes the structure of our important organ, disconnecting the knowledge and function developed.
 
@@ -545,70 +562,89 @@ The organization and structure of the elements gives rise to our conscious exper
 
 Like the universe is a dissipative structure, transforming energy through entropy, are we a miniature version of it? We are like the crackling sparks of a fire. Our lives are so short in comparison to the sun and cosmos, a brief and fleeting flame. Enough of life sparks a new flame for life to persist through time by having children, progeny. Child birth is like a fire whose heat sparks a fire in something near to it, sometimes by touching, sometimes simply by being hot enough. A new flame starts and the original flame dies. No flame burns forever. Even the stars will die.
 
-What is likely to become of the future of our planet, life, and the universe? I highly recommend [TIMELAPSE OF THE FUTURE: A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA). The universe is projected to have [5 eras](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe), the Primordial, Stelliferous, Degenerate, Black Hole, and Dark eras. We currently live in the Stelliferous. "In addition to explaining current cosmological theory, the authors speculate on what kinds of life might exist in future eras of the universe. The speculation is based on a scaling hypothesis, credited to Freeman Dyson, the idea being, that all other things being equal the rate of metabolism—and therefore rate of consciousness—of an organism should be in direct proportion to the temperature at which that organism thrives," [The Five Ages of the Universe](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe).
+What is likely to become of the future of our planet, life, and the universe? I highly recommend [TIMELAPSE OF THE FUTURE: A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA). The universe is projected to have [5 eras](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe), the Primordial, Stelliferous, Degenerate, Black Hole, and Dark eras. We currently live in the Stelliferous age, the era of stars. "In addition to explaining current cosmological theory, the authors speculate on what kinds of life might exist in future eras of the universe. The speculation is based on a scaling hypothesis, credited to Freeman Dyson, the idea being, that all other things being equal the rate of metabolism—and therefore rate of consciousness—of an organism should be in direct proportion to the temperature at which that organism thrives," [The Five Ages of the Universe](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe).
 
 For more on what's expected, see the [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future):
 
-"While the future can never be predicted with absolute certainty, present understanding in various scientific fields allows for the prediction of some far-future events, if only in the broadest outline. These fields include astrophysics, which has revealed how planets and stars form, interact, and die; particle physics, which has revealed how matter behaves at the smallest scales; evolutionary biology, which predicts how life will evolve over time; and plate tectonics, which shows how continents shift over millennia.
+> "While the future can never be predicted with absolute certainty, present understanding in various scientific fields allows for the prediction of some far-future events, if only in the broadest outline. These fields include astrophysics, which has revealed how planets and stars form, interact, and die; particle physics, which has revealed how matter behaves at the smallest scales; evolutionary biology, which predicts how life will evolve over time; and plate tectonics, which shows how continents shift over millennia.
 
-All projections of the future of Earth, the Solar System, and the universe must account for the second law of thermodynamics, which states that entropy, or a loss of the energy available to do work, must rise over time. Stars will eventually exhaust their supply of hydrogen fuel and burn out. Close encounters between astronomical objects gravitationally fling planets from their star systems, and star systems from galaxies.
+> All projections of the future of Earth, the Solar System, and the universe must account for the second law of thermodynamics, which states that entropy, or a loss of the energy available to do work, must rise over time. Stars will eventually exhaust their supply of hydrogen fuel and burn out. Close encounters between astronomical objects gravitationally fling planets from their star systems, and star systems from galaxies.
 
-Physicists expect that matter itself will eventually come under the influence of radioactive decay, as even the most stable materials break apart into subatomic particles. Current data suggest that the universe has a flat geometry (or very close to flat), and thus will not collapse in on itself after a finite time, and the infinite future allows for the occurrence of a number of massively improbable events, such as the formation of Boltzmann brains.
+> Physicists expect that matter itself will eventually come under the influence of radioactive decay, as even the most stable materials break apart into subatomic particles. Current data suggest that the universe has a flat geometry (or very close to flat), and thus will not collapse in on itself after a finite time, and the infinite future allows for the occurrence of a number of massively improbable events, such as the formation of Boltzmann brains.
 
-The timelines displayed here cover events from the beginning of the 11th millennium to the furthest reaches of future time. A number of alternative future events are listed to account for questions still unresolved, such as whether humans will become extinct, whether protons decay, and whether the Earth survives when the Sun expands to become a red giant."
+> The timelines displayed here cover events from the beginning of the 11th millennium to the furthest reaches of future time. A number of alternative future events are listed to account for questions still unresolved, such as whether humans will become extinct, whether protons decay, and whether the Earth survives when the Sun expands to become a red giant."
 
 ### Returning to the self
 
-We live on the surface of a water planet tuned to just the right energy levels to allow for an extremely complex change in matter and energy resulting in the observable universe. The constant, ongoing change we call life our blips of energy from one state of energy to another state. Change, information, is a measure of entropy which is the change from moments and times before.
+We live on the surface of a water planet tuned to just the right energy levels to allow for an extremely complex change in matter and energy resulting in the observable universe. The constant, ongoing change we call life our blips of energy from one state of energy to another state.
 
 ---
 
 blip
+
 /blip/
+
 noun
-1.
-_an unexpected, minor, and typically temporary deviation from a general trend.
-"an upward blip in house prices"_
-2.
-_a short high-pitched sound made by an electronic device._
-- Google
+
+1. _an unexpected, minor, and typically temporary deviation from a general trend._
+2. _a short high-pitched sound made by an electronic device._
+-- Google
 
 ---
 
-Renee Descartes was a philosopher who took doubt to an extreme. He locked himself in a room and systematically questioned his most basic beliefs. He didn't have as advanced physics and explanations for phenomena as we do today, so he believed in a top down approach to an explanation of reality. Like a good tool is created by an intelligent agent, a human with technical skill, Descartes believed as many enlightened people of the day did, an intelligent designer created the observable universe. The complexity of animals, plants, the sky, and everything is so great, the intelligent designer must be greater in complexity still. To craft a boat and paddle takes an experienced human. To craft a universe must be in some proportion greater. God is an intelligent agent who is all good, all knowing, and all powerful. God designed everything.
+Renee Descartes was a philosopher who took doubt to an extreme. He searched for knowledge beyond any shred of doubt. He locked himself in a room and systematically questioned his most basic beliefs. He didn't have as advanced physics and explanations for phenomena as we do today, so he believed in a top down approach to an explanation of reality. Like a good tool is created by an intelligent agent, a human with technical skill, Descartes believed as many enlightened people of his time did, an intelligent designer created the observable universe. The complexity of animals, plants, the sky, and everything is so great, the intelligent designer must be greater in complexity still. To craft a boat and paddle takes an experienced human. To craft a universe must be in some proportion greater. God is an intelligent agent who is all good, all knowing, and all powerful. God designed everything.
 
-This is the opposite of the explanation of particle physics which emerges from the most basic units of information up. With the idea of god, Descartes still has doubt about what he can know about his own experience. Things like candles and fire change shape and change how they effect the senses. Candles change in smell and touch. Change leads to defied expectations. Descartes was in a boat with the paddle in the water. The water refracts light, making the sight of the paddle look distorted and wavy. The paddle looked to be a third of a meter long but when pulled out of the water is clearly a meter long and solid. If his sense of sight can be so easily distorted under certain conditions, what about all of his senses? What about the times where all of reality can be distorted, sleeps full of dreams. In a dream, structures and changes we never see in waking life appear real to us for a short time. Upon waking, we realize the dream was not a part of our daily experience. In the moment of the dream, we should be doubting what we experience.
+This is the opposite of the explanation of particle physics which emerges from the most basic units of information up. With the idea of god, Descartes still has doubt about what he can know about his own experience. Things like candles and fire change shape and how they effect the senses. Candles change in shape, color, smell and touch. Change leads to defied expectations and errors. Descartes was in a boat with the paddle in the water. The water refracts light, making the sight of the paddle look distorted and wavy. The paddle looked to be a third of a meter long and flexible but when pulled out of the water is clearly a meter long and solid. If his sense of sight can be so easily distorted under certain conditions, what about all of his senses? What about the times where all of reality can be distorted, a dreaming state. In a dream, structures and changes we never see in waking life appear real to us for a short time. Upon waking, we realize the dream was not a part of our daily experience. In the moment of the dream, our beliefs are completely wrong. We have all kinds of beliefs in a dream, but we should be doubting all of our knowledge.
 
 Although in a dream we should doubt all sensory experience, Descartes believed we didn't have reason to doubt mathematical truths. 2 + 2 = 4 whether you are dreaming or not. However, many parts of dreams gives us false confidence in beliefs. What if god is at least not all good. What if god is malevolent and wants to confuse us. God could create a world or a mind in which we are deceived on the most fundamental levels. God could make us believe god is all good with certainty. We could believe that 2 + 2 = 5 with the feeling of absolute certainty. Is there any claim which we cannot doubt?
 
 The only claim Descartes believed to be beyond doubt is that even if we are being deceived, there is a thinking thing, our mind or soul, which is being deceived. In the original Latin, this is _cogito ergo sum_, I think therefore I am. Descartes was confident that he existed.
 
-A later linguist and philosopher, Nietzsche, cast doubt on the _cogito_ claim. Consider the statement 'it is raining.' What is the 'it' which is raining? Is 'it' the clouds? In language, subjects are inferred. Rain and rain drops spontaneously appear. There is no subject that causes or creates the rain. Analogously, perhaps there is no 'I' in _I think therefore I am_; perhaps there is only thinking like there is only raining.
+A later linguist and philosopher, Friedrich Nietzsche, [cast doubt on the _cogito_ claim](https://en.wikipedia.org/wiki/Cogito,_ergo_sum#Use_of_%22I%22). Consider the statement 'it is raining.' What is the 'it' which is raining? Is 'it' the clouds? In language, subjects are inferred. Rain and rain drops spontaneously appear from the aggregation of water molecules floating freely in the air. The water molecules transform from vapor to liquid. There is no subject that causes or creates the rain, but we speak about an implied subject which does not exist. Analogously, perhaps there is no 'I' in _I think therefore I am_; perhaps there is only thinking like there is only raining.
 
 Thus we arrive at the only claim beyond doubt, the only statement we can be certain of: we are at least **a momentary blip of consciousness**.
 
 There is some theoretical backing to these ideas of blips of consciousness.
 
-"The [Boltzmann brain argument](https://en.wikipedia.org/wiki/Boltzmann_brain) suggests that it is more likely for a single brain to spontaneously and briefly form in a void (complete with a false memory of having existed in our universe) than it is for our universe to have come about in the way modern science thinks it actually did. It was first proposed as a reductio ad absurdum response to Ludwig Boltzmann's early explanation for the low-entropy state of our universe.
+> "The [Boltzmann brain argument](https://en.wikipedia.org/wiki/Boltzmann_brain) suggests that it is more likely for a single brain to spontaneously and briefly form in a void (complete with a false memory of having existed in our universe) than it is for our universe to have come about in the way modern science thinks it actually did. It was first proposed as a reductio ad absurdum response to Ludwig Boltzmann's early explanation for the low-entropy state of our universe.
 
-In this physics thought experiment, a Boltzmann brain is a fully formed brain, complete with memories of a full human life in our universe, that arises due to extremely rare random fluctuations out of a state of thermodynamic equilibrium. Theoretically over a period of time on the order of hundreds of billions of years, by sheer chance atoms in a void could spontaneously come together in such a way as to assemble a functioning human brain. Like any brain in such circumstances, it would almost immediately stop functioning and begin to deteriorate."
+> In this physics thought experiment, a Boltzmann brain is a fully formed brain, complete with memories of a full human life in our universe, that arises due to extremely rare random fluctuations out of a state of thermodynamic equilibrium. Theoretically over a period of time on the order of hundreds of billions of years, by sheer chance atoms in a void could spontaneously come together in such a way as to assemble a functioning human brain. Like any brain in such circumstances, it would almost immediately stop functioning and begin to deteriorate."
 
-Another way of thinking of randomness is to imagine a small image of 32x32 pixels. For simplicity, the pixels are either white or black, on or off, at random. How long would it take for the number 1 to form in the image? Only the pixels showing the 1 would be white. Of course, there are many images that look like white noise, just random white and black dots with no order, but after some time, the 1 will appear recognizable. Given enough time, every possible image that can be constructed out of those pixels will appear. This is similar to how reality is said to pop into existence.
+Another way of thinking of randomness is to imagine a small image of 128x128 pixels. For simplicity, the pixels are either white or black, on or off, at random. How long would it take for the number 1 to form in the image? Only the pixels showing the 1 would be white. Of course, there are many images that look like white noise, just random white and black dots with no order, but after some time, the 1 will appear recognizable. Given enough time, every possible image that can be constructed out of those pixels will appear. This is similar to how reality is said to pop into existence.
 
-"Bertrand Russell wrote, in The Analysis of Mind: "There is no logical impossibility in the hypothesis that the world sprang into being five minutes ago, exactly as it then was, with a population that 'remembered' a wholly unreal past." - [Omphalos hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis#A_deceptive_creator)
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/static_snow.gif">
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+Here are 100 images in sequence in gif form. Each pixel is generated (pseudo)randomly as on or off with 50% likelihood.
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/static1.gif">
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+I manually created the image of a 1, in this case a simple rectangle, alongside 10 randomly generated images. Notice how much information needs to align to generate this image. A random white dot outside the rectangle is noticeable. For this image to occur randomly is astronomical, but not impossible.
+{: refdef}
+
+### "Bertrand Russell wrote, in The Analysis of Mind: "There is no logical impossibility in the hypothesis that the world sprang into being five minutes ago, exactly as it then was, with a population that 'remembered' a wholly unreal past." - [Omphalos hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis#A_deceptive_creator)
 
 How do we know the universe didn't pop into existence in its current form 5 minutes ago? We might have all of the memories, but those popped into existence when we did too. I can think of no way around this idea, because the point of the thought experiment is that all experience and knowledge outside of the present moment is cut off. If we look to the future to perform some experiment or verify continued existence, the reply is that the present is when we were created.
 
 So what can we derive, what more can we know with the certain truth that we are a momentary blip of consciousness?
 
-Here lies the problem of removing all certainty. Descartes was attempting to form a foundation for further beliefs. If we can have a fundamental belief that is known to be absolutely true and a set of rules which are guaranteed to result in a justified and true belief, then we can have a set of true and justified beliefs beyond doubt. This is the axiomatic approach.
+Here lies the problem of removing uncertainty. Descartes attempted to form a foundation for further beliefs. If we can have a fundamental belief that is known to be absolutely true and a set of rules which are guaranteed to result in a justified and true belief, then we can have a set of true and justified beliefs beyond doubt. This is the axiomatic approach.
 
 ---
 Axiom
+
 /ˈaksēəm/
+
 noun
+
 _a statement or proposition which is regarded as being established, accepted, or self-evidently true._
-- Google
+-- Google
 
 ---
 
@@ -619,15 +655,15 @@ For a meaning of life, I want to be certain and justified in the meaning.
 [Agrippa’s Trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma) is the culmination of [ancient skepticism on justification](https://plato.stanford.edu/entries/skepticism-ancient/#AgrFivMod). In order to have certainty and knowledge, we believe some type of justification must be given. Agrippa’s Trilemma aims to show the failure of justification, and therefore that certainty is unachievable.
 
 The position is that justification is based on three main types:
-1. Assumption - Some premises are assumed to be true, typically they are accepted to be self-evident. This rests on an assumption, which does not give us certainty.
-2. Infinite regress - Each claim must be supported by another claim, and that supporting claim must in turn be supported by another claim. The third supporting claim must also be supported, _ad infinitum_. Since we must ultimately stop on an unsupported claim, we can never be certain that we have proper support of our claims.
-3. Circularity - Instead of an infinite regress, we find that claims support each other in some kind of circular fashion. However, this is widely regarded as a fallacious way of reasoning.
+1. **Assumption** - Some premises are assumed to be true (axioms), typically they are accepted to be self-evident. This rests on an assumption, which does not give us certainty.
+2. **Infinite regress** - Each claim must be supported by another claim, and that supporting claim must in turn be supported by another claim. The third supporting claim must also be supported, _ad infinitum_. Since we must ultimately stop on an unsupported claim, we can never be certain that we have proper support.
+3. **Circularity** - Instead of an infinite regress, we find that claims mutually support each other in some kind of circular fashion. However, this is widely regarded as a fallacious way of reasoning.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/trilemma.png" width="70%" height="70%">
 {: refdef}
 
-This analysis of justification is top-down instead of bottom-up. We should look closer on how justification evolves.
+This analysis of justification is top-down instead of bottom-up. We are using high level concepts and theory in attempt to describe justification. We should look closer on how justification evolves.
 
 The ancient Greek philosopher Plato wrote that enlightenment of the mind is like quick illumination of the eyes. When entering a brilliant area our eyes hurt and need to adjust. Similarly, illumination of the mind is painful and takes adjustment.
 
@@ -636,7 +672,7 @@ A summary of one of Plato's famous stories, the [allegory of the cave](https://e
 ---
 
 #### Imprisonment in the cave
-Plato begins by having Socrates ask Glaucon to imagine a cave where people have been imprisoned from childhood (important to note that they were (based on text) imprisoned from childhood but not from birth). These prisoners are chained so that their legs and necks are fixed, forcing them to gaze at the wall in front of them and not look around at the cave, each other, or themselves (514a–b). Behind the prisoners is a fire, and between the fire and the prisoners is a raised walkway with a low wall, behind which people walk carrying objects or puppets "of men and other living things" (514b). The people walk behind the wall so their bodies do not cast shadows for the prisoners to see, but the objects they carry do ("just as puppet showmen have screens in front of them at which they work their puppets" (514a)[3]). The prisoners cannot see any of what is happening behind them, they are only able to see the shadows cast upon the cave wall in front of them. The sounds of the people talking echo off the walls, and the prisoners believe these sounds come from the shadows (514c).
+Plato begins by having Socrates ask Glaucon to imagine a cave where people have been imprisoned from childhood (important to note that they were (based on text) imprisoned from childhood but not from birth). These prisoners are chained so that their legs and necks are fixed, forcing them to gaze at the wall in front of them and not look around at the cave, each other, or themselves (514a–b). Behind the prisoners is a fire, and between the fire and the prisoners is a raised walkway with a low wall, behind which people walk carrying objects or puppets "of men and other living things" (514b). The people walk behind the wall so their bodies do not cast shadows for the prisoners to see, but the objects they carry do ("just as puppet showmen have screens in front of them at which they work their puppets" (514a). The prisoners cannot see any of what is happening behind them, they are only able to see the shadows cast upon the cave wall in front of them. The sounds of the people talking echo off the walls, and the prisoners believe these sounds come from the shadows (514c).
 
 Socrates suggests that the shadows are reality for the prisoners because they have never seen anything else; they do not realize that what they see are shadows of objects in front of a fire, much less that these objects are inspired by real things outside the cave which they do not see (514b–515a).
 
@@ -649,7 +685,7 @@ Plato then supposes that one prisoner is freed. This prisoner would look around 
 
 Plato continues: "Suppose... that someone should drag him... by force, up the rough ascent, the steep way up, and never stop until he could drag him out into the light of the sun." The prisoner would be angry and in pain, and this would only worsen when the radiant light of the sun overwhelms his eyes and blinds him.
 
-"Slowly, his eyes adjust to the light of the sun. First he can only see shadows. Gradually he can see the reflections of people and things in water and then later see the people and things themselves. Eventually, he is able to look at the stars and moon at night until finally he can look upon the sun itself (516a)." Only after he can look straight at the sun "is he able to reason about it" and what it is (516b). (See also Plato's analogy of the sun, which occurs near the end of The Republic, Book VI.[4][5])
+"Slowly, his eyes adjust to the light of the sun. First he can only see shadows. Gradually he can see the reflections of people and things in water and then later see the people and things themselves. Eventually, he is able to look at the stars and moon at night until finally he can look upon the sun itself (516a)." Only after he can look straight at the sun "is he able to reason about it" and what it is (516b). (See also Plato's analogy of the sun, which occurs near the end of The Republic, Book VI.)
 
 ####  Return to the cave
 Plato continues, saying the freed prisoner would think that the world outside the cave was superior to the world he experienced in the cave and attempt to share this with the prisoners remaining in the cave attempting to bring them onto the journey he had just endured; "he would bless himself for the change, and pity [the other prisoners]" and would want to bring his fellow cave dwellers out of the cave and into the sunlight (516c).
@@ -663,14 +699,36 @@ Plato remains relevant more than 2,500 years after his death because his stories
 Consider hearing:
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/Hearing_mechanics_cropped.jpg" width="100%" height="100%">
+<img src="../../images/MoL/Hearing_mechanics_cropped.jpg" width="80%" height="80%">
 {: refdef}
 
 Sound must travel through a medium, air. The vibrating air moves tiny hairs inside our ears as well as vibrating a small bone in our inner ear, amplifying the sound. Our brain has dedicated areas to make sense of the sound for more information. What is the source of the sound? Where is its potential location? Our brain attempts to understand, predict, and find meaning in the vibration of the air.
 
-Consider the question: [If a tree falls in a forest and no one is around to hear it, does it make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
+The analogy is the brain is like the prisoner fixed in the cave of our skull. We cannot access the world as it is, we can only access the shadows of real objects, the energy that reaches our senses. In fact, the objective universe is forever out of our reach since we must interact with it through our sense organs. Are we justified in assuming our senses are accurate? They are accurate enough to allow us to survive and manipulate the world, but the prisoners had their own system of understanding shadows and sounds. They all agreed on what made sense.
 
+I would like to take a moment to share some facts about our brains. So much of what we consider to be ourselves is actually the function of our nervous system. Humanity learned about brain function over the history of our species. In hospitals and healing centers, people would come with injuries to the head. Unlike injuries to other parts of the body, head trauma often resulted in death or disability. Recovery was slow if at all. Even stranger, a small difference in the type of trauma and location of injury had wildly different effects. For example, [damage to the language centers of the brain effects the generation and understanding of speech](https://www.nidcd.nih.gov/health/aphasia). In Broca's aphasia, people retain their intelligence and ability to understand others, but they have difficulty finding words when they try to speak. They may only get a few words out with effort. Conversely, Wernicke's aphasia causes people to lose track of their mistakes. They speak but use too many words and are unaware of their mistakes; they believe they're speaking clearly. Over lifetimes, we began to piece together the story and function of the brain.
 
+---
+
+[Function of the brain](https://en.wikipedia.org/wiki/Brain#Function)
+
+"Information from the sense organs is collected in the brain. There it is used to determine what actions the organism is to take. The brain processes the raw data to extract information about the structure of the environment. Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. Finally, on the basis of the results, it generates motor response patterns. These signal-processing tasks require intricate interplay between a variety of functional subsystems.
+
+The function of the brain is to provide coherent control over the actions of an animal. A centralized brain allows groups of muscles to be co-activated in complex patterns; it also allows stimuli impinging on one part of the body to evoke responses in other parts, and it can prevent different parts of the body from acting at cross-purposes to each other."
+
+- Perception
+- Motor control
+- Arousal
+- Homeostasis
+- Motivation
+- Learning and memory
+  - Working memory
+  - Episodic memory
+  - Semantic memory
+  - Instrumental learning
+  - Motor learning
+
+---
 
 Our brain receives data, bits of information, about the outside world through its sense organs. Consider sight, we see using our eyes. Our eyes are sensors that can detect a narrow width of the energy spectrum. Some creatures see far with clarity, others near sighted, some see better under water or at night. The sense data we receive is processed in our brains. We refine our understanding of the world based on incoming data and our interaction.
 
@@ -698,11 +756,15 @@ To confirm this hypothesis, we can look for swans and each white swan we find co
 
 3. Related to the point above, David Miller, attacks the use of "good reasons" in general (including evidence supposed to support the excess content of a hypothesis). He argues that good reasons are neither attainable, nor even desirable. Basically, Miller asserts that all arguments purporting to give valid support for a claim are either circular or question-begging. That is, if one provides a valid deductive argument (an inference from premises to a conclusion) for a given claim, then the content of the claim must already be contained within the premises of the argument (if it is not, then the argument is ampliative and so is invalid). Therefore, the claim is already presupposed by the premises, and is no more "supported" than are the assumptions upon which the claim rests, i.e. begging the question.
 
+{:refdef: style="text-align: center;"}
+
 All squares have 4 sides
 
 This shape is a square
 
 Therefore this shape has 4 sides
+
+{:refdef}
 
 Notice the conclusion is stated in the premises. The support of the conclusion is equal to the support of the premises.
 
@@ -749,7 +811,7 @@ Activity: doing, intervening
 
 Questions: _What if I do...? How?_ What would Y be if I do X? How can I make Y happen?
 
-Doing is interacting with the environment. Cognition is embodied. Tool using creatures that plan are on this level. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled. The visual change occurs with the sunglasses covering the eyes.
+Doing is interacting with the environment. Cognition is embodied. Tool using creatures that plan are on this level. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled. The visual change occurs with the sunglasses covering the eyes. Through this interaction the toddler comes to learn it is not the world that changes but looking through sunglasses which distorts it.
 
 **3. Imagining (Counterfactuals)**
 
@@ -759,7 +821,7 @@ Questions: _What if I had done...? Why?_ Was it X that caused Y? What if X had n
 
 Imagination is the highest level of understanding. "Counterfactual learners, on the top rung, can imagine worlds that do not exist and infer reasons for observed phenomena."
 
-Pearl once believed as many others that Bayesian rationalist was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect with many colleagues, scientists and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
+Pearl once believed as many others that Bayesian rationalism was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect, colleagues, scientists, and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/confounding.png" width="75%" height="75%">
@@ -1037,6 +1099,12 @@ In their paper, [_Fitness	Beats Truth	in the Evolution of Perception_](http://co
 
 "As human observers, we are prone to imputing structure to the objective world that is properly part of our own perceptual experience. For example, our _perceived_ world is three-dimensional and populated with objects of various shapes, colors, and motions, and so we tend to conclude that the _objective world_ is as well. But if, as the _Fitness-beats-Truth Theorem_ shows, evolutionary pressures do not push perception in the direction of being increasingly reflective of objective reality, then such imputations have no logical basis whatsoever."
 
+Imagine two birds which both have the same diet, blueberries. One of the birds sees the full color spectrum as it is. In the rain forest, everywhere you look pops with vibrant colors beyond the capacity to name. The other bird does not see color but only black and white. Well, it does see one color, blue. The landscape this bird sees is a continuum of black, gray, and white. However, any blue object shines through the background of gray. The blue-seeing-bird can spot anything blue with just a look.
+
+Now which bird will be better at finding blueberries? Which bird will find them faster?
+
+Clearly the bird who only sees blue will notice blueberries immediately while the full color spectrum bird must sift and separate the light pollution of all other colors. This is part of why bees see ultraviolet light and humans don't. If we saw the ultraviolet light it would likely have little use in our day to day lives.
+
 ---
 
 From the _Fitness-beats-Truth Theorem_ we would expect to see brains with more internal input than external input, i.e. that incoming sensory input matters less than how our brains transforms the incoming data into a useful representation to maximize utility. That is exactly what we see.
@@ -1217,28 +1285,6 @@ I believe the key factors are we must develop moral, beneficial AI to avoid doom
 
 ---
 
-[Function of the brain](https://en.wikipedia.org/wiki/Brain#Function)
-
-"Information from the sense organs is collected in the brain. There it is used to determine what actions the organism is to take. The brain processes the raw data to extract information about the structure of the environment. Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. Finally, on the basis of the results, it generates motor response patterns. These signal-processing tasks require intricate interplay between a variety of functional subsystems.
-
-The function of the brain is to provide coherent control over the actions of an animal. A centralized brain allows groups of muscles to be co-activated in complex patterns; it also allows stimuli impinging on one part of the body to evoke responses in other parts, and it can prevent different parts of the body from acting at cross-purposes to each other."
-
-- Perception
-- Motor control
-- Arousal
-- Homeostasis
-- Motivation
-- Learning and memory
-  - Working memory
-  - Episodic memory
-  - Semantic memory
-  - Instrumental learning
-  - Motor learning
-
-With gender, there is an objective level at which we can categorize creatures. Let's discuss human beings. Men and women have differently shaped bodies and expressions. Our DNA can be categorized as XX and XY. Many things are independent of what we individually and collectively think or feel. There is also a subjective sense of gender, what we believe we should or should not do. The brain reacts and operates differently depending on the hormone balance in the body, causing a change in its function. How our subjective sense expresses itself is often a function of the social level, inter-subjectivity. There are patterns of behavior accepted as masculine or feminine, and these change across time and cultures. Notice that if we were to compare a woman from 10,000 years ago with a woman of modern times, biologically we will see many similarities in hormone profile, shape, etc. However, the culture has changed dramatically. Even in modern times, one country to another can have great dissimilarity. However, biological sex exists on the objective level, sexual and gender identity exists on the subjective level (on top of the objective level), and gender norms exist on the inter-subjective level.
-
----
-
 Returning to objective reality, we can define important and meaningful events. The example of water as entropy is again useful. Water as ice is a low entropy configuration where entropy is the number of ways the atoms can be arranged to create the form of ice. Imagine an ice cube melts into a liquid puddle. The more likely configuration of the puddle is an even circle in all directions. If we were able to follow a specific atom of water, H2O, for instance the atom in the top right corner of the cube, its journey to its place in the configuration of the puddle can take multiple paths. All that matters for the configuration is the position at some time. If that atom took an alternate path and another atom took the original atom's path, we would have a puddle with an indistinguishable form. The entropy of both puddles would be the same at that moment. Configurations with high entropy are common or likely events.
 
 Unlikely events are rare configurations with a small number of paths. Some configurations have one path, one sequence of events, that lead to the arrangement. The meaningful and important events limit the number of possible configurations of matter. With an understanding of cause and effect we can determine which events are _necessary_ or the reason for a particular configuration. Our universe is like water in that existence has an incredible number of possible configurations, and we exist in this one.
@@ -1268,3 +1314,11 @@ We come from nothing, and we will return to nothing. From cosmic dust to cosmic 
 # What will you do with your cosmically brief time? What information will you embody?
 
 For further developments on this foundation, please see [Society 3.0](/society3/)
+
+---
+
+Possibly cut:
+
+With gender, there is an objective level at which we can categorize creatures. Let's discuss human beings. Men and women have differently shaped bodies and expressions. Our DNA can be categorized as XX and XY. Many things are independent of what we individually and collectively think or feel. There is also a subjective sense of gender, what we believe we should or should not do. The brain reacts and operates differently depending on the hormone balance in the body, causing a change in its function. How our subjective sense expresses itself is often a function of the social level, inter-subjectivity. There are patterns of behavior accepted as masculine or feminine, and these change across time and cultures. Notice that if we were to compare a woman from 10,000 years ago with a woman of modern times, biologically we will see many similarities in hormone profile, shape, etc. However, the culture has changed dramatically. Even in modern times, one country to another can have great dissimilarity. However, biological sex exists on the objective level, sexual and gender identity exists on the subjective level (on top of the objective level), and gender norms exist on the inter-subjective level.
+
+Consider the question: [If a tree falls in a forest and no one is around to hear it, does it make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)

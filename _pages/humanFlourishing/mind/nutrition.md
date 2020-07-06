@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosopher Scholar - Nutrition
-permalink: /humanFlourishing/nutrition/
+permalink: /nutrition/
 ---
 
 Aside from the [MIND diet](./MINDdiet/), there is the [flexitarian diet](https://www.bbc.com/news/health-46865204) which aims for sustainability. "A diet has been developed that promises to save lives, feed 10 billion people and all without causing catastrophic damage to the planet."

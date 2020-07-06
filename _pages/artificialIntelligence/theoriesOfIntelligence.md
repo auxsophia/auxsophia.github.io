@@ -99,6 +99,25 @@ Published on Jun 28, 2019
 
 ---
 
+### [Jeff Hawkins: Thousand Brains Theory of Intelligence - Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=-EVqrDlAqYo)
+
+"Jeff Hawkins is the founder of Redwood Center for Theoretical Neuroscience in 2002 and Numenta in 2005. In his 2004 book titled On Intelligence, and in his research before and after, he and his team have worked to reverse-engineer the neocortex and propose artificial intelligence architectures, approaches, and ideas that are inspired by the human brain. These ideas include Hierarchical Temporal Memory (HTM) from 2004 and The Thousand Brains Theory of Intelligence from 2017."
+
+[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/)
+
+[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines-ebook/dp/B003J4VE5Y/ref=as_li_ss_tl?keywords=Jeff+Hawkins&qid=1561989129&s=gateway&sr=8-1&linkCode=sl1&tag=turingmachine-20&linkId=a843935e4cddbec96aba454f7b65af31&language=en_US)
+
+[Numenta - Advancing Machine Intelligence with Neuroscience](https://numenta.com/)
+
+YouTube comment: Cleon Teunissen
+> 40 minutes in: the view presented by Jeff Hawkins strongly reminds me of the views presented by Marvin Minsky in his 1986 book 'The society of mind'. Highly recommended, that book.
+
+> Minsky offers a theory of psychology (both cognitive psychology and personality psychology). Minsky presents that the evidence suggests that we should think of the psyche as a multitude of cooperating agents. This society strives to reach decision by concensus, but that is not always possible.
+
+> Minsky discusses: how is our brain able to process language so fast, given how slow neurons are? Minsky suggests massive parallellism. When words enter the auditory center they spread thoughout all of the language center, and all possible associations are generated, including the most farfetched. All those associations in the overall context are compared with each other simultaneously, one that outcompetes all others makes it to the level of conscious thought. Almost always the winning assocation is in fact the correct one. All that in a fraction of a second. Minsky offers that this is why puns strike us as funny; a "wrong" meaning, that otherwise would not make it to the level of conscious thought, is suddenly justified.
+
+---
+
 ### [What the brains of people with excellent general knowledge look like](https://news.rub.de/english/press-releases/2019-07-31-neuroscience-what-brains-people-excellent-general-knowledge-look?fbclid=IwAR1RbkwDQ3HWkyaHpSL8QNAZVBdifgyPL_lNx5cFnvoP-f8aEy8TekBh5jE)
 First published: 28 July 2019
 

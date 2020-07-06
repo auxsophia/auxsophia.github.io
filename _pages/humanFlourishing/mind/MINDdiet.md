@@ -449,6 +449,135 @@ Raw milk is very healthy. Pasteurized not better for an individual but for mass 
 
 Chapter 15 covers losing body weight through food. Calories in calories out ignores the information food sends to your body. Cells are communicating and understanding on a chemical level. _Food as information!_
 
-
-
 Sugar is pro-inflammatory. 100g or more of sugar a day traps carbs at your liver and converts to fat.
+
+Chapter 13 covers the "human diet" in more detail. Each pillar is to be seen as a strategy which can be incorporated to many diets. The below lists are examples of the four strategies we should all incorporate.
+
+1. Meat on the bone
+
+- Roast turkey with stuffing and gravy
+- Chicken soup with dumplings
+- _Chile con carne_
+- Barbequed spare ribs
+- Mexican _menudo_ soup
+- _Pico de gallo_ soup
+- Thai _thom kha gai_ soup
+- Vietnamese _pho_
+- Braised lamb shanks
+- Southwestern green chile stew
+- Grilled New York strip steak with demi-glace reduction sauce
+- Burger (no bun) with mushroom in demi-glace reduction sauce.
+- Wild rice cooked in chicken stock
+- Greens braised in chicken stock
+- Roasted butternut squash soup with chicken base stock base
+- Broccoli soup with chicken stock base
+- French onion soup
+- Beef Bourguignon
+
+2. Organ meat
+
+- Sandy's miracle liver recipe (recipe in book)
+- Pakistani fried chicken liver
+- Duck liver pate
+- Chicken liver pate (i.e., Trader Joe's brand)
+- Liverwurst (i.e., US Wellness Meats brand)
+- Grilled beef heart strips
+- Beef heart chili
+- Beef sticks and organ meat (i.e., Pure Traditions brand)
+- Filipino salmon head soup
+- Roasted bone marrow
+- Wild flying fish roe on buttered sprouted grain toast
+- Mexican _menudo_ with tripe
+- Vietnamese _pho_ with tripe
+- Blood sausage
+- Filipino _dinuguan_ (savory blood stew made with pork shoulder and variety cuts)
+- Sauteed sweetbreads with fava beans
+- Beef tongue stew
+- Pan fried lamb kidneys in butter
+- Poached eggs (If you can't do any of the above, eggs have many of the same benefits as organ meats. Keeping the yolk runny is the most nutritious way to eat eggs.)
+
+3. Fermented and sprouted foods
+
+(Note: Those marked "LC" contain beneficial probiotics. Those not marked no longer contain living microbes.)
+
+- Yogurt (LC)
+- Cottage cheese (LC)
+- Sour cream (LC)
+- Pepperoni
+- Cheddar cheese
+- Kombucha (LC)
+- Sauerkraut (LC)
+- Dill pickles (LC)
+- Kimchi (LC)
+- Tempeh
+- Miso
+- Fish sauce
+- Soy Sauce (only if naturally brewed, i.e., Kikkoman brand)
+- Beer
+- Sourdough bread
+- Sprouted grain bread (i.e., Ezekiel brand)
+- _Chile con carne_ with sprouted beans
+- Sprouted almonds (i.e., Living Intentions or Go Raw brands)
+- Old-fashioned oat porridge (oats fermented with whey overnight)
+- Sprouted pumpkin seeds (i.e., Living Intentions or Go Raw brands)
+
+(If beer is in here, I assume red wine should be on the list too!)
+
+4. Fresh, raw food
+
+- Garlic
+- Salad greens
+- Bell peppers
+- Any vegetable you can eat without cooking
+- Cilantro (and other fresh herbs)
+- Poke
+- Real milk and cream
+- Ice cream
+- Sushi
+- Raw-milk cheeses
+- Steak tartar
+- Dried beef
+- Prosciutto
+- Pickled veggies (i.e., Mezzetta brand Giardiniera Italian mix)
+- Dried seaweed
+- Nuts
+- Seeds
+- Pickled herring in cream or wine sauce
+- _Ceviche_
+- Antipasto salad
+
+"The people who experience long-term success are able to accomplish these three things: cut down on carbs; swap out toxic fats for healthy ones; and add back missing nutrients. That's it."
+
+#### Daily habits
+
+- Drink a minimum of 64 ounces of water daily.
+- Instead of soda, drink ice-cold sparkling water with a lemon wedge, herbal tea, or kombucha.
+- For best results, do not snack.
+- Take any supplements with meals.
+- Consider sleep and movement as priorities.
+- Plan your meals using the shopping and planning templates.
+
+#### Macronutrient ratios
+
+**Carbs**
+
+"If you only exercise moderately -- jogging, tennis, biking, swimming -- but don't make exercise a central part of your daily life, then you should consider 100 grams of daily carbohydrate intake to be your upper limit. Even so, most days you're better off keeping daily carbohydrate totals between 30 and 70 grams, because every gram of carbohydrates you consume but don't use to fuel intense activity (anaerobic exercise) must either get stored as fat or be burned as fuel."
+
+Most carbs should be eaten at dinner.
+
+"If you're an elite athlete who burns 600 calories or more calories a day doing intense exercises like sprinting or heavy lifting, those calories should come from an optimized balance of carb and fat."
+
+**Protein**
+
+(Female/Male)
+
+Minimum: 50/70g
+Maximum: 120/150g
+
+Beyond the maximum range your body converts protein to carbs/fat. Certain elite athletes can use more protein than the maximum.
+
+**Fat**
+
+Recommended 60-85% of daily calories from healthy fat. This ratio is very different from the standard American diet which substitutes carbs for fat with 50% of daily calories going to carbs.
+
+The author recommends following your appetite as a guide, but at first vegetable oils and high sugar intake can make your cravings "deranged." The author recommends getting rid of habitual eating and paying attention to your body. Additionally, the best calorie calculators can be off by 30% or more based on variables such as genetics, age, activity, sleep, stress, and metabolic/hormonal health.

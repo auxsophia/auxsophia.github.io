@@ -103,7 +103,7 @@ With the blockchain, we can immediately know the total wealth and other statisti
 
 Many of our jobs should be based solely in redeveloping symbiosis with nature. We should disrupt the ecosystem as little as possible while making it robust to the coming climate changes. We should have a section of our population planting trees and growing [food forests](https://en.wikipedia.org/wiki/Forest_gardening). You should be paid to plant trees.
 
-Alongside our necessities, we need sustainability engineers to redesign our modern lives. We need to decide as a community what we can give up and what we can keep in a post-fossil fuel world. 
+Alongside our necessities, we need sustainability engineers to redesign our modern lives. We need to decide as a community what we can give up and what we can keep in a post-fossil fuel world. We should fill the gaps with indigenous knowledge as much as possible while generating our own indigenous knowledge through connection to our land. Necessary appliances to maintain our standard of living should be as sustainable as possible and the schematics freely shared with the world. 
 
 * Information exchange.
 
