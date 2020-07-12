@@ -12,9 +12,17 @@ Sleep bothered me as a kid. I hated feeling tired, but sleep felt like a waste o
 
 I met a person who claimed to have lucid dreams. Oddly enough, he was in an online atheist group debating believers. He said he got to the point of control where he did his taxes in his sleep. He woke up and filled out the forms. He said he practiced to gain control but always had vivid dreams. I would believe him less if he continued with how much time he saved in his life everyday, but he ended his story by saying he gave up on lucid dreaming. He felt the ability to control dreams was unnatural; we shouldn't mess with normal sleep. Some of the resources I read also backed this if a person is looking to control their dreams to avoid a persistent intrusive dream or nightmare. Repetitive dreams are often a sign of a psychological/neurological problem that should be treated as a health issue.
 
-I was intoxicated by the idea of controlling my dreams to practice physical or intellectual skills, making sleep more directed. What if I could study for a test the next day for four hours while I slept? Plus I could web-sling like Spider-man or generally be a superhero. The episode of _Batman: The Animated Series_ is still with me where Batman is stuck asleep and has to gain control by recognizing he's asleep and breaking the current dream. A friend's dad said he could lucid dream after recognizing the dream and smashing a clock. I read and asked around on how to lucid dream myself.
+I was intoxicated by the idea of controlling my dreams to practice physical or intellectual skills, making sleep more directed. What if I could study for a test the next day for four hours while I slept? Plus I could control my dreams enough to web-sling like Spider-man or generally be a superhero. The [episode of _Batman: The Animated Series_](https://en.wikipedia.org/wiki/Perchance_to_Dream_(Batman:_The_Animated_Series)) from my childhood is still with me where Batman is stuck asleep and has to gain control by recognizing he's asleep and breaking the current dream. A friend's dad said he could lucid dream after recognizing he was dreaming and smashing a clock. I read and asked around on how to lucid dream myself.
 
-## The Basic Method:
+{:refdef: style="text-align: center;"}
+<img src="../../images/batman-dream.jpg" width="50%" height="50%">
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+[Source: IMDB](https://www.imdb.com/title/tt0519611/)
+{: refdef}
+
+## The Basic Method to Lucid Dream:
 
 1. Start remembering your dreams.
 2. Look for patterns, repeating events in dreams.
@@ -23,16 +31,16 @@ I was intoxicated by the idea of controlling my dreams to practice physical or i
 
 I kept a dream journal at different times of my life in different formats, keeping notes in text on my phone, in an app paid and unpaid, and in voice messages. I had notification reminders several times per day to remind me to reality check and test if I'm dreaming. If you can detect a pattern in your dreams, like you often see clocks but can't quite make out the actual time, then make the reminder in real life that whenever you see a clock you ask yourself if you're dreaming. At night I would focus with intent on remembering my dreams in the morning. I pictured my morning self laying in bed reflecting on my dreams. In the morning, I laid still for a few minutes without moving. If you move, you end up forgetting your dreams faster. Even when I didn't remember, I searched for a trace sometimes catching the faint imprints of intense moments in a disconnected dream. Sometimes the dreams would shoot into my brain later in the day.
 
-The more I practiced the better I remembered. I did end up lucid dreaming several times in my life, but often not when I tried with any effort. For a few times I had incredible lucid dreaming. However, I never reached a stage where I could regularly lucid dream at will. While I did reality test in my dreams to see if I was dreaming, similar to waking, I believed I was awake in my dream and only realized my error when I woke up, leaving me with unsettling philosophical implications for waking life. Looking back my vivid dreams often centered around consumption of healthier foods rich in magnesium and B-vitamins closer to bedtime and drank plenty of water throughout the day. Vivid dreams are often a sign of healthy sleep.
+The more I practiced the better I remembered. I did end up lucid dreaming several times in my life, but often not when I tried with any effort. For a few times I had incredible lucid dreaming. However, I never reached a stage where I could regularly lucid dream at will. While I did reality test in my dreams to see if I was dreaming, similar to waking, I believed I was awake in my dream and only realized my error when I woke up, leaving me with unsettling philosophical implications for waking life. Looking back my vivid dreams often centered around consumption of healthier foods rich in magnesium and B-vitamins closer to bedtime and drinking plenty of water throughout the day. Vivid dreams are often a sign of healthy sleep.
 
-## I gave up on lucid dreaming, but by tracking my dreams and bringing greater awareness I began to appreciate dreaming (and sleeping).
+## I gave up on lucid dreaming, but by tracking my dreams I began to appreciate dreaming (and sleeping).
 
-Dreams are an altered state, a connection to our unconscious. They're simply interesting. I looked at dreams like a natural psychedelic drug without any risks and only benefits. Instead of focusing on controlling my dreams, I focused on _optimizing my sleep_. I [learned more about the science of sleep](/learning/). [REM sleep](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep) is talked about in introductory psychology books; it's the phase of sleep we have the most vivid dreams and is common to mammals. We need REM sleep.
+Dreams are an altered state, a connection to our unconscious. They're simply interesting. I looked at dreams like a natural psychedelic drug without any risks and only benefits. Instead of focusing on controlling my dreams, I focused on _optimizing my sleep_. I learned more about the science of sleep. [REM sleep](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep) is talked about in introductory psychology books; it's the phase of sleep we have the most vivid dreams and is common to mammals. We need REM sleep.
 
-Some of the greatest inventors of history are rumored to have hacked sleep to optimum. They were able to create multiple incredible inventions while only sleeping in several small naps throughout the day. By slipping right into a 20 minute nap six times per day, about once every 4 hours, they would get 2 hours of REM sleep total in a day. Most full night sleepers only get 1.5 hours of REM sleep on average! Could the extra REM sleep be the super-charging factor in their creative genius? Experimenters say if you can fight through the initial adjustment phase and train your body to get REM immediately, you will no longer need a long block of sleep. Some labeled this the Uberman sleeping schedule. I found a small literature on [poly-phasic sleep](https://en.wikipedia.org/wiki/Biphasic_and_polyphasic_sleep). I [detail my experiments with sleep in another article](/polyphasic-sleep/). The conclusion I found from my experiment after suffering un-adjustable sleep deprivation was there are most likely two optimal sleeping schedules for humans to maximize creativity, recuperation, and function:
+Some of the greatest inventors of history are rumored to have hacked sleep to optimum. They were able to create multiple incredible inventions while only sleeping in several small naps throughout the day. By slipping right into a 20 minute nap six times per day, about once every 4 hours, they would get 2 hours of REM sleep total in a day. Most full night sleepers only get 1.5 hours of REM sleep on average! Could the extra REM sleep be the super-charging factor in their creative genius? Experimenters say if you can fight through the initial adjustment phase and train your body to get into the REM phase immediately, you will no longer need a long block of sleep. Some labeled this the Uberman sleep schedule. I found a small literature on [poly-phasic sleep](https://en.wikipedia.org/wiki/Biphasic_and_polyphasic_sleep). I [detail my experiments with sleep in another article](/polyphasic-sleep/). The conclusion I found from my experiment after suffering un-adjustable sleep deprivation was there are most likely two optimal sleeping schedules for humans to maximize creativity, recuperation, and function:
 
 1. A solid block of uninterrupted sleep at night
-2. A [siesta style](https://en.wikipedia.org/wiki/Siesta) sleeping pattern with naps in the afternoon
+2. A [siesta style](https://en.wikipedia.org/wiki/Siesta) sleeping pattern with a nap in the afternoon
 
 I learned a lot about napping! Naps should be at least 20 minutes for a short, full, deep sleep cycle. If you snooze in the morning for only 10 or 15 minutes and repeat that, you're hurting your sleep hygiene and your day. The process for your body to clear hormones signaling sleep and wakefulness is disrupted. Most people feel groggy throughout the day. If you do snooze, the more optimal time is about 20 minutes, I give 21 minutes. This also helps me snooze a little less since I know I won't wake up before the alarm again and need the time.
 
@@ -44,11 +52,11 @@ A nap should be a max of about one and a half hours. Any more than that disrupts
 
 If your circadian rhythm is disrupted, you will have trouble falling asleep at a natural time. If I wake up around 7-8am, I wake up from my last nap by 5pm so I don't accidentally trick my body into thinking I'm sleeping for the night. In general when you're groggy either your circadian rhythm is disrupted or you have accrued sleep debt, you're not sleeping enough!
 
-### Sleep has two functions
+### [Sleep has two functions](/learning/)
 1. To repeat neural patterns of activities you are learning (generating dreams)
 2. To wash away metabolic waste built up throughout the day
 
-Thinking is one of the most energy intense activities we can do. Like a muscle, waste products build up from thinking. This is a major part of the reason why losing sleep for anyone is dangerous. Driving tired is like driving drunk!
+Thinking is one of the most energy intense activities we can do. Like a muscle, waste products build up from thinking like lactic acid. This is a major part of the reason why losing sleep for anyone is dangerous. Driving tired is like driving drunk!
 
 > "Drowsy driving is dangerous because sleep deprivation can have similar effects on your body as drinking alcohol. Being awake for 18 hours straight makes you drive like you have a blood alcohol level of .05 (for reference, .08 is considered drunk). If you’ve been awake for a full 24 hours and drive—say, after a night where you just couldn’t fall asleep—it’s like you have a blood alcohol level of .10." -- [SleepFoundation](https://www.sleepfoundation.org/articles/drowsy-driving-vs-drunk-driving-how-similar-are-they)
 
@@ -70,7 +78,7 @@ When you're tired and low energy from bad food choices, it's tough for anyone to
 
 ## The first question I ask about a person's health is how their sleep is.
 
-How much sleep you should get depends on a number of factors. I think everyone should get at least 8 hours, everyone. [Here are recommendations by age](https://en.wikipedia.org/wiki/Sleep#Recommendations).
+How much sleep you should get depends on a number of factors. I think everyone should get at least 8 hours, everyone. [Here are recommendations by age](https://en.wikipedia.org/wiki/Sleep#Recommendations). For people who want to maximize creative output, the siesta style sleeping pattern is best. 
 
 I know my best day's are after a quality night of rest. I hope you see sleep as a priority and area for ongoing self-improvement. Here's a growing list of my tips.
 
@@ -82,12 +90,15 @@ I know my best day's are after a quality night of rest. I hope you see sleep as 
   * Avoid activities too stimulating
   * Avoid blue light, stick to warm colors and consider blue light blocking glasses and night-shifting your screens
 * Eat foods rich in B-vitamins, magnesium, calcium, and iron which will nourish your brain and calm tense muscles
-* [Practicing meditation](https://www.youtube.com/playlist?list=PL6_3mnHSoqCWN_NKvgf7zxemNQccssUDA) can help you fall asleep by letting go of anxious thoughts
+* Where possible: do not use an alarm but wake up naturally
+* [Practicing meditation](https://www.youtube.com/playlist?list=PL6_3mnHSoqCWN_NKvgf7zxemNQccssUDA) can help you fall asleep by letting go of anxious thoughts and relaxing your body
 * Avoid caffeine, a stimulant, 10-12 hours before sleep (for most people it takes that long for their body to break down caffeine) - _I try to cut caffeine after 12pm._
-* Get into a bedtime routine habit
+* Get into a bedtime routine
 * Change your mindset to see **falling asleep is a skill you can get better at with practice**
 * Get a little colder if you can (2-3 degrees Fahrenheit lower) to initiate sleep
 * Use your bed for sleeping only (and sex)
+
+I had no idea the [average person falls asleep in 10-20 minutes!](https://www.sleep.org/articles/how-long-to-fall-asleep/) I used to take an hour or more. Whatever your ability to fall asleep, here's a technique to make it easier.
 
 ### A Basic Method to Fall Asleep
 
@@ -111,6 +122,8 @@ I know my best day's are after a quality night of rest. I hope you see sleep as 
 **Length**: Start with 1-3 minute “spot drills” several times a day before an important meeting or event. Work up to 5-10 minutes a day.
 
 ---
+
+If 5 seconds feels a little too long, try 4 or 3.
 
 ### Other Resources
 
@@ -168,12 +181,12 @@ They also have [22 Ways to Get a Better Night’s Sleep](https://www.artofmanlin
 
 The show is basically a summary of his book.
 
-User _SuperOlivess_ made this great comment with the summarized tips and time stamps:
+User _SuperOlivess_ made this excellent comment with the summarized tips and time stamps:
 
 ---
 
 8:45
-"Men who sleep 5-6 hours will have a level of testosterone which is that of someone who is 10 years their senior. So a lack of sleep will age you by a decade in terms of that critical aspect of wellness, virility, muscle strength" ..
+Men who sleep 5-6 hours will have a level of testosterone which is that of someone who is 10 years their senior. So a lack of sleep will age you by a decade in terms of that critical aspect of wellness, virility, muscle strength
 
 13:30
 Visual centers of the brain ramp up 30% during sleep but the frontal lobes (responsible for logic, rationality) shut down.
@@ -275,4 +288,10 @@ If your dieting but getting insufficient sleep, 70% of the weight you lose will 
 
 ---
 
-P.S. 
+# P.S. We're different
+
+Not everyone can have a 10pm to 6am sleeping schedule. You might fall asleep early or stay up late and sleep to the afternoon. Throughout our lifespans our sleeping needs and schedules change. Answering my original question of _wouldn't people get eaten in the wild while they slept?_, thousands of years ago people slept in groups of around 150. The group likely had a few people awake as a lookout and this led to non-overlapping sleep schedules. There was always someone awake, and one of us could wake the others in case of danger. We have a circadian rhythm of about 24 hours because that's the rotation of the Earth for one day. Some of us will have a slightly longer or shorter cycle, 23 hours, 26 hours. A few others have a shifting rhythm, they're only aligned for one day a week.
+
+I hope you see sleep as a priority now. Sleep is not something to sacrifice. In fact, if you care about nearly anything else in your life and want to give your best to yourself, your loved ones, and your work, you will prioritize sleep to get enough. I hope you have so many options focusing on sleep helps you narrow down what path to take. Some people will require flexibility in their schedule, and you will need to find ways to live to accommodate that.
+
+It should be clear that schools forcing children to attend school earlier in the morning is down right criminal. If we care at all about the health and well-being of our children we will work around their changing sleeping schedules. Teenagers especially sleep late, so a 7am start class will simply give them years of sleep debt at a time when their brains are meant to be developing in a healthy and natural way. If someone argues this should teach teens discipline in their sleep schedules, an understanding of biology and chrono-biology should rationally change their mind. There's only so far we can push the human body outside of what it evolved for. Please consider advocating for the sleep hygiene of children, especially yours!

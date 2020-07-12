@@ -10,7 +10,7 @@ categories: experiments
 
 The way the general population sleeps is actually called monophasic, i.e. one phase. You go to sleep at night and don't take any naps or second sleeps throughout the day. There are also polyphasic sleep schedules, so multiple sleeps spread throughout the day.
 
-The advantage to polyphasic sleep is you actually have to sleep less than a regular sleeper and feel more rested. People have done this for years at a time (at least 6 months at a time) successfully, and some of the greatest geniuses through time have been said to have lived this way.
+The advantage to polyphasic sleep is you have to sleep less than a regular sleeper and feel more rested. People have done this for years at a time (at least 6 months at a time) successfully, and some of the greatest geniuses through time are rumored to have lived this way.
 
 What I'm going to attempt is the Everyman 3 schedule. It's called that because it's actually easier and more manageable than some of the extreme schedules like Uberman. With Everyman 3, you take a core nap at night for three hours and space 3 twenty minute naps through out the day in about 5 hour intervals. This gives about 4 hours of total sleep a night/day. You train your brain to immediately enter the deepest state of sleep for those naps, allowing you to recharge even better than normal sleep.
 
@@ -40,21 +40,25 @@ Day -1 and 0. Because of various life events, like the Dark Knight Rises, these 
 
 **Day 4**: Not good! Stupid Dark Knight Rises. I went to see it again and had to take my 10:30 nap early, this didn't go well. I don't think I slept at all. This proved pretty bad. I was dead tired by 3:15am, and I overslept by quite a bit, getting 8 hours of sleep. This means I'm going to start again, at Day 1. The worst part, I don't even feel rested! I thought polyphasic sleepers were a little odd with some of their stories of how they would shut off all their alarms without remembering it all, but yeah, it definitely happened to me too.
 
-**Day 1, again**, (7/26/12). Getting into it again. I've noticed something pretty strange. I understand now why I don't feel like I've slept some of the times. I've never felt like I've been inbetween reality and dreams like this before. My stream of consciousness suddenly and surreptitiously melds with a dream. My waking mind feels like it's completely in sync with whatever the dreaming situation is and devotes all my mental faculties towards it. When the dream begins to intensify, I realize that my reasoning is off and become fully awake. It's enough to...make a person really cautious about their thoughts.
+**Day 1, again**, (7/26/12). Getting into it again. I've noticed something pretty strange. I understand now why I don't feel like I've slept some of the times. I've never felt like I've been in between reality and dreams like this before. My stream of consciousness suddenly and surreptitiously melds with a dream. My waking mind feels like it's completely in sync with whatever the dreaming situation is and devotes all my mental faculties towards it. When the dream begins to intensify, I realize that my reasoning is off and become fully awake. It's enough to...make a person really cautious about their thoughts.
 I'll update this as I go along, primarily for the first 10 or so days, and check in after a period of months.
 
 **So on Day 2** I went to a friend's birthday party and was the designated driver, which means I was up until 5:30am. So I missed my core sleep and slept for 7 hours. After that, I went poking around online and found some depressing news. There has been scientific observation of alternate sleep schedules, and it doesn't look good. Apparently, science says that my sleep schedule is "unhealthy" and by continuing I risk "the long term sleep control centers of my brain" being severely damaged or loss of function altogether. But hey, what do chronobiologists know about anything?
 
-For the scientific observation of polyphasic sleep, see Dr. Claudio Stampi, who studied the sleep habits of solo yachters. Essentially, polyphasic sleep is much better than not sleeping at all in emergency situations, but it is still less than a normal night's sleep in terms of cognitive performance in all areas. There are two sleep schedules that work, monophasic and biphasic. You can read more about this here and here:
+For the [scientific observation of polyphasic sleep, see Dr. Claudio Stampi](https://en.wikipedia.org/wiki/Why_We_Nap), who studied the sleep habits of solo yachters. Essentially, polyphasic sleep is much better than not sleeping at all in emergency situations, but it is still less than a normal night's sleep in terms of cognitive performance in all areas. **Do not try polyphasic sleep if you're interested in optimizing your creativity, alertness, or health.** A big part of why I attempted different sleep schedules is because the answer appeared untested in science. I couldn't find much research. In my tired stupor, I came across articles by Supermemo. There are two sleep schedules that work, monophasic and biphasic. You can read more about this here:
 
-http://supermemo.com/articles/polyphasic.htm
+[Polyphasic Sleep: Facts and Myths (2005)](https://www.supermemo.com/en/archives1990-2015/articles/polyphasic)
 
-http://supermemo.com/articles/polyphasic2010.htm
+[Polyphasic Sleep: 5 Years Later!](https://www.supermemo.com/en/archives1990-2015/articles/polyphasic2010)
 
 I'm not giving up on finding the best way to sleep for optimum cognitive performance. I'm going to start here and see what other research I can find.
 
-http://supermemo.com/articles/sleep.htm
+[Good sleep, good learning, good life](https://www.supermemo.com/en/archives1990-2015/articles/sleep)
 
 Apparently, one of the best ways to sleep for optimum cognitive performance is to sleep as much as you want! Your body will fall into a natural rhythm. This means tossing out your alarm clocks. One genius who used this method was Rene Descartes, who at times wouldn't start his childhood lessons until the late afternoon.
 
 I aim to wake up with the sun now! We'll see. If you'd like to optimize your sleep, that is, do your best not to wake up during an important phase, I recommend getting sleep software that can track your phases. It will tell you what the best time to go to sleep is based on when you want to wake up, simply search 'sleep' in the app store.
+
+---
+
+Check out [my article on sleep](/sleep/) for my current views.

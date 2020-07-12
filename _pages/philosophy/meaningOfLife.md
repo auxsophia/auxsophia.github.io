@@ -154,7 +154,9 @@ Let's imagine one person. One person on the island is another part of objective 
 
 Whatever phenomena requires two or more people, that is inter-subjective reality. Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
 
-Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After sometime it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. We live in a world where millions and billions of humans agree on a shared experience and perception of reality. Now the rectangular piece of paper with special ink designs can cause so many events, freedom, food, shelter, violence, destruction, and everything money involves. Money is a part of reality, but it is almost a life separate from objective reality. Observing money, much of what money is and how it effects change in the world is not on the objective level. The value of money tracks in the beliefs and behaviors of humans. The value of money is in our minds and carried out in our behavior.
+Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After sometime it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. They both have a value in mind for the money and what the other thinks the value is. When the two ideas of value clash they center to a shared value.
+
+We live in a world where millions and billions of humans agree on a shared experience and perception of reality. Now the rectangular piece of paper with special ink designs can cause so many events, freedom, food, shelter, violence, destruction, and everything money involves. Money is a part of reality, but it is almost a life separate from objective reality. Observing money, much of what money is and how it effects change in the world is not on the objective level. The value of money tracks in the beliefs and behaviors of humans. The value of money is in our minds and carried out in our behavior.
 
 As we have described money on an analysis of three levels of reality, we can split our memories and experience into an analysis by three parts. Investigations into the three parts of experience in science are described by:
 
@@ -706,7 +708,7 @@ Sound must travel through a medium, air. The vibrating air moves tiny hairs insi
 
 The analogy is the brain is like the prisoner fixed in the cave of our skull. We cannot access the world as it is, we can only access the shadows of real objects, the energy that reaches our senses. In fact, the objective universe is forever out of our reach since we must interact with it through our sense organs. Are we justified in assuming our senses are accurate? They are accurate enough to allow us to survive and manipulate the world, but the prisoners had their own system of understanding shadows and sounds. They all agreed on what made sense.
 
-I would like to take a moment to share some facts about our brains. So much of what we consider to be ourselves is actually the function of our nervous system. Humanity learned about brain function over the history of our species. In hospitals and healing centers, people would come with injuries to the head. Unlike injuries to other parts of the body, head trauma often resulted in death or disability. Recovery was slow if at all. Even stranger, a small difference in the type of trauma and location of injury had wildly different effects. For example, [damage to the language centers of the brain effects the generation and understanding of speech](https://www.nidcd.nih.gov/health/aphasia). In Broca's aphasia, people retain their intelligence and ability to understand others, but they have difficulty finding words when they try to speak. They may only get a few words out with effort. Conversely, Wernicke's aphasia causes people to lose track of their mistakes. They speak but use too many words and are unaware of their mistakes; they believe they're speaking clearly. Over lifetimes, we began to piece together the story and function of the brain.
+I would like to take a moment to share some facts about our brains. So much of what we consider to be ourselves is actually the function of our nervous system. Humanity learned about brain function over the history of our species. In hospitals and healing centers, people would come with injuries to the head. Unlike injuries to other parts of the body, head trauma often resulted in death or disability. Recovery was slow if at all. Even stranger, a small difference in the type of trauma and location of injury had wildly different effects. For example, [damage to the language centers of the brain effects the generation and understanding of speech](https://www.nidcd.nih.gov/health/aphasia). In Broca's aphasia, people retain their intelligence and ability to understand others, but they have difficulty finding words when they try to speak. They may only get a few words out with effort. Conversely, Wernicke's aphasia causes people to lose track of their error. They speak but use too many words and are unaware of their mistakes; they believe they're speaking clearly. Over lifetimes, we began to piece together the story and function of the brain.
 
 ---
 
@@ -732,64 +734,67 @@ The function of the brain is to provide coherent control over the actions of an 
 
 Our brain receives data, bits of information, about the outside world through its sense organs. Consider sight, we see using our eyes. Our eyes are sensors that can detect a narrow width of the energy spectrum. Some creatures see far with clarity, others near sighted, some see better under water or at night. The sense data we receive is processed in our brains. We refine our understanding of the world based on incoming data and our interaction.
 
-We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation. Bayesian inference provides a method for inferring unobserved phenomena.
+We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation. Bayesian inference provides a method for inferring unobserved phenomena. Even if we can't directly experience reality, we can still reason about what is happening.
 
 ---
 
 ## Epistemology
 
-“Critical rationalism is an epistemological philosophy advanced by Karl Popper...Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.” [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+> “Critical rationalism is an epistemological philosophy advanced by Karl Popper...Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.” -- [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
 
 “Critical rationalists hold that scientific theories and any other claims to knowledge can and should be rationally criticized, and (if they have empirical content) can and should be subjected to tests which may falsify them.”
 
 “If [claims to knowledge are] retained, further differentiation may be made on the basis of how much subjection to criticism they have received, how severe such criticism has been, and how probable the theory is, with the least probable theory that still withstands attempts to falsify it being the one to be preferred.”
 
-With verificationism, our intuition is to have the most probable, most corroborated theory. However, Karl Popper and David Miller propose criticisms of justificationism and positivism.
+With [verificationism](https://en.wikipedia.org/wiki/Verificationism), our intuition is to have the most probable, most corroborated theory. However, Karl Popper and David Miller propose criticisms of justificationism and positivism.
 
-1. Doubts the naive empiricism of induction based on the critical arguments of David Hume. “According to the critical rationalist, if there is a sense in which humans accrue knowledge positively by experience, it is only by pivoting observations off existing conjectural theories pertinent to the observations, or off underlying cognitive schemas which unconsciously handle perceptions and use them to generate new theories...The myth that we induce theories from particulars is persistent because when we do this we are often successful, but this is due to the advanced state of our evolved tendencies. If we were really "inducting" theories from particulars, it would be inductively logical to claim that the sun sets because I get up in the morning, or that all buses must have drivers in them (if you've never seen an empty bus).”
+1 - Critical rationalism doubts the naive empiricism of induction based on the [critical arguments of David Hume](https://en.wikipedia.org/wiki/Problem_of_induction). “According to the critical rationalist, if there is a sense in which humans accrue knowledge positively by experience, it is only by pivoting observations off existing conjectural theories pertinent to the observations, or off underlying cognitive schemas which unconsciously handle perceptions and use them to generate new theories...The myth that we induce theories from particulars is persistent because when we do this we are often successful, but this is due to the advanced state of our evolved tendencies. If we were really "inducting" theories from particulars, it would be inductively logical to claim that the sun sets because I get up in the morning, or that all buses must have drivers in them (if you've never seen an empty bus).”
 
-2. “Popper and David Miller showed in 1983 that evidence supposed to partly support a hypothesis can, in fact, only be neutral to, or even be counter-supportive of the hypothesis.” - A proof of the impossibility of inductive probability
+2 - “Popper and David Miller showed in 1983 that evidence supposed to partly support a hypothesis can, in fact, only be neutral to, or even be counter-supportive of the hypothesis.” - A proof of the impossibility of inductive probability
 
 Consider the claim: “All swans are white.”
 
-To confirm this hypothesis, we can look for swans and each white swan we find confirms the claim, supposedly adding more support. Now consider the [contrapositive](https://en.wikipedia.org/wiki/Contraposition#Intuitive_explanation) of the claim, “All non-white things are not-swans.” These two claims are logically equivalent; they hold the same truth value, supporting or disproving one effects the other equally. Now we can confirm our claim with anything that is not white.
+To confirm this hypothesis, we can look for swans and each white swan we find confirms the claim, supposedly adding more support. Now consider the [contrapositive](https://en.wikipedia.org/wiki/Contraposition#Intuitive_explanation) of the claim, “All non-white things are not-swans.” These two claims are logically equivalent; they hold the same truth value, supporting or disproving one effects the other equally. Now we can confirm our claim with anything that is not white. Suddenly I can perform confirming experiments immediately with any object near me. A pencil is not white and not a swan, so this should logically support our claim that all swans are white.
 
-3. Related to the point above, David Miller, attacks the use of "good reasons" in general (including evidence supposed to support the excess content of a hypothesis). He argues that good reasons are neither attainable, nor even desirable. Basically, Miller asserts that all arguments purporting to give valid support for a claim are either circular or question-begging. That is, if one provides a valid deductive argument (an inference from premises to a conclusion) for a given claim, then the content of the claim must already be contained within the premises of the argument (if it is not, then the argument is ampliative and so is invalid). Therefore, the claim is already presupposed by the premises, and is no more "supported" than are the assumptions upon which the claim rests, i.e. begging the question.
+3 - Related to the point above, David Miller, attacks the use of "good reasons" in general (including evidence supposed to support the excess content of a hypothesis). He argues that good reasons are neither attainable, nor even desirable. Basically, Miller asserts that all arguments purporting to give valid support for a claim are either circular or question-begging. That is, if one provides a valid deductive argument (an inference from premises to a conclusion) for a given claim, then the content of the claim must already be contained within the premises of the argument (if it is not, then the argument is ampliative and so is invalid). Therefore, the claim is already presupposed by the premises, and is no more "supported" than are the assumptions upon which the claim rests, i.e. begging the question.
 
 {:refdef: style="text-align: center;"}
-
 All squares have 4 sides
+{:refdef}
 
+{:refdef: style="text-align: center;"}
 This shape is a square
+{:refdef}
 
-Therefore this shape has 4 sides
-
+{:refdef: style="text-align: center;"}
+__:. Therefore this shape has 4 sides__
 {:refdef}
 
 Notice the conclusion is stated in the premises. The support of the conclusion is equal to the support of the premises.
 
-The justificatory difficulty is also seen in [Agrippa’s trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma): arguments are supported by circular reasoning, unattainable infinite regression, or unsupported axioms.
-
-**Key Principles**:
-- Criticize our hypotheses/conjectures rationally and empirically (falsify)
+**Key Principles of Critical Rationalism**:
+- Criticize hypotheses/conjectures rationally and empirically (falsify)
 - Retain the least probable hypotheses with the highest information content
     - This leaves the hypotheses sensitive to future falsification
 - Knowledge and truth are objective
     - But not in the “traditional” sense
     - We can approximate truth
 
-“Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.”
+> “Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.”
 
-Thought Experiment:
-Consider if everyone lost their engineering knowledge. They might have some beliefs, but they are all untrue beliefs. Although the knowledge of engineering books doesn’t cohere with the beliefs of people, humans would eventually learn engineering skills through texts. Therefore knowledge can exist independently of belief in books.
+**Thought Experiment**:
+
+_Consider if everyone lost their engineering knowledge. They might have some beliefs, but there are only untrue beliefs left. Although the knowledge of engineering books does not cohere with the beliefs of people, humans would eventually learn engineering skills through texts. Therefore knowledge can exist independently of belief in books._
 
 “...scientists gain knowledge not by proofs but by refutations of good conjectures and by replacing them with new and better ones. These new conjectures avoid earlier mistakes, explain more, and invite new tests,” [IEP](https://www.iep.utm.edu/cr-ratio/).
 
-Be bold in your hypotheses so you can be wrong!
+Be bold in your hypotheses so you can be wrong! Many points of critical rationalism appeal to me. Scientific theories are almost like evolutionary entities themselves. Theories must survive the challenge of criticisms. Like a beautiful sculpture trapped in stone, we must use our tools to chip away at the excess and retain the stable core leading to incredibly useful knowledge and know-how. Critical rationalism is adaptable; it reacts to criticism. If some other method is better, there should be a path of criticisms which guide critical rationalism to the better theory.
 
 ---
 
-We have some mental model, a schema, to successfully determine cause and effect. What is it? How does it work?
+## Cause and Effect
+
+According to critical rationalism, our inductive methods of generalization are not rationally supported but due to "our evolved tendencies." We have some mental model, a schema, to successfully determine cause and effect. What is it? How does it work?
 
 Consider the relationship of altitude and temperature. The higher up we go away from the surface of the Earth, the colder things get, but the relationship goes one way. If we cool an object down, it doesn't change its altitude, its height. Why does that make sense?
 
@@ -821,7 +826,11 @@ Questions: _What if I had done...? Why?_ Was it X that caused Y? What if X had n
 
 Imagination is the highest level of understanding. "Counterfactual learners, on the top rung, can imagine worlds that do not exist and infer reasons for observed phenomena."
 
-Pearl once believed as many others that Bayesian rationalism was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect, colleagues, scientists, and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
+Pearl once believed as many others that Bayesian rationalism was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect, colleagues, scientists, and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. The key is the causal diagram.
+
+"They [Bayesian networks] are related to causal diagram in a simple way: a causal diagram is a Bayesian network in which every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow," page 110, location 1457.
+
+One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/confounding.png" width="75%" height="75%">

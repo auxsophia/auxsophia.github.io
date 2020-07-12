@@ -458,7 +458,7 @@ Chapter 13 covers the "human diet" in more detail. Each pillar is to be seen as 
 - Roast turkey with stuffing and gravy
 - Chicken soup with dumplings
 - _Chile con carne_
-- Barbequed spare ribs
+- Barbecued spare ribs
 - Mexican _menudo_ soup
 - _Pico de gallo_ soup
 - Thai _thom kha gai_ soup
