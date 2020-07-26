@@ -60,6 +60,8 @@ Thinking is one of the most energy intense activities we can do. Like a muscle, 
 
 > "Drowsy driving is dangerous because sleep deprivation can have similar effects on your body as drinking alcohol. Being awake for 18 hours straight makes you drive like you have a blood alcohol level of .05 (for reference, .08 is considered drunk). If you’ve been awake for a full 24 hours and drive—say, after a night where you just couldn’t fall asleep—it’s like you have a blood alcohol level of .10." -- [SleepFoundation](https://www.sleepfoundation.org/articles/drowsy-driving-vs-drunk-driving-how-similar-are-they)
 
+For more reasons on why we dream, check out this [awesome TED-Ed video](https://www.youtube.com/watch?v=2W85Dwxx218).
+
 Chronic sleep debt has many accumulating negative effects. During the body's sleep cycles, hormones are secreted and replenished. Even sleep itself can be thrown off as melatonin is the hormone signaling to sleep and wake up. Many people supplement melatonin in their diet for sleep, but I'm hesitant to get my body used to a strong outside source.
 
 {:refdef: style="text-align: center;"}
@@ -78,7 +80,7 @@ When you're tired and low energy from bad food choices, it's tough for anyone to
 
 ## The first question I ask about a person's health is how their sleep is.
 
-How much sleep you should get depends on a number of factors. I think everyone should get at least 8 hours, everyone. [Here are recommendations by age](https://en.wikipedia.org/wiki/Sleep#Recommendations). For people who want to maximize creative output, the siesta style sleeping pattern is best. 
+How much sleep you should get depends on a number of factors. I think everyone should get at least 8 hours, everyone. [Here are recommendations by age](https://en.wikipedia.org/wiki/Sleep#Recommendations). For people who want to maximize creative output, the siesta style sleeping pattern is best.
 
 I know my best day's are after a quality night of rest. I hope you see sleep as a priority and area for ongoing self-improvement. Here's a growing list of my tips.
 
@@ -97,6 +99,23 @@ I know my best day's are after a quality night of rest. I hope you see sleep as 
 * Change your mindset to see **falling asleep is a skill you can get better at with practice**
 * Get a little colder if you can (2-3 degrees Fahrenheit lower) to initiate sleep
 * Use your bed for sleeping only (and sex)
+
+### Sleep Posture
+
+I found the interesting video _[What's the Best Position to Sleep in? Do we even need a Pillow?](https://www.youtube.com/watch?v=O8UoAASCUsQ)_ The author is searching for the best sleep position with two basic goals: "I figure a sleep posture that promotes good sleep quality would have to (1) prevent snoring and (2) at least not impede the glymphatic system."
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/sleepPostures.png" width="85%" height="85%">
+{: refdef}
+
+> So ... what if pillows are making sleeping on our backs artificially too comfortable? That is, let’s say you lay down to sleep, but you simply don’t use a pillow. Laying on your back might become a little less comfortable now that your neck and head aren’t cradled in a cushy comfortable
+cushion. What’s going to be the more comfortable position? Probably sleeping on your side because you can support your neck with your shoulder or a flesh pillow made out of your arm and hands.
+
+> Surprisingly, there was one paper that addresses this directly. In this paper by Michael Tetley titled “[Instinctive sleeping and resting postures: an anthropological and zoological approach to treatment of low back and joint pain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/pdf/1616.pdf),” he argues that forest dwellers, nomads and tribal peoples suffer from few muscoskeletal problems because they sleep in a “natural” posture without a pillow at night. According to Tetley, he has “organised over 14 expeditions all over the world to meet native peoples and study their sleeping and resting postures. They all adopted similar postures and exhibited few musculoskeletal problems.” He says tribespeople often do not like having their photographs taken so he demonstrates most of the postures himself. The first posture is the on the side with the arm rotated to be used as a pillow, the second is similar but uses the shoulder to support the neck rather than the arm. The third position is on the stomach with the arm as a pillow. Now the fourth position is…highly dubious. I can’t imagine ending up in the fourth position while sleeping, but actually it’s a little similar to the way babies sometimes fall asleep. What was interesting about this paper is that none of the positions he’s presented show people on their backs.
+
+> So the data on this topic is limited, but based on what I did find, so far it seems like the answer is that the side position is the better position for cleaning out your brain and preventing snoring from impeding your sleep, and ditching the pillow might be a way to get yourself to spend more time in that side position.
+
+Right now I'm trying out ditching my pillow and laying in instinctual human sleeping patterns.
 
 I had no idea the [average person falls asleep in 10-20 minutes!](https://www.sleep.org/articles/how-long-to-fall-asleep/) I used to take an hour or more. Whatever your ability to fall asleep, here's a technique to make it easier.
 
@@ -294,4 +313,4 @@ Not everyone can have a 10pm to 6am sleeping schedule. You might fall asleep ear
 
 I hope you see sleep as a priority now. Sleep is not something to sacrifice. In fact, if you care about nearly anything else in your life and want to give your best to yourself, your loved ones, and your work, you will prioritize sleep to get enough. I hope you have so many options focusing on sleep helps you narrow down what path to take. Some people will require flexibility in their schedule, and you will need to find ways to live to accommodate that.
 
-It should be clear that schools forcing children to attend school earlier in the morning is down right criminal. If we care at all about the health and well-being of our children we will work around their changing sleeping schedules. Teenagers especially sleep late, so a 7am start class will simply give them years of sleep debt at a time when their brains are meant to be developing in a healthy and natural way. If someone argues this should teach teens discipline in their sleep schedules, an understanding of biology and chrono-biology should rationally change their mind. There's only so far we can push the human body outside of what it evolved for. Please consider advocating for the sleep hygiene of children, especially yours!
+It should be clear that schools forcing children to attend school earlier in the morning is down right criminal. If we care at all about the health and well-being of our children we will work around their changing sleeping schedules. Teenagers especially sleep late, so a 7am start class will simply give them years of sleep debt at a time when their brains are meant to be developing in a healthy and natural way. If someone argues this should teach teens discipline in their sleep schedules, an understanding of biology and chronobiology should rationally change their mind. There's only so far we can push the human body outside of what it evolved for. Please consider advocating for the sleep hygiene of children, especially yours!

@@ -556,9 +556,35 @@ Let's analyze us, humans, objectively based on what we are made of. Our bodies e
 
 > Carbon is the 15th most abundant element in the Earth's crust, and the fourth most abundant element in the universe by mass, after hydrogen, helium, and oxygen. Carbon's widespread abundance, its ability to form stable bonds with numerous other elements, and its unusual ability to form polymers at the temperatures commonly encountered on Earth enables it to serve as a common element of all known living organisms." [Carbon-based life](https://en.wikipedia.org/wiki/Carbon-based_life)
 
-We are roughly 70% water. The next time you hold a glass of water, consider what would be left of you if all the water was separated from your body. You would most certainly stop living. Water is essential to the function of our bodies. We would shrivel up to only 30% of our body weight. You would be a dried husk. Looking at the glass of water, how does it create all the wonder of life we experience? What of the carbon that remains? Does this substance hold the secret of living experience? Carbon by itself doesn't appear to hold the spark of life.
+We are roughly 70% water. The next time you hold a glass of water, consider what would be left of you if all the water was separated from your body. You would most certainly stop living. Water is essential to the function of our bodies. We would shrivel up to only 30% of our body weight. You would be a dried husk. Looking at the glass of water, how does it create all the wonder of life we experience? What of the carbon that remains? Does this substance hold the secret of living experience? Carbon by itself doesn't appear to hold the spark of life. The organization and structure of the elements gives rise to our conscious experience. The dynamic pattern of the flow of water, matter, and energy through, in, and around our bodies is the spark of life.
 
-The organization and structure of the elements gives rise to our conscious experience. The dynamic pattern of the flow of water, matter, and energy through, in, and around our bodies is the spark of life. A disruption of the structure of our bodies can cause a terminal crisis or trauma. A traumatic brain injury disorganizes the structure of our important organ, disconnecting the knowledge and function developed.
+### Deeper into the structure and organization of our bodies
+
+An objective view of our bodies is given by [biology](https://en.wikipedia.org/wiki/Biology).
+
+> Biology is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution. Despite the complexity of the science, certain unifying concepts consolidate it into a single, coherent field. Biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation and extinction of species. Living organisms are open systems that survive by transforming energy and decreasing their local entropy to maintain a stable and vital condition defined as homeostasis.
+
+The [modern interpretation of cell theory](https://en.wikipedia.org/wiki/Cell_theory#Modern_interpretation):
+
+* All known living things are made up of one or more cells.
+* All living cells arise from pre-existing cells by division.
+* The cell is the fundamental unit of structure and function in all living organisms.
+* The activity of an organism depends on the total activity of independent cells.
+* Energy flow (metabolism and biochemistry) occurs within cells.
+* Cells contain DNA which is found specifically in the chromosome and RNA found in the cell nucleus and cytoplasm.
+* All cells are basically the same in chemical composition in organisms of similar species.
+
+Biology tells us we are all multicellular organisms. According to [one estimation for an average human body](https://pubmed.ncbi.nlm.nih.gov/23829164/) we are made up of 37.2 trillion cells, 37,200,000,000,000. In each one of those cells your full genetic information is encoded in DNA. The skin cell on the tip of your finger contains information on how to grow your brain. Your bone cells have the structure of your heart.
+
+I like the analogy of thinking of DNA as a book about you. The alphabet and vocabulary are small. The only letters are ATCG, the four base nucleotides. They pair with each other to form a word. In a long double helix, the pairs form a strand containing all of the base information about how to make you. Your DNA is a code storing information on how to react to different situations. If you're starving, your body reacts by accessing the part of your DNA to deal with these circumstances. Until the situation is called for, the DNA code for that segment should remain inactive, "switched off." DNA is really a memory of what our ancestors dealt with to survive.
+
+Your body can also "take notes" about the current environment to adapt. These notes help to regulate gene expression and activity. Think of them as notes written in the margin of a book. In the section where your body regulates heat, there might be a note like, "we've experienced heat waves every few summers." There is both long term information on your body and short term (your life) information on adaptation. The notes are called [epigenetics](https://en.wikipedia.org/wiki/Epigenetics).
+
+Cells are open systems out of equilibrium. Cells take in energy and matter and expel energy and matter. One organelle of the cell, the mitochondria, produces an excess of energy to the cell for movement, function, and growth. Spend some time searching for videos and art of the inner function of a cell. Ask yourself, "why does the cell live?" If you could ask a cell, what do you expect it to say? When down to molecular biology, we can see the complex interplay of every part is driven by the laws of physics and chemistry. Molecules bind based on their own and combined properties. The cell is simply functioning by its code.
+
+Somehow by interaction and communication, a multicellular organism gives rise to a person with conscious experience. Cells communicate by chemical signaling with the cells around them. While human cells are of interest, just the like the body can't live without water, our bodies can't function without bacteria. Bacterial cells live in and around your body, both helping and hurting. The mitochondria was originally a bacteria cell absorbed by an animal cell. Other bacteria are separate but symbiotic; they co-evolved with us. Bacteria cells most likely communicate with us on levels we don't understand. Some of the most import bacteria we have are gut bacteria which help us breakdown food. Consider that only 30% of the chemicals (neuro-transmitters) needed for your brain to function are made in the organ. 70% of your neuro-transmitters come from digestion in the gut. Consider that the function and signaling of your gut bacteria possibly have the largest impact on your thinking. This knowledge should impact how we view people and all organisms. You are not only your genetic and epigenetic information but the bacteria you have cultivated throughout your life.
+
+All cells are a dissipative structure; they take in energy to maintain their form and generate energy from the molecule adenosine-triphosphate (ATP). The energy flow is crucial. If our body stopped making ATP for only a few seconds we would die. Our body would start to disintegrate immediately.
 
 ### Is the meaning of life simply to burn?
 
@@ -732,9 +758,9 @@ The function of the brain is to provide coherent control over the actions of an 
 
 ---
 
-Our brain receives data, bits of information, about the outside world through its sense organs. Consider sight, we see using our eyes. Our eyes are sensors that can detect a narrow width of the energy spectrum. Some creatures see far with clarity, others near sighted, some see better under water or at night. The sense data we receive is processed in our brains. We refine our understanding of the world based on incoming data and our interaction.
+Let's take a moment to consider how complex a simple act is. Imagine you had a strap tied on your left wrist too tight. You reach over to adjust the strap so it isn't too tight. What's happening? The cells on your left hand are sending signals to each other and to your nervous system that they are losing blood flow and resources (oxygen, water, etc.) and there is too much pressure for normal function (they're saying "help us, save us!"). This information is processed in the brain where it assesses the situation and understands the strap is too tight. Another group of cells, your right hand and all that is required to move it, carryout the complex task of nimbly adjusting the strap to relieve pressure. Consider again how these cells are all separate units cooperating for the good of all.
 
-We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation. Bayesian inference provides a method for inferring unobserved phenomena. Even if we can't directly experience reality, we can still reason about what is happening.
+Our brain receives data, bits of information, about the outside world through its sense organs. We refine our understanding of the world based on incoming data and our interaction. We have a hypothesis generated in our brains to fit the data we store in memory. What's the process for refining our prediction based on past information and new, incoming information? The ideas were formally developed by Thomas Bayes. With [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), we can reduce learning and prediction to calculation. Bayesian inference provides a method for inferring unobserved phenomena. Even if we can't directly experience reality, we can still reason about what is happening.
 
 ---
 
@@ -828,7 +854,7 @@ Imagination is the highest level of understanding. "Counterfactual learners, on 
 
 Pearl once believed as many others that Bayesian rationalism was the highest form of rationality and the basis for all of our reasoning. He worked on Bayesian networks and learned their limitations. Through decades of research in the field of cause and effect, colleagues, scientists, and mathematicians discovered a proof of "do calculus." By applying a cause and effect schema, a model, we can properly account for confounding variables, unknown causes and effects. We can bypass needing to intervene (do) on an observational study (seeing) straight to counterfactual reasoning (imagination and understanding). We can infer cause and effect from observational studies. The key is the causal diagram.
 
-"They [Bayesian networks] are related to causal diagram in a simple way: a causal diagram is a Bayesian network in which every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow," page 110, location 1457.
+"They [Bayesian networks] are related to causal diagrams in a simple way: a causal diagram is a Bayesian network in which every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow," page 110, location 1457.
 
 One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
 
@@ -842,6 +868,8 @@ One example is _does smoking cause lung cancer?_ Here we have an important healt
 
 ---
 
+# The Drive of Intelligent Agents and Subjective Meaning
+
 So far much of this explanation is objective. For many this will not help our personal woes or provide direction. We expect the meaning of life to tell us what we _should_ be doing. First we will attempt to explain why we are currently doing what we are doing.
 
 I found the work of Juergen Schmidhuber incredible. In his paper, [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360), Schmidhuber gives an algorithmic framework of the drive of all intelligent creatures.
@@ -850,7 +878,7 @@ The abstract:
 > I argue that data becomes temporarily interesting by itself to some self-improving, but computationally limited, subjective observer once he learns to predict or compress the data in a better way, thus making it subjectively simpler and more beautiful. Curiosity is the desire to create or discover more non-random, non-arbitrary, regular data that is novel and surprising not in the traditional sense of Boltzmann and Shannon but in the sense that it allows for compression progress because its regularity was not yet known. This drive maximizes interestingness, the first derivative of subjective beauty or compressibility, that is, the steepness of the learning curve. It motivates exploring infants, pure mathematicians, composers, artists, dancers, comedians, yourself, and (since 1990) artificial systems.
 
 A simple example of compression is:
-“For example, if you receive a data package which contains "AAAAABBBB", you could compress that into "5A4B", which has the same meaning but takes up less space. This type of compression is called "run-length encoding", because you define how long the "run" of a character is. In the above example, there are two runs: a run of 5 A's, and another of 4 B's,” [Data Compression](https://simple.wikipedia.org/wiki/Data_compression).
+“For example, if you receive a data package which contains "AAAAABBBB", you could compress that into "5A4B", which has the same meaning but takes up less space. This type of compression is called "run-length encoding", because you define how long the "run" of a character is. In the above example, there are two runs: a run of 5 A's, and another of 4 B's,” [Data Compression - Wikipedia](https://simple.wikipedia.org/wiki/Data_compression).
 
 In the human case, our data stream is not a sequence of letters but the whole of our experience, our thoughts, feelings, and sensations. Our encoding, decoding, and compression scheme is still not fully known. However, the algorithmic framework is given in section 1.2 as follows (with citations removed):
 
@@ -879,22 +907,17 @@ This straight-forward explanation apparently does not abandon any essential aspe
 
 2.3 The Lazy Brain’s Subjective, Time-Dependent Sense of Beauty
 
-Schmidhuber argues our subjective sense of beauty is directly proportional to the number of bits required to encode an experience. Think of human faces. One way to efficiently encode human faces is to build a _prototype_ face. New faces are compared to the prototype which has proportions as an average of every face seen to that point in time. The more a face is like the prototype, the less information is needed to encode the face, thus the face feels beautiful to the observer. "...in principle, the compressor may exploit any regularity for reducing the number of bits required to store the data."
+Schmidhuber argues our subjective sense of beauty is directly proportional to the number of bits required to encode an experience. Think of human faces. One way to efficiently encode human faces is to build a _prototype_ face. New faces are compared to the prototype which has proportions as an average of every face seen. The more a face is like the prototype, the less information is needed to encode the face, thus the face feels beautiful to the observer. "...in principle, the compressor may exploit any regularity for reducing the number of bits required to store the data."
 
 A face which is symmetrical on each side from the center will be very beautiful if the encoding of the face can be compressed to nearly half the size since the face can mostly be mirrored with one half of the face.
 
-"Generally speaking, among several sub-patterns classified as _comparable_ by a given
-observer, the subjectively most beautiful is the one with the simplest (shortest) description, given the observer’s current particular method for encoding and memorizing it. For example, mathematicians find beauty in a simple proof with a short
-description in the formal language they are using. Others like geometrically simple,
-aesthetically pleasing, low-complexity drawings of various objects.
+> "Generally speaking, among several sub-patterns classified as _comparable_ by a given observer, the subjectively most beautiful is the one with the simplest (shortest) description, given the observer’s current particular method for encoding and memorizing it. For example, mathematicians find beauty in a simple proof with a short description in the formal language they are using. Others like geometrically simple, aesthetically pleasing, low-complexity drawings of various objects.
 
-This immediately explains why many human observers prefer faces similar to their
-own. What they see every day in the mirror will influence their subjective prototype
-face, for simple reasons of coding efficiency."
+> This immediately explains why many human observers prefer faces similar to their own. What they see every day in the mirror will influence their subjective prototype face, for simple reasons of coding efficiency."
 
 2.4 Subjective Interestingness as First Derivative of Subjective Beauty: The Steepness of the Learning Curve
 
-"What’s beautiful is not necessarily interesting. A beautiful thing is interesting only as long as it is new, that is, as long as the algorithmic regularity that makes it simple has not yet been fully assimilated by the adaptive observer who is still learning to compress the data better...the first derivative of subjective beauty: as the learning agent improves its compression algorithm, formerly apparently random data parts become subjectively more regular and beautiful, requiring fewer and fewer bits for their encoding. As long as this process is not over the data remains interesting and rewarding."
+> "What’s beautiful is not necessarily interesting. A beautiful thing is interesting only as long as it is new, that is, as long as the algorithmic regularity that makes it simple has not yet been fully assimilated by the adaptive observer who is still learning to compress the data better...the first derivative of subjective beauty: as the learning agent improves its compression algorithm, formerly apparently random data parts become subjectively more regular and beautiful, requiring fewer and fewer bits for their encoding. As long as this process is not over the data remains interesting and rewarding."
 
 Think of a [first derivative](https://www.mathsisfun.com/calculus/derivatives-introduction.html) as finding the slope of a line at a single point. The slope tells us the rate of change. In this case, interestingness is the rate of expected compression.
 
@@ -904,11 +927,9 @@ Imagine two visual observers where one is kept completely in the dark and one is
 
 2.7 Attention / Curiosity / Active Experimentation
 
-> "In absence of external reward, or when there is no known way to further increase the expected external reward, our controller essentially tries to maximize _true novelty or interestingness_, the _first derivative_ of subjective beauty or compressibility, the steepness of the learning curve. It will do its best to select action sequences expected to create observations yielding maximal expected future compression _progress_, given the limitations of both the compressor and the compressor improvement algorithm. It will learn to focus its attention [96, 116] and its actively chosen experiments on things that are currently still incompressible but are expected to become compressible/predictable through additional learning. It will get bored by things that already are subjectively compressible. It will also get bored by things that are currently incompressible but will apparently remain so, given the experience so far, or where the costs of making them compressible exceed those of making other things compressible, etc."
+> "In absence of external reward, or when there is no known way to further increase the expected external reward, our controller essentially tries to maximize _true novelty or interestingness_, the _first derivative_ of subjective beauty or compressibility, the steepness of the learning curve. It will do its best to select action sequences expected to create observations yielding maximal expected future compression _progress_, given the limitations of both the compressor and the compressor improvement algorithm. It will learn to focus its attention and its actively chosen experiments on things that are currently still incompressible but are expected to become compressible/predictable through additional learning. It will get bored by things that already are subjectively compressible. It will also get bored by things that are currently incompressible but will apparently remain so, given the experience so far, or where the costs of making them compressible exceed those of making other things compressible, etc."
 
-Here we see the drive to action observed of human infants and other intelligent agents, the second rung of _The Book of Why_'s ladder of understanding, seeing, **doing**, and imagining.
-
-Why do scientists work on smaller problems instead of bigger, universal problems? An explanation is given above, the scientists expect the problem will not be compressible in the near future, so they lose attention and curiosity in that problem.
+Here we see the drive to action observed of exploring human infants and other intelligent agents. Why do scientists work on smaller, specific problems instead of bigger, universal problems? An explanation is given above, the scientists expect the problem will not be compressible in the near future, so they lose attention and curiosity in that problem.
 
 2.8 Discoveries
 
@@ -932,7 +953,7 @@ The framework in the appendix is sufficiently formal to allow for implementation
 
 2.16 Jokes and Other Sources of Fun
 
-"Just like other entertainers and artists, comedians also tend to combine well-known concepts in a novel way such that the observer’s subjective description of the result is shorter than the sum of the lengths of the descriptions of the parts, due to some previously unnoticed regularity shared by the parts."
+> "Just like other entertainers and artists, comedians also tend to combine well-known concepts in a novel way such that the observer’s subjective description of the result is shorter than the sum of the lengths of the descriptions of the parts, due to some previously unnoticed regularity shared by the parts."
 
 3.3 Reward for Relative Entropy between Agent’s Prior and Posterior (1995)
 
@@ -940,7 +961,7 @@ Our intrinsic reward can be related to Bayesian inference in the difference betw
 
 5 Conclusion & Outlook
 
-"We pointed out that a surprisingly simple algorithmic principle based on the notions of data compression and data compression _progress_ informally explains fundamental aspects of attention, novelty, surprise, interestingness, curiosity, creativity, subjective beauty, jokes, and science & art in general. The crucial ingredients of the corresponding _formal_ framework are (1) a continually improving predictor or compressor of the continually growing data history, (2) a computable measure of the compressor’s progress (to calculate intrinsic rewards), (3) a reward optimizer or reinforcement learner translating rewards into action sequences expected to maximize future reward."
+> "We pointed out that a surprisingly simple algorithmic principle based on the notions of data compression and data compression _progress_ informally explains fundamental aspects of attention, novelty, surprise, interestingness, curiosity, creativity, subjective beauty, jokes, and science & art in general. The crucial ingredients of the corresponding _formal_ framework are (1) a continually improving predictor or compressor of the continually growing data history, (2) a computable measure of the compressor’s progress (to calculate intrinsic rewards), (3) a reward optimizer or reinforcement learner translating rewards into action sequences expected to maximize future reward."
 
 ---
 
@@ -950,7 +971,7 @@ Why are some experiences beautiful to some and not to others? - Because each ind
 
 Is beauty subjective or objective? - Both. Aspects of beauty will be objective such as geometric regularities which reduce the size of the compressed experience, therefore creating a strong sense of beauty. However, each person has a unique perspective due to their experience and compression ability.
 
-Why are jokes funny to some people and not others? - Jokes combine elements into a previously unrecognized regularity in a connection we haven't seen before. There are jokes specific to a field or time which are unfunny to those not steeped in similar experiences. The reason is clear, jokes appear unfunny when there is no connection to be made in the history of the observer or the connection is already obvious or known. This also explains why old jokes aren't funny once learned.
+Why are jokes funny to some people and not others? - Jokes combine elements into a previously unrecognized regularity in a connection we haven't seen before. There are jokes specific to a field or time which are unfunny to those not steeped in similar experiences. The reason is clear, jokes appear unfunny when there is no connection to be made in the history of the observer or the connection is already obvious or known. This also explains why old jokes aren't funny once learned. So much of a joke depends on the _punchline_. The punchline, the conclusion of the joke, is often a shorter description than the entire joke. Explaining a joke almost always takes away the humor. We see that a joke is unfunny when explained because the punchline is now the opposite, it's a much longer description of why it's funny and the opposite of compressed.
 
 The reach of the explanatory framework is far and wide with a nearly unending list of examples. Let us return to the meaning of life and apply the framework.
 
@@ -960,7 +981,7 @@ When our past feels random we are unable to compress the experience in a connect
 
 Recognize a subjective sense of meaning in life at this time can only come from within. Only you have access to the history of your experience. Only you can compress your life in a subjectively meaningful way. Others can give you ideas and direction, but you must do the information processing yourself. The deep answer to your life can be explained to you by someone else, but that is them observing the information they experience of you and what you are able to express to them, then they apply their internal compressor to condense the history of your experience. Even if their compressed version is meaningful to you, you must do the work of unifying your past experiences in your mind.
 
-The existentialist _Jean-Paul Sartre_ said "existence precedes essence." Many have lived and died believing the opposite, essence precedes existence. Our essence is the unifying direction of our choices. Essence is purpose, what we were made to do, meant to do, but we were not meant or designed for any purpose. We evolved under the constraints of natural selection with all kinds of drives, urges, and desires which lead to exactly the state of the world at every moment. We exist before we have a true essence. Our essence is given to ourselves from the compression of our personal history. We all shape our past, present, and future.
+The existentialist _Jean-Paul Sartre_ said "existence precedes essence." Many have lived and died believing the opposite, essence precedes existence. Essence is purpose, what we were made to do, meant to do, but we were not meant or designed for any purpose. Our essence is the unifying direction of our choices. We evolved under the constraints of natural selection with all kinds of drives, urges, and desires which lead to exactly the state of the world at every moment. We exist before we have a true essence. Our essence is given to ourselves from the compression of our personal history. We all shape our past, present, and future.
 
 If an intelligent agent wants meaning, they will have to reflect on their history to identify meaningful experiences. If an intelligent agent wants more meaningful direction and control of their future, they must work to adapt their internal representations of the world to direct their actions toward meaning, a cause and effect relationship of their past experiences cohering with expected futures.
 
@@ -973,11 +994,9 @@ physics based equation for intelligence, explanation of morality, we're a greedy
 
 ---
 
-# Morality
+# [Ethics](https://en.wikipedia.org/wiki/Ethics)
 
-The three major moral frameworks of philosophy are virtue ethics, consequentialism, and deontology.
-
-Morality is a strategy; it is a way of planning actions to achieve goals. The best moral strategies are dependent on the environment. The most basic moralities must meet survival needs. If a survival strategy leads to extinction, then the belief system of that morality will literally die out.
+[Morality](https://en.wikipedia.org/wiki/Morality) is a strategy, a way of planning actions to achieve goals. The best moral strategies are dependent on the environment. The most basic moralities must meet survival needs. If a survival strategy leads to extinction, then the belief system of that morality will literally die out.
 
 > "When anthropologists like Richard Shweder and Alan Fiske survey moral concerns across the globe, they find that a few themes keep popping up from amid the diversity. People everywhere, at least in some circumstances and with certain other folks in mind, think it’s bad to harm others and good to help them. They have a sense of fairness: that one should reciprocate favors, reward benefactors and punish cheaters. They value loyalty to a group, sharing and solidarity among its members and conformity to its norms. They believe that it is right to defer to legitimate authorities and to respect people with high status. And they exalt purity, cleanliness and sanctity while loathing defilement, contamination and carnality.
 
@@ -999,11 +1018,46 @@ What societies consider virtues reflect the values evolved by the society accord
 
 Many ethical theories like Utilitarianism emphasize certain conscious states over others. Pleasure and happiness are desirable while pain and suffering are not. On an objective level, emotions are patterns of activities in our bodies and brains giving rise to conscious states and a sense of subjectivity.
 
-An emotion is like a color. Colors have patterns of waves and frequencies of light. Emotions are patterns in the body and brain. Is it clear which color is morally correct? Does the question make sense? Is purple an objectively "greater" color than aquamarine? Why is pleasure more moral than pain? Morality cannot be guided on an objective level by the subjective desires of intelligent, emotional beings.
+An emotion is like a color. Colors have patterns of waves and frequencies of light. Emotions are patterns of activation in the body and brain. Is it clear which color is morally correct? Does the question make sense? Is purple an objectively "greater" color than aquamarine? Why is pleasure more moral than pain? Morality cannot be guided on an objective level by the subjective desires of intelligent, emotional beings.
 
-Of course subjectively we care about conscious states. Many of us are attracted to enjoyment and repulsed by suffering. We evolved this relationship to emotions because more often than not the emotions signaled a survival advantage. Events which improve our survival chances bring happiness and suffering tends to give rise from toxic environments and situations. However the emotions we feel are signals, information, which each cell and system in our bodies are contributing to. Like other pieces of information we should evaluate it, keep which is a good signal and discard the unimportant signals and noise.
+Of course subjectively we care about conscious states. Many of us are attracted to enjoyment and repulsed by suffering. We evolved this relationship to emotions because more often than not the emotions signaled a survival advantage. Events which improve our survival chances bring happiness and toxic environments suffering tends to give rise to suffering. However the emotions we feel are signals, information, which each cell and system in our bodies are contributing to. Like other pieces of information we should evaluate it, keep which is a good signal and discard the unimportant signals and noise.
 
 How many positive emotions are correlated and caused by pursuing well-being? There is likely significant overlap! Well-being is by definition wellness, an organism growing and maintaining in accordance with its evolved structure. Negative emotions _should_ still be felt to encourage growth and adaptability. Negative emotions which are too strong can cross the threshold from harmful to traumatizing resulting in more permanent dysfunction potentially inhibiting future wellness, so these should be avoided.
+
+Morality acts on an individual and group level. We have evolved moral tendencies and each of us have some weighting for moral feelings. Given an action or action sequence, our moral system returns a feeling of right or wrong. However, we cannot trust evolved feelings completely. Our feelings could be a mistake or mismatch. The actions we're judging could be outside of situations for which our moral tendencies evolved for.
+
+We can analyze morality using the three levels of reality:
+
+* Inter-subjectively: the morality of a group, the combination of moral weights of individuals, the influence of group morality on the individual (in terms of authority and conformity) and vice versa
+* Subjectively: our individual moral sense, like a sense of taste, which guides our actions to perceived personal wellness and sustainability
+* Objectively: in terms of means and ends, instrumental versus terminal goals, cause and effect
+
+To get at objective morality, we need to separate inter-subjective and subjective evaluations of actions. If we use the island analogy, an empty island takes no action. We still need to think of an agent acting. Let's imagine instead an AI opponent in the game of [Go](https://en.wikipedia.org/wiki/Go_(game)). There are two sides, black and white, each trying to control the most territory on the Go board.
+
+The end goal, the _terminal_ goal, of each player is to win the game by the most points (control of territory). The _instrumental_ goal are all of the steps from the start to the finish of the game. We can evaluate instrumental goals in terms of their effects on the terminal goal. We can say what moves are good or bad based on the likelihood they lead to winning. Similarly, we can evaluate instrumental goals in terms of other instrumental goals. For example, to win the game we need to gain control of parts of the board, so now my goal is to control one part of the board. The player can evaluate instrumental goals leading to other instrumental goals.
+
+Notice we don't really need emotional evaluation or a moral sense for goal achievement. We can talk about actions and events as good or bad strictly in terms of explicit instrumental and terminal goals. Actions which are good lead to the desired terminal goal. Actions which are bad steer away from the terminal goal.
+
+What about the terminal goals themselves? Can they be evaluated like the instrumental goals?
+
+Imagine a game of Go where one player does not want to win. Their entire strategy is based around making interesting patterns with the pieces. They care nothing about capturing territory. They may play according to the rules and turns, but it is obvious they aren't playing with the game's goal in mind. Can we say this person is wrong once we know their end goal? Their actions are taken to maximize their end goal. With their system of evaluation their actions are rationally implied. From the perspective of the opponent aiming to win Go this is a poor strategy which is easily predicted and countered. However, the perspective of the interesting pattern maker is they are making an unattractive pattern.
+
+Terminal goals can only be criticized when treated as instrumental goals. To evaluate a goal or state of events we must have some criteria to compare. Often when we judge another person's end goals we believe there is a contradiction with other competing terminal goals. We have all kinds of evolved goals and our needs change the urgency to reach a desired state. Once the terminal goal is at least temporarily fixed, we can evaluate action sequences and instrumental goals in relation. Often moral disagreements are between a group morality and an individual morality. What is best for an individual is not always best for the group and vice versa.
+
+As finite, evolved creatures we are limited in our capacity to imagine and evaluate paths. For simple goals we can know an optimal strategy, the path which uses the least resources and maximizes our evaluation. Often the more complex the search of possible choices and events leading to the end goal the less certain we can be of our evaluations. As another example of complexity from simplicity,
+
+> "Despite its relatively simple rules, Go is very complex. Compared to chess, Go has both a larger board with more scope for play and longer games, and, on average, many more alternatives to consider per move. The number of legal board positions in Go has been calculated to be approximately 2 × 10^170, which is vastly greater than the number of atoms in the known, observable universe, estimated to be about 10^80," -- [Go](https://en.wikipedia.org/wiki/Go_(game))
+
+Even the simple game of Go is so complex there are more possible games than we can brute force compute. Is one move better than another? There are too many possibilities for us to evaluate clearly. Instead we need to rely on our intuition, our sense of what is a good or bad position. We should all have humility in our best guess.
+
+When we disagree with others rationally, we cannot evaluate their end goals. For productive cooperation we should argue for shared instrumental goals, searching for win-win paths.
+
+Because we cannot judge between terminal goals the search for objective goals can appear directionless. We run into a reverse similar problem of Agrippa's trilemma in supporting evaluation of terminal goals. Instead of looking for a solid starting foundation, we look for a foundational end goal and find none.
+
+What if we assume an unknown terminal goal where the actions to reach the goal are unclear. The instrumental goal is to find an achievable path to the end goal. Consider a person who wants to maximize their moral goodness without clearly knowing what acting morally good entails or finding the meaning of life with no bias as to what the answer may be. We can think of instrumental goals which would be instrumental towards any goal. A basic goal: survive, avoid death. Death prevents any further actions. If we are trying to reach a goal then we should only die when no further action needs to be taken. Many goals require different levels of power over ourselves and environment. Power is the ability to achieve a desired state. Can you have what you want?
+
+
+
 
 ---
 
@@ -1049,7 +1103,7 @@ Importantly, the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale
 
 Based on the Kardashev scale, our species is approaching but well beneath a type I civilization. There are likely a small number of possible ethical systems which can support and sustain civilizations through advanced stages of life. As Aristotle explained, there are many ways to go wrong, but few ways to be correct.
 
-The moralities and strategies which lead to self destruction represent the boundaries of ethical systems. Any morality which involves killing all its offspring will not survive to the next generation. Do we ever see animals killing their offspring? Yes, but typically there's an evolutionary reason. Male lions kill all the cubs when they take over a group of lionesses. They do this to make room for their cubs and so those cubs don't grow to usurp the new lion later. Species which have long gestation and narrow windows of reproduction tend to have some infanticide. What this shows is there can be exceptions to general moral strategies in particular situations.
+The moralities and strategies which lead to self destruction represent the boundaries of ethical systems. Any morality which involves killing all its offspring will not survive to the next generation. Do we ever see animals killing their offspring? Yes, but typically there's an evolutionary reason. Male lions kill all the cubs when they take over a group of lionesses to get more resources for their cubs and so those unrelated cubs don't grow to usurp the new lion later. Species which have long gestation and narrow windows of reproduction tend to have some infanticide. What this shows is there can be exceptions to general moral strategies in particular situations.
 
 Morality can be universal given the limits of the situation. If we have full information an optimal strategy or choice can be determined in principle. Of course, life is rarely a full-information situation, and we are finite, subjective creatures. In morality, we must give our best guess at what will bring about our desired end state of events.
 
@@ -1236,7 +1290,7 @@ Moral feelings in humans are based around the five spheres of morality, harm, au
 
 We should greatly respect are innate moral senses; evolution honed our senses over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality. An AI system can also adapt and respond to new situations faster than our moral senses.
 
-Human morality is built on genetic and epi-genetic responses (objective reality), giving rise to our personal moral feelings (subjective reality), influenced by the moral standards of our time and society (inter-subjective reality of society's beliefs and the objective reality imposing boundaries and limitations). At least our genetic moral senses are 10,000 years old. We're wired for close human bonds of small groups. Humans had to adapt to larger groups. We should be careful if our moral senses disagree with what is rational in a given situation. We may not have the moral update needed to reach the optimal conclusion.
+Human morality is built on genetic and epi-genetic responses (objective reality), giving rise to our personal moral feelings (subjective reality), influenced by the moral standards of our time and society (inter-subjective reality of society's beliefs and the objective reality imposing boundaries and limitations). Our genetic moral senses are at least 10,000 years old. We're wired for close human bonds of small groups. Humans had to adapt to larger groups. We should be careful if our moral senses disagree with what is rational in a given situation. We may not have the moral update needed to reach the optimal conclusion.
 
 Moral AI systems will be able to update quickly with new information. These systems can be used to augment and enhance our moral systems shaped by evolution.
 
@@ -1318,7 +1372,7 @@ The inter-subjective meaning of life is to support the sustainable flourishing o
 
 All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a more perfect living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
 
-We come from nothing, and we will return to nothing. From cosmic dust to cosmic dust.
+We come from nothing, and we will return to nothing. From star dust to star dust.
 
 # What will you do with your cosmically brief time? What information will you embody?
 

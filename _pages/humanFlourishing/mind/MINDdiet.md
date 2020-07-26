@@ -581,3 +581,194 @@ Beyond the maximum range your body converts protein to carbs/fat. Certain elite 
 Recommended 60-85% of daily calories from healthy fat. This ratio is very different from the standard American diet which substitutes carbs for fat with 50% of daily calories going to carbs.
 
 The author recommends following your appetite as a guide, but at first vegetable oils and high sugar intake can make your cravings "deranged." The author recommends getting rid of habitual eating and paying attention to your body. Additionally, the best calorie calculators can be off by 30% or more based on variables such as genetics, age, activity, sleep, stress, and metabolic/hormonal health.
+
+#### Supplement Recommendations
+
+The author argues everyone should supplement because 1) we aren't as physically active as our ancestors and 2) most soils are depleted in minerals resulting in less nutritious food.
+
+**Recommendations for everyone**
+- Vitamin D 2000 IU (with a lot of sun, else 4000)
+- Magnesium oxide 250 milligrams
+- Zinc gluconate, 15 milligrams (deficiency negatively impacts appetite)
+- Standard multivitamin with 100% RDA of vitamins
+
+**Don't eat red meat or liver**
+- Desiccated liver pills
+
+**Don't do dairy or bone-in fish or frequent bone stock:**
+- Calcium citrate, 250 milligram tablets, divided at different meals (coral calcium not sustainable)
+
+**Don't do grass-fed dairy fat (cheese/butter/cream):**
+- Vitamin K2, 1.5 milligrams per day (fat soluble)
+- Omega-3 (flax seeds ground fresh, 1/2 to 1 tablespoon per day provides 4000-8000 milligrams each week which is plenty)
+
+**Vegetarians**
+- Iron, 325 milligrams every other day
+
+**Vegans, non-dairy consumers, and vegetarians**
+- Iodine, from dulse seaweed, one ounce per week
+
+#### Weekly Shopping Planner
+
+I've definitely struggled with meal planning. I'm used to a variety everyday, but a lack of planning leads to food going bad. The author offers a strategy for weekly meal planning.
+
+**(Only buy items you know someone will eat, don't buy stuff nobody likes.)**
+
+**Perishable veggies: Eat within 7 days (choose 4 to 6 of the following, most perishable on top.)**
+- Salad tub: 8-16 ounce tub (16 ounces will make 4-6 servings)
+- Avocado
+- Broccoli: 1 bunch, makes 2-3 servings
+- Mushrooms: 1-2 pints
+
+**Perishable meats: 3-4 pounds per week per person, choose 2 to 3, double poundage for cuts that include bone**
+- Chicken: breast, fingers (unbreaded) wings, thighs, drumsticks, whole, livers, ground meat
+- Pork
+- Beef
+- Turkey: breast, thighs, drumsticks, ground sausage, whole with giblets
+- Lamb
+- Buffalo (ground), cheap high-quality red meat
+- Fish: salmon, cod, tilapia, ahi, mahi mahi, herring
+- Shellfish: shrimp, oysters, scallops, lobster, crab
+- Eggs: 1/2 dozen per person
+
+Freeze half of what you buy. If you shop Saturday, thaw 2nd half on Tuesday (day 3 of 7-day cycle)
+
+**Dairy Staples**
+- Milk: 1-2 pints per person for coffee, tea, smoothies
+- Dairy fats: cream, cream cheese, sour cream
+- Cottage cheese: 2-4% dairy fat, 1-2 tubs per person
+- Yogurt: 1 quart whole milk plain
+- Hard cheese 2-3 pounds of favorite
+
+**Vegetable Staples and Preserves**
+(Store 4-6 weeks)
+- Beets
+- Cabbage
+- Garlic
+- Ginger root
+- Jicama
+- Kimchee
+- Onions
+- Pickles
+- Sauerkraut
+- Turmeric root
+
+(Store for months)
+- Artichoke hearts
+- Capers
+- Frozen green/lima beans
+- Frozen spinach
+- Kale chips
+- Olives
+- Salsa
+
+**Fats/oils**
+- Butter or ghee
+- Peanut oils
+- Coconut oil and cream
+- Olive oil
+- Toasted sesame oil
+- Avocado oil
+
+**Protein staples**
+- Canned salmon (bone-in is best)
+- Chicken and beef stock
+- Oysters (in olive oil)
+- Tofu (fermented is best)
+- Anchovies
+- Kippered herring
+- Canned tuna (in water/olive oil)
+- Sardines
+- Canned chicken
+- Canned mackerel
+- Beef jerky
+
+**Nuts/seeds/beans**
+
+Nuts: 6-16 ounces of at least 3 favorites
+- Almonds
+- Brazil nuts
+- Cashews
+- Macadamia nuts
+- Pecans
+- Walnuts
+
+Store in fridge for better flavor, sprouted or raw better than roasted. Avoid vegetable oils. Roasted in peanut/coconut oil okay.
+
+Seeds: 2-16 ounces
+- Sunflower
+- Pumpkin
+- sesame
+- chia
+- poppy
+
+Canned or dried beans
+- Pinto
+- Black
+- Garbanzo
+
+Dried over canned as they can be sprouted.
+
+**Vinegars/sauces/condiments**
+- Balsamic or flavored vinegar
+- Soy sauce naturally brewed
+- Tobasco/hot chili sauces
+- Worchestershire sauce
+- Ketchup (look low sugar)
+- Mustard (yellow/brown/dijon)
+- Mayonnaise (toxic oil-free)
+
+**Starchy staple foods**
+- Sprouted grain bread (Ezekiel) or dense rye (keep breads in fridge/freezer)
+- Corn masa tortillas (6-inch, store in freezer)
+- Potatoes (white/sweet)
+- Crackers (water/flax)
+
+**Beverages/treats/desserts**
+- Coffee and tea
+- Wine and spirits
+- Kombucha
+- Chocolate (70%+)
+- Cacao nibs
+- Dried fruits, candied nuts, herbed coconut flakes (unsweetened)
+
+How much bone broth: you can drink bone broth everyday. Store-bought broths tend to be fairly weak and don't even gelatinize in the fridge, so you can have a couple cups everyday day. A reduced demi-glace sauce is intense both in taste and in nutrition, so just a couple tablespoons makes for a healthy dose.
+
+The best vegan alternative to bone broth is kelp or algae, but this is unconfirmed.
+
+Organ meat: 1-3 times per week depending on portion size
+
+"There's no substitute for the nutrient intensity packed into foods like liver, heart, kidneys, and bone marrow from grass-fed animals."
+
+"I advise this [drinking tea over soda] because studies done in the United States in 2014 and in Korea in 2016 showed, respectively, that a single soda per day can increase the calcium deposits in your arteries by 70% and your chance of having a heart attack by 30%."
+
+**Fasting**
+
+"In general, our diets are less nutrient intense and more pro-inflammatory -- both of these factors make us more fragile and less physiologically sound than our ancestors were. For these reasons, **three or four days of fasting is probably the maximum amount of time** that would benefit us before the downsides begin to outweigh the up."
+
+**The simple way to get started**
+
+1. Eat a big colorful salad four days per week with a non-vegetable oil dressing.
+
+* 4 cups salad
+* 4+ variety of vegetables
+
+2. Grass-fed dairy fat daily
+
+- Cheese
+- Cream
+- Cream cheese
+- Butter
+- Full-fat cottage cheese/yogurt
+
+Raw is better, where available.
+
+3. Get bone stock.
+
+Additionally you can get _pho_ from a Vietnamese restaurant if they make it with real bones or fish head soup from a Filipino restaurant.
+
+4. Eat organ meats at least once weekly.
+
+Liver or liverwurst on crackers. If no organ meats, seafood 3 times weekly, preferably raw at least once - raw oysters, sashimi, ceviche, pickled herring. If not seafood, pasture-raised eggs 3 times weekly (cook sunny-side only so long that the yolk stays runny).
+
+5. Eat probiotic-rich foods once a day. 
