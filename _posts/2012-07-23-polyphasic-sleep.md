@@ -14,7 +14,7 @@ The advantage to polyphasic sleep is you have to sleep less than a regular sleep
 
 What I'm going to attempt is the Everyman 3 schedule. It's called that because it's actually easier and more manageable than some of the extreme schedules like Uberman. With Everyman 3, you take a core nap at night for three hours and space 3 twenty minute naps through out the day in about 5 hour intervals. This gives about 4 hours of total sleep a night/day. You train your brain to immediately enter the deepest state of sleep for those naps, allowing you to recharge even better than normal sleep.
 
-While this might sound crazy, some cultures already have a form of polyphasic sleep (and many college students). In Spain, a majority follow a "[siesta](https://en.wikipedia.org/wiki/Siesta)" style of sleep, getting 4-5 hours of sleep at night and a two hour afternoon nap.
+While this might sound extreme, some cultures already have a form of polyphasic sleep (and many college students). In Spain, a majority follow a "[siesta](https://en.wikipedia.org/wiki/Siesta)" style of sleep, getting 4-5 hours of sleep at night and a two hour afternoon nap.
 
 Well, it takes about 7-10 days to get over the sleep deprivation, and for this sleep schedule it can take close to a month to really feel 100%. I'm going to try and adhere to it as closely as possible in order to get fast results. There's one other thing, it is recommended that you ease into this, but screw that. If I fail, I'll try again.
 

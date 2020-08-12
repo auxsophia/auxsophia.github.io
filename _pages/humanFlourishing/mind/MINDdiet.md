@@ -732,7 +732,7 @@ Dried over canned as they can be sprouted.
 - Cacao nibs
 - Dried fruits, candied nuts, herbed coconut flakes (unsweetened)
 
-How much bone broth: you can drink bone broth everyday. Store-bought broths tend to be fairly weak and don't even gelatinize in the fridge, so you can have a couple cups everyday day. A reduced demi-glace sauce is intense both in taste and in nutrition, so just a couple tablespoons makes for a healthy dose.
+How much bone broth: you can drink bone broth everyday. Store-bought broths tend to be fairly weak and don't even gelatinize in the fridge, so you can have a couple cups everyday. A reduced demi-glace sauce is intense both in taste and in nutrition, so just a couple tablespoons makes for a healthy dose.
 
 The best vegan alternative to bone broth is kelp or algae, but this is unconfirmed.
 
@@ -748,12 +748,12 @@ Organ meat: 1-3 times per week depending on portion size
 
 **The simple way to get started**
 
-1. Eat a big colorful salad four days per week with a non-vegetable oil dressing.
+1) Eat a big colorful salad four days per week with a non-vegetable oil dressing.
 
 * 4 cups salad
 * 4+ variety of vegetables
 
-2. Grass-fed dairy fat daily
+2) Grass-fed dairy fat daily
 
 - Cheese
 - Cream
@@ -763,12 +763,12 @@ Organ meat: 1-3 times per week depending on portion size
 
 Raw is better, where available.
 
-3. Get bone stock.
+3) Get bone stock.
 
 Additionally you can get _pho_ from a Vietnamese restaurant if they make it with real bones or fish head soup from a Filipino restaurant.
 
-4. Eat organ meats at least once weekly.
+4) Eat organ meats at least once weekly.
 
 Liver or liverwurst on crackers. If no organ meats, seafood 3 times weekly, preferably raw at least once - raw oysters, sashimi, ceviche, pickled herring. If not seafood, pasture-raised eggs 3 times weekly (cook sunny-side only so long that the yolk stays runny).
 
-5. Eat probiotic-rich foods once a day. 
+5) Eat probiotic-rich foods once a day.
