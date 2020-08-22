@@ -421,6 +421,8 @@ Optional: Carb cycling
 
 ---
 
+# Deep Nutrition
+
 Honestly I didn't think I would read a book that would change my mind about the MINDDiet. Genius Foods modifies the MINDDiet. It can fit the framework. What's tough is that many nutritionists and cognitive-optimizers have recommended ketosis for brain benefits. People disagree on proper carb intake. I have to say I'm amazed and thoroughly convinced by _Deep Nutrition: Why Your Genes Need Traditional Food_, Catherine Shanahan, M.D.
 
 Dr. Shanahan argues we can separate traditional foods (indigenous diets) into four neat categories. We need to eat these as often as we can, preferably daily.
@@ -447,9 +449,73 @@ Plants have natural defenses because they don't want to be eaten! Plants spend a
 
 Raw milk is very healthy. Pasteurized not better for an individual but for mass production. Milk is one of the few substances meant to actually nurture another creature.
 
-Chapter 15 covers losing body weight through food. Calories in calories out ignores the information food sends to your body. Cells are communicating and understanding on a chemical level. _Food as information!_
+One of the most important take aways from the book is the damage vegetable oil can do to your whole body, especially the brain. Chapter 8 is Brain Killer: Why Vegetable Oil Is Your Brain's Worst Enemy
 
-Sugar is pro-inflammatory. 100g or more of sugar a day traps carbs at your liver and converts to fat.
+---
+
+- Vegetable oils attack the brain at 7 distinct vulnerability points
+- All 7 strategies are at work in causing autism and other childhood neurologic disorders
+- Vegetable oils make your brain more susceptible to damage by sugar
+- Eliminating these oils will enable symptoms of all sorts of brain disorders to improve, from autism to Alzheimer's
+
+---
+
+> "I sincerely hope that you will come to understand why, if you care about your mental health, the single most important product to avoid is a staple so ubiquitous it goes largely unnoticed. I'm talking, of course, about vegetable oil," page 163.
+
+Vegetable oil is used as a preservative to keep food _looking_ fresh. Think about it, bacteria and other life don't want to eat this stuff, they stay away. Why are we eating something covered in a substance no other living thing wants to eat? Fat, lipids, are used in every area of our body. Damaged fatty acids like vegetable oils breakdown the integrity of our bodies. Pick up post packaged foods in the grocery store and you will find vegetable oils in many of the top 3 ingredients listed. Avoid any vegetable oil heavily processed by humans like canola oil, safflower oil, soybean oil, etc.
+
+Chapter 11 Beyond Calories, Using Food as a Language to Achieve Ideal Body Weight. Calories in calories out ignores the information food sends to your body. Cells are communicating and understanding on a chemical level. _Food as information!_
+
+"Our cells are extremely sensitive to the specific nature of the chemical messages we send them every time we eat. By altering the blends of nutrients (or toxins) in our food, we can actually control whether our cells function normally, or convert to fat, or turn cancerous. The nutrients and chemicals we consume in effect _tell_ our cells what to do--when to divide, which protein to manufacture, and even what type of cell to become," page 281.
+
+Dr. Shanahan gives 4 steps
+
+STEP 1: APPRECIATE WHAT FAT DOES FOR YOU
+
+Body fat, or _adipose tissue_, "generates chemicals required for sexual development and reproduction, immune defense, blood clotting, circadian rhythm, and even mood and concentration." An imbalance of fat tissue often causes problems related to these issues.
+
+Chapter 7 covers fats in more detail. The author offers advice from lipid scientists and clears up common misconceptions from bad science and propaganda. The idea that high fat diets are bad for us and our hearts come from heavily processed and artificial fats like margarine. Additionally, high fat and high carb diets don't work well together. We should be high carb low fat or high fat low carb due to the processing pathways in our bodies.
+
+STEP 2: RID YOUR BODY OF INFLAMMATION
+
+_Inflammation is disruptive._ It blocks and disrupts cellular signaling. "...pro-inflammatory foods trick individual cells into doing things that are dangerous for the body as a whole. The tendency for processed foods to cause inflammation is one big reason we have to go beyond the calorie content listed on a package to understand how the foods we eat will make us gain or lose weight."
+
+One of the most insidious problems in the modern diet is oxidated fat which alter every part of body using fat (every cell membrane!). "To successfully avoid eating oxidized fats, you must avoid all foods containing vegetable oils." Saturated fats actually resist oxidation so much they can block inflammation from overgrowth. "Eating foods like butter, cream, and coconut oil can protect against some of the effects of oxidation and can actually help you lose weight."
+
+**To avoid inflammation, keep total daily sugar intake under 100 grams.**
+
+"High fructose corn syrup can make it practically impossible for you to normalize your weigh."
+
+Sugar itself is pro-inflammatory. 100g or more of sugar a day traps carbs at your liver and converts to fat. "...there's really no sugar that's _good_ for you." A sugar coating on your cells is _disruptive_.
+
+"Because carbohydrates in your food are converted into sugars, a diet high in pastas, breads, and so on is inherently pro-inflammatory as well. Worse, these starchy foods are so bereft of vitamins and other antioxidants that building a diet around them can make it hard for your body to control oxidation reactions once they start. This puts you deeper into a pro-inflammatory state," page 286.
+
+STEP 3: LEARN WHERE FAT COMES FROM -- AND WHERE IT GOES
+
+Fat cells come from stem cells and can be converted into other types of cells like _fibrocytes_.
+
+"A metabolic process called transdifferentiation can make fat cells leave your adipose tissue and migrate to become new muscle, bone, and even brain cells. You can control stem cell growth by eating right and exercising, and that includes exercising your brain," page 288.
+
+---
+
+**Exercise works at least three ways**
+- It increases insulin sensitivity, so you need less insulin to get sugar out of your bloodstream. This allows your insulin levels to drop, which tells your fat cells to slow the conversion of sugar into more fat.
+- It reduces the stress hormone cortisol. Cortisol packs fat around organs (as opposed to under the skin), where it produces lots of pro-inflammatory chemicals, which in turn tell the body to produce still more fat.
+- It builds new blood vessels through muscle and adipose tissues, which enables your body to more readily burn fat.
+
+---
+
+"Moderation, as a program for healthy eating, made perfect sense 200 years ago when crops were grown organically on healthy topsoil, and the worse chemical monstrosities of the food industry were yet to be invented."
+
+> "Fat-making may seem like the body's default reaction, but really it's just the default reaction in periods of stress and nutrient deprivation. When the body gets all the real food, exercise and rest that it needs, the default reaction is to convert unwanted fat cells into something better. Which physiologic directive your body follows is ultimately up to you.
+
+> Some nutrient deficiencies and stress levels are so severe, however, that it becomes increasingly difficult to ship nutrients throughout the body effectively. If sugar and fatty acids can't make the journey from wherever they were (usually your digestive system) into a proper fat-storage cell, then they end up lining your arteries, seeping into your tendons, and polluting your body. Now, instead of building fat, you just get sick," page 294.
+
+STEP 4: EXERCISE
+
+"Concentration level influences how nerve and muscle cells respond, so whether for an intense run or just walking up the stairs, you'll see more results if you _focus_ on every motion -- the swinging of your arms, your calves lifting your spine, your hip rotation."
+
+We should get both aerobic and anaerobic exercise, cardio and resistance training. 
 
 Chapter 13 covers the "human diet" in more detail. Each pillar is to be seen as a strategy which can be incorporated to many diets. The below lists are examples of the four strategies we should all incorporate.
 

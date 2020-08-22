@@ -117,6 +117,27 @@ The work of [Shaolin Master Shi Heng Yi](https://www.youtube.com/watch?v=4-079YI
 
 ---
 
+### Your Reason for Being
+
+What is your reason for being? What keeps you alive? To find meaning and coherence in your life I recommend the concept _ikigai_. [Ikigai](https://en.wikipedia.org/wiki/Ikigai) roughly translates to "reason for being."
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/ikigai.jpg" width="80%" height="80%">
+{:refdef }
+
+Answer these four questions:
+
+1. What do I love to do?
+2. What am I good at?
+3. What does the world need?
+4. What can I be paid for?
+
+Be excited to answer these questions! If you don't yet have a satisfactory answer, then your goal is to explore and learn more until you can! Your ikigai will change and grow over time, because the answer to each of the questions can change and grow.
+
+In your work, always seek at least these 3 components: autonomy, mastery, and purpose. Autonomy to choose how you go about your work, arranging your schedule to match your personal energy. Mastery is a path to a state of flow, constantly improving your craft. Purpose is finding meaning in your activity beyond yourself. These are the intrinsic motivators which propel us greater and more sustainably than external motivators like money. [Dan Pink describes supporting research in his book, _Drive_](https://www.brainpickings.org/2013/05/09/daniel-pink-drive-rsa-motivation/).
+
+---
+
 ### Loving Yourself and Others
 
 How can you learn to love yourself and others?
@@ -148,7 +169,7 @@ As for the truest, most objective, most accurate description of reality and the 
 
 ### The Island of Reality
 
-When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. Now the subjective experience is when a human being appears on the island.
+With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. Now the subjective experience is when a human being appears on the island.
 
 Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality. However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
 
@@ -532,6 +553,24 @@ Our planet Earth exists in perfect distance from the Sun to allow for complex li
 
 ---
 
+{:refdef: style="text-align: center;"}
+[<img src="../../images/MoL/knowledge-insight-wisdom.png" width="80%" height="80%">](https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/)
+{:refdef}
+
+The work of [Why Information Grows: The Evolution of Order, from Atoms to Economies by César A. Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) is fascinating. The author argues for a re-framing of economics in terms of information and knowledge growth. The growth of information is a necessary by-product of the second law of thermodynamics. The Earth is a system out of equilibrium allowing for the temporary resistance of entropy and disorder. Information is physically embodied in solid matter. The author makes a distinction between two forms of knowledge, explicit and tacit. Explicit knowledge is the knowledge we can communicate and describe. Knowledge unites information in a meaningful way. Tacit knowledge is _know-how_; the skills we are able to perform even if we can't perfectly explain what we're doing, like how to balance while riding a bike.
+
+If the universe tends toward disorder, how does information grow? The author argues that knowledge and information processing power co-evolve. Three things are needed for the growth of information, a system out of equilibrium, the ability for matter to embody information in solid form, and the ability of matter to compute. Physics points to a universe which should disperse into a homogeneous soup, but life fights entropy at every moment. [Systems out of equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) have a flux of energy into and out of itself. The author gives the example of a whirlpool of water. Water at rest is a [steady state](https://en.wikipedia.org/wiki/Steady_state). Water flowing down a drain has much more information, the velocity of a water molecule is correlated with the molecules surrounding it.
+
+The ability of matter to embody information in solid form allows the recombination of information to produce new information. If we could freeze the whirlpool we would retain some of the information about the whirlpool in a solid object.
+
+Plants, animals, and life act as a trap which maintains and grows information. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun, tracking its position from morning to night. They are performing some type of information processing to adjust and grow their bodies. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
+
+The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_. We can begin to find limits to knowledge and skills such as the minimum number of person-bytes needed formed into a network to create a firm-byte to produce a product.
+
+Firms with high trust are flexible and adaptable. More familial firms are stronger but more closed. The products networks of humans produce are _crystallized imagination_. Every product had to first form in the imagination of the human mind, either at the person-byte or firm-byte. The objects of our creation cause a growth of order in the universe. The physically embodied product is information and imagination in solid form until entropy inevitably releases the embodied information into disorder.
+
+---
+
 ### [The Earth is an open and closed system](https://course.oeru.org/csf101/learning-pathways/from-the-holocene-to-the-anthropocene/the-earth-is-an-open-and-closed-system/)
 
 #### The Earth is a closed system for matter
@@ -582,7 +621,7 @@ Your body can also "take notes" about the current environment to adapt. These no
 
 Cells are open systems out of equilibrium. Cells take in energy and matter and expel energy and matter. One organelle of the cell, the mitochondria, produces an excess of energy to the cell for movement, function, and growth. Spend some time searching for videos and art of the inner function of a cell. Ask yourself, "why does the cell live?" If you could ask a cell, what do you expect it to say? When down to molecular biology, we can see the complex interplay of every part is driven by the laws of physics and chemistry. Molecules bind based on their own and combined properties. The cell is simply functioning by its code.
 
-Somehow by interaction and communication, a multicellular organism gives rise to a person with conscious experience. Cells communicate by chemical signaling with the cells around them. While human cells are of interest, just the like the body can't live without water, our bodies can't function without bacteria. Bacterial cells live in and around your body, both helping and hurting. The mitochondria was originally a bacteria cell absorbed by an animal cell. Other bacteria are separate but symbiotic; they co-evolved with us. Bacteria cells most likely communicate with us on levels we don't understand. Some of the most import bacteria we have are gut bacteria which help us breakdown food. Consider that only 30% of the chemicals (neuro-transmitters) needed for your brain to function are made in the organ. 70% of your neuro-transmitters come from digestion in the gut. Consider that the function and signaling of your gut bacteria possibly have the largest impact on your thinking. This knowledge should impact how we view people and all organisms. You are not only your genetic and epigenetic information but the bacteria you have cultivated throughout your life.
+Somehow by interaction and communication, a multicellular organism gives rise to a person with conscious experience. Cells communicate by chemical signaling with the cells around them. While human cells are of interest, just like the body can't live without water, our bodies can't function without bacteria. Bacterial cells live in and around your body, both helping and hurting. The mitochondria was originally a bacteria cell absorbed by an animal cell. Other bacteria are separate but symbiotic; they co-evolved with us. Bacteria cells most likely communicate with us on levels we don't understand. Some of the most import bacteria we have are gut bacteria which help us breakdown food. Consider that only 30% of the chemicals (neuro-transmitters) needed for your brain to function are made in the organ. 70% of your neuro-transmitters come from digestion in the gut. Consider that the function and signaling of your gut bacteria possibly have the largest impact on your thinking. This knowledge should impact how we view people and all organisms. You are not only your genetic and epigenetic information but the bacteria you have cultivated throughout your life.
 
 All cells are a dissipative structure; they take in energy to maintain their form and generate energy from the molecule adenosine-triphosphate (ATP). The energy flow is crucial. If our body stopped making ATP for only a few seconds we would die. Our body would start to disintegrate immediately.
 
@@ -809,6 +848,8 @@ Many hoped for consistency and completeness in axiomatic systems, that every tru
     - We can approximate truth
 
 > “Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.”
+
+We can also understand the distribution of knowledge over a human network, the _firm-byte_. No one person has all of the knowledge to build a plane, but together we can.
 
 **Thought Experiment**:
 
@@ -1227,24 +1268,6 @@ In three dimensions, we can make sense of it. We can make analogies of skiing do
 
 ---
 
-{:refdef: style="text-align: center;"}
-[<img src="../../images/MoL/knowledge-insight-wisdom.png" width="80%" height="80%">](https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/)
-{:refdef}
-
-The work of [Why Information Grows: The Evolution of Order, from Atoms to Economies by César A. Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) is fascinating. The author argues for a re-framing of economics in terms of information and knowledge growth. The growth of information is a necessary by-product of the second law of thermodynamics. The Earth is a system out of equilibrium allowing for the temporary resistance of entropy and disorder. Information is physically embodied in solid matter. The author makes a distinction between two forms of knowledge, explicit and tacit. Explicit knowledge is the knowledge we can communicate and describe. Knowledge unites information in a meaningful way. Tacit knowledge is _know-how_; the skills we are able to perform even if we can't perfectly explain what we're doing, like how to balance while riding a bike.
-
-If the universe tends toward disorder, how does information grow? The author argues that knowledge and information processing power co-evolve. Three things are needed for the growth of information, a system out of equilibrium, the ability for matter to embody information in solid form, and the ability of matter to compute. Physics points to a universe which should disperse into a homogeneous soup, but life fights entropy at every moment. [Systems out of equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) have a flux of energy into and out of itself. The author gives the example of a whirlpool of water. Water at rest is a [steady state](https://en.wikipedia.org/wiki/Steady_state). Water flowing down a drain has much more information, the velocity of a water molecule is correlated with the molecules surrounding it.
-
-The ability of matter to embody information in solid form allows the recombination of information to produce new information. If we could freeze the whirlpool we would retain some of the information about the whirlpool in a solid object.
-
-Plants, animals, and life act as a trap which maintains and grows information. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun, tracking its position from morning to night. They are performing some type of information processing to adjust and grow their bodies. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
-
-The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_. We can begin to find limits to knowledge and skills such as the minimum number of person-bytes needed formed into a network to create a firm-byte to produce a product.
-
-Firms with high trust are flexible and adaptable. More familial firms are stronger but more closed. The products networks of humans produce are _crystallized imagination_. Every product had to first form in the imagination of the human mind, either at the person-byte or firm-byte. The objects of our creation cause a growth of order in the universe. The physically embodied product is information and imagination in solid form until entropy inevitably releases the embodied information into disorder.
-
----
-
 With artificial intelligence, we can expand beyond person-byte and firm-byte knowledge and computation to create a greater power than our cumulative processing. We can exceed our biological limits.
 
 I don't believe humans and other animals will be replaced by AI soon. We are all over 4.5 billion years in the making through an evolutionary process. The amount of computation time required to understand everything useful about humans and our lives to make us redundant or a problem to be disposed of is likely a greater cost than simply keeping us around and re-training or re-purposing us.
@@ -1259,7 +1282,7 @@ The pace of exponential growth is so great some technologists are concerned we w
 
 We can get lost in imaginations of these possible worlds, but there are quite a few critical assumptions such as: the idea of intelligence being one dimensional and ignoring diminishing returns. A clear [definition of intelligence is difficult and still in progress](https://arxiv.org/abs/1911.01547), but an objective of "maximize smartness" may not be as clear to a machine as we think. Additionally, we rarely get increasing returns forever. Often we hit limits and barriers we can't go past. We can only make designs so efficient before we run into the impassable laws of physics. Others have pointed out the nature of empirical scientific knowledge is to test. Even a superintelligent AI would need to verify its hypotheses and perform experiments.
 
-However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. In Judea Pearl's The Book of Why, the authors show a general method of inference from big data. Framing the criticism of superintelligence from the perspective of Pearl's Ladder of Causation, seeing, doing, and imagining, AI systems are at the seeing (association) level. They have incredible amounts of data, but they lack the ability to imagine. Superintelligence would be having a superhuman imagination where imagination is adjusting the weights or probabilities of a causal model. To have a causal model which is tied to reality an intelligent agent would need to _do_ which is to intervene, experiment, and update its causal model.
+However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. In Judea Pearl's The Book of Why, the authors show a general method of inference from big data providing causal reasoning. Framing the criticism of superintelligence from the perspective of Pearl's Ladder of Causation, seeing, doing, and imagining, AI systems are at the seeing (association) level. They have incredible amounts of data, but they lack the ability to imagine. Superintelligence would be having a superhuman imagination where imagination is adjusting the weights or probabilities of a causal model. To have a causal model which is tied to reality an intelligent agent would need to _do_ which is to intervene, experiment, and update its causal model.
 
 Through the work of Pearl and many others, researchers have discovered a general algorithm for _transportability_, taking the data and results of one population and applying it to another. Studies which involve mice are only so transportable to humans, since we genetically separated millions of years ago. Our species still share similarities. If we can estimate which factors in mice and humans are similar and accurate and which are contaminating and should be accounted for, we could use mice models to better understand effects in humans.
 
@@ -1340,6 +1363,36 @@ Rather than excusing any action we see the focus of criminal justice should alwa
 As a person ages beyond their prime they have less moral agency. As mental faculties for reflection and control decline, so too does moral ability.
 
 I believe the key factors are we must develop moral, beneficial AI to avoid doomsday scenarios. As a species, we must decide against what some describe as "errant technology," not AI, the misaligned programs that try to change us all into paperclips or generally lack empathy. Clearly we see a divide between moral intelligence and general intelligence which finds a path to a desired goal state without judging the end goal against any standard. If we aren't careful, AI will be created purely for power and dominance by the government and rogue corporations. Each person is morally responsible for what they choose to support. I hope you choose to support a moral system and the development of a moral AI to enhance our capabilities.
+
+---
+
+# The End of the Self
+
+Given the previous information, our picture of the self, who we are, becomes unclear.
+
+**What are you?**
+
+You are a multicellular organism. Each cell of your body is living and replicating for you to continue. Without a stable change of energy in and out of your body you would die. Your body is made up mostly of water, carbon, and air. The function of your body through time embodies your subjective experience. We are not one entity; we are legion. Think of an individual neuron. That neuron is growing and connecting with others to sustain itself and the whole organism, but how much does it know of the whole organism? You contribute to your society in some way, how much do you believe you know of the whole? An individual neuron follows rules which feed and stabilize it. Your thoughts are driven by a swarm of interacting neurons all considering themselves and their environment.
+
+Our mind is like an ant colony. The colony emerges from the collective simple actions of each ant. No one ant is critical besides the queen, and even she can be replaced. Your neurons die off slowly as we age, but the brain adapts its structure to retain performance. The electrical and chemical activity is like a storm in your skull. There are "neural circuits" whose pattern of activity give rise to what we feel and do. Now think of a thunderstorm, another pattern of electrical activity. It is less directed than we are, there are no circuits we know of, but there is a strange similarity. If we name the thunderstorm and it splits in two different directions, does it make sense to say which is the original? Are they both new storms? What if we split the human brain into two bodies?
+
+The biological make up of who we are conflicts with the common sense intuition of identity. Don't you have a name and a sense of self? Wouldn't you say you are the same person as you were 7 years ago or when you were 7 years old?
+
+
+
+What "you" are is an emergent phenomena arising from the activity of your body. What we consider to be us is really a small simulation on top of and separate from most of the activity in your body. The closest we get to who we are is a pattern of activity, our consciousness, which provides us a coherent story of ourselves. The story can change drastically and be forgotten. The most important factor in answering 'yes' to the question 'are you the same you as before' is the feeling of trust and certainty of who we are, not the truth, but the feeling of truth, accuracy.
+
+Why would a creature have an ego, the sense of self? There are many examples where we see a person with ego will out compete a person with no ego, especially given environments like the ones we live in. Much of our health and success in a human society depends on gathering money. A person with no ego will not be attached to money and will not hoard it. A person with a powerful ego can become attached to money for its own sake and think endlessly of gathering more of "their" money, leading to many objective advantages such as security, health, and mating.
+
+Our criminal justice system is based on the idea of ego. If we all did not have egos we would not see the reason to punish law breakers. Who is there to punish if there is no you?
+
+
+
+If you want to know yourself, your mind, then I suggest paying attention to the working of your mind. Think about your thinking. Think about your feelings; notice them. The path to enlightenment is as simple as sitting in a corner of a room facing a blank wall. Close your eyes and focus on your breathing from the nose throughout the lungs. Thoughts will inevitably arise, notice them. Where did the thought come from? Where did the thought go? Return to your breath. Focus all of your attention on breathing. _Interrupting thoughts are good!_ Having stray thoughts during meditation/breathing practice is a perfect chance to train your mind and attention. Notice the thought then notice your breathing. Bring yourself back to the breath; every time you do it is one repetition leading to a stronger, more resilient, more focused mind. With 10 minutes a day, over the course of your practice you will gain deeper insight into yourself and the nature of your consciousness.
+
+I believe the long tradition of meditation is a method of deactivating the "human" modules of our brain. Each meditater noticed the drives and thoughts of their mind. Through attention and will we can increase or decrease the activity of our brains. Think of all the drives and thoughts we have, the desire for water, food, safety, comfort. The constant chatter of our ego-driven mind, caught in the past, fear of the future, always thinking of 'I.' What is left when we silence all of this activity? Put another way, what is always there in your mind when we feel and think anything?
+
+We are a swirl of living matter. We came from nothing and will return to nothing. What if we currently are nothing? 
 
 ---
 
