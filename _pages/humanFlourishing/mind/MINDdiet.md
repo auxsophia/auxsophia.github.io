@@ -464,6 +464,10 @@ One of the most important take aways from the book is the damage vegetable oil c
 
 Vegetable oil is used as a preservative to keep food _looking_ fresh. Think about it, bacteria and other life don't want to eat this stuff, they stay away. Why are we eating something covered in a substance no other living thing wants to eat? Fat, lipids, are used in every area of our body. Damaged fatty acids like vegetable oils breakdown the integrity of our bodies. Pick up post packaged foods in the grocery store and you will find vegetable oils in many of the top 3 ingredients listed. Avoid any vegetable oil heavily processed by humans like canola oil, safflower oil, soybean oil, etc.
 
+{:refdef: style="text-align: center;"}
+<img src="../../images/deep_nutrition_PUFA.png" width="80%" height="80%">
+{: refdef}
+
 Chapter 11 Beyond Calories, Using Food as a Language to Achieve Ideal Body Weight. Calories in calories out ignores the information food sends to your body. Cells are communicating and understanding on a chemical level. _Food as information!_
 
 "Our cells are extremely sensitive to the specific nature of the chemical messages we send them every time we eat. By altering the blends of nutrients (or toxins) in our food, we can actually control whether our cells function normally, or convert to fat, or turn cancerous. The nutrients and chemicals we consume in effect _tell_ our cells what to do--when to divide, which protein to manufacture, and even what type of cell to become," page 281.
@@ -515,7 +519,7 @@ STEP 4: EXERCISE
 
 "Concentration level influences how nerve and muscle cells respond, so whether for an intense run or just walking up the stairs, you'll see more results if you _focus_ on every motion -- the swinging of your arms, your calves lifting your spine, your hip rotation."
 
-We should get both aerobic and anaerobic exercise, cardio and resistance training. 
+We should get both aerobic and anaerobic exercise, cardio and resistance training.
 
 Chapter 13 covers the "human diet" in more detail. Each pillar is to be seen as a strategy which can be incorporated to many diets. The below lists are examples of the four strategies we should all incorporate.
 
