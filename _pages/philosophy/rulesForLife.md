@@ -7,6 +7,7 @@ permalink: /philosophy/rules/
 # A collection of rules, strategies, and concepts to lead a successful life.
 
 Things I want to remind myself of and never forget.
+
 ---
 
 
@@ -91,3 +92,5 @@ Bad luck:
 - Low % failure
 - Success benefits only you
 - Feeds our sense of invincibility
+
+---

@@ -25,67 +25,16 @@ Very readable version from the [author's university](https://www.rush.edu/news/d
 ## 10 “brain-healthy food groups:”
 
 - Green leafy vegetables
-  - Spinach
-  - Kale
-  - Collared greens
 - Other vegetables
-  - Green/red peppers
-  - Squash, Summer squash
-  - Cooked/raw carrots
-  - Broccoli
-  - Cauliflower
-  - Celery
-  - Peas
-  - Lima beans
-  - Tomatoes, tomato sauce
-  - String beans
-  - Beets
-  - Corn
-  - Zucchini
-  - Eggplant
 - Nuts
 - Berries
   - "Berries are the only fruit specifically included in the MIND diet."
   - Blueberries
     - “Blueberries are one of the more potent foods in terms of protecting the brain,” Morris said, and strawberries have also performed well in past studies of the effect of food on cognitive function [[university article](https://www.rush.edu/news/diet-may-help-prevent-alzheimers)].
-  - Strawberries
-  - Blackberries
-  - Raspberries
 - Beans
-  - Lentils
-  - Soybeans
-  - Black beans
 - Whole grains
-  - Whole-grain bread, pasta, or crackers
-  - Whole-grain cereals
-    - Steel cut oats
-    - Rolled oats
-    - Barley
-    - Buckwheat
-    - Granola
-    - Grape Nuts
-    - Cheerios
-    - Kashi Instant Hot Cereal
-    - Shredded Wheat
-  - Oatmeal
-  - Barley
-  - Brown rice
-    - Basmati
-    - Jasmine
-    - Red
-    - Black
-  - Quinoa
-  - Freekeh (Arabic grain, lower carb)
-  - Buckwheat (Kasha)
-  - Bulgur (cracked wheat)
-  - Millet
-  - Popcorn
 - Fish (not fried)
-  - Salmon
-  - Yellowfin tuna
 - Poultry
-  - Chicken
-  - Turkey
 - Olive oil
 - Wine
 
@@ -159,7 +108,6 @@ With _Genius Foods_, Lugavere offers a cutting-edge yet practical road map to el
 10. Almonds
 
 This diet is designed to balance the fed and fasted states. Insulin regulation is key for brain health.
-
 
 4. Dark chocolate - unfortunately he says to eat chocolate that has NOT been processed with alkali which destroys many of the beneficial phytonutrients. You can check this on the label. Sadly my go to 90%+ dark chocolate from the store has alkali!
 

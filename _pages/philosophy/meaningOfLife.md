@@ -859,6 +859,16 @@ _Consider if everyone lost their engineering knowledge. They might have some bel
 
 Be bold in your hypotheses so you can be wrong! Many points of critical rationalism appeal to me. Scientific theories are almost like evolutionary entities themselves. Theories must survive the challenge of criticisms. Like a beautiful sculpture trapped in stone, we must use our tools to chip away at the excess and retain the stable core leading to incredibly useful knowledge and know-how. Critical rationalism is adaptable; it reacts to criticism. If some other method is better, there should be a path of criticisms which guide critical rationalism to the better theory.
 
+**Are you a Critical Rationalist?**
+
+If you believe in a justificationist idea where our ideas should be supported by true evidence, then consider critical rationalism could reach your belief system. If we listed out your beliefs, you would likely have good arguments and some criticisms of other claims. Starting from a _blank slate_, with little to no previous information, we can present a critical rationalist with a set of criticisms leading to your belief system, assuming at least enough good reasons could be alternatively represented as a criticism of another position.
+
+If your belief is true, then the belief should withstand criticism.
+
+A critical rationalist can have your full belief system, so now you should consider _are you a critical rationalist_? If your belief system is intact, then critical rationalism subsumes your belief system, your system is inside the circle, the domain.
+
+Quite likely you don't have beliefs which are as rational as you can be according to the criteria of critical rationalism. If you accept this epistemology you can update your belief system to be more rational. If this epistemology is wrong, why?
+
 ---
 
 ## Cause and Effect
@@ -1030,11 +1040,6 @@ If an intelligent agent wants meaning, they will have to reflect on their histor
 
 Notice we can give multiple descriptions of the same data. From the many equal interpretations we choose one. Our choices can change and evolve over time, but how do we choose an interpretation? How should we? If we want a meaningful life, we should choose a description of our history which opens opportunity for further growth and compression.
 
-
-
-
-physics based equation for intelligence, explanation of morality, we're a greedy algorithm, branching and evolution,
-
 ---
 
 # [Ethics](https://en.wikipedia.org/wiki/Ethics)
@@ -1175,6 +1180,80 @@ The question is do you value conscious life over inanimate existence?
 
 I have the drive and desire to learn and grow endlessly. I thirst for knowledge and wisdom, but I must accept my finite existence. I will die. Our species will die. Our planet will die. What heights will living creatures reach? I will not accept a cold and unfeeling universe with no conscious life. There are ice cold planets with almost no movement on their surfaces or within. There are fiery planets with storms raging the size of our continents. The storms rip apart any complex structure. In thousands of years, the activity on the surface of planets can be described as shifting sands and wind. When I think of our planet and life returning to a state of disorder I am filled with a profound sense of loss. Yet the same laws of nature which govern uninhabitable planets govern Earth and all the life on it. With my precious time I will rage against the decay of life.
 
+# Computer Science as Fundamental
+
+Physics describes the changes of matters. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an expected outcome. Notice the symbol manipulation and number crunching involved.
+
+Biology describes life. At the cellular level we see a different yet familiar world. Cells interact with their environment, reacting to stimulus. Cells are able to self-replicate by dividing. Cells process information about themselves and their surroundings. Cells have some form of memory, at least genetically about how to handle different circumstances. Cells self-regulate. Cells go against entropy, exchanging outside energy to maintain internal order. By performing these actions, cells trap and create more information than their surroundings, as we saw in Why Information Grows.
+
+Cells have a code, a program, given in the RNA and DNA of the nucleus (and separately in mitochondria). DNA has symbols and a grammar. There are codes which signal when to stop reading a genetic snippet of information. DNA has jump statements, branching, control flow, essentially like an _if_ statement in programming.
+
+As Joscha Bach puts it, cells are a self-replicating Turing machine which exploit entropy gradients.
+
+Computers are a controlled energy flow. They process and recombine information. Built from logic gates up, computers are reasoning made tangible. Let's talk about binary. Binary is represented as zero and one, but can also mean on/off, up/down, true/false. In school, you might raise your hand to signal you have a question. Notice that we can change the context to change the meaning of raising your arm. If you raise your right hand you have a question, if you raise your left hand you want to use the toilet. With one arm we can represent two states, with two arms we can represent four states.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/Binary_counter.gif" width="60%" height="60%">
+{: refdef}
+
+With this binary counter gif you can see how to represent numbers greater than one using binary. The bottom light orange numbers are only zero and one, the binary, to the right of it is the number in base ten, the type of counting you're used to. You can find the number in base ten by adding up the values in the middle column where ever there is a one beneath it. The top row shows the powers of two.
+
+Think about base ten, 952 is really 9*100 + 5*10 + 2. We can write the same thing as powers of 10, 9*10^2 + 5*10^1 + 2*10^0, because 10^0 is 1 (any number to the power of zero is equal to one), 10^1 = 10, 10^2 = 100. So from the right most digit we see a pattern where each number is 10^(digits from the right starting at 0).
+
+Binary is the same but we change the base, 2^(digits from the right starting at 0). 101 in binary represents 1* 2^0 + 0 * 2^1 + 1 * 2^2 = 1 + 0 + 4 = 5.
+
+Just like when you add 8+9 and you realize we need a digit in the 10's place to handle the "overflow." 8+9=17, so we can take 2 from 9 and add the 2 to the 8 to get 10, and 9-2=7, so we have 17.
+
+What about binary addition? 5+4=9, 5=101, 4=100, so 101+100=1001.
+
+1001 = 1*2^3 + 1*2^0 = 9
+
+Anything written in base 10 can be written in binary. Most systems like your computer expect a certain length of binary numbers. A byte is 8 binary numbers in sequence. Negative numbers can be represented by making the first bit 1, so 4 and -4 would be 00000100 and 10000100. Notice that this changes the range of numbers we can express since the leftmost bit would be 1*2^7 but is now a question of sign (+ or -). We can also use binary to represent letters. Instead of 0100 mapping to 4, we can say 0100 maps to the 4th letter, 'd.' In a similar way we can represent anything written or spoken in terms of an alphabet translated to binary.
+
+### Think about this: if we map one binary string of bits to one number, letter, or other idea, how many items can we represent?
+
+The ability to map is equal to the number of distinct binary sequences that can be made from a given number of binary digits like a byte of 8 bits. Binary represents one of two options, so there are two ways to choose. At two bits, there are two ways to choose the first digit and two ways to choose the second bit, so there two times two, four sequences, four possible mappings.
+
+00
+
+01
+
+10
+
+11
+
+And so on for _n_ given bits. We can map _2^n_ binary sequences. With just 32 bit sequences we can have encoding for 4,294,967,296 things!
+
+Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's answer of 1 or 0 represents to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Well binary addition gives us a new output sequence from two given binary strings added together, new information generated from given information.
+
+If we assume each synapse of a neuron can store a bit, we can estimate the information contents of a brain.
+
+Every human being is running something like a computer program, processing information.
+
+
+
+The Ladder of Causation in terms of logical statements. The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_.
+
+By chaining together a series of possibilities represented as flipped bits and using our causal model to estimate the outcomes we gain counterfactual reasoning of simulated worlds. We can imagine possible worlds and make inferences.
+
+Taking a look at information again, a good definition of information is _the difference that makes a difference_. In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit, a binary number, with context, what if each bit is asking a yes or no question?
+
+Imagine we're sending messages to each other through a computer, but one person doesn't have a microphone. That person has to communicate yes or no visually. Given the English alphabet A-Z, how many yes or no questions are required to spell the word 'one'? Let's start with the first letter, _o_. What question would you ask?
+
+Since there are 26 letters in the alphabet, you might think we need to ask a question for every letter up to _o_, is it a? _no_, is it b? _no_, ..., is it o? _yes_. What is the fastest way to determine the correct letter out of all possible letters? Well, let's start with a smaller list of possible letters.
+
+Say we want to send one letter from A-E, five choices. We can ask: is the letter after 'C'? If yes, we know the letter is D or E. Let's say the letter is 'E,' then we can ask if the letter is before 'E', no, the letter is 'E' (if no then the letter must be 'D'). If the answer is no to the question of is the letter after 'C', our new shortened list is A, B, C. We can repeat the process, asking if the middle letter is before the letter meant. So, is the letter before 'B', no, so the only letter after 'B' is 'C', our answer.
+
+By asking this yes or no question about the middle letter we can quickly dismiss half of the answers. If we know the intended letter is on one half of either side of the letter we don't have to bother with the other half. Each time we ask a question, we divide up the possible answers into two groups. Mathematically, dividing up input repeatedly is a [logarithmic](https://en.wikipedia.org/wiki/Logarithm) operation.
+
+
+
+I want to give an alternative explanation of entropy from a more human perspective. Entropy can be a measure of uncertainty. We can define entropy as the minimum number of yes or no questions we need to ask to remove uncertainty from the system which is to have full information. Imagine a box full of H20 and let's think about how many
+
+Think of the negative and the positive, the lack of information (false) and present information (true).
+
+
+
 ## We are an evolutionary algorithm.
 
 All of life is an [evolutionary algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm):
@@ -1237,6 +1316,10 @@ Even with the second image and various ways to verify the color of the two tiles
 > Finally, our own individual inner universe, our way of being conscious, is just one possible way of being conscious. And even human consciousness generally -- it's just a tiny region in a vast space of possible consciousnesses. Our individual self and worlds are unique to each of us, but they're all grounded in biological mechanisms shared with many other living creatures." -- Anil Seth
 
 ---
+
+## Life is like a dream.
+
+Consciousness is a dream state. Our dreams are simply more disconnected states of our brain, not all of the regions are functioning normally. Dreams appear distorted, but our waking state is different in coherence and acuity. We are all dreaming similarly enough that we can interact with each other.
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the evolution of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
@@ -1384,7 +1467,7 @@ What "you" are is an emergent phenomena arising from the activity of your body. 
 
 Why would a creature have an ego, the sense of self? There are many examples where we see a person with ego will out compete a person with no ego, especially given environments like the ones we live in. Much of our health and success in a human society depends on gathering money. A person with no ego will not be attached to money and will not hoard it. A person with a powerful ego can become attached to money for its own sake and think endlessly of gathering more of "their" money, leading to many objective advantages such as security, health, and mating.
 
-Our criminal justice system is based on the idea of ego. If we all did not have egos we would not see the reason to punish law breakers. Who is there to punish if there is no you? However, people who cheat and steal harm the group to benefit themselves. Groups which can stop this behavior will likely outperform those who don't (on small scales). 
+Our criminal justice system is based on the idea of ego. If we all did not have egos we would not see the reason to punish law breakers. Who is there to punish if there is no you? However, people who cheat and steal harm the group to benefit themselves. Groups which can stop this behavior will likely outperform those who don't (on small scales).
 
 
 
@@ -1402,13 +1485,63 @@ I will make another claim about our innermost selves: our identification with th
 
 My guess is our conscious selves are an abstracted layer on top of the information processing required to maintain bodily function. We aren't fully conscious of our hormones, digestion, etc. all the time. They come to us in vague impressions. This would make sense if the function of consciousness were to process certain types of information undisturbed from the function of the rest of our body. We likely wouldn't want to be in full control of breathing, heart rate, and everything else. That information would distract us from the thinking our consciousness is doing. Instead, following [Karl Friston's free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), our mind exists in a markov blanket, the mind can be separated from the other information processing of the body. To isolate the "I" of us from all of the life sustaining functions our bodies and brains carry out might leave us with much less brain power required than we expect.
 
+If our conscious experience arises from the activity of a neural network in a distinct markov blanket, then other neural networks we have potentially have a separate conscious experience of their own. The neurons which regulate our gut is called the enteric nervous system.
+
+"The enteric nervous system in humans consists of some 500 million neurons (including the various types of Dogiel cells), 0.5% of the number of neurons in the brain, five times as many as the one hundred million neurons in the human spinal cord, and about ​2⁄3 as many as in the whole nervous system of a cat," -- [Wikipedia](https://en.wikipedia.org/wiki/Enteric_nervous_system)
+
+Our hearts also have neurons: "Dr. Armour, in 1991, discovered that the heart has its "little brain" or "intrinsic cardiac nervous system." This "heart brain" is composed of approximately 40,000 neurons that are alike neurons in the brain, meaning that the heart has its own nervous system. In addition, the heart communicates with the brain in many methods: neurologically, biochemically, biophysically, and energetically. The vagus nerve, which is 80% afferent, carries information from the heart and other internal organs to the brain. Signals from the "heart brain" redirect to the medulla, hypothalamus, thalamus, and amygdala and the cerebral cortex. Thus, the heart sends more signals to the brain than vice versa," [Pain: Is It All in the Brain or the Heart?](https://pubmed.ncbi.nlm.nih.gov/31728781/)
+
+We are even more distributed in processing than we believe. As much as we speak of the brain, we see the embodiment of information processing. Each system communicates with the others in multiple ways, but the separation could make them distinct feeling entities if they have the necessary conditions for conscious experience.
+
 Our consciousness is an evolving pattern of activity embodied in our cellular activity, so what is personal identity? The self is an illusion we generate because fitness beats truth. We are the conscious phenomena at a given moment, but these states changing over time is the closest we can get to a continued self. One pattern of activity changes into another. When we identify a person, we are identifying patterns of activity, beliefs and reactions, which change over time.
 
 _Only a continuous, unbroken stream of consciousness is the self, identity_.
 
 Once the link is broken, we split into different entities with unique yet overlapping patterns of conscious activity. **When we wake, a new consciousness is born. When we sleep, that conscious pattern is broken.** We live and die everyday of our lives, but for most people only two days in their lives will be significantly less than 24 hours, their birth and death. When we sleep our bodies go through a learning and updating process. The experiences of yesterday are encoded in the body, changing your skills and reactions. The pattern of consciousness is subtly different. Over time these changes can be drastic.
 
+## Life is a series of moments.
+
+One moment changing into the next. You can even think of film. Films display frames alongside small snippets of audio combined in sequence to appear as smooth ongoing events. **frame_0, frame_1, frame_2, ...frame_n, frame_n+1...** Each frame packed with a snapshot, a moment-full, of information. Think of digital videos. A screen is a series of pixels displaying light with a combination of the red, green, and blue primary light colors. The values have a given range and as many combinations. All can be encoded as numerical values, therefore in zero (0) and one (1). Binary is the most basic, abstract unit of information.
+
+A simple model of neurons shows how we can store memories. If each synapse transmits a value of 0 or 1, then the cell body as a whole decides whether it will send a 0 or 1, we can determine a fuzzy approximation of how much information is stored in a biological neural network. Our senses are beyond vision and include all conscious experience. We compress experience down in some way to the more important and relevant parts. Like a computer gives the appearance of fluid change on screen our bodies and brains process information resulting in the life we know.
+
 Do not fear death. You know what death will be, and you've died many times before. I assume death is much like a dreamless sleep. You awake and time only appears to pass in the world around you, but in your mind a moment ago you were falling asleep. Death is much like before you were born. Do you remember that? No? That's what death will feel like. A peaceful death feels like drifting off to sleep. If you meditate while falling asleep you will gain understanding. Your conscious mind becomes disconnected and dissolves, disperses. The universe will go on for light years in what for you will be less than the blink of an eye. Similarly, coming to life, being born, is like the moments upon waking. We become aware of ourselves and surroundings. Our mind stitches together into a coherent whole as different brain regions gain function and reconnect. The empty center is covered and filled. Our encoded memories stored in our bodily vessel give us the illusion we are the same being who fell asleep.
+
+While we are often only slightly changed from day to day, we are different entities. How should we treat ourselves, our future selves? We can't punish our past selves, the deeds are done. We can only influence the present and the future. The relationship between the you of today and of you and tomorrow is similar to you and any other person: you should have trust, empathy, and rationality. Treat the you of tomorrow as a person you know very well. You likely know yourself better than anyone else. In many ways we can steal happiness from that tomorrow person. If I choose today to have a bad diet and neglect my body in favor of drugs, tomorrow-me will deal with a hangover and be in worse shape than me-today. I've stolen tomorrow's happiness to experience a greater sense of enjoyment now. Tomorrow-me can curse today-me, but they can't change it. All tomorrow-me can do is try to recover.
+
+As long as you're alive, you have to live with yourself. You have to make deals with yourself.
+
+Can you trust yourself?
+
+Earn trust by keeping your personal promises. If you set a goal, work towards it. Be honest with how you are feeling and what your intentions are.
+
+Do you have self-empathy?
+
+For what other person do you know their innermost thoughts and memories besides yourself? Have self-compassion through self-knowledge. Think on everything you've experienced. Be fully aware of what you are feeling and don't distract yourself. Forgive yourself. You aren't alive that long, only until you fall asleep. If you are your own tormentor you cannot escape. Importantly, give the you of tomorrow a better chance than the you of today. You are in the best position to care for that future person.
+
+Are you rational?
+
+Rationality is not only operating on every rung of the Ladder of Causation but approaching and approximating the optimal path to fulfill you wants and needs with the constraints of yourself and the environment. Try answering questions about your situation which involve, _what if_, _how_, and _why?_
+
+You _should_ feel a connection to your ongoing self even if this is ultimately an illusion. You are closer to your ongoing version of self than to anyone else. Have compassion for yourself. We live a short life. Live every day as if it were your last, because it is. Ask yourself how much can be achieved in a given day. How many goals can you reach? Many rewarding goals take more than one day, some take a lifetime. Every human being should invest in themselves at least up to the age of 25 when their bodies and minds are fully biologically mature. At that age you should have as many options as you can. Make a deal with yourself to make healthy, good choices _no matter what you think or feel in the moment_ so your future self can fully evaluate who and what you are at full blossom. Remember that suicide is not simply the ending of your life, today, but the prevention of any future existences by beings much like you. Suicide is taking all options of life and choice from your future selves forever. Suicide is a grave decision.
+
+## Each day should be lived as a full life.
+
+Live your day like you want to live your life. Embody in your actions who and what you want to be. If you want greatness you will need good habits which accumulate over time. Simultaneously you should perform activities with intrinsic subjective meaning. Enjoy what you are doing. Find meaning in your action in the moment. It is unfair to trade lives of toil for some distant reward. Some sacrifice can be made, but have mercy on the living person whose life will end. Some choices we can make today change every day of your life after.
+
+Why is the self an illusion? We have found there is no essential difference in the material stuff used to make us. We are the most common elements on the Earth's crust. Every language has words for day and night because they experience them with steady recurrence. Please reach out and touch something with your finger. Do you feel the pressure on your skin? We feel a boundary between our selves and the object, a separation, distinction. Is there a difference? Be careful, we mistake our oldest concepts as features of objective reality when they are only subjective. We believe there is a boundary, an edge, a line to who and what we are. The boundary of ourselves is an idea we learned from living in a body. We modeled ourselves and the environment, but there is no boundary only illusion. The matter making up our bodies is in constant flux and exchange with our environment.
+
+We are like a flowing river but orders of magnitude more complicated. The definition of a person is in the conscious pattern of change. Our brains are one of the most complex objects in the known universe. We have more connections between our brain cells than there are stars in our galaxy. There is a connection for each and every star you see in the brightest, clearest night sky.
+
+The total number of humans who have ever lived is estimated to be 107 billion, 170,000,000,000, 1.7x10^11. The estimated size of the diameter of the universe is 93 billion light-years, 93,000,000,000, 9.3x10^10. If we spread out every human equally in space and gave one quadrant, we could find the size of the quadrant with 1.7x10^11 divided by 9.3x10^10, resulting in 1.7/9.30 and 10^11 - 10^10 => 0.18279569892 x 10^1. We'd each get about 1.8 light-years of space to ourselves.
+
+### [The light-year is a unit of length used to express astronomical distances and measures about 9.46 trillion kilometres (9.46 x 10^12 km) or 5.88 trillion miles (5.88 x 10^12 mi).](https://en.wikipedia.org/wiki/Light-year)
+
+Try to imagine what it would be like to float in the inky darkness of space all alone. If you could survive you might see the light of distant stars, asteroids, planets. You might be inside a gas cloud that rages like a storm. Perhaps you would see next to nothing, just empty space too distant from noticeable energy and matter.
+
+The [circumference of the Earth](https://en.wikipedia.org/wiki/Earth%27s_circumference) is around 24,000 miles. To walk around the world to the opposite side of where you are would take about 12,000 miles. Compared to the trillions of miles in space, this is nothing! Even if you traveled at the speed of light for a year, you would never come across a human spread out in space.
+
+Imagine being alone for a year and finally reaching another human being, a creature who feels and reacts similarly to you. Would you take for granted their intricate structure and minds which have more complex connections and delicate energy flows than anything for light-years of space around you? A human being would be a spark of consciousness and life in a void of matter. Would you cling to them and protect them? Even if you feel nothing, the fact is undeniable that each one of us is an incredible thermodynamic rarity taking billions of years to make. We are all unique.
 
 ---
 
@@ -1423,6 +1556,14 @@ From the inside, our universe appears to be a deterministic state, each moment a
 All we can really do is hope; hope we are in the universe which arranges our lives into a state we want. We can hope our actions and events outside of us are a part of the sequence of events which lead to a desired life, but we are powerless to create change within our universe. The chain of cause and effect from the big bang, the origin of our universe, appears to be unbroken. We are subjective finite beings with imagination. We can understand the moments which will likely lead to desired outcomes, but we can't change what's already in motion. The most random and unknown event already occurred at the big bang. The universe was compressed to a point in space but was not a perfect shape. If the atoms were perfectly aligned the forces of gravity and others would effect each part equally. There would be no swirl to the universe, so no stars, no planets, no life. It is because of imperfection that we exist at all.
 
 Subjectively, we will feel as though we are making choices, but our choices are the result of information processing according to the laws of nature. Life appears to us to be based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
+
+
+## Every moment matters.
+
+I would like to bring a disturbing thought to your attention. Is anything added to an event by it being remembered? What if a day in your life was completely forgotten by everyone including you? Does that change the meaning of the events? We often lose the exact feeling of a moment. Think of living in the moment as your _experiential self_. There is the way a situation feels in the moment and how that moment is stored in our memory. As we see with fitness beats truth, our memories are not accurate and more like vivid reconstructions. There are many moments that will be forgotten even before the end of your day. The only way for a moment to persist through time, to be remembered, is to make the moment meaningful, typically by having a strong emotional reaction. Otherwise the moment is lost in time.
+
+The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it.
+
 
 
 
@@ -1447,5 +1588,7 @@ For further developments on this foundation, please see [Society 3.0](/society3/
 Possibly cut:
 
 With gender, there is an objective level at which we can categorize creatures. Let's discuss human beings. Men and women have differently shaped bodies and expressions. Our DNA can be categorized as XX and XY. Many things are independent of what we individually and collectively think or feel. There is also a subjective sense of gender, what we believe we should or should not do. The brain reacts and operates differently depending on the hormone balance in the body, causing a change in its function. How our subjective sense expresses itself is often a function of the social level, inter-subjectivity. There are patterns of behavior accepted as masculine or feminine, and these change across time and cultures. Notice that if we were to compare a woman from 10,000 years ago with a woman of modern times, biologically we will see many similarities in hormone profile, shape, etc. However, the culture has changed dramatically. Even in modern times, one country to another can have great dissimilarity. However, biological sex exists on the objective level, sexual and gender identity exists on the subjective level (on top of the objective level), and gender norms exist on the inter-subjective level.
+
+The truth hurts because lies make us feel better.
 
 Consider the question: [If a tree falls in a forest and no one is around to hear it, does it make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
