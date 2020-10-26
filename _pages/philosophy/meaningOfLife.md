@@ -66,7 +66,7 @@ I strongly recommend the book [The Happiness Hypothesis](https://en.wikipedia.or
 * C = circumstances
 * V = voluntary actions
 
-S - "The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes," [hedonic adaptation - Wikipedia](https://en.wikipedia.org/wiki/Hedonic_treadmill), "Hedonic adaptation is a process or mechanism that reduces the effective impact of emotional events. Generally, hedonic adaptation involves a happiness "set point", whereby humans generally maintain a constant level of happiness throughout their lives, despite events that occur in their environment. The process of hedonic adaptation is often conceptualized as a treadmill, since one must continually work to maintain a certain level of happiness."
+Set point - "The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes," [hedonic adaptation - Wikipedia](https://en.wikipedia.org/wiki/Hedonic_treadmill), "Hedonic adaptation is a process or mechanism that reduces the effective impact of emotional events. Generally, hedonic adaptation involves a happiness "set point", whereby humans generally maintain a constant level of happiness throughout their lives, despite events that occur in their environment. The process of hedonic adaptation is often conceptualized as a treadmill, since one must continually work to maintain a certain level of happiness."
 
 Many of the things we think will make us happy will only lead to a fleeting, temporary happiness which we adapt to. Anything you are searching for that will be static and unchanging will eventually not bring you happiness. We evolved this way because content creatures often become stagnant and don't grow.
 
@@ -74,13 +74,13 @@ If you want to know how happy you will be you should reflect on how happy you ha
 
 _If your average happiness makes you dissatisfied, don't give up yet!_
 
-You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on [sleep](/sleep/), [nutrition](/MINDdiet/), and [exercise](/calisthenics/), in that order.
+You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on breathing, [sleep](/sleep/), [nutrition](/MINDdiet/), and [exercise](/calisthenics/), in that order.
 
 Your circumstances influence happiness and your ability to maintain your health. Some environments are toxic or don't support growth. We must make a voluntary action to change to a different set of circumstances as best we can.
 
 We mostly need to invest work and energy into our voluntary actions to make ourselves as happy as we desire. We must choose to prioritize our health with a focus on balancing our needs in life.
 
-Recognize and accept that happiness and well-being are not a destination to reach and rest at but must continually strive for and renew.
+Recognize and accept that happiness and well-being are not a destination to reach and rest at but you must continually strive for and renew.
 
 A short story on controlling emotions:
 
@@ -103,8 +103,8 @@ The work of [Shaolin Master Shi Heng Yi](https://www.youtube.com/watch?v=4-079YI
 ### 5 Hindrances to Self-Mastery
 
 1. Sensual desire (sight/touch/taste/smell/hearing) = Am I distracted or addicted?
-2. Ill will / aversion = Am I feeling a negative emotion?
-3. Dullness / heaviness = Am I unmotivated?
+2. Ill will/aversion = Am I feeling a negative emotion?
+3. Dullness/heaviness = Am I unmotivated?
 4. Restlessness = Is my mind jumping from thought to thought?
 5. Skeptical doubt = Am I indecisive?
 
@@ -169,13 +169,13 @@ As for the truest, most objective, most accurate description of reality and the 
 
 ### The Island of Reality
 
-With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. Now the subjective experience is when a human being appears on the island.
+With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. The subjective experience is when a human being appears on the island.
 
 Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality. However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
 
 Whatever phenomena requires two or more people, that is inter-subjective reality. Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
 
-Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After sometime it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. They both have a value in mind for the money and what the other thinks the value is. When the two ideas of value clash they center to a shared value.
+Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After some time it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. They both have a value in mind for the money and what the other thinks the value is. When the two ideas of value clash they center to a shared value.
 
 We live in a world where millions and billions of humans agree on a shared experience and perception of reality. Now the rectangular piece of paper with special ink designs can cause so many events, freedom, food, shelter, violence, destruction, and everything money involves. Money is a part of reality, but it is almost a life separate from objective reality. Observing money, much of what money is and how it effects change in the world is not on the objective level. The value of money tracks in the beliefs and behaviors of humans. The value of money is in our minds and carried out in our behavior.
 
@@ -249,7 +249,7 @@ There was never a specific design for any of these patterns. They occur from the
 
 > The Game of Life is [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem), which means that given an initial pattern and a later pattern, no algorithm exists that can tell whether the later pattern is ever going to appear. This is a corollary of the [halting problem](https://en.wikipedia.org/wiki/Halting_problem): the problem of determining whether a given program will finish running or continue to run forever from an initial input," -- [Game of Life - Undecidability](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Undecidability).
 
-Do you think a functioning computer could arise from these three simple rules? In fact, a computer can arise without intervention or design, called a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). Conway's game of life is Turing complete, and can simulate any Turing machine. This means any algorithm can be carried out by a complex enough group of cells in the game. So groups of cells can self-replicate and carry out programs, processing information, all from three simple rules.
+Do you think a functioning computer could arise from these three simple rules? In fact, a computer can arise without intervention or design, called a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). Conway's game of life is Turing complete, and can simulate any Turing machine (which includes your computer and everything it does). This means any algorithm can be carried out by a complex enough group of cells in the game. So groups of cells can self-replicate and carry out programs, processing information, all from three simple rules.
 
 A large part of this demonstration is to show what properties can arise from simple operations. I didn't expect to see so many incredible patterns. Consider the universe we inhabit. What are the basic rules that govern this universe? [Here's a list of fundamental physics formulas.](https://en.wikiversity.org/wiki/Fundamental_Physics/Formulas)
 
@@ -480,7 +480,7 @@ Intelligent design becomes the basic principle of life? Homo sapiens is replaced
 
 Sapiens begins at the big bang and fast forwards through time to about 2.5 million years ago where it traces homo erectus and the many cousin-species of homo sapiens. What is so impactful to me about this book is how it breaks down the long held hubris of humankind. **"They [humans] were insignificant animals, whose ecological impact was less than that of fireflies or jellyfish."** With homo sapiens appearing just 0.2 million years ago, we likely held a niche spot in the ecosystem similar to the woodpecker. Just like the woodpecker evolved to eat grubs by hammering through dense bark, we might have evolved to eat bone marrow. When an apex predator such as a tiger killed a giraffe, early humans watched as the tiger and pride ate most of the giraffe. Then the hyenas came to eat the remaining parts. Finally, early humans, after looking all around for predators, slunk towards the carcass to eat any remaining tissue and use stone tools to break bones and eat the marrow. That was our niche.
 
-However, for 2 million years from homo erectus to homo sapiens, our brains just kept growing. We are still unsure as the reason why. With the domestication of fire, humans could scare away beasts, keep themselves warm, cook food, and control their environment. Of course, cooking food allowed our bodies to absorb nutrients better. This hints at what was to come, humans getting more resources from the same amount of food or land compared to other species. One human could easily burn down a forest in a matter of 20 minutes. How did humans control themselves not to destroy everything? Humans learned to do controlled burning which allowed them to pick through charred meat and other foods in the aftermath of a fire. Our species co-evolved with the use of fire.
+However, for 2 million years from homo erectus to homo sapiens, our brains just kept growing. We are still unsure as the reason why. With the domestication of fire, humans could scare away beasts, keep themselves warm, cook food, and control their environment. Of course, cooking food allowed our bodies to absorb nutrients better. This hints at what was to come, humans getting more resources from the same amount of food or land compared to other species. One human could easily burn down a forest in a matter of 20 minutes. Humans learned to do controlled burning which allowed them to pick through charred meat and other foods in the aftermath of a fire. Our species co-evolved with the use of fire.
 
 Harari divides the history of Sapiens into 4 parts:
 
@@ -627,7 +627,7 @@ All cells are a dissipative structure; they take in energy to maintain their for
 
 ### Is the meaning of life simply to burn?
 
-Like the universe is a dissipative structure, transforming energy through entropy, are we a miniature version of it? We are like the crackling sparks of a fire. Our lives are so short in comparison to the sun and cosmos, a brief and fleeting flame. Enough of life sparks a new flame for life to persist through time by having children, progeny. Child birth is like a fire whose heat sparks a fire in something near to it, sometimes by touching, sometimes simply by being hot enough. A new flame starts and the original flame dies. No flame burns forever. Even the stars will die.
+Like the universe is a dissipative structure, transforming energy through entropy, are we a miniature version of it? We are like the crackling sparks of a fire, the embers of an exploded star. Our lives are so short in comparison to the sun and cosmos, a brief and fleeting flame. Enough of life sparks a new flame for life to persist through time by having children, progeny. Child birth is like a fire whose heat sparks a fire in something near to it, sometimes by touching, sometimes simply by being hot enough. A new flame starts and the original flame dies. No flame burns forever. Even the stars will die.
 
 What is likely to become of the future of our planet, life, and the universe? I highly recommend [TIMELAPSE OF THE FUTURE: A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA). The universe is projected to have [5 eras](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe), the Primordial, Stelliferous, Degenerate, Black Hole, and Dark eras. We currently live in the Stelliferous age, the era of stars. "In addition to explaining current cosmological theory, the authors speculate on what kinds of life might exist in future eras of the universe. The speculation is based on a scaling hypothesis, credited to Freeman Dyson, the idea being, that all other things being equal the rate of metabolism—and therefore rate of consciousness—of an organism should be in direct proportion to the temperature at which that organism thrives," [The Five Ages of the Universe](https://en.wikipedia.org/wiki/The_Five_Ages_of_the_Universe).
 
@@ -643,7 +643,7 @@ For more on what's expected, see the [Timeline of the far future](https://en.wik
 
 ### Returning to the self
 
-We live on the surface of a water planet tuned to just the right energy levels to allow for an extremely complex change in matter and energy resulting in the observable universe. The constant, ongoing change we call life our blips of energy from one state of energy to another state.
+We live on the surface of a water planet tuned to just the right energy levels to allow for an extremely complex change in matter and energy resulting in the observable universe. The constant, ongoing change we call life are blips of energy from one state to another.
 
 ---
 
@@ -655,13 +655,14 @@ noun
 
 1. _an unexpected, minor, and typically temporary deviation from a general trend._
 2. _a short high-pitched sound made by an electronic device._
+
 -- Google
 
 ---
 
 Renee Descartes was a philosopher who took doubt to an extreme. He searched for knowledge beyond any shred of doubt. He locked himself in a room and systematically questioned his most basic beliefs. He didn't have as advanced physics and explanations for phenomena as we do today, so he believed in a top down approach to an explanation of reality. Like a good tool is created by an intelligent agent, a human with technical skill, Descartes believed as many enlightened people of his time did, an intelligent designer created the observable universe. The complexity of animals, plants, the sky, and everything is so great, the intelligent designer must be greater in complexity still. To craft a boat and paddle takes an experienced human. To craft a universe must be in some proportion greater. God is an intelligent agent who is all good, all knowing, and all powerful. God designed everything.
 
-This is the opposite of the explanation of particle physics which emerges from the most basic units of information up. With the idea of god, Descartes still has doubt about what he can know about his own experience. Things like candles and fire change shape and how they effect the senses. Candles change in shape, color, smell and touch. Change leads to defied expectations and errors. Descartes was in a boat with the paddle in the water. The water refracts light, making the sight of the paddle look distorted and wavy. The paddle looked to be a third of a meter long and flexible but when pulled out of the water is clearly a meter long and solid. If his sense of sight can be so easily distorted under certain conditions, what about all of his senses? What about the times where all of reality can be distorted, a dreaming state. In a dream, structures and changes we never see in waking life appear real to us for a short time. Upon waking, we realize the dream was not a part of our daily experience. In the moment of the dream, our beliefs are completely wrong. We have all kinds of beliefs in a dream, but we should be doubting all of our knowledge.
+This is the opposite of the explanation of particle physics which emerges from the most basic units of information up. With the idea of god, Descartes still has doubt about what he can know of his own experience. Things like candles and fire change shape and how they effect the senses. Candles change in shape, color, smell and touch. Change leads to defied expectations and errors. Descartes was in a boat with the paddle in the water. The water refracts light, making the sight of the paddle look distorted and wavy. The paddle looked to be a third of a meter long and flexible but when pulled out of the water is clearly a meter long and solid. If his sense of sight can be so easily distorted under certain conditions, what about all of his senses? What about the times where all of reality can be distorted, a dreaming state. In a dream, structures and changes we never see in waking life appear real to us for a short time. Upon waking, we realize the dream was not a part of our daily experience. In the moment of the dream, our beliefs are completely wrong. We have all kinds of beliefs in a dream, but we should be doubting all of our knowledge.
 
 Although in a dream we should doubt all sensory experience, Descartes believed we didn't have reason to doubt mathematical truths. 2 + 2 = 4 whether you are dreaming or not. However, many parts of dreams gives us false confidence in beliefs. What if god is at least not all good. What if god is malevolent and wants to confuse us. God could create a world or a mind in which we are deceived on the most fundamental levels. God could make us believe god is all good with certainty. We could believe that 2 + 2 = 5 with the feeling of absolute certainty. Is there any claim which we cannot doubt?
 
@@ -671,13 +672,13 @@ A later linguist and philosopher, Friedrich Nietzsche, [cast doubt on the _cogit
 
 Thus we arrive at the only claim beyond doubt, the only statement we can be certain of: we are at least **a momentary blip of consciousness**.
 
-There is some theoretical backing to these ideas of blips of consciousness.
+How can we be sure our mind didn't form similar to how a single raindrop forms, aggregating based on random chance? There is some theoretical backing to these ideas of blips of consciousness.
 
 > "The [Boltzmann brain argument](https://en.wikipedia.org/wiki/Boltzmann_brain) suggests that it is more likely for a single brain to spontaneously and briefly form in a void (complete with a false memory of having existed in our universe) than it is for our universe to have come about in the way modern science thinks it actually did. It was first proposed as a reductio ad absurdum response to Ludwig Boltzmann's early explanation for the low-entropy state of our universe.
 
 > In this physics thought experiment, a Boltzmann brain is a fully formed brain, complete with memories of a full human life in our universe, that arises due to extremely rare random fluctuations out of a state of thermodynamic equilibrium. Theoretically over a period of time on the order of hundreds of billions of years, by sheer chance atoms in a void could spontaneously come together in such a way as to assemble a functioning human brain. Like any brain in such circumstances, it would almost immediately stop functioning and begin to deteriorate."
 
-Another way of thinking of randomness is to imagine a small image of 128x128 pixels. For simplicity, the pixels are either white or black, on or off, at random. How long would it take for the number 1 to form in the image? Only the pixels showing the 1 would be white. Of course, there are many images that look like white noise, just random white and black dots with no order, but after some time, the 1 will appear recognizable. Given enough time, every possible image that can be constructed out of those pixels will appear. This is similar to how reality is said to pop into existence.
+Another way of thinking of randomness is to imagine a small image of 128x128 pixels. For simplicity, the pixels are either white or black, on or off, at random. How long would it take for the number 1 to form in the image? Only the pixels showing the 1 would be white. Of course, there are many images that look like white noise, just random white and black dots with no order, but after some time, the 1 will appear recognizable. Given enough time, every possible image that can be constructed out of those pixels will appear.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/static_snow.gif">
@@ -695,9 +696,11 @@ Here are 100 images in sequence in gif form. Each pixel is generated (pseudo)ran
 I manually created the image of a 1, in this case a simple rectangle, alongside 10 randomly generated images. Notice how much information needs to align to generate this image. A random white dot outside the rectangle is noticeable. For this image to occur randomly is astronomical, but not impossible.
 {: refdef}
 
+Our universe is far more spacious than a 128x128 image, and only one section of it needs to align to form a brain or a universe.
+
 ### "Bertrand Russell wrote, in The Analysis of Mind: "There is no logical impossibility in the hypothesis that the world sprang into being five minutes ago, exactly as it then was, with a population that 'remembered' a wholly unreal past." - [Omphalos hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis#A_deceptive_creator)
 
-How do we know the universe didn't pop into existence in its current form 5 minutes ago? We might have all of the memories, but those popped into existence when we did too. I can think of no way around this idea, because the point of the thought experiment is that all experience and knowledge outside of the present moment is cut off. If we look to the future to perform some experiment or verify continued existence, the reply is that the present is when we were created.
+How do we know the universe didn't pop into existence in its current form 5 minutes ago? We might have all of the memories, but those popped into existence when we did too. I can think of no way around this idea, because the point of the thought experiment is that all experience and knowledge outside of the present moment is cut off from its justifying weight of experience. If we look to the future to perform some experiment or verify continued existence, the reply is that we were created five minutes ago from now.
 
 So what can we derive, what more can we know with the certain truth that we are a momentary blip of consciousness?
 
@@ -711,6 +714,7 @@ Axiom
 noun
 
 _a statement or proposition which is regarded as being established, accepted, or self-evidently true._
+
 -- Google
 
 ---
@@ -811,6 +815,8 @@ Our brain receives data, bits of information, about the outside world through it
 
 “If [claims to knowledge are] retained, further differentiation may be made on the basis of how much subjection to criticism they have received, how severe such criticism has been, and how probable the theory is, with the least probable theory that still withstands attempts to falsify it being the one to be preferred.”
 
+Let's pause for a moment to notice and differentiate types of arguments.
+
 With [verificationism](https://en.wikipedia.org/wiki/Verificationism), our intuition is to have the most probable, most corroborated theory. However, Karl Popper and David Miller propose criticisms of justificationism and positivism.
 
 1 - Critical rationalism doubts the naive empiricism of induction based on the [critical arguments of David Hume](https://en.wikipedia.org/wiki/Problem_of_induction). “According to the critical rationalist, if there is a sense in which humans accrue knowledge positively by experience, it is only by pivoting observations off existing conjectural theories pertinent to the observations, or off underlying cognitive schemas which unconsciously handle perceptions and use them to generate new theories...The myth that we induce theories from particulars is persistent because when we do this we are often successful, but this is due to the advanced state of our evolved tendencies. If we were really "inducting" theories from particulars, it would be inductively logical to claim that the sun sets because I get up in the morning, or that all buses must have drivers in them (if you've never seen an empty bus).”
@@ -837,7 +843,7 @@ __:. Therefore this shape has 4 sides__
 
 Notice the conclusion is stated in the premises. The support of the conclusion is equal to the support of the premises.
 
-Many hoped for consistency and completeness in axiomatic systems, that every true statement has a proof even if we don't know it. "The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an effective procedure (i.e., an algorithm) is capable of proving all truths about the arithmetic of natural numbers. For any such consistent formal system, there will always be statements about natural numbers that are true, but that are unprovable within the system," [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems). Gödel demonstrated there will be true statements in axiomatic systems that **cannot** be proven within the system itself. Until we find a higher-order system to support a claim, we should treat a claim as a _conjecture_.
+Many hoped for consistency and completeness in axiomatic systems, that every true statement has a proof even if we don't know it. "The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an effective procedure (i.e., an algorithm) is capable of proving all truths about the arithmetic of natural numbers. For any such consistent formal system, there will always be statements about natural numbers that are true, but that are unprovable within the system," [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems). Gödel demonstrated there will be true statements in axiomatic systems that **cannot** be proven within the system itself. Until we find a higher-order system to support a claim, we should treat such a claim as a _conjecture_.
 
 **Key Principles of Critical Rationalism**:
 - Criticize hypotheses/conjectures rationally and empirically (falsify)
@@ -849,7 +855,7 @@ Many hoped for consistency and completeness in axiomatic systems, that every tru
 
 > “Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.”
 
-We can also understand the distribution of knowledge over a human network, the _firm-byte_. No one person has all of the knowledge to build a plane, but together we can.
+We can also understand the distribution of knowledge over a human network. No one person has all of the knowledge to build a plane, but together we can.
 
 **Thought Experiment**:
 
@@ -857,7 +863,7 @@ _Consider if everyone lost their engineering knowledge. They might have some bel
 
 “...scientists gain knowledge not by proofs but by refutations of good conjectures and by replacing them with new and better ones. These new conjectures avoid earlier mistakes, explain more, and invite new tests,” [IEP](https://www.iep.utm.edu/cr-ratio/).
 
-Be bold in your hypotheses so you can be wrong! Many points of critical rationalism appeal to me. Scientific theories are almost like evolutionary entities themselves. Theories must survive the challenge of criticisms. Like a beautiful sculpture trapped in stone, we must use our tools to chip away at the excess and retain the stable core leading to incredibly useful knowledge and know-how. Critical rationalism is adaptable; it reacts to criticism. If some other method is better, there should be a path of criticisms which guide critical rationalism to the better theory.
+Be bold in your hypotheses so you can be wrong! Many points of critical rationalism appeal to me. Scientific theories are almost like evolutionary entities themselves. Theories must survive the challenge of criticisms. Like a beautiful sculpture trapped in stone, we must use our tools to chip away at the excess and retain the stable core leading to incredibly useful knowledge and know-how. Critical rationalism is adaptable by reacting to criticism. If some other method is better, there should be a path of criticisms which guide critical rationalism to the better theory.
 
 **Are you a Critical Rationalist?**
 
@@ -865,9 +871,9 @@ If you believe in a justificationist idea where our ideas should be supported by
 
 If your belief is true, then the belief should withstand criticism.
 
-A critical rationalist can have your full belief system, so now you should consider _are you a critical rationalist_? If your belief system is intact, then critical rationalism subsumes your belief system, your system is inside the circle, the domain.
+A critical rationalist can have your full belief system, so now you should consider _are you a critical rationalist_? If your belief system is intact, then critical rationalism subsumes your belief system.
 
-Quite likely you don't have beliefs which are as rational as you can be according to the criteria of critical rationalism. If you accept this epistemology you can update your belief system to be more rational. If this epistemology is wrong, why?
+Quite likely you don't have beliefs which are as rational as can be according to the criteria of critical rationalism. If you accept this epistemology you can update your belief system to be more rational. If this epistemology is wrong, why?
 
 ---
 
@@ -879,7 +885,7 @@ Consider the relationship of altitude and temperature. The higher up we go away 
 
 If you ask a child who has only seen buses with a bus driver and ask them, "can there be a bus without a bus driver?" they should answer yes. We intuitively know bus drivers are separate from buses even though 100% of buses in observations have bus drivers, how? Are we justified?
 
-In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. They argue the topic is confused because of a lack of precise language to formulate cause and effect questions. With the right language, we can determine cause and effect. Pearl argues for a three layered explanation of interpreting observations, seeing, doing, and imagining. (See figure 1.2 from the book.)
+In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. They argue the topic is confused because of a lack of precise language to formulate cause and effect questions. Pearl argues for a three layered explanation of interpreting observations, seeing, doing, and imagining. (See figure 1.2 from the book.)
 
 **1. Seeing (Association)**
 
@@ -895,7 +901,7 @@ Activity: doing, intervening
 
 Questions: _What if I do...? How?_ What would Y be if I do X? How can I make Y happen?
 
-Doing is interacting with the environment. Cognition is embodied. Tool using creatures that plan are on this level. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled. The visual change occurs with the sunglasses covering the eyes. Through this interaction the toddler comes to learn it is not the world that changes but looking through sunglasses which distorts it.
+Doing is interacting with the environment. Tool using creatures that plan are on this level. Consider a toddler with a pair of sunglasses. When wearing the sunglasses visual input is distorted, light is dimmer. With no understanding of why, the toddler might infer the world got darker. What toddler's often do is hold the sunglasses over their eyes, lower them, and put them back on, repeating this process several times noticing the change in observations. Of course with this interaction the cause for the change is controlled, occurring when the sunglasses cover the eyes. Through this interaction the toddler comes to learn it is not the world that changes but looking through sunglasses which distorts it.
 
 **3. Imagining (Counterfactuals)**
 
@@ -918,6 +924,12 @@ One example is _does smoking cause lung cancer?_ Here we have an important healt
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/walking-cause.png" width="75%" height="75%">
 {: refdef}
+
+
+
+
+
+
 
 ---
 
@@ -1018,7 +1030,7 @@ Our intrinsic reward can be related to Bayesian inference in the difference betw
 
 ---
 
-With this framework, many difficult questions can now be answered. Notice the framework contributes to the compression of our history of experience with intelligent agents.
+With this framework, many difficult questions can now be answered. Notice the framework contributes to the compression of our history of experience with intelligent agents. We can understand and predict the actions of intelligent actions within the context of the framework.
 
 Why are some experiences beautiful to some and not to others? - Because each individual has their own unique experiences which effects their ability to compress new experiences.
 
@@ -1036,7 +1048,7 @@ Recognize a subjective sense of meaning in life at this time can only come from 
 
 The existentialist _Jean-Paul Sartre_ said "existence precedes essence." Many have lived and died believing the opposite, essence precedes existence. Essence is purpose, what we were made to do, meant to do, but we were not meant or designed for any purpose. Our essence is the unifying direction of our choices. We evolved under the constraints of natural selection with all kinds of drives, urges, and desires which lead to exactly the state of the world at every moment. We exist before we have a true essence. Our essence is given to ourselves from the compression of our personal history. We all shape our past, present, and future.
 
-If an intelligent agent wants meaning, they will have to reflect on their history to identify meaningful experiences. If an intelligent agent wants more meaningful direction and control of their future, they must work to adapt their internal representations of the world to direct their actions toward meaning, a cause and effect relationship of their past experiences cohering with expected futures.
+### If an intelligent agent wants meaning, they will have to reflect on their history to identify meaningful experiences. If an intelligent agent wants more meaningful direction and control of their future, they must work to adapt their internal representations of the world to direct their actions toward meaning, a cause and effect relationship of their past experiences cohering with expected futures.
 
 Notice we can give multiple descriptions of the same data. From the many equal interpretations we choose one. Our choices can change and evolve over time, but how do we choose an interpretation? How should we? If we want a meaningful life, we should choose a description of our history which opens opportunity for further growth and compression.
 

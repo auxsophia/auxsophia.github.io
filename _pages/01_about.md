@@ -23,7 +23,10 @@ Please feel free to contact me at:
  [![Quora](../images/quora_logo.png)](https://www.quora.com/profile/Elliott-Collin-Ploutz)
  [![YouTube](../images/YouTube-icon.png)](https://www.youtube.com/c/PhilosopherScholar)
  [![Facebook](../images/facebook_logo.png)](https://fb.me/philosopherscholar)
+<a href="https://fosstodon.org/@philosopher"><img src="../images/mastodon_logo.png" width="5%" height="5%"></a>
 {: refdef}
+
+I'm interested in alternative social media that combats the problems we face (book) today. Follow me on <a rel="me" href="https://fosstodon.org/@philosopher">Fosstodon</a>, a free and opensource platform.
 
 {:refdef: style="text-align: center;"}
 ## Hey! Give me money.
