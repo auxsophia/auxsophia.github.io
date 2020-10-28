@@ -1076,15 +1076,15 @@ Notice we can give multiple descriptions of the same data. From the many equal i
 
 What societies consider virtues reflect the values evolved by the society according to its environment and time. We would expect to see certain virtues given a particular time with environmental pressures.
 
-Many ethical theories like Utilitarianism emphasize certain conscious states over others. Pleasure and happiness are desirable while pain and suffering are not. On an objective level, emotions are patterns of activities in our bodies and brains giving rise to conscious states and a sense of subjectivity.
+Many ethical theories like Utilitarianism emphasize certain conscious states over others. Pleasure and happiness are desirable while pain and suffering are not. For most people the appeal is obvious. Don't hurt people; have fun. On an objective level, emotions are patterns of activities in our bodies and brains giving rise to conscious states and a sense of subjectivity.
 
 An emotion is like a color. Colors have patterns of waves and frequencies of light. Emotions are patterns of activation in the body and brain. Is it clear which color is morally correct? Does the question make sense? Is purple an objectively "greater" color than aquamarine? Why is pleasure more moral than pain? Morality cannot be guided on an objective level by the subjective desires of intelligent, emotional beings.
 
-Of course subjectively we care about conscious states. Many of us are attracted to enjoyment and repulsed by suffering. We evolved this relationship to emotions because more often than not the emotions signaled a survival advantage. Events which improve our survival chances bring happiness and toxic environments suffering tends to give rise to suffering. However the emotions we feel are signals, information, which each cell and system in our bodies are contributing to. Like other pieces of information we should evaluate it, keep which is a good signal and discard the unimportant signals and noise.
+Of course subjectively we care about conscious states. Many of us are attracted to enjoyment and repulsed by suffering. We evolved this relationship to emotions because more often than not the emotions signaled a survival advantage. Events which improve our survival chances bring happiness and toxic environments tend to give rise to suffering. However the emotions we feel are signals, information, which each cell and system in our bodies are contributing to. Like other pieces of information we should evaluate it, keep which is a good signal and discard the unimportant signals or noise.
 
 How many positive emotions are correlated and caused by pursuing well-being? There is likely significant overlap! Well-being is by definition wellness, an organism growing and maintaining in accordance with its evolved structure. Negative emotions _should_ still be felt to encourage growth and adaptability. Negative emotions which are too strong can cross the threshold from harmful to traumatizing resulting in more permanent dysfunction potentially inhibiting future wellness, so these should be avoided.
 
-Morality acts on an individual and group level. We have evolved moral tendencies and each of us have some weighting for moral feelings. Given an action or action sequence, our moral system returns a feeling of right or wrong. However, we cannot trust evolved feelings completely. Our feelings could be a mistake or mismatch. The actions we're judging could be outside of situations for which our moral tendencies evolved for.
+Morality acts on an individual and group level. We have evolved moral tendencies and each of us have some weighting for moral feelings. Given an action or action sequence, our moral system returns a feeling of right or wrong. However, we cannot trust evolved evaluations completely. Our feelings could be a mistake or mismatch. The actions we're judging could be outside of situations for which our moral tendencies evolved.
 
 We can analyze morality using the three levels of reality:
 
@@ -1100,7 +1100,7 @@ Notice we don't really need emotional evaluation or a moral sense for goal achie
 
 What about the terminal goals themselves? Can they be evaluated like the instrumental goals?
 
-Imagine a game of Go where one player does not want to win. Their entire strategy is based around making interesting patterns with the pieces. They care nothing about capturing territory. They may play according to the rules and turns, but it is obvious they aren't playing with the game's goal in mind. Can we say this person is wrong once we know their end goal? Their actions are taken to maximize their end goal. With their system of evaluation their actions are rationally implied. From the perspective of the opponent aiming to win Go this is a poor strategy which is easily predicted and countered. However, the perspective of the interesting pattern maker is they are making an unattractive pattern.
+Imagine a game of Go where one player does not want to win. Their entire strategy is based around making interesting patterns with the pieces. They care nothing about capturing territory. They may play according to the rules and turns, but it is obvious they aren't playing with the game's goal in mind. Can we say this person is wrong once we know their end goal? Their actions are taken to maximize their end goal. With their system of evaluation their actions are rationally implied. From the perspective of the opponent aiming to win Go this is a poor strategy which is easily predicted and countered. However, the perspective of the interesting pattern maker is their opponent is making an unattractive pattern.
 
 Terminal goals can only be criticized when treated as instrumental goals. To evaluate a goal or state of events we must have some criteria to compare. Often when we judge another person's end goals we believe there is a contradiction with other competing terminal goals. We have all kinds of evolved goals and our needs change the urgency to reach a desired state. Once the terminal goal is at least temporarily fixed, we can evaluate action sequences and instrumental goals in relation. Often moral disagreements are between a group morality and an individual morality. What is best for an individual is not always best for the group and vice versa.
 
@@ -1190,17 +1190,17 @@ The AI entity could be far more adaptable and successful than any life on our pl
 
 The question is do you value conscious life over inanimate existence?
 
-I have the drive and desire to learn and grow endlessly. I thirst for knowledge and wisdom, but I must accept my finite existence. I will die. Our species will die. Our planet will die. What heights will living creatures reach? I will not accept a cold and unfeeling universe with no conscious life. There are ice cold planets with almost no movement on their surfaces or within. There are fiery planets with storms raging the size of our continents. The storms rip apart any complex structure. In thousands of years, the activity on the surface of planets can be described as shifting sands and wind. When I think of our planet and life returning to a state of disorder I am filled with a profound sense of loss. Yet the same laws of nature which govern uninhabitable planets govern Earth and all the life on it. With my precious time I will rage against the decay of life.
+I have the drive and desire to learn and grow endlessly. I thirst for knowledge and wisdom, but I must accept my finite existence. I will die. Our species will die. Our planet will die. What heights will living creatures reach? I will not accept a cold and unfeeling universe with no conscious life. There are ice cold planets with almost no movement on their surfaces or within. There are fiery planets with storms raging the size of our continents. The storms rip apart any complex structure. In thousands of years, the activity on the surface of planets can be described as shifting sands and wind. When I think of our planet and life returning to a state of disorder I am filled with a profound sense of loss. How does time pass without a subjective viewer? If no one experiences time do millions of years pass silently? Yet the same laws of nature which govern uninhabitable planets govern Earth and all the life on it. With my precious time I will rage against the decay of life.
 
 # Computer Science as Fundamental
 
-Physics describes the changes of matters. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an expected outcome. Notice the symbol manipulation and number crunching involved.
+Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
 
 Biology describes life. At the cellular level we see a different yet familiar world. Cells interact with their environment, reacting to stimulus. Cells are able to self-replicate by dividing. Cells process information about themselves and their surroundings. Cells have some form of memory, at least genetically about how to handle different circumstances. Cells self-regulate. Cells go against entropy, exchanging outside energy to maintain internal order. By performing these actions, cells trap and create more information than their surroundings, as we saw in Why Information Grows.
 
 Cells have a code, a program, given in the RNA and DNA of the nucleus (and separately in mitochondria). DNA has symbols and a grammar. There are codes which signal when to stop reading a genetic snippet of information. DNA has jump statements, branching, control flow, essentially like an _if_ statement in programming.
 
-As Joscha Bach puts it, cells are a self-replicating Turing machine which exploit entropy gradients.
+As Joscha Bach puts it, cells are a self-replicating Turing machines which exploit entropy gradients.
 
 Computers are a controlled energy flow. They process and recombine information. Built from logic gates up, computers are reasoning made tangible. Let's talk about binary. Binary is represented as zero and one, but can also mean on/off, up/down, true/false. In school, you might raise your hand to signal you have a question. Notice that we can change the context to change the meaning of raising your arm. If you raise your right hand you have a question, if you raise your left hand you want to use the toilet. With one arm we can represent two states, with two arms we can represent four states.
 
@@ -1210,21 +1210,21 @@ Computers are a controlled energy flow. They process and recombine information. 
 
 With this binary counter gif you can see how to represent numbers greater than one using binary. The bottom light orange numbers are only zero and one, the binary, to the right of it is the number in base ten, the type of counting you're used to. You can find the number in base ten by adding up the values in the middle column where ever there is a one beneath it. The top row shows the powers of two.
 
-Think about base ten, 952 is really 9*100 + 5*10 + 2. We can write the same thing as powers of 10, 9*10^2 + 5*10^1 + 2*10^0, because 10^0 is 1 (any number to the power of zero is equal to one), 10^1 = 10, 10^2 = 100. So from the right most digit we see a pattern where each number is 10^(digits from the right starting at 0).
+Think about base ten, 952 is really 9 * 100 + 5 * 10 + 2. We can write the same thing as powers of 10, 9 * 10^2 + 5 * 10^1 + 2 * 10^0, because 10^0 is 1 (any number to the power of zero is equal to one), 10^1 = 10, 10^2 = 100. So from the right most digit we see a pattern where each number is 10^(digits from the right starting at 0).
 
-Binary is the same but we change the base, 2^(digits from the right starting at 0). 101 in binary represents 1* 2^0 + 0 * 2^1 + 1 * 2^2 = 1 + 0 + 4 = 5.
+Binary is the same but we change the base, 2^(digits from the right starting at 0). 101 in binary represents 1 * 2^0 + 0 * 2^1 + 1 * 2^2 = 1 + 0 + 4 = 5.
 
 Just like when you add 8+9 and you realize we need a digit in the 10's place to handle the "overflow." 8+9=17, so we can take 2 from 9 and add the 2 to the 8 to get 10, and 9-2=7, so we have 17.
 
 What about binary addition? 5+4=9, 5=101, 4=100, so 101+100=1001.
 
-1001 = 1*2^3 + 1*2^0 = 9
+1001 = 1 * 2^3 + 1 * 2^0 = 9
 
-Anything written in base 10 can be written in binary. Most systems like your computer expect a certain length of binary numbers. A byte is 8 binary numbers in sequence. Negative numbers can be represented by making the first bit 1, so 4 and -4 would be 00000100 and 10000100. Notice that this changes the range of numbers we can express since the leftmost bit would be 1*2^7 but is now a question of sign (+ or -). We can also use binary to represent letters. Instead of 0100 mapping to 4, we can say 0100 maps to the 4th letter, 'd.' In a similar way we can represent anything written or spoken in terms of an alphabet translated to binary.
+Anything written in base 10 can be written in binary. Most systems like your computer expect a certain length of binary digits. The term binary digit was compressed to the word 'bit.' A byte is 8 binary numbers (bits) in sequence. Negative numbers can be represented by making the first bit 1, so 4 and -4 would be 00000100 and 10000100. Notice that this changes the range of numbers we can express since the leftmost bit would be 1*2^7 but is now a question of sign (+ or -). We can also use binary to represent letters. Instead of 0100 mapping to 4, we can say 0100 maps to the 4th letter, 'd.' In a similar way we can represent anything written or spoken in terms of an alphabet translated to binary.
 
 ### Think about this: if we map one binary string of bits to one number, letter, or other idea, how many items can we represent?
 
-The ability to map is equal to the number of distinct binary sequences that can be made from a given number of binary digits like a byte of 8 bits. Binary represents one of two options, so there are two ways to choose. At two bits, there are two ways to choose the first digit and two ways to choose the second bit, so there two times two, four sequences, four possible mappings.
+The ability to map is equal to the number of distinct binary sequences that can be made from a given number of binary digits like a byte of 8 bits. Binary represents one of two options, so there are two ways to choose. At two bits, there are two ways to choose the first digit and two ways to choose the second bit, so two times two, four sequences, four possible mappings.
 
 00
 
@@ -1236,9 +1236,7 @@ The ability to map is equal to the number of distinct binary sequences that can 
 
 And so on for _n_ given bits. We can map _2^n_ binary sequences. With just 32 bit sequences we can have encoding for 4,294,967,296 things!
 
-Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's answer of 1 or 0 represents to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Well binary addition gives us a new output sequence from two given binary strings added together, new information generated from given information.
-
-If we assume each synapse of a neuron can store a bit, we can estimate the information contents of a brain.
+Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's answer of 1 or 0 represents an answer to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Well binary addition gives us a new output sequence from two given binary strings added together, new information generated from given information.
 
 Every human being is running something like a computer program, processing information.
 
@@ -1248,7 +1246,9 @@ The Ladder of Causation in terms of logical statements. The association level is
 
 By chaining together a series of possibilities represented as flipped bits and using our causal model to estimate the outcomes we gain counterfactual reasoning of simulated worlds. We can imagine possible worlds and make inferences.
 
-Taking a look at information again, a good definition of information is _the difference that makes a difference_. In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit, a binary number, with context, what if each bit is asking a yes or no question?
+What if people were twice as tall?! What would be different about the world? We're changing something simple about a feature of our world, take everyone's height and double it. Would doors still be the same size? A child can answer, "no, they would be twice as big for people to get through." We understand doors are made by people, and the size is related to average height. If average human height changes, the average door size changes. We can also ask why people are twice as tall in this imaginary world. An evolutionary biologist likely has a few probable answers. Maybe in the history of humans the trees around them had branches higher up, and they had to jump. Only the tall apes would make it.
+
+Taking a look at information again, a good definition of information is _the difference that makes a difference_. In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit with context, what if each bit is asking a yes or no question?
 
 Imagine we're sending messages to each other through a computer, but one person doesn't have a microphone. That person has to communicate yes or no visually. Given the English alphabet A-Z, how many yes or no questions are required to spell the word 'one'? Let's start with the first letter, _o_. What question would you ask?
 
@@ -1258,12 +1258,15 @@ Say we want to send one letter from A-E, five choices. We can ask: is the letter
 
 By asking this yes or no question about the middle letter we can quickly dismiss half of the answers. If we know the intended letter is on one half of either side of the letter we don't have to bother with the other half. Each time we ask a question, we divide up the possible answers into two groups. Mathematically, dividing up input repeatedly is a [logarithmic](https://en.wikipedia.org/wiki/Logarithm) operation.
 
+A part of this is to explain that how information is stored, shared, and processed has calculable limitations. We can send information very efficiently and accurately or inefficiently with many errors. There are boundaries on how fast we can send a piece of information which is to say how fast a receiver can remove uncertainty.
 
+As an alternative explanation of entropy from a more human perspective, entropy can be a measure of uncertainty. We can define entropy as the minimum number of yes or no questions we need to ask to remove uncertainty from the system. Entropy is the minimum number of questions needed to have full information.
 
-I want to give an alternative explanation of entropy from a more human perspective. Entropy can be a measure of uncertainty. We can define entropy as the minimum number of yes or no questions we need to ask to remove uncertainty from the system which is to have full information. Imagine a box full of H20 and let's think about how many
+Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice block, the structure is rigid. How many questions do we need to ask to specify where the H2O molecules are in the box? What about when the box is liquid, just a pool of water at the bottom of the box? The H2O molecules are spread out, looser; their position in the space of the box is less rigid, more variable. When the H2O is gas, where are the molecules? Now they can be just about anywhere in the box. We have an intuitive sense, a model of how the material world works, that the ice and water would be at the bottom of the box while the gas floats. We can divide up the points of space in a 3-dimensional box as the yes or no question of "is an H2O molecule here?" In ice form, we should be able to find the molecules quite fast. In liquid, less fast, but gas would take the longest of all. If we track a specific molecule, say molecule #297, the rise in uncertainty as to where the molecule is as the H2O molecules change in state from ice to water to vapor is the nature of entropy.
 
-Think of the negative and the positive, the lack of information (false) and present information (true).
+Let us see how entropy relates to mathematics. Why is it that math has translated across languages and cultures? If math is simply a human idea, a useful fiction, then wouldn't people disagree on math? Few other ideas have passed those barriers. Are we somehow connecting to something outside of us in a mathematical plane of existence? 
 
+Think of a square in terms of entropy. How many questions do you need to ask to describe a square?
 
 
 ## We are an evolutionary algorithm.

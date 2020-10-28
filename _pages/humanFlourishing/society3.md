@@ -26,6 +26,13 @@ There's little hope. I'm a pessimist.
 
 Read Sapiens!
 
+As professor Yuval Noah Harari writes in his work, capitalism and communism were opposing economic systems with different sets of problems. How do we decide prices for items? How much is a loaf of bread worth? Under communism a central government tries to control the price for everyone; they can say a loaf is $1 and anyone caught selling differently is punished. Development of bread is regulated by central factories. Capitalism is distributed. There is no central entity determining prices, instead 'the market' decides. By having a shared currency, people set prices around supply and demand of goods and services. The price of bread fluctuates because if there isn't enough it becomes expensive. If there's too much it becomes cheap. Every baker is in competition with others unless they can specialize to a niche area with less competition.
+
+Both share the same issue but have different rates of collapse. Communism aims at structured control to provide for the needs of everyone. Under communism, human ego manipulated information to the central government. At each layer of administration the subordinate exaggerated production to the superior in order to appear more effective than the reality. The compounded effect to the center led to distorted reasoning eventually causing a failure to set pricing of goods and services. The collapse was quick, and communism was labeled a failure by (often capitalist) critics.
+
+Capitalism is the opposite of communism in the sense of distributed means of production. While distributed production allows for great freedom and prosperity, that prosperity is masked by far distribution. Capitalism creates a situation of constant competition. With unchecked price setting companies want to produce as efficiently as possible to give the greatest net return as profit. Humanitarian laws and bills of rights are necessary to stop capitalism from creating slavery conditions. Slavery is the natural progression of capitalism, a slave is a worker who has no power to negotiate with and produces work at minimum cost. Your employer always wants to pay you the minimum if it wants to maximize its profits. Ask yourself if your place of business wants to maximize profits as a may concern. Even if there are bills of rights or other laws in some countries, international companies through capitalist countries give access to workers with less rights and power. These workers are exploited to some degree of slavery out of any viewing by the customers they serve. Capitalism creates all kinds of incentives to continue for short term profit gain at any expense. Workers are in a constant war for liberty and fairness.
+
+
 We're too powerful and we're a greedy algorithm.
 
 AI as corporations.
@@ -84,9 +91,13 @@ Our current society is setup to enable us all to make the wrong choices. We need
 
 Humans should form into distinct, self-sustainable communities of no more than 10,000 people. Each community should be a non-profit following the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line), evaluating the corporation by its impact on the planet, people, and profit in that order.
 
+I propose a system alternative to current options. A disconnected community economy maintained by a central processing core. Our central AI will govern as far as we can develop. We can see live updates to community needs and what work should be done. The community-core provides guidance and governance on the trades of goods and services. The design of the system should at every possible point minimize human corruption. By constraining goods and services to local production we minimize our contribution to the net harm of the global system.
+
+Our community can be a beacon of hope for a future of synergistic technology and nature. The ideal America presented to be, a great experiment in expanding and sustaining human liberty within the furthest moral reaches.
+
 * Humans should gather in organizations no greater than 10,000.
 
-Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self.
+Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deep fakes because a deep fake of a community member can hopefully be sorted out by walking over and knocking on the door the of the member to discuss.
 
 * Automation for all.
 
@@ -143,7 +154,7 @@ Local currency should only be generated internally by work; never traded for est
 
 With the blockchain, we can immediately know the total wealth and other statistics of every member. We can choose to make this anonymous or tied directly to each member. Importantly, we can create _diminishing returns_. We can set a wealth cap based on each community where earning more doesn't generate money for the individual but is sent to the community bank. This creates a dis-incentive for people to hoard wealth and an incentive for members to continue spending, circulating currency through the community.
 
-Rather than economic measures like the GDP, we should have multiple and distinct measures in balance. An alternative to GDP could be ecological-complexity per capita which is a measure of the complexity in an ecosystem. We can measure growth as a flourishing of the web of life around us. 
+Rather than economic measures like the GDP, we should have multiple and distinct measures in balance. An alternative to GDP could be ecological-complexity per capita which is a measure of the complexity in an ecosystem. We can measure growth as a flourishing of the web of life around us.
 
 * Sustainable Jobs -- Stewards of the Earth
 
@@ -154,6 +165,12 @@ Alongside our necessities, we need sustainability engineers to redesign our mode
 * Information exchange.
 
 As an open source community, we should exchange information openly. Every person should benefit from sustainability and AI research. When we develop a new technology to filter water, grow better food, make a medical advancement, or any development which increases human well being, we only make the world better by sharing it. We aren't going to work or provide materials for other groups, but we can provide knowledge and schematics so they can implement the technology for themselves. In a similar exchange, when other communities make advancements we can benefit as well. Mutual information exchange is a path towards peace.
+
+* Indigenous Rights
+
+## Indigenous rights are human rights
+
+A sovereign community should respect the sovereignty of other communities. Indigenous people represent the accumulated wisdom of generations of sapiens living on the same land. They have a connection to their ecosystems which all human beings should seek to have, seamless integration. Indigenous people living traditionally have no carbon footprints; they are in harmony with nature. The forefront defenders of the environment are often indigenous activists who fight for their land, their lifestyle, and even us. When the Amazon forests burn the lungs of the world burn. The interconnectedness of the worldwide life-web is a fact. We must work to rejuvenate the ecosystems we are a part of that we will die without. The fight of indigenous people is the fight of the survival of the human race. Indigenous defenders are the last white blood cells of the human race attempting to protect us from our own suicidal foolishness. Truly, a threat to justice anywhere is a threat to justice everywhere. 
 
 
 
