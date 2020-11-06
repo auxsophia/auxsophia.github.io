@@ -32,6 +32,14 @@ Both share the same issue but have different rates of collapse. Communism aims a
 
 Capitalism is the opposite of communism in the sense of distributed means of production. While distributed production allows for great freedom and prosperity, that prosperity is masked by far distribution. Capitalism creates a situation of constant competition. With unchecked price setting companies want to produce as efficiently as possible to give the greatest net return as profit. Humanitarian laws and bills of rights are necessary to stop capitalism from creating slavery conditions. Slavery is the natural progression of capitalism, a slave is a worker who has no power to negotiate with and produces work at minimum cost. Your employer always wants to pay you the minimum if it wants to maximize its profits. Ask yourself if your place of business wants to maximize profits as a may concern. Even if there are bills of rights or other laws in some countries, international companies through capitalist countries give access to workers with less rights and power. These workers are exploited to some degree of slavery out of any viewing by the customers they serve. Capitalism creates all kinds of incentives to continue for short term profit gain at any expense. Workers are in a constant war for liberty and fairness.
 
+[Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic](https://www.youtube.com/watch?v=PJy8vTu66tE)
+
+Pretty much a summary of my views on American politics. We live under Tweedism by the wealthiest 0.02%.
+
+[The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
+
+Capitalism rests on false assumptions. One is that you're paid what your value is. This is false. We are paid according to our negotiation power.
+
 
 We're too powerful and we're a greedy algorithm.
 
@@ -170,7 +178,7 @@ As an open source community, we should exchange information openly. Every person
 
 ## Indigenous rights are human rights
 
-A sovereign community should respect the sovereignty of other communities. Indigenous people represent the accumulated wisdom of generations of sapiens living on the same land. They have a connection to their ecosystems which all human beings should seek to have, seamless integration. Indigenous people living traditionally have no carbon footprints; they are in harmony with nature. The forefront defenders of the environment are often indigenous activists who fight for their land, their lifestyle, and even us. When the Amazon forests burn the lungs of the world burn. The interconnectedness of the worldwide life-web is a fact. We must work to rejuvenate the ecosystems we are a part of that we will die without. The fight of indigenous people is the fight of the survival of the human race. Indigenous defenders are the last white blood cells of the human race attempting to protect us from our own suicidal foolishness. Truly, a threat to justice anywhere is a threat to justice everywhere. 
+A sovereign community should respect the sovereignty of other communities. Indigenous people represent the accumulated wisdom of generations of sapiens living on the same land. They have a connection to their ecosystems which all human beings should seek to have, seamless integration. Indigenous people living traditionally have no carbon footprints; they are in harmony with nature. The forefront defenders of the environment are often indigenous activists who fight for their land, their lifestyle, and even us. When the Amazon forests burn the lungs of the world burn. The interconnectedness of the worldwide life-web is a fact. We must work to rejuvenate the ecosystems we are a part of that we will die without. The fight of indigenous people is the fight of the survival of the human race. Indigenous defenders are the last white blood cells of the human race attempting to protect us from our own suicidal foolishness. Truly, a threat to justice anywhere is a threat to justice everywhere.
 
 
 

@@ -1708,3 +1708,5 @@ Where to move the link to AI section?
 Discuss the universe as information.
 Explain neural networks. Discuss the paper on dendrites.
 Breakdown the universe from an AI perspective. Discuss optimal AI method AIXI.
+Add the chaos gif showing 3 points in non-periodic motion. Discuss relation to universe as similar.
+Discuss Mandelbrot and convergence. We may never be able to know anything completely (reductionism doesn't work). 
