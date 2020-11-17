@@ -152,31 +152,29 @@ I really liked this guide by the Art of Manliness on [How to Fall Asleep in 2 Mi
 
 > "A couple years into WWII, the U.S. military realized it had a problem on its hands. Due to the enormous pressures of aerial combat, many of its pilots were accumulating levels of stress so debilitating that they were cracking under it. The tension caused them to lock up in flight and make fatal mistakes — accidentally shooting down friendly planes, or becoming an avoidable casualty themselves."
 
-The two goals for this method are physical and mental relaxation:
+The two goals for this method are physical and mental relaxation. Here's my spin on the physical relaxation technique:
 
 ---
 
-“Sit back in your chairs and put your feet flat on the deck. Knees apart, your hands limp on the inside of your lap. Now, close your eyes and drop your chin until it rests on your chest.
+Find a comfortable, balanced posture. Breathe deeply into your stomach, then into your diaphragm, then into your chest. Reverse the motion, exhale out of the chest, out of the diaphragm, out of the stomach. Breathe slowly, regularly.
 
-Let’s breathe slowly, deeply, and regularly. Take all the wrinkles out of your forehead. Relax your scalp. Just let go. Now let your jaw sag-g-g. Let it drop open. Now relax the rest of your face muscles. Get the brook trout look on your face. Even relax your tongue and lips. Just let them go loose. Breathe slowly.
+Relax your head. Get any wrinkles or tension out of your forehead, unfurrow your brow. Relax the muscles around your scalp. Focus on your jaw and release any tension. Let your jaw sag down, resting your chin on your chest if natural. Relax the surrounding muscles of your face. Allow your tongue and lips to relax. Breathe slowly.
 
-Now, let’s go after the eight muscles that control your eyes. Let them go limp in their sockets. No focus, just let them go limp. Breathe slowly.
+Let your eyes go limp in their sockets. Stare into the blackness of your closed eyes not focusing on anything. Breathe slowly.
 
-Now drop your shoulders as low as they will go. You think that they are low, but let them go more.  Did you feel the muscles in the back of your neck go limp? When you think you are really relaxed, let them go even more.
+Drop your shoulders low to full extension. Once you've hit that point, get more relaxed and go lower. Focus on the muscles on the back of your neck. Allow your muscles to relax and turn back to your trapezius shoulder muscles to relax again.
 
-Now, let’s relax your chest. Take a deep breath. Hold it. Exhale and blow out all your tensions. Just let your chest collapse. Let it sag-g-g. Imagine you are a big, heavy blob on the chair, a jellyfish. Breathe slowly. When you exhale, release more and more of your tensions.
+Focus on the chest. Take a deep breath and gently hold it to a count of four, one, two, three, four. Exhale all the tensions of the day. Collapse your chest by emptying your lungs. Now is the time for rest and sleep. Breathe slowly and continue releasing your tension with each exhale. Feel your body begin to soften and melt.
 
-Let’s go after your arms. Talk directly to your arm muscles. First, talk to your right bicep. Tell it to relax, go limp. Do the same to your right forearm. Now to the right hand and fingers. Your arm should feel like a dead weight on your leg. Repeat the relaxation process with your left arm. Breathe slowly.
+Focus on your right arm, relax the bicep. Let your forearm hang limp, then spread that limpness down the muscles of your right forearm down to the fingers. When you get to the finger tips, your right arm should feel like a dead weight. Let's focus on the left arm and the left bicep. Release any tension in the bicep. Open the palm of your left hand and relax the muscles of the forearm. Feel the tension released down to the finger tips. Breathe slowly.
 
-Your entire upper body has been exposed to relaxation and a warm, pleasant feeling comes over you. You feel good. A sense of well-being invades your body.
+Your upper body relaxes while a warm sense of well-being spreads from your core. Relax your lower back into a comfortable stretch. Allow your legs to hang as your hips and core go limp and sink. Focus on the right thigh. Let the muscles hang on your bones. Focus on the left thigh. Relax your quadriceps and hamstrings completely. Focus on the right calf and feel the weight of your lower leg resting. Relax the left calf the same. Relax the muscles of the ankles and the feet. Tell yourself your legs have no bones; your legs are rubbery weights.
 
-Now for your lower body. Talk to your right thigh muscles. Let them go to a dead weight on the chair. Let the meat hang on the bones. Go through the same routine for the right calf muscles. Then all the muscles of your right ankle and foot. Tell yourself that your right leg has no bones in it. It is just a flabby, heavy weight on the deck. Repeat the process with your left thigh, calf, ankle, and foot.
-
-At present you are all relaxed physically, or think you are. For a little insurance, let’s take three deep breaths and when you let them out, blow out all the remaining tensions, one . . . whoosh, two . . . whoosh, three . . . whoosh.”
+You should be deeply, physically relaxed. Take a moment to check in with the peace and tranquility of your body. To fully relax, let's take three more good breaths and release any remaining tension, one, two, three...
 
 ---
 
-After you are physically relaxed, calm the mind with one of these visualizations. The key is to not imagine your body physically moving.
+After you are physically relaxed, you can calm your mind. One quick method is to clear your thoughts for ten seconds. Repeat the phrase "time for sleep" and allow your thoughts to fall quiet. Calm the mind with one of these visualizations. The key is to not imagine your body physically moving.
 
 ---
 
