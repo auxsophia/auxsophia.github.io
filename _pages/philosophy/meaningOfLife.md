@@ -1212,6 +1212,20 @@ I have the drive and desire to learn and grow endlessly. I thirst for knowledge 
 
 # Computer Science as Fundamental
 
+Here's a story of how the universe works that I like. You should follow the best science.
+
+Think of one dimension which is a number line. Cross another number line at zero to form a +. This is 2 dimensions, and I suspect our entire universe is like a 2-dimensional plane. At every point in space we can query it for information by observing it. The space is like a tight cloth, a trampoline, or the surface of water.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/traverse_wave.gif">
+{: refdef}
+
+In the above transverse wave, imagine the red dot is you in the current moment. The present is flowing from the past into the future on a flowing pattern. Viewed over lengths of time, we see the wave traced.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/wave_anatomy.jpg" width="60%" height="60%">
+{: refdef}
+
 Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
 
 Biology describes life. At the cellular level we see a different yet familiar world. Cells interact with their environment, reacting to stimulus. Cells are able to self-replicate by dividing. Cells process information about themselves and their surroundings. Cells have some form of memory, at least genetically about how to handle different circumstances. Cells self-regulate. Cells go against entropy, exchanging outside energy to maintain internal order. By performing these actions, cells trap and create more information than their surroundings, as we saw in Why Information Grows.
@@ -1258,7 +1272,13 @@ Using simple binary we can represent more complex concepts. All we need is a sys
 
 Every human being is running something like a computer program, processing information.
 
+Younger in my life I focused on the storage of information as the greatest good. To have experience and reflect on it was a good in its own sake. To store information persists its existence and meaning. As I learned more math, I realized the data for a complete mapping of the universe exists infinity times over. Consider the value of [pi](https://en.wikipedia.org/wiki/Pi).
 
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/pi_meme.jpg">
+{: refdef}
+
+There could be a potential mapping of the digits of pi with meaning to our universe. Finding that mapping would be incredibly difficult but possible in principal. To represent our universe we would likely want a more ordered value series than pi. Notice the digits of pi which are represented in base ten can be represented in base two. Pi can be written in binary, so the universe can be represented in a sequence of 1's and 0's. However, pi is just one transcendental numbers, and there are an infinity of them. Each sequence would have a unique mapping to our universe. Similarly, the values could map to a possible world, a different world. All we need to do to represent it is change the mapping.
 
 The Ladder of Causation in terms of logical statements. The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_.
 
@@ -1709,4 +1729,4 @@ Discuss the universe as information.
 Explain neural networks. Discuss the paper on dendrites.
 Breakdown the universe from an AI perspective. Discuss optimal AI method AIXI.
 Add the chaos gif showing 3 points in non-periodic motion. Discuss relation to universe as similar.
-Discuss Mandelbrot and convergence. We may never be able to know anything completely (reductionism doesn't work). 
+Discuss Mandelbrot and convergence. We may never be able to know anything completely (reductionism doesn't work).
