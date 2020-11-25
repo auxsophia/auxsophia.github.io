@@ -6,7 +6,7 @@ date:   2019-11-21 21:36:30 -0700
 categories: books
 ---
 
-# [THE BOOK OF WHY: THE NEW SCIENCE OF CAUSE AND EFFECT](http://bayes.cs.ucla.edu/WHY/)
+# [THE BOOK OF WHY: THE NEW SCIENCE OF CAUSE AND EFFECT](https://bayes.cs.ucla.edu/WHY/)
 ### JUDEA PEARL AND DANA MACKENZIE
 
 New York: Basic Books, Published May 15, 2018

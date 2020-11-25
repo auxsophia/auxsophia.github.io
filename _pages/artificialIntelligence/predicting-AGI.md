@@ -31,7 +31,7 @@ By James Vincent on November 27, 2018 1:05 pm
 > “The main takeaway people don’t get is how much disagreement there is,” says Ford. “The whole field is so unpredictable. People don’t agree on how fast it’s moving, what the next breakthroughs will be, how fast we’ll get to AGI, or what the most important risks are.”
 
 ---
-# [Architects of Intelligence](http://book.mfordfuture.com/)
+# [Architects of Intelligence](https://book.mfordfuture.com/)
 
 > Architects of Intelligence contains a series of in-depth, one-to-one interviews where New York Times bestselling author, Martin Ford, uncovers the truth behind these questions from some of the brightest minds in the Artificial Intelligence community.
 

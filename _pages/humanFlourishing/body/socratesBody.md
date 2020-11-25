@@ -27,7 +27,7 @@ permalink: /socrates-on-being-out-of-shape/
 
 3.12.8 “Besides, it is a disgrace to grow old through sheer carelessness before seeing what manner of man you may become by developing your bodily strength and beauty to their highest limit. But you cannot see that, if you are careless; for it will not come of its own accord.”
 
-―[Xenophon, Memorabilia 3.12](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Xen.%20Mem.%203.12)
+―[Xenophon, Memorabilia 3.12](https://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Xen.%20Mem.%203.12)
 
 * * *
 

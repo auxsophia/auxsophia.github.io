@@ -10,7 +10,7 @@ permalink: /ai/
 ---
 ## Resources for Learning AI
 
-The standard text used everywhere is [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) by [Stuart Russell](https://en.wikipedia.org/wiki/Stuart_J._Russell) and [Peter Norvig](http://norvig.com/), the godfathers of AI.
+The standard text used everywhere is [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) by [Stuart Russell](https://en.wikipedia.org/wiki/Stuart_J._Russell) and [Peter Norvig](https://norvig.com/), the godfathers of AI.
 
 There is an online course by Udacity lead by Peter Norvig and Sebastian Thrun, [Introduction to AI](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271).
 

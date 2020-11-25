@@ -90,7 +90,7 @@ Grow to accept all your emotions. There are 5 emotions thought to be like primar
 - E - Enjoyment
 - S - Sadness
 
-I invite you to explore the [Atlas of Emotions](http://atlasofemotions.org/) to learn more. I recommend associating activities with the 5 basic emotions. What is a healthy outlet for each of your feelings? Once you recognize cues, how can you channel your emotional energy into something positive.
+I invite you to explore the [Atlas of Emotions](https://atlasofemotions.org/) to learn more. I recommend associating activities with the 5 basic emotions. What is a healthy outlet for each of your feelings? Once you recognize cues, how can you channel your emotional energy into something positive.
 
 A short story on controlling emotions:
 
@@ -1324,7 +1324,7 @@ Here we are speaking of fitness in the context of evolution. "The term "Darwinia
 
 ---
 
-In their paper, [_Fitness	Beats Truth	in the Evolution of Perception_](http://cogsci.uci.edu/~ddhoff/FBT-7-30-17), the authors present and prove the _Fitness-beats-Truth Theorem_ through evolutionary game theory and Bayesian decision theory. Evolutionary creatures who favor seeing the world truthfully and objectively will fail in comparison to creatures who see the world to maximize fitness.
+In their paper, [_Fitness	Beats Truth	in the Evolution of Perception_](https://cogsci.uci.edu/~ddhoff/FBT-7-30-17), the authors present and prove the _Fitness-beats-Truth Theorem_ through evolutionary game theory and Bayesian decision theory. Evolutionary creatures who favor seeing the world truthfully and objectively will fail in comparison to creatures who see the world to maximize fitness.
 
 "Our main message in this paper has been that, contrary to this prevalent view [that we perceive objective reality accurately], attempting to estimate the "true" state of the world corresponding to a given sensory state, confers no evolutionary benefit whatsoever. Rather a strategy that simply seeks to maximize expected-fitness payoff, with no attempt to estimate the "true" world state, does consistently better (in the precise sense articulated in the statement of the "Fitness Beats Truth" Theorem).
 

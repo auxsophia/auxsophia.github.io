@@ -31,9 +31,9 @@ The video is largely based on the work of Robert M. Sapolsky in his book [Behave
 
 ***
 
-This is related to drug addiction and addiction in general which is often seen as a combination of moral failing and drugs being irresistibly addictive. Researcher Bruce K. Alexander challenged the previous ideas of drugs causing addiction by performing an experiment dubbed ["Rat Park."](http://www.brucekalexander.com/articles-speeches/rat-park/148-addiction-the-view-from-rat-park) The original rat-drug-addiction experiments had rats in isolated cages with nothing but drugs. The researcher wondered if rats who had alternative and normal stimulation would still suffer a crippling addiction when presented with drugs like morphine.
+This is related to drug addiction and addiction in general which is often seen as a combination of moral failing and drugs being irresistibly addictive. Researcher Bruce K. Alexander challenged the previous ideas of drugs causing addiction by performing an experiment dubbed ["Rat Park."](https://www.brucekalexander.com/articles-speeches/rat-park/148-addiction-the-view-from-rat-park) The original rat-drug-addiction experiments had rats in isolated cages with nothing but drugs. The researcher wondered if rats who had alternative and normal stimulation would still suffer a crippling addiction when presented with drugs like morphine.
 
-Here is an [awesome comic](http://www.stuartmcmillen.com/comic/rat-park/#page-1) explaining the experiments by artist Stuart McMillen.
+Here is an [awesome comic](https://www.stuartmcmillen.com/comic/rat-park/#page-1) explaining the experiments by artist Stuart McMillen.
 
 ***
 

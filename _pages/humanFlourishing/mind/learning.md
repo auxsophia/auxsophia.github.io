@@ -311,6 +311,6 @@ Stressed out?
 > “While taking a test, you should also remember how your mind can trick you into thinking that what you've done is correct, even if it isn't. This means whenever possible, you should blink, shift your attention, and then double check your answers using a big picture perspective asking yourself, “does this really makes sense.” There's often more than one way to answer a question and checking your answers from different perspectives provides a golden opportunity for verifying what you've done. If there's no other way to check, except to step back through your logic, keep in mind that simple issues have tripped up even the most advanced students.”
 
 ## References
-They highly recommend [Brain Facts](http://www.brainfacts.org/).
+They highly recommend [Brain Facts](https://www.brainfacts.org/).
 
 View a combined list of their [references through Google Docs](https://docs.google.com/document/d/1TyJ6yeTEyEP5zyJU8J4FOAr_RrlX_Q1XTTu0AjPbk70/edit?usp=sharing). Download the [combined page and references through Google Drive](https://drive.google.com/file/d/133KTpZgJShSELqnjLvY2m8axu0X7ATTE/view?usp=sharing).

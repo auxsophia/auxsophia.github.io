@@ -7,7 +7,7 @@ permalink: /philosophy/criticalThinking/
 ---
 ## Resources
 
-[Critical Reasoning for Beginners](http://podcasts.ox.ac.uk/series/critical-reasoning-beginners)
+[Critical Reasoning for Beginners](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners)
 Released 2010 by Marianne Talbot, Director of Studies in Philosophy in Continuing Education at Oxford University, a 6-week course.
 Available on YouTube and podcast. 
 
