@@ -86,8 +86,8 @@ I know my best day's are after a quality night of rest. I hope you see sleep as 
 
 ### Sleep tips:
 
-* Try to wake up and go to sleep at the same time everyday (I'm still working on this!)
-* Make your bedroom as dark as possible
+* Try to wake up and go to sleep at the same time everyday (in general ~10pm-6am/11pm-7am)
+* Make your bedroom as dark as possible (this is a **huge** factor for me!)
 * For three hours before bed
   * Avoid activities too stimulating
   * Avoid blue light, stick to warm colors and consider blue light blocking glasses and night-shifting your screens
@@ -98,6 +98,7 @@ I know my best day's are after a quality night of rest. I hope you see sleep as 
 * Get into a bedtime routine
 * Change your mindset to see **falling asleep is a skill you can get better at with practice**
 * Get a little colder if you can (2-3 degrees Fahrenheit lower) to initiate sleep
+* Use a piece of tape to keep your mouth closed allowing nasal breathing throughout the night 
 * Use your bed for sleeping only (and sex)
 
 ### Sleep Posture

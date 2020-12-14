@@ -267,7 +267,7 @@ There was never a specific design for any of these patterns. They occur from the
 
 > The Game of Life is [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem), which means that given an initial pattern and a later pattern, no algorithm exists that can tell whether the later pattern is ever going to appear. This is a corollary of the [halting problem](https://en.wikipedia.org/wiki/Halting_problem): the problem of determining whether a given program will finish running or continue to run forever from an initial input," -- [Game of Life - Undecidability](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Undecidability).
 
-Do you think a functioning computer could arise from these three simple rules? In fact, a computer can arise without intervention or design, called a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). Conway's game of life is Turing complete, and can simulate any Turing machine (which includes your computer and everything it does). This means any algorithm can be carried out by a complex enough group of cells in the game. So groups of cells can self-replicate and carry out programs, processing information, all from three simple rules.
+Do you think a functioning computer could arise from these three simple rules? In fact, a computer can arise without intervention or design, called a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). Conway's game of life is Turing complete, and can simulate any Turing machine (which includes your computer and everything it does). Let's get deeper into Turing machines later, but this means any algorithm can be carried out by a complex enough group of cells in the game. So groups of cells can self-replicate and carry out programs, processing information, all from three simple rules.
 
 A large part of this demonstration is to show what properties can arise from simple operations. I didn't expect to see so many incredible patterns. Consider the universe we inhabit. What are the basic rules that govern this universe? [Here's a list of fundamental physics formulas.](https://en.wikiversity.org/wiki/Fundamental_Physics/Formulas)
 
@@ -1217,14 +1217,49 @@ Here's a story of how the universe works that I like. You should follow the best
 Think of one dimension which is a number line. Cross another number line at zero to form a +. This is 2 dimensions, and I suspect our entire universe is like a 2-dimensional plane. At every point in space we can query it for information by observing it. The space is like a tight cloth, a trampoline, or the surface of water.
 
 {:refdef: style="text-align: center;"}
+<img src="../../images/MoL/wave_anatomy.jpg">
+{: refdef}
+
+Learn the anatomy of a wave function. We have the horizontal axis where points above it (crests) are positive and points below (troughs) are negative.
+
+{:refdef: style="text-align: center;"}
 <img src="../../images/MoL/traverse_wave.gif">
 {: refdef}
 
-In the above transverse wave, imagine the red dot is you in the current moment. The present is flowing from the past into the future on a flowing pattern. Viewed over lengths of time, we see the wave traced.
+In the above transverse wave, imagine the red dot is you in the current moment. The present is flowing from the past into the future on a flowing pattern. So much information can be described by a simple wave function!
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/wave_anatomy.jpg" width="60%" height="60%">
+<img src="../../images/MoL/pos_time_wave.gif" width="60%" height="60%">
 {: refdef}
+
+The above graph shows the position of a weight on a spring as it changes over time. By graphing the information this way we can apply proven techniques to learn more. The important part is just like with binary we can represent so much with these Cartesian graphs. We can graph all kinds of geometric shapes as waves.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/shape_wave.gif">
+{: refdef}
+
+The radius, from the center to a line, determines the magnitude of the shape. We can also convert information about a shape into a specific wave function like the sine wave.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/circle_to_sin.gif">
+{: refdef}
+
+Each of the circles above are the same shape but different sizes, different radii. The sine waves have a similar pattern but are clearly different. Let's imagine the green line is reality as it is, the red line is what you believe reality is, and the blue line is how people see reality (intersubjective). The distance from what we believe to reality is our error. There are points of overlap where we see reality accurately, but they're rare moments. If the blue line represents fitness, meaning having the beliefs which will make you a good, resilient, successful fit in your environment, the distance to that line is the difference in performance of your fit to the situations you face.
+
+### Life can be viewed as a game of predicting the best line. If you draw a line too far away from success you fail.
+
+Considering just one field, the electromagnetic spectrum of electrons, we can see how information is the basis for reality. A free electron is like a beam of light; it's a packet of energy hurtling through space. When we look at two electrons, they appear identical. In every way we can measure, the electrons are the same. If people were identical like electrons it would be as if every person in the world had the _exact_ same body. If something is identical how do we distinguish it? This issue is in the [identity of indeiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles). The critical property distinguishing two electrons is information; where the electron is in the fabric of the electromagnetic spectrum and at what time. The position and time of the electron are **pieces of information**, the difference that makes a difference, about the particles.
+
+Wavicle experiment.
+
+
+
+
+Space and time could be emergent, holographic universe hypothesis. The whole universe is a 2D field. Is it too simple? What is at a point? At whatever unit we call a point, there's something like a pixel. Can we call it a universal-pixel (U-pixel)? The universal field is overlapping across forces. If a point has "nothing," then the pixel value is zero for that value.
+
+PCA - casting shadows into lower dimensions.
+
+
 
 Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
 
@@ -1233,6 +1268,12 @@ Biology describes life. At the cellular level we see a different yet familiar wo
 Cells have a code, a program, given in the RNA and DNA of the nucleus (and separately in mitochondria). DNA has symbols and a grammar. There are codes which signal when to stop reading a genetic snippet of information. DNA has jump statements, branching, control flow, essentially like an _if_ statement in programming.
 
 As Joscha Bach puts it, cells are a self-replicating Turing machines which exploit entropy gradients.
+
+### Turing Machines
+
+What is a computer? What is computation? Alan Turing set out to formalize these concepts. Computation is the systematic flipping of bits. A problem is computable if you can reduce it to mechanical symbol manipulation. Our universe can be seen as a computer in that the change we see is the change of information. The program the universe follows is according to the laws of nature. 
+
+https://en.wikipedia.org/wiki/Turing_machine_gallery
 
 Computers are a controlled energy flow. They process and recombine information. Built from logic gates up, computers are reasoning made tangible. Let's talk about binary. Binary is represented as zero and one, but can also mean on/off, up/down, true/false. In school, you might raise your hand to signal you have a question. Notice that we can change the context to change the meaning of raising your arm. If you raise your right hand you have a question, if you raise your left hand you want to use the toilet. With one arm we can represent two states, with two arms we can represent four states.
 
