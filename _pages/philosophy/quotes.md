@@ -97,8 +97,6 @@ Defeat is a state of mind; no one is ever defeated until defeat has been accepte
 
 "If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well." - Martin Luther King Jr.
 
-"Don't say you don't have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci, Thomas Jefferson, and Albert Einstein." - H. Jackson Brown Jr.
-
 "Each second we live is a new and unique moment of the universe, a moment that will never be again And what do we teach our children? We teach them that two and two make four, and that Paris is the capital of France. When will we also teach them what they are? We should say to each of them: Do you know what you are? You are a marvel. You are unique. In all the years that have passed, there has never been another child like you. Your legs, your arms, your clever fingers, the way you move. You may become a Shakespeare, a Michaelangelo, a Beethoven. You have the capacity for anything. Yes, you are a marvel. And when you grow up, can you then harm another who is, like you, a marvel? You must work, we must all work, to make the world worthy of its children." - Pablo Casals
 
 "The greatest risk to man is not that he aims too high and misses, but that he aims too low and hits." - Michaelangelo
@@ -363,4 +361,4 @@ Defeat is a state of mind; no one is ever defeated until defeat has been accepte
 
 "Jumping from failure to failure with undiminished enthusiasm is the big secret to success." - Savas Dimopoulos
 
-"It is possible to commit no mistakes and still lose. That is not weakness; that is life." - Jean Luc Picard 
+"It is possible to commit no mistakes and still lose. That is not weakness; that is life." - Jean Luc Picard

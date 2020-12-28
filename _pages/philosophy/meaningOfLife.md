@@ -1232,7 +1232,7 @@ In the above transverse wave, imagine the red dot is you in the current moment. 
 <img src="../../images/MoL/pos_time_wave.gif" width="60%" height="60%">
 {: refdef}
 
-The above graph shows the position of a weight on a spring as it changes over time. By graphing the information this way we can apply proven techniques to learn more. The important part is just like with binary we can represent so much with these Cartesian graphs. We can graph all kinds of geometric shapes as waves.
+The above graph shows the position of a weight on a spring as it changes over time. Think about this further. We can represent a point in space changing over time in terms of a wave, a graph. Consider the change in space of a particle over time. With a wave function we can define a particle's change in space and time over an infinite period. Every particle in your body that makes up you can be graphed in a wave, and the bundle of waves making up every _bit_ of you is the total wave function which defines your change in space over time. In addition to describing points we can also generate a wave representation of shapes. We can graph all kinds of geometric shapes as waves.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/shape_wave.gif">
@@ -1248,17 +1248,32 @@ Each of the circles above are the same shape but different sizes, different radi
 
 ### Life can be viewed as a game of predicting the best line. If you draw a line too far away from success you fail.
 
-Considering just one field, the electromagnetic spectrum of electrons, we can see how information is the basis for reality. A free electron is like a beam of light; it's a packet of energy hurtling through space. When we look at two electrons, they appear identical. In every way we can measure, the electrons are the same. If people were identical like electrons it would be as if every person in the world had the _exact_ same body. If something is identical how do we distinguish it? This issue is in the [identity of indeiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles). The critical property distinguishing two electrons is information; where the electron is in the fabric of the electromagnetic spectrum and at what time. The position and time of the electron are **pieces of information**, the difference that makes a difference, about the particles.
+Considering just one field, the electromagnetic spectrum of electrons, we can see how information is the basis for reality. A free electron is like a beam of light; it's a packet of energy hurtling through space. When we look at two electrons, they appear identical. In every way we can measure, the electrons are the same. If people were identical like electrons it would be as if every person in the world had the _exact_ same body. If two or more things are identical how do we distinguish them? This issue is in the [identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles). The critical property distinguishing two electrons is information; where the electron is in the fabric of the electromagnetic spectrum and at what time. The position and time of the electron are **pieces of information**, the difference that makes a difference, about the particles.
 
-Wavicle experiment.
+A good basis for [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics), the study of atoms and subatomic particles, is the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment). The experiment showed atoms exhibit properties of waves and particles. A particle is a point while a wave is a probability. Even a single particle appears to act like a wave which can interfere _with itself_, overlapping troughs and crests balance out to zero. Another strange property, electrons have [energy levels](https://en.wikipedia.org/wiki/Energy_level), orbiting paths based on how much energy is absorbed. Electrons seems to jump from orbit to orbit, popping in and out of existence. What are the rules for transition? We can get better intuition of this problem by thinking of geometry.
+
+This will sound strange at first, but the universe we know and interact with could be fundamentally 2-dimensional. There's an "up" and "down," a "left" and "right," but space and time are not the same. Time is the rate of change, the absolute speed of cause and effect. Space is the value that is changed according to time, like a wave. Think of a digital video. The screen is flat, but you have a sense of the distance of the objects represented. There's 3D information encoded in a way your brain can decipher.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/hummingbird_projection.gif">
+{: refdef}
+
+In the above gif, a holographic projection of a hummingbird is created by displaying 4 images from different angles reflected up through glass. This is an analogy to our universe described by the [holographic universe hypothesis](https://en.wikipedia.org/wiki/Holographic_principle), which states energy, matter, and information are equivalent. The physics understanding of thermodynamic entropy and Claude Shannon's formulation of information entropy are equivalent with different measures.
+
+Just like lower dimensions can project up, from 2D to 3D, higher dimensions can project down. One technique is [principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis). The simplest explanation is seeing an object's shadow. Hold a ball up to the sun and see the shadow cast on the ground. There's still information about the shape, but its volume has been reduced to a flat surface. Some information is typically lost in this flattening or squishing. That information and structure can be translated between dimensions is a key insight.
+
+What we would expect to see in a rationally ordered universe is the laws derive naturally from structure. Similar to how the internal angles of a triangle add up to 180 degrees, our universe would appear given certain conditions, structures, and values. What could a fundamental shape of the universe be? [One physicist champions an interesting hypothesis](https://www.ted.com/talks/garrett_lisi_an_8_dimensional_model_of_the_universe?language=en), the fundamental geometry of the universe is an [E8 lattice](https://en.wikipedia.org/wiki/E8_lattice). This ["An Exceptionally Simple Theory of Everything"](https://en.wikipedia.org/wiki/An_Exceptionally_Simple_Theory_of_Everything) says particles like electrons, protons, everything, all emerge from the essential properties of E8 lattices. The below image is of an E8 lattice projected to 2 dimensions. _Existence_ could be at the center.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/e8.jpeg">
+{: refdef}
+
+As we've seen, a good scientific theory should be tested, criticized, and remain firm against scrutiny. However, the picture of the universe we have now is strange. Is our universe simply a _slice_ of a larger, hyper object? Perhaps our universe is a slice of a larger object where just parallel to us is another slightly different universe. In the other universe, everything is the same except for a single bit, one piece of information is one where the other is zero. The _multiverse_ would then have a more complete shape like a probability distribution. The most extreme cases are on either end with the most common cases occurring in the "middle." Maybe when electrons pop in and out they seem to disappear because they are sliding through a parallel universe in a dimension we don't experience. If we were to design a universe generation machine, we could save computational resources by sharing quantum states between universes where no causal connection occurs which effect the macro/particle level. Perhaps there are an infinite number of universes just like ours but slightly different. Perhaps the universe expands and contracts in a big crunch to start the creation of the universe over in an endless loop. Perhaps infinite universes occur not simultaneously but consecutively and slightly different. We will never know all the truths of our level, and we're likely to know even less about levels above and below. We cannot reduce everything to a simple equation and explanation. There will always be mysteries and conundrums no matter how deep or how far we go. This is a part of the beauty of life. There is no final end. We can continue infinitely.
+
+I believe Robert Sapolsky explained reducibility well. Periodicity.
 
 
-
-
-Space and time could be emergent, holographic universe hypothesis. The whole universe is a 2D field. Is it too simple? What is at a point? At whatever unit we call a point, there's something like a pixel. Can we call it a universal-pixel (U-pixel)? The universal field is overlapping across forces. If a point has "nothing," then the pixel value is zero for that value.
-
-PCA - casting shadows into lower dimensions.
-
+This brings us to the concept of zoom, consider "you are a human being" and the quick zoom in the statement. Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain. 
 
 
 Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
@@ -1271,7 +1286,7 @@ As Joscha Bach puts it, cells are a self-replicating Turing machines which explo
 
 ### Turing Machines
 
-What is a computer? What is computation? Alan Turing set out to formalize these concepts. Computation is the systematic flipping of bits. A problem is computable if you can reduce it to mechanical symbol manipulation. Our universe can be seen as a computer in that the change we see is the change of information. The program the universe follows is according to the laws of nature. 
+What is a computer? What is computation? Alan Turing set out to formalize these concepts. Computation is the systematic flipping of bits. A problem is computable if you can reduce it to mechanical symbol manipulation. Our universe can be seen as a computer in that the change we see is the change of information. The program the universe follows is according to the laws of nature.
 
 https://en.wikipedia.org/wiki/Turing_machine_gallery
 
@@ -1345,7 +1360,7 @@ Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice 
 
 Let us see how entropy relates to mathematics. Why is it that math has translated across languages and cultures? If math is simply a human idea, a useful fiction, then wouldn't people disagree on math? Few other ideas have passed those barriers. Are we somehow connecting to something outside of us in a mathematical plane of existence?
 
-Think of a square in terms of entropy. How many questions do you need to ask to describe a square?
+Think of a square in terms of entropy. How many questions do you need to ask to describe a square? Math is about the structure of information. The definition of a square provides a structure of information which we can make inferences on. We stumbled upon math and found it unreasonably effective at describing our universe. We can create new systems of math which don't map to our reality. Of course we don't always find an application, but we can explore possibilities.
 
 
 ## We are an evolutionary algorithm.
@@ -1427,7 +1442,7 @@ A major downside to belief in god is what is called "metaphysical baggage." Reli
 
 People have long known that religion gives benefits, and they follow the rituals without believing deeply. Some humans may be trapped into believing in some kind of god. For generations we have bred based on the religious teachings, intersubjective beliefs. Perhaps that has changed how some of us are structured. Perhaps god and religion are necessary parts of any intelligent species' evolutionary story, a strategy which boosts the whole species. We do have much to owe religion in its gifts to humanities, but religion served its purpose when our species could not bear the weight of our ignorance. So many of us cannot sit with uncertainty. Life is terrifying, full of suffering, and if we live long enough we will feel empty of meaning. In god, we take all of the fear and uncertainty and ease it with answers or attempts to control outcomes with prayer and ritual. God represents a safety net and the world is based on justice. People don't often pray for daily tasks, but more people pray and perform rituals in chaotic times with risky odds.
 
-Religion codifies morality and passes on preferences. By describing pure and impure religion shapes our sense of disgust. Religion builds buttons and reactions in us then presses them for control throughout our lives. People in power have used religious people as a tool, steering them by hijacking authority figures.
+Religion codifies morality and passes on preferences. By describing pure and impure, religion shapes our sense of disgust. Religion builds buttons and reactions in us then presses them for control throughout our lives. People in power have used religious people as a tool, steering them by hijacking authority figures.
 
 We should see religion for what it is, once one of the best outlooks to get a person successfully through life that is now obsolete. We should continue religion for what is good in it and abandon the rest to the dark ages.
 
@@ -1471,7 +1486,7 @@ Consciousness is a dream state. Our dreams are simply more disconnected states o
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the evolution of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
-We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize both that our feelings are entirely fallible and while our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and forces.
+We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize both that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and forces.
 
 We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
 
@@ -1480,6 +1495,7 @@ We can in principle graph life on a two dimensional plane of fitness over time. 
 Many strategies will not work. Some strategies will. Fewer still will be very successful over the long term.
 
 
+Add the blue line gif here?
 
 
 
