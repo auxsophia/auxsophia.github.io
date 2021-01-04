@@ -1270,10 +1270,14 @@ What we would expect to see in a rationally ordered universe is the laws derive 
 
 As we've seen, a good scientific theory should be tested, criticized, and remain firm against scrutiny. However, the picture of the universe we have now is strange. Is our universe simply a _slice_ of a larger, hyper object? Perhaps our universe is a slice of a larger object where just parallel to us is another slightly different universe. In the other universe, everything is the same except for a single bit, one piece of information is one where the other is zero. The _multiverse_ would then have a more complete shape like a probability distribution. The most extreme cases are on either end with the most common cases occurring in the "middle." Maybe when electrons pop in and out they seem to disappear because they are sliding through a parallel universe in a dimension we don't experience. If we were to design a universe generation machine, we could save computational resources by sharing quantum states between universes where no causal connection occurs which effect the macro/particle level. Perhaps there are an infinite number of universes just like ours but slightly different. Perhaps the universe expands and contracts in a big crunch to start the creation of the universe over in an endless loop. Perhaps infinite universes occur not simultaneously but consecutively and slightly different. We will never know all the truths of our level, and we're likely to know even less about levels above and below. We cannot reduce everything to a simple equation and explanation. There will always be mysteries and conundrums no matter how deep or how far we go. This is a part of the beauty of life. There is no final end. We can continue infinitely.
 
+I am delighted to be alive at the same time as [Stephen Wolfram](https://www.stephenwolfram.com/) developed the a theory of the everything, _[Finally We May Have a Path to the Fundamental Theory of Physics..](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)_.
+
+Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
+
 I believe Robert Sapolsky explained reducibility well. Periodicity.
 
 
-This brings us to the concept of zoom, consider "you are a human being" and the quick zoom in the statement. Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain. 
+This brings us to the concept of zoom, consider "you are a human being" and the quick zoom in the statement. Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain.
 
 
 Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
@@ -1716,7 +1720,7 @@ We are like a flowing river but orders of magnitude more complicated. The defini
 
 The total number of humans who have ever lived is estimated to be 107 billion, 170,000,000,000, 1.7x10^11. The estimated size of the diameter of the universe is 93 billion light-years, 93,000,000,000, 9.3x10^10. If we spread out every human equally in space and gave one sector, we could find the size of the sector with 1.7x10^11 divided by 9.3x10^10, resulting in 1.7/9.30 and 10^11 - 10^10 => 0.18279569892 x 10^1. We'd each get about 1.8 light-years of space to ourselves.
 
-### [The light-year is a unit of length used to express astronomical distances and measures about 9.46 trillion kilometres (9.46 x 10^12 km) or 5.88 trillion miles (5.88 x 10^12 mi).](https://en.wikipedia.org/wiki/Light-year)
+### [The light-year is a unit of length used to express astronomical distances and measures about 9.46 trillion kilometers (9.46 x 10^12 km) or 5.88 trillion miles (5.88 x 10^12 mi).](https://en.wikipedia.org/wiki/Light-year)
 
 Try to imagine what it would be like to float in the inky darkness of space all alone. If you could survive you might see the light of distant stars, asteroids, planets. You might be inside a gas cloud that rages like a storm. Perhaps you would see next to nothing, just empty space too distant from noticeable energy and matter.
 
@@ -1761,6 +1765,29 @@ A quote often attributed to Albert Camus, “The literal meaning of life is what
 The inter-subjective meaning of life is to support the sustainable flourishing of life. Just as the previous levels, inter-subjective life traps and grows information. The inter-subjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way inter-subjective ideologies are subject to natural selection. Inter-subjective meaning is the least accurate because it is based on subjective experiences which are themselves formed for function instead of truth. Inter-subjective reality is a distortion of a distortion of objective reality, but its effects have real consequences.
 
 All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a more perfect living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
+
+---
+
+### IkigAI
+
+Returning to ikigai, we can provide a framework of how to direct our lives.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/ikigai.jpg" width="80%" height="80%">
+{:refdef }
+
+We can reformulate these 4 questions in relation to the creation of an artificial superintelligence.
+
+1. What do I love to do _that supports AI_?
+2. What am I good at _for growing AI knowledge and know-how_?
+3. What does the world need _to be closer to AI_?
+4. What can I be paid for _in contributing to AI_?
+
+We can call this _ikigAI_. The more direct relationship your ikigAI is to artificial general intelligence the more aligned you are with the meaning of life. How can you **uniquely** contribute?
+
+IkigAI doesn't just apply to us now, but extends backwards and forwards. 2,000 years ago the highest ikigAI would likely be in contributing to their local library. All humans should support the growth of information. After accumulating and refining knowledge they will eventually lead to a level of understanding capable of creating AI.
+
+---
 
 We come from nothing, and we will return to nothing. From star dust to star dust.
 
