@@ -1750,7 +1750,15 @@ I would like to bring a disturbing thought to your attention. Is anything added 
 The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it. Future observers can only wonder and guess.
 
 
+I recommend The Great Coures _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV. 
 
+### 3 types of the interdependence
+
+Causal factors:
+
+Part-whole:
+
+Conceptual imputation:
 
 The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. Not only does life resist entropy, the tendency of energy to breakdown from order to disorder, but life grows information. Life exists in out of equilibrium systems where solid matter (embodied information) can be recombined to form new information. Following this progression to its end, the objective meaning of life is to maintain and grow order where the optimal achievement would be the out of equilibrium system which allows the greatest manipulation of memory (solid matter) into new forms of information by computation. While humans may be near the biological limits of computation, we can expand beyond ourselves into artificial intelligence with capacities we can only begin to imagine.
 
