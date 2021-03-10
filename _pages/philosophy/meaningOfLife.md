@@ -1074,6 +1074,12 @@ Notice we can give multiple descriptions of the same data. From the many equal i
 
 # [Ethics](https://en.wikipedia.org/wiki/Ethics)
 
+The history of ethics shows three major traditions which enhance and conflict with each other, [virtue](https://en.wikipedia.org/wiki/Virtue_ethics), [deontological](https://en.wikipedia.org/wiki/Deontological_ethics), and [consequentialist](https://en.wikipedia.org/wiki/Consequentialism) ethics. A simpler way to explain these concepts are character, rules, and outcomes.
+
+Consequentialism judges action based on outcome. Is the result of your actions good or bad? We can think of moral situations under duration, path, outcome. When time, your choices, and the outcome can be measured and known, we can potentially find an optimal moral choice. Of course we need some evaluation of the moral value of each path. If we can evaluate each choice according to levels of bad, neutral, or good, we simply choose the option which is the most good. Life is often more complex. How do we agree on a duration? What if someone only cares about their own personal life? That changes drastically what choices are made. What if there are more options than we can consider? Who decides when the outcome is settled? There aren't always clear end points.
+
+Character is your potential to do good or bad when faced with options.
+
 [Morality](https://en.wikipedia.org/wiki/Morality) is a strategy, a way of planning actions to achieve goals. The best moral strategies are dependent on the environment. The most basic moralities must meet survival needs. If a survival strategy leads to extinction, then the belief system of that morality will literally die out.
 
 > "When anthropologists like Richard Shweder and Alan Fiske survey moral concerns across the globe, they find that a few themes keep popping up from amid the diversity. People everywhere, at least in some circumstances and with certain other folks in mind, think it’s bad to harm others and good to help them. They have a sense of fairness: that one should reciprocate favors, reward benefactors and punish cheaters. They value loyalty to a group, sharing and solidarity among its members and conformity to its norms. They believe that it is right to defer to legitimate authorities and to respect people with high status. And they exalt purity, cleanliness and sanctity while loathing defilement, contamination and carnality.
@@ -1274,10 +1280,14 @@ I am delighted to be alive at the same time as [Stephen Wolfram](https://www.ste
 
 Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
 
-I believe Robert Sapolsky explained reducibility well. Periodicity.
+I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. Periodicity. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science).
 
 
-This brings us to the concept of zoom, consider "you are a human being" and the quick zoom in the statement. Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain.
+[Magnification](https://en.wikipedia.org/wiki/Magnification)
+
+
+
+Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain.
 
 
 Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
@@ -1286,7 +1296,7 @@ Biology describes life. At the cellular level we see a different yet familiar wo
 
 Cells have a code, a program, given in the RNA and DNA of the nucleus (and separately in mitochondria). DNA has symbols and a grammar. There are codes which signal when to stop reading a genetic snippet of information. DNA has jump statements, branching, control flow, essentially like an _if_ statement in programming.
 
-As Joscha Bach puts it, cells are a self-replicating Turing machines which exploit entropy gradients.
+As Joscha Bach puts it, cells are a self-replicating Turing machines which exploit entropy gradients created by the laws of physics.
 
 ### Turing Machines
 
@@ -1561,6 +1571,8 @@ However I believe a properly aligned AI will only grow more moral with knowledge
 
 Moral feelings in humans are based around the five spheres of morality, harm, authority, fairness, purity, and community. As individuals we have different weightings for each principle. Our sense of morality is likely evolved from our sense of taste. Taste guides us to eat foods which are nutritious (assuming natural foods not made by human experimentation). Nutritious food maintains, protects, and grows our bodies to be well. We are disgusted by things in our environment which would harm us or be useless, molds, invasive fungi, etc. We are attracted to some behaviors and disgusted by others in a similar way. Our bodies and minds give a subconscious evaluation of behavior resulting in a moral sense of good and bad. Moral actions can be interpreted as a path to a desired goal state where the goal is to maximize moral value/wellness/fitness. Because environments change and have different pressures, moral tastes adapt to the setting to guide intelligent and moral agents, just like a sense of taste is regional. The more complex the environment the more complex the moral system and evaluation.
 
+Much of our morality is based on wellness and disgust. Creatures evolve a sense of disgust to guide their nutrition as part of their self-organizing dissipative structure. A being's structure, its energy flows, determine what input would be toxic, causing multiple crises. Looking deeper into our moral senses show evolution simply copied the process for disgust of food to social behavior. I conjecture the algorithm our bodies compute to determine disgust has worked so successfully because it is similar in nature to Euclidean distance.
+
 We should greatly respect our innate moral senses; evolution honed our intuitions over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality. An AI system can also adapt and respond to new situations faster than our moral senses.
 
 Human morality is built on genetic and epi-genetic responses (objective reality), giving rise to our personal moral feelings (subjective reality), influenced by the moral standards of our time and society (inter-subjective reality of society's beliefs and the objective reality imposing boundaries and limitations). Our genetic moral senses are at least 10,000 years old. We're wired for close human bonds of small groups. Humans had to adapt to larger groups. We should be careful if our moral senses disagree with what is rational in a given situation. We may not have the moral update needed to reach the optimal conclusion.
@@ -1750,7 +1762,7 @@ I would like to bring a disturbing thought to your attention. Is anything added 
 The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it. Future observers can only wonder and guess.
 
 
-I recommend The Great Coures _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV. 
+I recommend The Great Coures _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV.
 
 ### 3 types of the interdependence
 
