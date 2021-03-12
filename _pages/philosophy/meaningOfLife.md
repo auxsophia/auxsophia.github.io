@@ -1078,7 +1078,9 @@ The history of ethics shows three major traditions which enhance and conflict wi
 
 Consequentialism judges action based on outcome. Is the result of your actions good or bad? We can think of moral situations under duration, path, outcome. When time, your choices, and the outcome can be measured and known, we can potentially find an optimal moral choice. Of course we need some evaluation of the moral value of each path. If we can evaluate each choice according to levels of bad, neutral, or good, we simply choose the option which is the most good. Life is often more complex. How do we agree on a duration? What if someone only cares about their own personal life? That changes drastically what choices are made. What if there are more options than we can consider? Who decides when the outcome is settled? There aren't always clear end points.
 
-Character is your potential to do good or bad when faced with options.
+Consequentialism is based on cause and effect, where the outcome of the effect is what is valued. However when we don't privilege any one state as the end point or the outcomes are unclear, we turn towards what is more immediate: the evaluation of an agent's actions. Here rules govern behavior. The hope is if we all obey moral rules for behavior, our actions overall will lead to greater good. The tough part is knowing what rules to follow and when. How do we decide what rules are best? Following the rules always can lead us to bad outcomes. In new situations we see where the rules bend and break.
+
+Character is your potential to do good or bad when faced with options. Character is about habit and control. People are not good or bad, but good people are more likely to make the right choice and bad people are more likely to make the wrong choice. A person can take good or bad action.
 
 [Morality](https://en.wikipedia.org/wiki/Morality) is a strategy, a way of planning actions to achieve goals. The best moral strategies are dependent on the environment. The most basic moralities must meet survival needs. If a survival strategy leads to extinction, then the belief system of that morality will literally die out.
 
@@ -1114,7 +1116,15 @@ We can analyze morality using the three levels of reality:
 
 * Inter-subjectively: the morality of a group, the combination of moral weights of individuals, the influence of group morality on the individual (in terms of authority and conformity) and vice versa
 * Subjectively: our individual moral sense, like a sense of taste, which guides our actions to perceived personal wellness and sustainability
-* Objectively: in terms of means and ends, instrumental versus terminal goals, cause and effect
+* Objectively: in terms of means and ends, instrumental versus terminal goals, cause and effect, what structures will persist sustainably
+
+We hear that morality is like a sense of taste. As a young person, I hated this idea. What is good and bad is not like the question of what food you like. Now I believe the analogy is quite deep. There are objective, subjective, and intersubjective levels to taste. At the subjective level we have an experience of flavor which feels pleasant, good, or unpleasant, harmful. Our sense of taste tells us what foods will nourish us or hurt us. On an objective level, taste is a prediction of how the food will interact with our self-organized structure. Our cells are running a biochemical evaluation algorithm. Based on pieces of information the parts determine the impact on the whole.
+
+The feelings of morality are like the sensations of taste. We have a sense of the good or bad impact on the parts and the whole. Just like a moldy food would hurt us and cause our bodies to get sick and fight the invasion, we experience disgust at moral injustice. What is good and bad is dependent on the structure in consideration. What is healthy for one creature is lethal for another. What is healthy for one society is disruptive for another.
+
+The evolutionary hijacking of physical taste to the application of taste on behavior is not out of bounds. Our moral sense is an extension of taste like Euclidean distance can be extended into higher dimensions. The equation to find distance in 1, 2, 3, to N dimensions is similar. The determination of taste for the wellness of the body is finding the impact on the parts and the whole for 3 dimensions, the organization of our physical body. Our moral sense is an extension to a more complex dimension, the whole of society, the parts as individuals, our actions as causes and effects.
+
+Goodness and badness are difficult to define because they are so dependent on structure. Think of good health. We can define good health as effective energy flows. Goodness is an organization or actions which promote sustainable energy flows, robustness, and resilience. Goodness often avoids or overcomes crises. Good health means you have less problems. You are ignorant of the harms you avoid when you have good health. Badness is likelihood of crisis and trauma. Badness is a harm which makes the parts or whole less robust and resilient. Trauma occurs when a harm is greater than the ability to heal and repair. The function of those parts and the whole is permanently diminished. Scar tissue does its best to function like undamaged tissue, but scars cannot reach the same level. We can grow in new ways because of trauma, but growth from trauma often involves finding a work around the scar tissue, strengthening an alternative path which otherwise would not have been taken.
 
 To get at objective morality, we need to separate inter-subjective and subjective evaluations of actions. If we use the island analogy, an empty island takes no action. We still need to think of an agent acting. Let's imagine instead an AI opponent in the game of [Go](https://en.wikipedia.org/wiki/Go_(game)). There are two sides, black and white, each trying to control the most territory on the Go board.
 
@@ -1280,7 +1290,7 @@ I am delighted to be alive at the same time as [Stephen Wolfram](https://www.ste
 
 Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
 
-I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. Periodicity. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science).
+I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). Periodicity. 
 
 
 [Magnification](https://en.wikipedia.org/wiki/Magnification)
@@ -1762,15 +1772,23 @@ I would like to bring a disturbing thought to your attention. Is anything added 
 The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it. Future observers can only wonder and guess.
 
 
-I recommend The Great Coures _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV.
+I recommend The Great Courses _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV.
 
 ### 3 types of the interdependence
 
 Causal factors:
 
+Objective meaning, the meaning of cause and effect. We can have a mapping of one cause to one effect, or multiple causes to one effect, or one to multiple, or multiple to multiple.
+
 Part-whole:
 
+The interdependence of structures. We experience part-whole interdependence as self-organized dissipative structure. Each part of you is a cell, but a person is not a cell. A person is the whole of one body. We have an influence on each cell and each cell has an influence on us. Much of this interdependence is a function of how our bodies are organized. The influence is about energy flow. How you breathe changes the function of your cells. Top-down control is the whole influencing the parts. Bottom-up control is the parts influencing the whole. In ecosystems, as the complexity increases the parts become more dependent on the whole.
+
 Conceptual imputation:
+
+Imputation is filling in missing data. We smooth over reality to make our processing more comfortable. Imputation works because our outcomes are still accurate or effective. Concepts are ideas. Conceptual imputation is when we have learned an idea which covers the gaps of reality, raw data.
+
+
 
 The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. Not only does life resist entropy, the tendency of energy to breakdown from order to disorder, but life grows information. Life exists in out of equilibrium systems where solid matter (embodied information) can be recombined to form new information. Following this progression to its end, the objective meaning of life is to maintain and grow order where the optimal achievement would be the out of equilibrium system which allows the greatest manipulation of memory (solid matter) into new forms of information by computation. While humans may be near the biological limits of computation, we can expand beyond ourselves into artificial intelligence with capacities we can only begin to imagine.
 
