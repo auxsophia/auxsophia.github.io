@@ -187,11 +187,11 @@ As for the truest, most objective, most accurate description of reality and the 
 
 ### The Island of Reality
 
-With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. Whatever we can discuss without involving a human being existing there is objective reality. I believe the world and universe continues to exist even if we aren't around to experience it. The subjective experience is when a human being appears on the island.
+With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. _Whatever we can discuss without involving a human (or conscious) being existing there is objective reality._ I believe the world and universe continues to exist even if we aren't around to experience it. The subjective experience is when a human being appears on the island.
 
-Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality. However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
+Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. _Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality._ However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
 
-Whatever phenomena requires two or more people, that is inter-subjective reality. Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity. Two people can agree on an idea, like money. Even on an island, two people can agree blue sea shells are equal in value to one mango. If one gives the other a blue shell, the other agrees to give a mango.
+_Whatever phenomena requires two or more people, that is inter-subjective reality._ Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity.
 
 Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After some time it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. They both have a value in mind for the money and what the other thinks the value is. When the two ideas of value clash they center to a shared value.
 
@@ -200,12 +200,15 @@ We live in a world where millions and billions of humans agree on a shared exper
 As we have described money on an analysis of three levels of reality, we can split our memories and experience into an analysis by three parts. Investigations into the three parts of experience in science are described by:
 
 - Objective reality
+  - _What exists without any person_
   - Physics giving rise to chemistry giving rise to biology
 
 - Subjective reality
+  - _What exists with one person_
   - Cognition and psychology arising from biology.
 
-- Inter-subjective
+- Inter-subjective reality
+  - _What exists with two or more people_
   - Psychology giving rise to mass psychology, sociology, and the social sciences
 
 So we can analyze experience on each level of reality. By considering life on each level, I hope the clarification leads us to similar conclusions. Philosophy is a reflection on the three levels of reality and how they relate to one another. I will give a perspective on many sub-problems of philosophy throughout.
@@ -341,7 +344,7 @@ Complexity appears to defy the second law of physics, which is in a closed syste
 
 ### We are like fire.
 
-Living creatures are dissipative structures. We are not unlike a fire which consumes all available fuel to expand and maintain itself until there is no more fuel. The fuel needed for life is simply more complex. We require many different kinds of fuel, food, typically other complex dissipative structures like plants and animals, to maintain and grow our own structures, our bodies. The way heat and energy are dissipated from our body is governed by physics and biology, where biology is the study of living dissipative structures. Fire doesn't appear to consciously direct itself just like we don't decide how to sweat or where our blood vessels should grow. Our bodies emerged from a long evolutionary process. Evolutionary processes selected for the rules which govern our bodies, and we need an understanding of evolution to understand life.
+Living creatures are dissipative structures. We are not unlike a fire which consumes all available fuel to expand and maintain itself until there is no more. The fuel needed for life is simply more complex. We require many different kinds of fuel, food, typically other complex dissipative structures like plants and animals, to maintain and grow our own structures, our bodies. The way heat and energy are dissipated from our body is governed by physics and biology, where biology is the study of living dissipative structures. Fire doesn't appear to consciously direct itself just like we don't decide how to sweat or where our blood vessels should grow. Our bodies emerged from a long evolutionary process. Evolutionary processes selected for the rules which govern our bodies, and we need an understanding of evolution to understand life.
 
 Just like how complex patterns emerged in Conway's Game of Life, so too did life emerge as a complex pattern from an initial state. Do the patterns we see moving across the grid decide which way they go? No, it's clearly an outcome determined by the rules of the game. The story of our life is similar.
 
@@ -637,6 +640,15 @@ I like the analogy of thinking of DNA as a book about you. The alphabet and voca
 
 Your body can also "take notes" about the current environment to adapt. These notes help to regulate gene expression and activity. Think of them as notes written in the margin of a book. In the section where your body regulates heat, there might be a note like, "we've experienced heat waves every few summers." There is both long term information on your body and short term (your life) information on adaptation. The notes are called [epigenetics](https://en.wikipedia.org/wiki/Epigenetics).
 
+All of this comes down to cells and cellular communication. The book, [The Secret Language of Cells, by Jon Lieff MD](https://jonlieffmd.com/book/the-secret-language-of-cells), describes this topic. Pause to consider that every cell in our body is communicating on four variables.
+
+- Size
+- Location
+- Age
+- Time of day
+
+These four senses are the basis of their shared reality. A cell has a size, a location in the body and relative to other cells. The age of a cell; its moment in its life span. The time of day is useful even to a cell which regulates its function according to the sun and moon. When we see a person we immediately have a sense for their size, distance, and age. Can you look at the sky and have a sense for time in a 24 hour cycle?
+
 Cells are open systems out of equilibrium. Cells take in energy and matter and expel energy and matter. One organelle of the cell, the mitochondria, produces an excess of energy to the cell for movement, function, and growth. Spend some time searching for videos and art of the inner function of a cell. Ask yourself, "why does the cell live?" If you could ask a cell, what do you expect it to say? When down to molecular biology, we can see the complex interplay of every part is driven by the laws of physics and chemistry. Molecules bind based on their own and combined properties. The cell is simply functioning by its code.
 
 Somehow by interaction and communication, a multicellular organism gives rise to a person with conscious experience. Cells communicate by chemical signaling with the cells around them. While human cells are of interest, just like the body can't live without water, our bodies can't function without bacteria. Bacterial cells live in and around your body, both helping and hurting. The mitochondria was originally a bacteria cell absorbed by an animal cell. Other bacteria are separate but symbiotic; they co-evolved with us. Bacteria cells most likely communicate with us on levels we don't understand. Some of the most import bacteria we have are gut bacteria which help us breakdown food. Consider that only 30% of the chemicals (neuro-transmitters) needed for your brain to function are made in the organ. 70% of your neuro-transmitters come from digestion in the gut. Consider that the function and signaling of your gut bacteria possibly have the largest impact on your thinking. This knowledge should impact how we view people and all organisms. You are not only your genetic and epigenetic information but the bacteria you have cultivated throughout your life.
@@ -903,7 +915,7 @@ Consider the relationship of altitude and temperature. The higher up we go away 
 
 If you ask a child who has only seen buses with a bus driver and ask them, "can there be a bus without a bus driver?" they should answer yes. We intuitively know bus drivers are separate from buses even though 100% of buses in observations have bus drivers, how? Are we justified?
 
-In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. They argue the topic is confused because of a lack of precise language to formulate cause and effect questions. Pearl argues for a three layered explanation of interpreting observations, seeing, doing, and imagining. (See figure 1.2 from the book.)
+In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. Going back to the first paper on linear regression, scientists have long been taught not to infer causation from mere correlation, to observations occurring together with no meaningful relationship. Further back in time, philosophers have many arguments and questions regarding cause and effect relationships. Pearl and Mackenzie argue the topic is confused because of a lack of precise language to formulate cause and effect questions. Pearl describes a three layered explanation of intelligence up to and including understanding cause and effect, seeing, doing, and imagining. (See figure 1.2 from the book.)
 
 **1. Seeing (Association)**
 
@@ -943,11 +955,7 @@ One example is _does smoking cause lung cancer?_ Here we have an important healt
 <img src="../../images/MoL/walking-cause.png" width="75%" height="75%">
 {: refdef}
 
-
-
-
-
-
+With precise language to ask properly formed cause and effect questions we can simulate this reasoning in machines. Machine inference of cause and effect is [developing more each day](/ai/causeEffect/). Other machine learning models such as trees are modified to causal decision trees.
 
 ---
 
@@ -1048,9 +1056,9 @@ Our intrinsic reward can be related to Bayesian inference in the difference betw
 
 ---
 
-With this framework, many difficult questions can now be answered. Notice the framework contributes to the compression of our history of experience with intelligent agents. We can understand and predict the actions of intelligent actions within the context of the framework.
+With this framework, many difficult questions can now be answered. Notice the framework contributes to the compression of our history of experience with intelligent agents. We can understand and predict the actions of intelligent agents within the context of the framework.
 
-Why are some experiences beautiful to some and not to others? - Because each individual has their own unique experiences which effects their ability to compress new experiences.
+Why are some experiences beautiful to some and not to others? - Because each individual has their own unique experiences which determines their ability to compress new experiences.
 
 Is beauty subjective or objective? - Both. Aspects of beauty will be objective such as geometric regularities which reduce the size of the compressed experience, therefore creating a strong sense of beauty. However, each person has a unique perspective due to their experience and compression ability.
 
@@ -1069,6 +1077,23 @@ The existentialist _Jean-Paul Sartre_ said "existence precedes essence." Many ha
 ### If an intelligent agent wants meaning, they will have to reflect on their history to identify meaningful experiences. If an intelligent agent wants more meaningful direction and control of their future, they must work to adapt their internal representations of the world to direct their actions toward meaning, a cause and effect relationship of their past experiences cohering with expected futures.
 
 Notice we can give multiple descriptions of the same data. From the many equal interpretations we choose one. Our choices can change and evolve over time, but how do we choose an interpretation? How should we? If we want a meaningful life, we should choose a description of our history which opens opportunity for further growth and compression.
+
+While we have talked much about meaning in terms of cause and effect, there are other types of meaning, interdependence. I recommend The Great Courses _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV.
+
+### 3 types of the interdependence
+
+Causal factors:
+
+Objective meaning, the meaning of cause and effect. We can have a mapping of one cause to one effect, or multiple causes to one effect, or one to multiple, or multiple to multiple.
+
+Part-whole:
+
+The interdependence of structures. We experience part-whole interdependence as self-organized dissipative structures. Each part of you is a cell, but a person is not a cell. A person is the whole of one body. We have an influence on each cell and each cell has an influence on us. Much of this interdependence is a function of how our bodies are organized. The influence is about energy flow. How you breathe changes the function of your cells. Top-down control is the whole influencing the parts. Bottom-up control is the parts influencing the whole. You can hold your breath (top-down), but your cells will send hunger for air (bottom-up). We are not just one person. We are a part of lower and higher levels of systems. In ecosystems, as the complexity increases the parts become more dependent on the whole. 
+
+Conceptual imputation:
+
+Imputation is filling in missing data. We smooth over reality to make our processing more comfortable. Imputation works because our outcomes are still accurate or effective. Concepts are ideas. Conceptual imputation is when we have learned an idea which covers the gaps of reality, raw data.
+
 
 ---
 
@@ -1290,7 +1315,7 @@ I am delighted to be alive at the same time as [Stephen Wolfram](https://www.ste
 
 Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
 
-I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). Periodicity. 
+I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). Periodicity.
 
 
 [Magnification](https://en.wikipedia.org/wiki/Magnification)
@@ -1771,22 +1796,6 @@ I would like to bring a disturbing thought to your attention. Is anything added 
 
 The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it. Future observers can only wonder and guess.
 
-
-I recommend The Great Courses _The Meaning of Life: Perspectives from the World's Great Intellectual Traditions_ by Professor Jay L. Garfield, particularly his lecture on the Buddha. The below is referenced from lecture 34 on His Holiness the Dalai Lama XIV.
-
-### 3 types of the interdependence
-
-Causal factors:
-
-Objective meaning, the meaning of cause and effect. We can have a mapping of one cause to one effect, or multiple causes to one effect, or one to multiple, or multiple to multiple.
-
-Part-whole:
-
-The interdependence of structures. We experience part-whole interdependence as self-organized dissipative structure. Each part of you is a cell, but a person is not a cell. A person is the whole of one body. We have an influence on each cell and each cell has an influence on us. Much of this interdependence is a function of how our bodies are organized. The influence is about energy flow. How you breathe changes the function of your cells. Top-down control is the whole influencing the parts. Bottom-up control is the parts influencing the whole. In ecosystems, as the complexity increases the parts become more dependent on the whole.
-
-Conceptual imputation:
-
-Imputation is filling in missing data. We smooth over reality to make our processing more comfortable. Imputation works because our outcomes are still accurate or effective. Concepts are ideas. Conceptual imputation is when we have learned an idea which covers the gaps of reality, raw data.
 
 
 
