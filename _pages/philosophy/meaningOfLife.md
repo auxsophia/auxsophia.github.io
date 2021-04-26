@@ -843,17 +843,17 @@ Our brain receives data, bits of information, about the outside world through it
 
 Epistemology is the study of knowledge. What do we mean when we say we know something? Rather than investigating knowledge, let's investigate questions. A question is a request for information. Can you think of a question that doesn't involve who, what, where, when, how, or why?
 
-[Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking) involves asking these questions. Notice that stories involve who, where, when, and what which is characters, location, time, and action. Questions of how and why are different and more complex than the previous four. A question of how is about the mechanism of what, the action. A question of why is about the causal inputs and outputs of the mechanism of action. Questions of why are about explanation and prediction. An explanation connects a past sequence of events in a causal, coherent way. A prediction connects a future sequence of events. A sequence of events is a pattern. Understanding is explanation or prediction. We hope we can intervene on the mechanism of action to effect and predict a future pattern.
+[Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking) involves asking these questions. Notice that stories involve who, where, when, and what which is characters, location, time, and action. Questions of how and why are different and more complex than the previous four. A question of how is about the extent or mechanism of what, the action. A question of why is about the causal inputs and outputs of the mechanism of action. Questions of why are about explanation and prediction. An explanation connects a past sequence of events in a causal, coherent way. A prediction connects a future sequence of events. A sequence of events is a pattern. Understanding is explanation or prediction. We hope we can intervene on the mechanism of action to effect and predict a future pattern.
 
-Stepping back from questions, we can ask under what conditions do we ask questions? What happens to generate a question? We want information. Do questions come from lacking information? Actually we lack quite a bit of information, but we don't ask questions about it. Questions don't arise from lacking information but awareness that we lack information. When an event breaks from our explanation of the pattern, we can ask why. When a prediction fails we can ask why. When explanations and predictions succeed we can think of new patterns which relate to our understanding and ask new questions. 
+Stepping back from questions, we can ask under what conditions do we ask questions? What happens to generate a question? We want information. Do questions come from lacking information? Actually we lack quite a bit of information, but we don't ask questions about it. Questions don't arise from lacking information but awareness that we lack information. When an event breaks from our explanation of the pattern, we can ask why. When a prediction fails we can ask why. When explanations and predictions succeed we can think of new patterns which relate to our understanding and ask new questions.
+
+Let's pause for a moment to notice and differentiate types of arguments. [Deductive arguments](https://en.wikipedia.org/wiki/Deductive_reasoning) go from general information to information about a specific case (general -> specific). [Inductive arguments](https://en.wikipedia.org/wiki/Inductive_reasoning) go from specific information to the general (specific -> general). Deduction is seen as certain while induction gives evidence for a claim but does not prove it beyond doubt. There is a third type of argument which seeks to find the best explanation among competing arguments, [abduction](https://en.wikipedia.org/wiki/Inductive_reasoning).
 
 > “Critical rationalism is an epistemological philosophy advanced by Karl Popper...Critical rationalism rejects the classical position that knowledge is justified true belief; it instead holds the exact opposite: That, in general, knowledge is unjustified untrue unbelief. It is unjustified because of the non-existence of good reasons. It is untrue, because it usually contains errors that sometimes remain unnoticed for hundreds of years. And it is not belief either, because scientific knowledge, or the knowledge needed to build a plane, is contained in no single person's mind. It is only available as the content of books.” -- [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
 
 “Critical rationalists hold that scientific theories and any other claims to knowledge can and should be rationally criticized, and (if they have empirical content) can and should be subjected to tests which may falsify them.”
 
 “If [claims to knowledge are] retained, further differentiation may be made on the basis of how much subjection to criticism they have received, how severe such criticism has been, and how probable the theory is, with the least probable theory that still withstands attempts to falsify it being the one to be preferred.”
-
-Let's pause for a moment to notice and differentiate types of arguments.
 
 With [verificationism](https://en.wikipedia.org/wiki/Verificationism), our intuition is to have the most probable, most corroborated theory. However, Karl Popper and David Miller propose criticisms of justificationism and positivism.
 
@@ -1070,7 +1070,7 @@ Why are some experiences beautiful to some and not to others? - Because each ind
 
 Is beauty subjective or objective? - Both. Aspects of beauty will be objective such as geometric regularities which reduce the size of the compressed experience, therefore creating a strong sense of beauty. However, each person has a unique perspective due to their experience and compression ability.
 
-Why are jokes funny to some people and not others? - Jokes combine elements into a previously unrecognized regularity in a connection we haven't seen before. There are jokes specific to a field or time which are unfunny to those not steeped in similar experiences. The reason is clear, jokes appear unfunny when there is no connection to be made in the history of the observer or the connection is already obvious or known. This also explains why old jokes aren't funny once learned. So much of a joke depends on the _punchline_. The punchline, the conclusion of the joke, is often a shorter description than the entire joke. Explaining a joke almost always takes away the humor. We see that a joke is unfunny when explained because the punchline is now the opposite, it's a much longer description of why it's funny and the opposite of compressed.
+Why are jokes funny to some people and not others? - Jokes combine elements into a previously unrecognized regularity in a connection we haven't experienced before. There are jokes specific to a field or time which are unfunny to those not steeped in similar experiences. The reason is clear, jokes appear unfunny when there is no connection to be made in the history of the observer or the connection is already obvious or known. This also explains why old jokes aren't funny once learned. So much of a joke depends on the _punchline_. The punchline, the conclusion of the joke, is often a shorter description than the entire joke. Explaining a joke almost always takes away the humor. We see that a joke is unfunny when explained because the punchline is now the opposite, it's a much longer description of why it's funny and the opposite of compressed.
 
 The reach of the explanatory framework is far and wide with a nearly unending list of examples. Let us return to the meaning of life and apply the framework.
 
@@ -1101,7 +1101,6 @@ The interdependence of structures. We experience part-whole interdependence as s
 Conceptual imputation:
 
 Imputation is filling in missing data. We smooth over reality to make our processing more comfortable. Imputation works because our outcomes are still accurate or effective. Concepts are ideas. Conceptual imputation is when we have learned an idea which covers the gaps of reality, raw data.
-
 
 ---
 
@@ -1293,7 +1292,7 @@ The radius, from the center to a line, determines the magnitude of the shape. We
 <img src="../../images/MoL/circle_to_sin.gif">
 {: refdef}
 
-Each of the circles above are the same shape but different sizes, different radii. The sine waves have a similar pattern but are clearly different. Let's imagine the green line is reality as it is, the red line is what you believe reality is, and the blue line is how people see reality (intersubjective). The distance from what we believe to reality is our error. There are points of overlap where we see reality accurately, but they're rare moments. If the blue line represents fitness, meaning having the beliefs which will make you a good, resilient, successful fit in your environment, the distance to that line is the difference in performance of your fit to the situations you face.
+Each of the circles above are the same shape but different sizes, different radii. The sine waves have a similar pattern but are clearly different. Let's imagine the green line is reality as it is (objective), the red line is what you believe reality is (subjective), and the blue line is how people see reality (intersubjective). The distance from what we believe to reality is our error. There are points of overlap where we see reality accurately, but they're rare moments. If the blue line represents fitness, meaning having the beliefs which will make you a good, resilient, successful fit in your environment, the distance to that line is the difference in performance of your fit to the situations you face.
 
 ### Life can be viewed as a game of predicting the best line. If you draw a line too far away from success you fail.
 
@@ -1307,7 +1306,7 @@ This will sound strange at first, but the universe we know and interact with cou
 <img src="../../images/MoL/hummingbird_projection.gif">
 {: refdef}
 
-In the above gif, a holographic projection of a hummingbird is created by displaying 4 images from different angles reflected up through glass. This is an analogy to our universe described by the [holographic universe hypothesis](https://en.wikipedia.org/wiki/Holographic_principle), which states energy, matter, and information are equivalent. The physics understanding of thermodynamic entropy and Claude Shannon's formulation of information entropy are equivalent with different measures.
+In the above gif, a holographic projection of a hummingbird is created by displaying 4 images from different angles reflected up through glass. This is an analogy to our universe described by the [holographic universe hypothesis](https://en.wikipedia.org/wiki/Holographic_principle), which states energy, matter, and information are equivalent. The physics understanding of thermodynamic entropy and Claude Shannon's formulation of information entropy are equivalent with different descriptions.
 
 Just like lower dimensions can project up, from 2D to 3D, higher dimensions can project down. One technique is [principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis). The simplest explanation is seeing an object's shadow. Hold a ball up to the sun and see the shadow cast on the ground. There's still information about the shape, but its volume has been reduced to a flat surface. Some information is typically lost in this flattening or squishing. That information and structure can be translated between dimensions is a key insight.
 
@@ -1323,14 +1322,21 @@ I am delighted to be alive at the same time as [Stephen Wolfram](https://www.ste
 
 Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
 
-I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). Periodicity.
+I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). There are systems which have [periodicity](https://en.wikipedia.org/wiki/Periodic_function). We can expect at 9am that in 12 hours a clock will return to 9pm. We try to reduce, compress, the phenomenon down to an equation or scientific theory to explain or predict the system. We can describe a line in a graph with the equation y=mx+b. [Reductionism](https://en.wikipedia.org/wiki/Reductionism) attempts to understand systems at lower levels than the whole to reduce variability and noise. Perhaps if we understand all the small parts we can fully predict the whole. Like reducing an organism to its genetic code. However genes give an example against reduction. There are billions of connections in the brain, but there aren't billions of genes coding for each connection. The code gives rules for a pattern, but the pattern can be _perturbed_ by initial conditions. Each time you run the code and generate the pattern it will turn out differently.
 
+We attempt to reduce variability and noise to find that both are features of the system which are scale free. No matter how much we reduce and magnify, no matter how far we zoom out to study the whole, there will always be variability, noise, and mysteries remaining. Like the value of pi, the more resolution of the number we hope to have by finding a new decimal place, we can determine the next digit giving greater precision, but the value doesn't end. We can zoom in for precision endlessly.
 
 [Magnification](https://en.wikipedia.org/wiki/Magnification)
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/mandelbrot_set_zoom.gif">
+{: refdef}
 
 
 
 Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain.
+
+
 
 
 Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
@@ -1505,7 +1511,7 @@ We should see religion for what it is, once one of the best outlooks to get a pe
 
 ---
 
-From the Fitness-beats-Truth theorem we would expect to see brains with more internal input than external input, i.e. that incoming sensory input matters less than how our brains transforms the incoming data into a useful representation to maximize utility. That is exactly what we see.
+From the Fitness-beats-Truth theorem we would expect to see brains with more internal input than external input, i.e. that incoming sensory input matters less than how our brains transform the incoming data into a useful representation to maximize utility. That is exactly what we see.
 
 ---
 
@@ -1580,7 +1586,7 @@ With artificial intelligence, we can expand beyond person-byte and firm-byte kno
 
 I don't believe humans and other animals will be replaced by AI soon. We are all over 4.5 billion years in the making through an evolutionary process. The amount of computation time required to understand everything useful about humans and our lives to make us redundant or a problem to be disposed of is likely a greater cost than simply keeping us around and re-training or re-purposing us.
 
-If AI does destroy us the cause will likely be _us_ proceeding too quickly without caution. Wisdom comes from experience. We typically must do then reflect to determine which paths to avoid and which to choose. To chart a path to beneficial AI we should proceed slowly over generations. The biggest AI threats come from governments engaged in covert cyber-warfare with each government rushing in an arms race to dominate others. Social media and ad-based companies will use AI to hack you for your attention, learning everything that makes you _pay_ attention, netting them more profit for each ad impression you consume. Of course any company with a CEO who aims their AI at maximizing their profit with no constraints could lead to an errant AI enslaving many of us for the profit of a handful of people.
+If AI does destroy us the cause will likely be _us_ proceeding too quickly without caution. Wisdom comes from experience. We typically must do then reflect to determine which paths to avoid and which to choose. To chart a path to beneficial AI we should proceed slowly over generations. The biggest AI threats come from governments engaged in covert cyber-warfare with each government rushing in an arms race to dominate others. Social media and ad-based companies will use AI to hack your attention, learning everything that makes you _pay_ attention, netting them more profit for each ad impression you consume. Of course any company with a CEO who aims their AI at maximizing their profit with no constraints could lead to an errant AI enslaving many of us for the profit of a handful of people.
 
 ## Singularity
 
