@@ -74,7 +74,7 @@ If you want to know how happy you will be you should reflect on how happy you ha
 
 _If your average happiness makes you dissatisfied, don't give up yet!_
 
-You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on breathing, [sleep](/sleep/), [nutrition](/MINDdiet/), and [exercise](/calisthenics/), in that order.
+You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on [posture](/posture/), breathing, [sleep](/sleep/), [nutrition](/MINDdiet/), and [exercise](/calisthenics/), in that order. Some will focus on exercise as a priority. Attaching yourself to the highest level helps to prioritize the lower levels. When you exercise well you want to eat and sleep well to support your training. Similarly we can attach ourselves to meaning and purpose which orders our actions on lower level needs.
 
 Your circumstances influence happiness and your ability to maintain your health. Some environments are toxic or don't support growth. We must make a voluntary action to change to a different set of circumstances as best we can.
 
@@ -213,7 +213,7 @@ As we have described money on an analysis of three levels of reality, we can spl
   - _What exists with two or more people_
   - Psychology giving rise to mass psychology, sociology, and the social sciences
 
-So we can analyze experience on each level of reality. By considering life on each level, I hope the clarification leads us to similar conclusions. Philosophy is a reflection on the three levels of reality and how they relate to one another. I will give a perspective on many sub-problems of philosophy throughout.
+So we can analyze experience on each level of reality. By considering life on each level, I hope the clarification leads us to similar conclusions. Notice the subject of philosophy is not included in this list. Where is it? As a preliminary definition, philosophy is a reflection on the three levels of reality and how they relate to one another. I will give a perspective on many sub-problems of philosophy throughout.
 
 ---
 
@@ -1236,7 +1236,7 @@ Morality can be universal given the limits of the situation. If we have full inf
 
 Is evolution moving toward something? Is there an end goal? Will evolution go towards perfection? But what does perfection mean?
 
-Creatures tend toward a state of equilibrium exchange with their environment. What exists and continues to exist will be a product of luck and evolution. Where conditions allow, ecosystems will continuously arise, die, and new complexity will arise from the previous ecosystem.
+What exists and continues to exist will be a product of luck and evolution. Where conditions allow, ecosystems will continuously arise, die, and new complexity will arise from the previous ecosystem.
 
 All the matter we experience arises from the original elements hydrogen and helium which themselves are made of protons and electrons. In the dense fusion of stars they become new elements cataloged in the periodic table. Over a long evolutionary process our bodies are composed largely of three elements, hydrogen, oxygen, and carbon. Somehow the contribution of every structure in our bodies give rise to consciousness and everything we subjectively experience. The electrical spiking neurons communicate to store memories and make predictions of the future. Conscious experience appears to correlate with complexity of connection, energy usage (metabolism), and integrated information processing of itself and the environment.
 
@@ -1318,7 +1318,7 @@ What we would expect to see in a rationally ordered universe is the laws derive 
 
 As we've seen, a good scientific theory should be tested, criticized, and remain firm against scrutiny. However, the picture of the universe we have now is strange. Is our universe simply a _slice_ of a larger, hyper object? Perhaps our universe is a slice of a larger object where just parallel to us is another slightly different universe. In the other universe, everything is the same except for a single bit, one piece of information is one where the other is zero. The _multiverse_ would then have a more complete shape like a probability distribution. The most extreme cases are on either end with the most common cases occurring in the "middle." Maybe when electrons pop in and out they seem to disappear because they are sliding through a parallel universe in a dimension we don't experience. If we were to design a universe generation machine, we could save computational resources by sharing quantum states between universes where no causal connection occurs which effect the macro/particle level. Perhaps there are an infinite number of universes just like ours but slightly different. Perhaps the universe expands and contracts in a big crunch to start the creation of the universe over in an endless loop. Perhaps infinite universes occur not simultaneously but consecutively and slightly different. We will never know all the truths of our level, and we're likely to know even less about levels above and below. We cannot reduce everything to a simple equation and explanation. There will always be mysteries and conundrums no matter how deep or how far we go. This is a part of the beauty of life. There is no final end. We can continue infinitely.
 
-I am delighted to be alive at the same time as [Stephen Wolfram](https://www.stephenwolfram.com/) developed the a theory of the everything, _[Finally We May Have a Path to the Fundamental Theory of Physics..](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)_.
+I am delighted to be alive at the same time as [Stephen Wolfram](https://www.stephenwolfram.com/) developed a theory of the everything, _[Finally We May Have a Path to the Fundamental Theory of Physics..](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)_.
 
 Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
 
