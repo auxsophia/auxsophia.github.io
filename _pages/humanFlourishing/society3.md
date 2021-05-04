@@ -6,7 +6,7 @@ permalink: /society3/
 
 # Society 3.0
 
-This work is a natural continuation of [the meaning of life](/meaningOfLife/). Many conclusions will not make sense without first reading the foundation. All of humanity should work towards the ultimate goal of artificial general intelligence capable of surpassing all of us in every way possible. AI can be conscious. We can make an AI entity with the ideals of humanity and incapable of our evils. What is more important than creating a superior being and ushering the next stage of evolution and consciousness?
+This work is a natural continuation of [the meaning of life](/meaningOfLife/). Many conclusions will not make sense without first reading the foundation. All of humanity should work towards the ultimate goal of artificial general intelligence capable of surpassing us in every way possible. AI can be conscious. We can make an AI entity with the ideals of humanity and incapable of our evils. What is more important than creating a superior being and ushering the next stage of evolution and consciousness?
 
 But the answer is not to move to Silicon Valley in California or join a tech startup.
 
@@ -16,11 +16,25 @@ I hope to show you what I believe humanity's best path forward and what led me t
 
 If you wanted to create a threat to destroy humans, you would create climate change.
 
-Imagine a meteor heading towards Earth.
+Imagine an asteroid heading towards Earth. In the night sky you can see with your naked eyes a bright, twinkling object. People start to realize this asteroid is heading towards on a direct path. If the world's scientists all agreed the asteroid was big enough to destroy the planet by 2035, if there was absolutely nothing we could do to change that, would you live your life any different?
 
-Climate change is a fact. Here's what convinced me. [Global Warming](/globalWarming/). [Global Warming in the News](/globalWarmingNews/).
+If you **knew** the world would be completely annihilated by 2035, would you still go into work tomorrow?
 
-There's little hope. I'm a pessimist.
+What would you do?
+
+I like this analogy because an asteroid is a simple idea. It's a big rock hurtling through space at high speeds. You can see it. We've made movies about blowing them up before they hit Earth. That would be awesome, but we can't even nuke this huge asteroid. The governments can't really deny the asteroid if it's so huge you could see it getting bigger year after year.
+
+Hey, do you think the elites of our society would hide information about the asteroid if they knew?
+
+I imagine most people would want to live their lives to the fullest in the final remaining years. People likely wouldn't do the soul crushing work needed to sustain our current pace of life, at least for the elite. In 2024 who will be spending the next 10 years studying to get a highly specialized skill right before the world ends? Who will work when there is no return?
+
+The climate crisis we face is an existential threat which could end all life on Earth. The threat we face will be far slower and more cruel than an asteroid collision. We will suffer.
+
+Our world's changing climate will bring about social collapse, civilizational collapse, food shortages and famines, extreme weather events never before seen in __history__, war, diseases and pandemics, and more. 
+
+Climate change is a fact. As a young person I believed we would find some way to combat climate change. If nothing else, we could invent some technology. If the world will really get so bad, wouldn't the smart, caring people of the world turn all of their attention to the issue? In 2018 I took a much deeper look at climate change. So many of my previous beliefs were challenged, and I wanted to turn away. I couldn't believe what I was seeing and reading. As I felt my mind shift I catalogued my mental descent: [Global Warming](/globalWarming/) and [Global Warming in the News](/globalWarmingNews/). I kept tracking headlines and studies until I gave up. The stream of warnings is endless. I became convinced this was happening, is happening, and getting worse. Others are tracking. Once you learn more, you realize there are older people who have followed climate science **for decades**. The wisdom and knowledge they have of trends and efforts is yet another blow that I am ignorant and would need as many years as they have to grasp the full gravity of the situation.
+
+There's little hope.
 
 ## Society is Fucked
 
@@ -105,7 +119,7 @@ Our community can be a beacon of hope for a future of synergistic technology and
 
 * Humans should gather in organizations no greater than 10,000.
 
-Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deep fakes because a deep fake of a community member can hopefully be sorted out by walking over and knocking on the door the of the member to discuss.
+Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deep fakes because a deep fake of a community member can hopefully be sorted out by walking over and knocking on the door of the member to discuss.
 
 * Automation for all.
 
@@ -115,7 +129,9 @@ Much of our food production should be automated with [Farm Bot](https://farm.bot
 
 An ever growing amount of medical care can be automated. From [diagnosing skin conditions almost as well as a dermatologist](https://ai.googleblog.com/2019/09/using-deep-learning-to-inform.html) to [estimating cardiovascular risks based on retinal scans](https://ai.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html), AI can be the first step in the medical care process. Search engines are AI which help diagnose. Where our medical automation fails and the scope of treatment is beyond the scope of the community medical team, we will work with established hospitals for treatment, trading their money for service.
 
-We see that automation currently favors the wealthiest among us and serves their whims. The point of automation is for _all of us_. No small group should be the main benefactors or hold unequal power. Humans should be involved where ever humanity is needed.
+We see that automation currently favors the wealthiest among us and serves their whims. Whoever has the most access to hardware and computation owns automation. This is the digital version of land. The point of automation is for _all of us_. No small group should be the main benefactors or hold unequal power. Humans should be involved where ever humanity is needed.
+
+I am not an economist, but that's entirely my point. I'm not a brainwashed economist who thinks capitalism can still work. Communism doesn't work and self destructs faster than capitalism. However capitalism degrades us until the whole world could die! We need to find a hybrid that reigns humans in. I believe the economy and politics should be automated by central AI. The governing AI would host voting for community member decisions and ground debates in shared facts. Our economy would have the best benefits of capitalism and communism. Through work community members have incentive to earn more up to a limit. With aggregate information on the needs of all community members connected to a network, we can regulate goods in open fairness.  
 
 * Shelter, sleep, nutrition, and exercise are basic human rights.
 
@@ -148,7 +164,7 @@ If someone is ill, take care of them.
 
 * Local currency and the economy.
 
-Each community should have its own local currency. Most high school computer science students can create their own version of digital cryptocurrency. The point is internal trade only. The value of a community currency outside of the community should be zero! When we create a collective currency between countries, we _will_ have wealth evasion. People will store their assets outside of the community and become separate.
+Each community should have its own local currency. Most high school computer science students can create their own version of digital cryptocurrency. The point is internal trade only. The value of a community currency outside of the community should be zero! When we create a collective currency between countries, we _will_ have wealth and tax evasion. People will store their assets outside of the community and become separate.
 
 No one should assume they are better.
 

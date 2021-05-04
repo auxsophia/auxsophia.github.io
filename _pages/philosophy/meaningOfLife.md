@@ -1739,7 +1739,7 @@ It is unclear how much of our DNA is viral DNA which serves no purpose other tha
 
 Our consciousness is an evolving pattern of activity embodied in our cellular activity, so what is personal identity? The self is an illusion we generate because fitness beats truth. We are the conscious phenomena at a given moment, but these states changing over time is the closest we can get to a continued self. One pattern of activity changes into another. When we identify a person, we are identifying patterns of activity, beliefs and reactions, which change over time.
 
-_Only a continuous, unbroken stream of consciousness is the self, identity_.
+_Only a continuous, unbroken stream of consciousness is the self, identity, ego_.
 
 Once the link is broken, we split into different entities with unique yet overlapping patterns of conscious activity. **When we wake, a new consciousness is born. When we sleep, that conscious pattern is broken.** We live and die everyday of our lives, but for most people only two days in their lives will be significantly less than 24 hours, their birth and death. When we sleep our bodies go through a learning and updating process. The experiences of yesterday are encoded in the body, changing your skills and reactions. The pattern of consciousness is subtly different. Over time these changes can be drastic.
 
