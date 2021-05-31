@@ -30,11 +30,13 @@ I imagine most people would want to live their lives to the fullest in the final
 
 The climate crisis we face is an existential threat which could end all life on Earth. The threat we face will be far slower and more cruel than an asteroid collision. We will suffer.
 
-Our world's changing climate will bring about social collapse, civilizational collapse, food shortages and famines, extreme weather events never before seen in __history__, war, diseases and pandemics, and more. 
+Our world's changing climate will bring about social collapse, civilizational collapse, food shortages and famines, extreme weather events never before seen in __history__, war, diseases and pandemics, and more.
 
 Climate change is a fact. As a young person I believed we would find some way to combat climate change. If nothing else, we could invent some technology. If the world will really get so bad, wouldn't the smart, caring people of the world turn all of their attention to the issue? In 2018 I took a much deeper look at climate change. So many of my previous beliefs were challenged, and I wanted to turn away. I couldn't believe what I was seeing and reading. As I felt my mind shift I catalogued my mental descent: [Global Warming](/globalWarming/) and [Global Warming in the News](/globalWarmingNews/). I kept tracking headlines and studies until I gave up. The stream of warnings is endless. I became convinced this was happening, is happening, and getting worse. Others are tracking. Once you learn more, you realize there are older people who have followed climate science **for decades**. The wisdom and knowledge they have of trends and efforts is yet another blow that I am ignorant and would need as many years as they have to grasp the full gravity of the situation.
 
 There's little hope.
+
+There's one measurement about the environment you should follow. The previous 5 extictions on Earth occurred when 
 
 ## Society is Fucked
 
