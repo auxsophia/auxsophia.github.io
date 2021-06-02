@@ -36,7 +36,11 @@ Climate change is a fact. As a young person I believed we would find some way to
 
 There's little hope.
 
-There's one measurement about the environment you should follow. The previous 5 extictions on Earth occurred when 
+### There's one measurement about the environment you should follow: atmospheric carbon dioxide.
+
+[Measured in CO_2 parts per million (ppm)](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide), this one objective number gives us a comparison to the past. For the last 800,000 years the CO_2 ppm hasn't exceeded 300. 
+
+The previous 5 extictions on Earth occurred when
 
 ## Society is Fucked
 
