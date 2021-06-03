@@ -1273,7 +1273,7 @@ Think of one dimension which is a number line. Cross another number line at zero
 Learn the anatomy of a wave function. We have the horizontal axis where points above it (crests) are positive and points below (troughs) are negative.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/traverse_wave.gif">
+<img src="../../images/MoL/transverse_wave.gif">
 {: refdef}
 
 In the above transverse wave, imagine the red dot is you in the current moment. The present is flowing from the past into the future on a flowing pattern. So much information can be described by a simple wave function!
@@ -1310,12 +1310,14 @@ This will sound strange at first, but the universe we know and interact with cou
 
 In the above gif, a holographic projection of a hummingbird is created by displaying 4 images from different angles reflected up through glass. This is an analogy to our universe described by the [holographic universe hypothesis](https://en.wikipedia.org/wiki/Holographic_principle), which states energy, matter, and information are equivalent. The physics understanding of thermodynamic entropy and Claude Shannon's formulation of information entropy are equivalent with different descriptions.
 
+### Energy, matter, and information are equivalent
+
 Just like lower dimensions can project up, from 2D to 3D, higher dimensions can project down. One technique is [principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis). The simplest explanation is seeing an object's shadow. Hold a ball up to the sun and see the shadow cast on the ground. There's still information about the shape, but its volume has been reduced to a flat surface. Some information is typically lost in this flattening or squishing. That information and structure can be translated between dimensions is a key insight.
 
 What we would expect to see in a rationally ordered universe is the laws derive naturally from structure. Similar to how the internal angles of a triangle add up to 180 degrees, our universe would appear given certain conditions, structures, and values. What could a fundamental shape of the universe be? [One physicist champions an interesting hypothesis](https://www.ted.com/talks/garrett_lisi_an_8_dimensional_model_of_the_universe?language=en), the fundamental geometry of the universe is an [E8 lattice](https://en.wikipedia.org/wiki/E8_lattice). This ["An Exceptionally Simple Theory of Everything"](https://en.wikipedia.org/wiki/An_Exceptionally_Simple_Theory_of_Everything) says particles like electrons, protons, everything, all emerge from the essential properties of E8 lattices. The below image is of an E8 lattice projected to 2 dimensions. _Existence_ could be at the center.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/e8.jpeg">
+<img src="../../images/MoL/e8.jpg">
 {: refdef}
 
 As we've seen, a good scientific theory should be tested, criticized, and remain firm against scrutiny. However, the picture of the universe we have now is strange. Is our universe simply a _slice_ of a larger, hyper object? Perhaps our universe is a slice of a larger object where just parallel to us is another slightly different universe. In the other universe, everything is the same except for a single bit, one piece of information is one where the other is zero. The _multiverse_ would then have a more complete shape like a probability distribution. The most extreme cases are on either end with the most common cases occurring in the "middle." Maybe when electrons pop in and out they seem to disappear because they are sliding through a parallel universe in a dimension we don't experience. If we were to design a universe generation machine, we could save computational resources by sharing quantum states between universes where no causal connection occurs which effect the macro/particle level. Perhaps there are an infinite number of universes just like ours but slightly different. Perhaps the universe expands and contracts in a big crunch to start the creation of the universe over in an endless loop. Perhaps infinite universes occur not simultaneously but consecutively and slightly different. We will never know all the truths of our level, and we're likely to know even less about levels above and below. We cannot reduce everything to a simple equation and explanation. There will always be mysteries and conundrums no matter how deep or how far we go. This is a part of the beauty of life. There is no final end. We can continue infinitely.
@@ -1334,20 +1336,13 @@ We attempt to reduce variability and noise to find that both are features of the
 <img src="../../images/MoL/mandelbrot_set_zoom.gif">
 {: refdef}
 
+Imagine a person who _just wants to understand one small part_ of the [mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), just a piece. You can magnify a small space attempting to see the smallest magnification level, but mandelbrot set is defined based on the magnification level you look. We exist on a plane in a size that determines our magnification and level. We can gain local information, but we hit limitations by magnifying.
 
-
-Diagonal theorem and godel proof. Zoom and Mandelbrot set. Each level a new domain.
-
-
-
-
-Physics describes the changes of matter. With enough information, we can model and simulate physics. Mathematical equations give a short description and rules to calculate an outcome. Notice the symbol manipulation and number crunching involved.
-
-Biology describes life. At the cellular level we see a different yet familiar world. Cells interact with their environment, reacting to stimulus. Cells are able to self-replicate by dividing. Cells process information about themselves and their surroundings. Cells have some form of memory, at least genetically about how to handle different circumstances. Cells self-regulate. Cells go against entropy, exchanging outside energy to maintain internal order. By performing these actions, cells trap and create more information than their surroundings, as we saw in Why Information Grows.
+We can magnify ourselves. We can look at people on the whole person level, or we can magnify down to the smallest unit of us, a single cell. At the cellular level we see a different yet familiar world. Cells interact with their environment, reacting to stimulus. Cells are able to self-replicate by dividing. Cells process information about themselves and their surroundings in variables of size, location, age, and time of day. Cells have some form of memory, at least genetically about how to handle different circumstances. Cells self-regulate. Cells go against entropy, exchanging outside energy to maintain internal order. By performing these actions, cells trap and create more information than their surroundings, as we saw in Why Information Grows.
 
 Cells have a code, a program, given in the RNA and DNA of the nucleus (and separately in mitochondria). DNA has symbols and a grammar. There are codes which signal when to stop reading a genetic snippet of information. DNA has jump statements, branching, control flow, essentially like an _if_ statement in programming.
 
-As Joscha Bach puts it, cells are a self-replicating Turing machines which exploit entropy gradients created by the laws of physics.
+As [Joscha Bach](http://bach.ai/) puts it, cells are a self-replicating Turing machines which exploit entropy gradients created by the laws of physics. By existing we shed bits of information which amounts to information processing.
 
 ### Turing Machines
 
