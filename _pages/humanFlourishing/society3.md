@@ -38,27 +38,39 @@ There's little hope.
 
 ### There's one measurement about the environment you should follow: atmospheric carbon dioxide.
 
-[Measured in CO_2 parts per million (ppm)](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide), this one objective number gives us a comparison to the past. For the last 800,000 years the CO_2 ppm hasn't exceeded 300. 
+[Measured in CO_2 parts per million (ppm)](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide), this one objective number gives us a comparison to the past. For the last 800,000 years the CO_2 ppm hasn't exceeded 300. In the last 10,000 years the CO_2 ppm fluctuated around 280. As of April 2021 we are at the highest levels in [14 **MILLION** years](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere) at over 400.
 
-The previous 5 extictions on Earth occurred when
+The [previous 5 mass extinctions](https://en.wikipedia.org/wiki/Peter_Ward_(paleontologist)) on Earth occurred when the CO_2 ppm reached 1,000.
+
+We are likely on track to reach 1,000 ppm by the year 2100.
+
+This is only one measure. The complexity and inter-relatedness of the whole planet make this issue hard to grasp. There are many [tipping points](https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system) to consider which would throw the Earth out of a stable state. We're currently at 1 degree of warming above preindustrial levels. If we reach 2 degrees of warming, we will see catastrophes across the world. The [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement) aims to keep warming from reaching 2 degrees with the goal of 1.5 degrees warming (just half a degree more from where we are). However, the goals set by the agreement _assume technology will be developed which doesn't exist_.
+
+They hoped we would develop carbon negative tech: something that will capture and store atmospheric carbon dioxide.
+
+So far we haven't come up with anything at scale, and the tech we have developed still adds more carbon in the creation of it. We would still be net negative.
+
+While we have talked of carbon dioxide, there's another gas which traps heat even worse, methane. There's one other tipping point to look out for: arctic sea ice. Even during summer the arctic always had ice in human history. What was once permafrost is now melting. [Methane trapped in the ice](https://en.wikipedia.org/wiki/Arctic_methane_emissions) will release into the atmosphere adding to warming. Additionally, the white ice reflected a significant amount of the Sun's energy back into space. In its place, we now have a dark blue ocean to absorb the Sun's heat. Just these factors alone add 2-3 degrees of warming on top of what we have, not accounting for the cascading and accelerating effects this will have on other tipping points.
+
+I hope you can see we are facing a literal existential crisis. We may end all multicellular life on this planet. We are living through a mass extinction now, the anthropocene era, which will likely cause humans to go extinct. People like Roger Hallam are one of the few trying to enact real change, [Advice to Young People as they face Annihilation | Roger Hallam | 2021](https://www.youtube.com/watch?v=dnpOnO71wno). This is why Greta Thunberg won't take any shit from politicians.
 
 ## Society is Fucked
 
-Read Sapiens!
+What should you do? Read [_Sapiens: A Brief History of Humankind_](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) as soon as you can! That book is amazing. It's important to understand what human beings are. We are the only species we know of that can cooperate flexibly in large numbers. We do this mainly with the help of myths and stories.
 
 As professor Yuval Noah Harari writes in his work, capitalism and communism were opposing economic systems with different sets of problems. How do we decide prices for items? How much is a loaf of bread worth? Under communism a central government tries to control the price for everyone; they can say a loaf is $1 and anyone caught selling differently is punished. Development of bread is regulated by central factories. Capitalism is distributed. There is no central entity determining prices, instead 'the market' decides. By having a shared currency, people set prices around supply and demand of goods and services. The price of bread fluctuates because if there isn't enough it becomes expensive. If there's too much it becomes cheap. Every baker is in competition with others unless they can specialize to a niche area with less competition.
 
 Both share the same issue but have different rates of collapse. Communism aims at structured control to provide for the needs of everyone. Under communism, human ego manipulated information to the central government. At each layer of administration the subordinate exaggerated production to the superior in order to appear more effective than the reality. The compounded effect to the center led to distorted reasoning eventually causing a failure to set pricing of goods and services. The collapse was quick, and communism was labeled a failure by (often capitalist) critics.
 
-Capitalism is the opposite of communism in the sense of distributed means of production. While distributed production allows for great freedom and prosperity, that prosperity is masked by far distribution. Capitalism creates a situation of constant competition. With unchecked price setting companies want to produce as efficiently as possible to give the greatest net return as profit. Humanitarian laws and bills of rights are necessary to stop capitalism from creating slavery conditions. Slavery is the natural progression of capitalism, a slave is a worker who has no power to negotiate with and produces work at minimum cost. Your employer always wants to pay you the minimum if it wants to maximize its profits. Ask yourself if your place of business wants to maximize profits as a may concern. Even if there are bills of rights or other laws in some countries, international companies through capitalist countries give access to workers with less rights and power. These workers are exploited to some degree of slavery out of any viewing by the customers they serve. Capitalism creates all kinds of incentives to continue for short term profit gain at any expense. Workers are in a constant war for liberty and fairness.
+Capitalism is the opposite of communism in the sense of distributed means of production. While distributed production allows for great freedom and prosperity, that prosperity is masked by far distribution. Capitalism creates a situation of constant competition. With unchecked price setting companies want to produce as efficiently as possible to give the greatest net return as profit. Humanitarian laws and bills of rights are necessary to stop capitalism from creating slavery conditions. Slavery is the natural progression of capitalism, a slave is a worker who has no power to negotiate and produces work at minimum cost. Your employer always wants to pay you the minimum if it wants to maximize its profits. Ask yourself if your place of business wants to maximize profits as a main concern. Even if there are bills of rights or other laws in some countries, international labor gives access to workers with less rights and power. These workers are exploited to some degree of slavery out of any view by the customers they serve. Capitalism creates all kinds of incentives to continue for short term profit gain at any expense. Workers are in a constant war for liberty and fairness.
+
+[The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
+
+
 
 [Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic](https://www.youtube.com/watch?v=PJy8vTu66tE)
 
 Pretty much a summary of my views on American politics. We live under Tweedism by the wealthiest 0.02%.
-
-[The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
-
-Capitalism rests on false assumptions. One is that you're paid what your value is. This is false. We are paid according to our negotiation power.
 
 
 We're too powerful and we're a greedy algorithm.
@@ -109,7 +121,19 @@ AI commentator Robert Miles has this to say about [AI as corporations](https://w
 
 ---
 
-Elites controlling everything.
+# iAi Community
+
+What are your answers to these 5 questions?
+
+Do you love the American ideal of merit, equality, and freedom, but find yourself trapped in our current dystopia with no alternative?
+
+Have you accepted collapse, on the scale of ecological, social, global collapse is possible and imminent in the next 10 to 80 years?
+
+Do you believe we cannot go back to full connection with the Earth, but must reconnect to sustainable living while maintaining beneficial technology?
+
+Do you believe the study and development of good AI is the best path for our species?
+
+Do you accept humans are deeply flawed, greed is rarely good, and we should be constrained?
 
 ## A New Framework - Opensource Society
 
