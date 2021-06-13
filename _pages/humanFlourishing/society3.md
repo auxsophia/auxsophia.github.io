@@ -66,7 +66,7 @@ Capitalism is the opposite of communism in the sense of distributed means of pro
 
 [The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
 
-
+Capitalism is based on the irrational belief that we can expand and grow forever. Our planet and resources are finite. When is a short sighted goal of maximum return as soon as possible the best choice? Capitalism did offer a way out of poverty based on merit. If you could perform a valuable service you could earn money. For the first generation, your pay was close to the value you produced. Once that generation succeeds, they realize how hard competition truly is. They give their children any advantage they can to help them achieve. Each generation after does the same, but this breaks the original system of merit, your value matching your pay. We end with huge inequality where the rich stay rich and the poor stay poor. Even merit based capitalism slides into oligarchy. 
 
 [Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic](https://www.youtube.com/watch?v=PJy8vTu66tE)
 
@@ -145,7 +145,7 @@ Humans should form into distinct, self-sustainable communities of no more than 1
 
 I propose a system alternative to current options. A disconnected community economy maintained by a central processing core. Our central AI will govern as far as we can develop. We can see live updates to community needs and what work should be done. The community-core provides guidance and governance on the trades of goods and services. The design of the system should at every possible point minimize human corruption. By constraining goods and services to local production we minimize our contribution to the net harm of the global system.
 
-Our community can be a beacon of hope for a future of synergistic technology and nature. The ideal America presented to be, a great experiment in expanding and sustaining human liberty within the furthest moral reaches.
+Our community can be a beacon of hope and rationality for a future of synergistic technology and nature. The realized ideal of what America presented to be, a great experiment in expanding and sustaining human liberty within the furthest moral reaches.
 
 * Humans should gather in organizations no greater than 10,000.
 
