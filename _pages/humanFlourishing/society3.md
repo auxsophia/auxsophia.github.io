@@ -66,14 +66,37 @@ Capitalism is the opposite of communism in the sense of distributed means of pro
 
 [The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
 
-Capitalism is based on the irrational belief that we can expand and grow forever. Our planet and resources are finite. When is a short sighted goal of maximum return as soon as possible the best choice? Capitalism did offer a way out of poverty based on merit. If you could perform a valuable service you could earn money. For the first generation, your pay was close to the value you produced. Once that generation succeeds, they realize how hard competition truly is. They give their children any advantage they can to help them achieve. Each generation after does the same, but this breaks the original system of merit, your value matching your pay. We end with huge inequality where the rich stay rich and the poor stay poor. Even merit based capitalism slides into oligarchy. 
+Capitalism is based on the irrational belief that we can expand and grow forever. Our planet and resources are finite. When is a short sighted goal of maximum return as soon as possible the best choice? Capitalism did offer a way out of poverty based on merit. If you could perform a valuable service you could earn money. For the first generation, your pay was close to the value you produced. Once that generation succeeds, they realize how hard competition truly is. They give their children any advantage they can to help them achieve. Each generation after does the same, but this breaks the original system of merit, your value matching your pay. We end with huge inequality where the rich stay rich and the poor stay poor. Even merit based capitalism slides into oligarchy.
 
 [Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic](https://www.youtube.com/watch?v=PJy8vTu66tE)
 
-Pretty much a summary of my views on American politics. We live under Tweedism by the wealthiest 0.02%.
+Pretty much a summary of my views on American politics. We live under Tweedism by the wealthiest 0.02%. The elites of our society control our choices then follow up by rigging our elections. We should all know about [manufacturing consent](https://en.wikipedia.org/wiki/Manufacturing_Consent).
 
+The word _person_ almost always means one's own group. When [the U.S. constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) says "We the people..." what they meant at the time was land-owning, white, man; that was the definition of a person. We label people outside our groups with a metaphor. Over the centuries as we expanded our definition of person to include the non-white, women, and landless, we have the appearance of inclusivity. I think the truth was we were never given anymore power without ensuring the dilution of that power hid the interests of the elites. The people who took the place of the most wealthy Americans manufacture our consent and give us meaningless options.
+
+Are the elites going to solve climate change once it effects them? No. Rather than a conspiracy theory of supreme power, these people who are in the position of elites are just as enslaved as the poorest among us. While the poor struggle to survive, the elites are seduced by the opposite. In a competitive world created by capitalism, who wouldn't listen to the whispers of billions of dollars: _you and anyone you care about will never have a material worry again_, _do anything you want_, _you deserve this_, _you're better than anyone else_. Few of us could turn away given the opportunity. If the elites actually tried to solve a real problem, such as climate change, poverty, or proper education, they would fail miserably. They will never try because the solutions to these problems often involves change to the current system, which jeopardizes their elite position, which they are too enthralled to give up. Really the elites are slaves to maintaining the rigged system no matter what they once believed. The capitalist system itself is an exploitative pyramid. The best choice is to be near the top where the exploitation of the masses funnels upward.
+
+Elites have the power to say _no_ to change, not the power to create change.
+
+Under communism the best choice is to get close to the central government, the central processing core, to capture the excess leaking energy. To get a promotion the lower class lies about their productiveness. The problem is pushed to the next person to run things who will in turn continue lying. The higher ups are seduced by wealth and disconnected from the suffering masses. Almost everyone takes just a little more, an extra ration here and there for themsevles and families. Would you? A small percentage will be truly corrupt, taking as much as they can. The masses don't have the option to take, they are taxed. The accumulating error to the center and the limited processing power causes the system to collapse.
+
+Under capitalism the collapse is opposite. Communism implodes but capitalism explodes. Communists lie up to the government and the people want as much as they can get. Capitalism spreads out commodifying everything it can. As the competition between people increases for basic needs they become further desperate. Instead of just lying to the central government we lie to each other to extract as much profit from each transaction. We push further out and disrupt other countries to sustain ourselves. When some succeed and others fail whether due to luck or ability the inequality grows massively over time. The rich want to maintain the order to retain their wealth while the poor clamor to survive, and the system as a whole is maintained at the cost of everything else.
+
+Humans can behave flexibly in large numbers. Humans believe in stories, true or false, which shape behavior and social networks.
+
+On an individual level we are capable of feeling good and bad, empathizing, and changing. When we are on an equal level we can speak and be heard. In a hierarchy we are not seen on the same level, and the only way for the higher levels to handle decisions is to simplify the lower levels. Typically this means reducing to "metrics," measurable numbers. In this reduction we lose much of our individual humanity.
+
+Once we're in a hierarchy of numbers we have left behind what makes us human and are in the inter-subjective realm of ideas. As human systems we need an ideology, a system of ideas, to direct our behavior. If we're not careful, the ideology entraps us and takes a life of its own. The purpose of ideologies is to make thoughts reoccur. When the ideology emphasizes some value, like profit maximization, the system as a whole takes on this goal. At that point all we as individuals need to do is our small part.
+
+Yuval Noah Harari's question is important here: who or what is suffering?
+
+The ideology doesn't suffer, people do. The ideology is like a computer program running a calculation. We as individuals are the computing nodes in the ideology network. We are people who suffer when the system acts. When the individuals are too stressed to continue, the systems that survive adapt the work so the role is fulfilled. The job function is split up between people so no one part is so obviously wrong people will refuse to do the work.
+
+Just like in an ecosystem where every living thing adapts to become dependent on the whole, so too do we adapt to our societies. We have lost our independence and need the systems we live in.
 
 We're too powerful and we're a greedy algorithm.
+
+A greedy algorithm is like a fire burning the closest fuel as soon as it can. It's like how single celled life in a petri dish will eat and grow as long as food is available before dying in its accumulated shit. 
 
 AI as corporations.
 
@@ -142,6 +165,34 @@ We need to attack all problems at once. Many problems are connected in linear an
 Our current society is setup to enable us all to make the wrong choices. We need to change our environment to make the easiest choice the right choice. These ideas will appear "radical," likely more radical than any non-fictional society proposed to you before. However, given climate change, the looming threat of the genuine extinction of our species, the coming collapse of society on a global scale, and the egregious misuse of power by every country and authority, I hope you see why these changes are necessary.
 
 Humans should form into distinct, self-sustainable communities of no more than 10,000 people. Each community should be a non-profit following the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line), evaluating the corporation by its impact on the planet, people, and profit in that order.
+
+Sustainability simply means we can meet our present needs while allowing future generations to meet their needs.
+
+[Social sustainability: Satisfying human needs](https://www.youtube.com/watch?v=FyT9TMlzC6s)
+
+The economist [Manfred Max-Neef](https://en.wikipedia.org/wiki/Manfred_Max-Neef) argued for 9 human needs which are satisfied by societies in different ways. The lack of satisfying these needs cause a pathology.
+
+* Subsistence
+* Protection
+* Participation
+* Understanding
+* Affection
+* Idleness
+* Creation
+* Identity
+* Freedom
+
+See pages 32-33 of Max-Neef's work, [Human Scale Development](http://www.wtf.tw/ref/max-neef.pdf).
+
+The goal of our community is to maximize [adaptive capacity](https://www.youtube.com/watch?v=o6lSuwJw0pk). What makes a social group adaptive is based upon:
+
+* Trust
+* Diversity
+* Capacity for learning
+* Capacity for self-organization
+* Common meaning
+
+Any impediments to the above will make us less adaptable.
 
 I propose a system alternative to current options. A disconnected community economy maintained by a central processing core. Our central AI will govern as far as we can develop. We can see live updates to community needs and what work should be done. The community-core provides guidance and governance on the trades of goods and services. The design of the system should at every possible point minimize human corruption. By constraining goods and services to local production we minimize our contribution to the net harm of the global system.
 
@@ -226,7 +277,17 @@ As an open source community, we should exchange information openly. Every person
 
 A sovereign community should respect the sovereignty of other communities. Indigenous people represent the accumulated wisdom of generations of sapiens living on the same land. They have a connection to their ecosystems which all human beings should seek to have, seamless integration. Indigenous people living traditionally have no carbon footprints; they are in harmony with nature. The forefront defenders of the environment are often indigenous activists who fight for their land, their lifestyle, and even us. When the Amazon forests burn the lungs of the world burn. The interconnectedness of the worldwide life-web is a fact. We must work to rejuvenate the ecosystems we are a part of that we will die without. The fight of indigenous people is the fight of the survival of the human race. Indigenous defenders are the last white blood cells of the human race attempting to protect us from our own suicidal foolishness. Truly, a threat to justice anywhere is a threat to justice everywhere.
 
+---
 
+# Globally Opensourced
+
+If we all individually lived a zero-waste lifestyle the impact would be small while coming at a great personal cost. We need a global solution to the challenges we collectively face. Humans need to organize and adapt where they are unless that is impossible. The current system should be replicated the world over in almost every country.
+
+Like a nation is an organism, these communities should be a mitochondrion in the cell.
+
+The communities should exchange fairly and equally with the existing nation. We can benefit everyone. The communities can be carbon negative, soaking up excess emissions. They can take your nation's weird and undesireable people. Send us your diverse, your strange! The end result is for communities to be seamless with their societies while needing little attention or care.
+
+Unfortunately disruptions to existing power structures are rarely tolerated. If people have an alternative they aren't trapped in the system they're in. Worse yet, we're running out of time. Developing a community like this, even as easy as we can make it, will likely take years, assuming everyone is ready and in agreement to make massive change.
 
 ***
 
