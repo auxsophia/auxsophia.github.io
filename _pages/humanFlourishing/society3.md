@@ -52,7 +52,7 @@ So far we haven't come up with anything at scale, and the tech we have developed
 
 While we have talked of carbon dioxide, there's another gas which traps heat even worse, methane. There's one other tipping point to look out for: arctic sea ice. Even during summer the arctic always had ice in human history. What was once permafrost is now melting. [Methane trapped in the ice](https://en.wikipedia.org/wiki/Arctic_methane_emissions) will release into the atmosphere adding to warming. Additionally, the white ice reflected a significant amount of the Sun's energy back into space. In its place, we now have a dark blue ocean to absorb the Sun's heat. Just these factors alone add 2-3 degrees of warming on top of what we have, not accounting for the cascading and accelerating effects this will have on other tipping points.
 
-I hope you can see we are facing a literal existential crisis. We may end all multicellular life on this planet. We are living through a mass extinction now, the anthropocene era, which will likely cause humans to go extinct. People like Roger Hallam are one of the few trying to enact real change, [Advice to Young People as they face Annihilation | Roger Hallam | 2021](https://www.youtube.com/watch?v=dnpOnO71wno). This is why Greta Thunberg won't take any shit from politicians.
+I hope you can see we are facing a literal existential crisis. We may end all multicellular life on this planet. We are living through a mass extinction now, the anthropocene era, which will likely cause humans to go extinct. People like Roger Hallam are one of the few trying to enact real change, [Advice to Young People as they face Annihilation - Roger Hallam - 2021](https://www.youtube.com/watch?v=dnpOnO71wno). This is why Greta Thunberg won't take any shit from politicians.
 
 ## Society is Fucked
 
@@ -96,7 +96,7 @@ Just like in an ecosystem where every living thing adapts to become dependent on
 
 We're too powerful and we're a greedy algorithm.
 
-A greedy algorithm is like a fire burning the closest fuel as soon as it can. It's like how single celled life in a petri dish will eat and grow as long as food is available before dying in its accumulated shit. 
+A greedy algorithm is like a fire burning the closest fuel as soon as it can. It's like how single celled life in a petri dish will eat and grow as long as food is available before dying in its accumulated shit.
 
 AI as corporations.
 
