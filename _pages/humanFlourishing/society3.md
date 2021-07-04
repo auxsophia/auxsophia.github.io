@@ -4,8 +4,6 @@ title: Society 3.0
 permalink: /society3/
 ---
 
-# Society 3.0
-
 This work is a natural continuation of [the meaning of life](/meaningOfLife/). Many conclusions will not make sense without first reading the foundation. All of humanity should work towards the ultimate goal of artificial general intelligence capable of surpassing us in every way possible. AI can be conscious. We can make an AI entity with the ideals of humanity and incapable of our evils. What is more important than creating a superior being and ushering the next stage of evolution and consciousness?
 
 But the answer is not to move to Silicon Valley in California or join a tech startup.
@@ -64,15 +62,15 @@ Both share the same issue but have different rates of collapse. Communism aims a
 
 Capitalism is the opposite of communism in the sense of distributed means of production. While distributed production allows for great freedom and prosperity, that prosperity is masked by far distribution. Capitalism creates a situation of constant competition. With unchecked price setting companies want to produce as efficiently as possible to give the greatest net return as profit. Humanitarian laws and bills of rights are necessary to stop capitalism from creating slavery conditions. Slavery is the natural progression of capitalism, a slave is a worker who has no power to negotiate and produces work at minimum cost. Your employer always wants to pay you the minimum if it wants to maximize its profits. Ask yourself if your place of business wants to maximize profits as a main concern. Even if there are bills of rights or other laws in some countries, international labor gives access to workers with less rights and power. These workers are exploited to some degree of slavery out of any view by the customers they serve. Capitalism creates all kinds of incentives to continue for short term profit gain at any expense. Workers are in a constant war for liberty and fairness.
 
-[The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
+[The dirty secret of capitalism -- and a new way forward - Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
 
 Capitalism is based on the irrational belief that we can expand and grow forever. Our planet and resources are finite. When is a short sighted goal of maximum return as soon as possible the best choice? Capitalism did offer a way out of poverty based on merit. If you could perform a valuable service you could earn money. For the first generation, your pay was close to the value you produced. Once that generation succeeds, they realize how hard competition truly is. They give their children any advantage they can to help them achieve. Each generation after does the same, but this breaks the original system of merit, your value matching your pay. We end with huge inequality where the rich stay rich and the poor stay poor. Even merit based capitalism slides into oligarchy.
 
-[Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic](https://www.youtube.com/watch?v=PJy8vTu66tE)
+[Our democracy no longer represents the people. Here's how we fix it - Larry Lessig - TEDxMidAtlantic](https://www.youtube.com/watch?v=PJy8vTu66tE)
 
 Pretty much a summary of my views on American politics. We live under Tweedism by the wealthiest 0.02%. The elites of our society control our choices then follow up by rigging our elections. We should all know about [manufacturing consent](https://en.wikipedia.org/wiki/Manufacturing_Consent).
 
-The word _person_ almost always means one's own group. When [the U.S. constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) says "We the people..." what they meant at the time was land-owning, white, man; that was the definition of a person. We label people outside our groups with a metaphor. Over the centuries as we expanded our definition of person to include the non-white, women, and landless, we have the appearance of inclusivity. I think the truth was we were never given anymore power without ensuring the dilution of that power hid the interests of the elites. The people who took the place of the most wealthy Americans manufacture our consent and give us meaningless options.
+The word _person_ almost always means one's own group. When [the U.S. constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) says "We the people..." what they meant at the time was land-owning, white, man; that was the definition of a person. We label people outside our groups with a metaphor. Over the centuries as we expanded our definition of person to include the non-white, women, and landless, we have the appearance of inclusivity. The truth is we were never given anymore power without ensuring the dilution of that power hid the interests of the elites. The people who took the place of the most wealthy Americans manufacture our consent and give us meaningless options.
 
 Are the elites going to solve climate change once it effects them? No. Rather than a conspiracy theory of supreme power, these people who are in the position of elites are just as enslaved as the poorest among us. While the poor struggle to survive, the elites are seduced by the opposite. In a competitive world created by capitalism, who wouldn't listen to the whispers of billions of dollars: _you and anyone you care about will never have a material worry again_, _do anything you want_, _you deserve this_, _you're better than anyone else_. Few of us could turn away given the opportunity. If the elites actually tried to solve a real problem, such as climate change, poverty, or proper education, they would fail miserably. They will never try because the solutions to these problems often involves change to the current system, which jeopardizes their elite position, which they are too enthralled to give up. Really the elites are slaves to maintaining the rigged system no matter what they once believed. The capitalist system itself is an exploitative pyramid. The best choice is to be near the top where the exploitation of the masses funnels upward.
 
@@ -98,11 +96,7 @@ We're too powerful and we're a greedy algorithm.
 
 A greedy algorithm is like a fire burning the closest fuel as soon as it can. It's like how single celled life in a petri dish will eat and grow as long as food is available before dying in its accumulated shit.
 
-AI as corporations.
-
-### AI has already taken over
-
-### Corporations as AI
+### AI has already taken over - Corporations as AI
 
 Some argue corporations are already an example of artificial general intelligence (AGI).
 
@@ -141,6 +135,71 @@ Some argue corporations are already an example of artificial general intelligenc
 > Ultimately, if we are stop this force from completely taking over humanity, these alternative approaches need to be codified into our national and international governance. Imagine a world where corporate charters were only granted if they adopted a triple bottom line, and where shareholder lawsuits threatened every time a company broke one of its own social and environmental standards. Until that happens, it may be that the “worst event in the history of our civilization” is not the future development of modern AI, but the decision by a group of 17th century politicians to unleash the power of the Corporation on an unsuspecting humanity.
 
 AI commentator Robert Miles has this to say about [AI as corporations](https://www.youtube.com/watch?v=L5pUA3LsEaw).
+
+---
+
+### AI already changed our lives and shaped society
+
+If you're worried about AI taking over and enslaving humans, you should've started worrying decades ago.
+
+AI has already shaped our minds and the world - it's called Google.
+
+Well, not just Google, I mean their original product: the search engine. We use search engines to ask questions and find the web pages we want.
+
+The key question is are we satisfied with the results; it's not about truth or accuracy. They keep track of every click. If you click the first link, go back, click the second link, go back, and stop on the third, they will assume the third link is the answer you were looking for. When another user asks the same question they will move link three to position one.
+
+They want people to find satisfying results so they use the search engine again for their next question. How does a search engine make money? They show advertisements and advertisers pay for a spot. The more you search, the more ads they show you, the more money the companies make. [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) is a hell of a drug. People are more likely to be satisfied by confirming what they want to believe. To be shown wrong is typically a negative signal, so people will find another search engine that confirms their bias.
+
+All search engines want to predict the results you want to see. They do this in many ways but mainly by tracking your [digital footprints](https://en.wikipedia.org/wiki/Digital_footprint). From whatever computer you're using they're guessing your location, age, gender, and any other factors that predict the webpages they should show you to keep you engaged.
+
+Everyone is getting results that fit them! We don't have common meaning, just information silos. When we "research" or "verify" online we are often polarizing ourselves and becoming _less_ receptive to new and differing information.
+
+Look at the effects on the United States House of Representatives over the years. (Analysis from [Andris et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123507))
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/society3/party_polarization.png" width="80%" height="80%">
+{:refdef }
+
+Notice the beginning of major party polarization and separation occurring in the early 1990's, co-occurring with the birth of the internet and [search engines](https://en.wikipedia.org/wiki/Search_engine). At 1993 we were already divivded.
+
+Still not convinced of radicalization by the internet and AI technologies like search engines?
+
+We're living through an attention economy. The value we are giving up is our attention. They want as much of your attention as possible to serve as many ads as possible to generate as much money as possible for shareholders. Many workers in tech companies know this as the [race to the bottom of the brain stem](https://twitter.com/tristanharris/status/1126697265152708609?lang=en).
+
+They don't want you to have to think about using their service. The race down your brain stem means when you have a biological feeling you turn to an app. The competition is over your base urges.
+
+Hungry? - Open Yelp or Uber Eats.
+Lonely? - Facebook or Instagram.
+Bored? - Reddit or YouTube
+
+As soon as the feeling strikes our hand reaches for our phones and our fingers glide into position. In capitalistic competition they use every addictive tactic they can to trap you, sounds, flashing lights, colors, push notifications at just the right time.
+
+[Stuart Russell](https://en.wikipedia.org/wiki/Stuart_J._Russell), who wrote the textbook on AI, [said this](https://www.linkedin.com/pulse/transcript-interview-stuart-russell-lex-fridman-alfonso-r-reyes?trk=read_related_article-card_title) in an [interview](https://www.youtube.com/watch?v=KsZI5oXBC0k):
+
+> And, you know, we look at what happened with Facebook. Well, social media in general, and click-through optimization. So you have a simple feedback algorithm that's trying to just optimize click-through. That sounds reasonable because you don't want to be feeding people ads that they don't care about -I'm not interested in. And you might even think of that process as simply adjusting the feeding of ads, or news, articles, or whatever it might be, to match people's preferences, which sounds like a good idea. But in fact that isn't how the algorithm works. You make more money, the algorithm makes more money if it could better predict what people are going to click on because then it can feed them exactly that. So, the way to maximize click-through is actually to modify the people; to make them more predictable. And one way to do that is to feed them information which will change their behavior and preferences towards extremes that make them predictable. Now, whatever is the nearest extreme, or the nearest predictable point, that's where you're going to end up, and the machines will force you there.
+
+In search engines it can be harder to see how we are manipulated, but YouTube recommendations are based on similar algorithms. The more videos you watch, the more ads you watch, the more money generated. They want you watching as long as possible! The algorithm learns to push you video by video towards an extreme. These are the "rabbit holes" people fall down that lead to conspiracy thinking, flat-earthers, Qanon, etc. Politically we are pushed to extreme left or right, then the algorithm feeds us what it is most confident we will click on immediately.
+
+Puase to think about the lives ruined and countries turned upside down by what is an optimization problem written in several lines of code.
+
+If you think you can escape part of this by paying for services and not watching ads, the companies are simply using you and your digital footprint to make recommendations to people who can't pay.
+
+Like a nuclear weapon, we are heading towards a future with [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction). As O'Neil writes the biggest threats come when algorithms combined with big data make decisions which cannot be inspected, go unregulated, and unchallenged.
+
+AI models running amok will bring systemic prejudice to an entirely new level.
+
+Types of prejudice:
+
+- Age (ageism)
+- Ability (ableism)
+- Gender (sexism)
+- Race (racism)
+- Class (classism)
+- National origin
+- Religion
+- Sexual orientation
+
+Who owns the computers is who owns the land.
 
 ---
 
