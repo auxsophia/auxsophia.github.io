@@ -68,3 +68,12 @@ Futurists warning about the threats of AI are looking in the wrong place. Humani
 by Jeremy Lent
 
 ---
+
+### [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
+Published Feb. 11, 2020
+
+I end up wanting to send this to people and have to find it all over again! The visuals are really cool.
+
+> Most multicellular organisms begin their life as a single egg cell - a single cell whose progeny reliably self-assemble into highly complex anatomies with many organs and tissues in precisely the same arrangement each time. The ability to build their own bodies is probably the most fundamental skill every living creature possesses. Morphogenesis (the process of an organism’s shape development) is one of the most striking examples of a phenomenon called self-organisation. Cells, the tiny building blocks of bodies, communicate with their neighbors to decide the shape of organs and body plans, where to grow each organ, how to interconnect them, and when to eventually stop. Understanding the interplay of the emergence of complex outcomes from simple rules and homeostatic feedback loops is an active area of research. What is clear is that evolution has learned to exploit the laws of physics and computation to implement the highly robust morphogenetic software that runs on genome-encoded cellular hardware.
+
+---

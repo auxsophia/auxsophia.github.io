@@ -178,7 +178,7 @@ As soon as the feeling strikes our hand reaches for our phones and our fingers g
 
 > And, you know, we look at what happened with Facebook. Well, social media in general, and click-through optimization. So you have a simple feedback algorithm that's trying to just optimize click-through. That sounds reasonable because you don't want to be feeding people ads that they don't care about -I'm not interested in. And you might even think of that process as simply adjusting the feeding of ads, or news, articles, or whatever it might be, to match people's preferences, which sounds like a good idea. But in fact that isn't how the algorithm works. You make more money, the algorithm makes more money if it could better predict what people are going to click on because then it can feed them exactly that. So, the way to maximize click-through is actually to modify the people; to make them more predictable. And one way to do that is to feed them information which will change their behavior and preferences towards extremes that make them predictable. Now, whatever is the nearest extreme, or the nearest predictable point, that's where you're going to end up, and the machines will force you there.
 
-In search engines it can be harder to see how we are manipulated, but YouTube recommendations are based on similar algorithms. The more videos you watch, the more ads you watch, the more money generated. They want you watching as long as possible! The algorithm learns to push you video by video towards an extreme. These are the "rabbit holes" people fall down that lead to conspiracy thinking, flat-earthers, Qanon, etc. Politically we are pushed to extreme left or right, then the algorithm feeds us what it is most confident we will click on immediately.
+In search engines it can be harder to see how we are manipulated, but YouTube recommendations are based on similar algorithms. The more videos you watch, the more ads you watch, the more money generated. They want you watching as long as possible! The algorithm learns to push you video by video towards an extreme. These are the "rabbit holes" people fall down that lead to conspiracy thinking, flat-earthers, Qanon, etc. Politically we are pushed to extreme left or right, then the algorithm feeds us what it is most confident we will click on immediately. From the algorithm's perspective, conspiracy theories are great! Conspiracy theorists watch the same content and no one and nothing can changes their views; they will continue to be easily predictable.
 
 Puase to think about the lives ruined and countries turned upside down by what is an optimization problem written in several lines of code.
 
@@ -199,7 +199,23 @@ Types of prejudice:
 - Religion
 - Sexual orientation
 
-Who owns the computers is who owns the land.
+If you have faced any of the prejudices above they will likely stand out to you as an important issue. What prejudices have tech giants faced? What stands out to them? Probably not much, so they don't see much gain in building safeguards for their systems. In fact, adding protections for oppressed groups would only appear to slow down their technology developments, costing money. Do we want the most privileged people having the final say in AI which will direct our lives?
+
+Before AI the most important resource was land. The quality of your land determined your life. You could grow food, have access to water (even oil), or simply build something to produce goods. We have a sense for the size and value of land.
+
+Computing resources are the new land. Whoever owns computers owns AI.
+
+Andrew Ng says AI is the new electricity. We harnessed the wild, natural force of electricity for our purposes. Think of all the electricity surrounding you and imagine artificial intelligence pushing, pulling, and serving you. What we are beginning to control now is the power of intelligence. Unlike electricity and land, we have no real sense for the space and size of computing resources. A hard drive of the same size could be gigabytes or petabytes. Computer towers look the same but could have vast disparities in computing power. The size of a location no longer tells us how much resources are there.
+
+We are leaving the space of physical land and entering digital space. When we see a building is it full of a few families of people or is it stacked floor to ceiling with dense computer servers calculating machine learning from big data all over the world? We don't know, and the future oligarchs and plutarchs can hide their digital land.
+
+If we don't do something, why would digital land be any different than physical land?
+
+Every government uses [propaganda](https://en.wikipedia.org/wiki/Propaganda). In our case, the richest and most powerful people (pay some group of people to) produce propaganda to influence and control people. Manipulation will reach an entirely new height in the era of [deepfakes](https://en.wikipedia.org/wiki/Deepfake). When we can make videos of people doing and saying whatever we want with complete realism, how can we trust anything we see online?
+
+Deepfakes are part of why I believe we are heading into splintered societies with [information silos](https://en.wikipedia.org/wiki/Information_silo). Many of us are in information bubbles now. When we are in a bubble or silo we all agree on _authority_, which sources of information can be trusted and which discarded. The United States National Intelligence Council released their [Global Trends for 2040 report](https://www.dni.gov/files/ODNI/documents/assessments/GlobalTrends_2040.pdf) which predicts 5 scenarios we are likely to be in by 2040. The great hope is a renaissance of democracies, but I'm betting on information silos (and war).
+
+Don't wait for someone to save you; save yourself! Don't wait for regulations that won't come, take control of power!
 
 ---
 
@@ -209,13 +225,13 @@ What are your answers to these 5 questions?
 
 Do you love the American ideal of merit, equality, and freedom, but find yourself trapped in our current dystopia with no alternative?
 
-Have you accepted collapse, on the scale of ecological, social, global collapse is possible and imminent in the next 10 to 80 years?
+Have you accepted collapse, on the scale of ecological, social, global collapse is imminent in the next 10 to 80 years?
 
-Do you believe we cannot go back to full connection with the Earth, but must reconnect to sustainable living while maintaining beneficial technology?
+Do you accept humans are deeply flawed, greed is rarely good, and we should have limitations?
+
+Do you believe we cannot go back to full connection with the Earth, but must reconnect to sustainable, community living while maintaining beneficial technology?
 
 Do you believe the study and development of good AI is the best path for our species?
-
-Do you accept humans are deeply flawed, greed is rarely good, and we should be constrained?
 
 ## A New Framework - Opensource Society
 
@@ -259,7 +275,7 @@ Our community can be a beacon of hope and rationality for a future of synergisti
 
 * Humans should gather in organizations no greater than 10,000.
 
-Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deep fakes because a deep fake of a community member can hopefully be sorted out by walking over and knocking on the door of the member to discuss.
+Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deepfakes because a deepfake of a community member can hopefully be sorted out by walking over and knocking on the door of the member to discuss.
 
 * Automation for all.
 
@@ -308,13 +324,13 @@ Each community should have its own local currency. Most high school computer sci
 
 No one should assume they are better.
 
-The wealthiest people of our countries hide their wealth in offshore accounts to avoid taxes. You should assume if you achieved the same level of wealth your priorities would change with it. You would be the person who could pay for a new hospital for everyone in a city but instead choose to store the money in a hidden bank account. We should do everything in our collective power to make these options as close to impossibility as possible.
+The wealthiest people of our countries hide their wealth in offshore accounts to avoid taxes. You should assume if you achieved the same level of wealth your priorities would change with it. You would be the person who could pay for a new hospital for everyone in a city but instead choose to store the money in a hidden bank account. We should do everything in our collective power to make these options close to impossible.
 
 Yet another reason to have our own digital cryptocurrency, the cryptocurrency automatically tracks every transaction and validates on the shared blockchain. Our currency cannot be counterfeit or traded illegally. To trade with our currency would mean having a wallet which would only be granted after community membership.
 
 Here is where I would like the input of economists and others with a fresh perspective: running a circular, [degrowth](https://en.wikipedia.org/wiki/Degrowth) economy. To make this generalized, communities should interact with the society they're in trading for needed goods and service in the established currency. The eventual goal of every community should be to disconnect as much as possible from the establishment currency and gradually grow local wealth.
 
-Local currency should only be generated internally by work; never traded for established or other currency. No one should be able to "buy in." Every community member's immediate physical and emotional needs should be provided for. Money beyond that is the motivation to work more than necessary. Once generated, our local currency can be given back to the community bank. The community bank exchanges the local currency for the established currency which trades the good or service. Established currency should be generated by the entire community and held in a collective pool. From the pool, needs (and wants) which can only be obtained outside of the community can be exchanged. No established currency should be traded among community members for community owned goods and services.
+Local currency should only be generated internally by work, never traded for established or other currency. No one should be able to "buy in." Every community member's immediate physical and emotional needs should be provided for. Money beyond that is the motivation to work more than necessary. Once generated, our local currency can be given back to the community bank. The community bank exchanges the local currency for the established currency which trades the good or service. Established currency should be generated by the entire community and held in a collective pool. From the pool, needs (and wants) which can only be obtained outside of the community can be exchanged. No established currency should be traded among community members for community owned goods and services.
 
 With the blockchain, we can immediately know the total wealth and other statistics of every member. We can choose to make this anonymous or tied directly to each member. Importantly, we can create _diminishing returns_. We can set a wealth cap based on each community where earning more doesn't generate money for the individual but is sent to the community bank. This creates a dis-incentive for people to hoard wealth and an incentive for members to continue spending, circulating currency through the community.
 

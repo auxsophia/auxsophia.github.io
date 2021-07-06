@@ -79,6 +79,8 @@ Posted Mar 28, 2018
 
 In sum, is AGI a mathematical pattern that can be implemented? **Definitely maybe**.
 
+See Ben Goertzel posting in [AGI](/AGI/)
+
 ---
 
 ### [The humanity switch: How one gene made us brainier](https://www.newscientist.com/article/dn21777-the-humanity-switch-how-one-gene-made-us-brainier/)

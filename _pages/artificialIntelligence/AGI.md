@@ -35,3 +35,7 @@ Yes, we can, using Kurt Godel’s celebrated self-reference trick of 1931 in a n
 
 > AIXI is a theoretical mathematical formalism for artificial general intelligence. It combines Solomonoff induction with sequential decision theory. AIXI was first proposed by Marcus Hutter in 2000 and several results regarding AIXI are proved in Hutter's 2005 book Universal Artificial Intelligence.
 AIXI is a reinforcement learning agent. It maximizes the expected total rewards received from the environment. Intuitively, it simultaneously considers every computable hypothesis (or environment). In each time step, it looks at every possible program and evaluates how many rewards that program generates depending on the next action taken. The promised rewards are then weighted by the subjective belief that this program constitutes the true environment. This belief is computed from the length of the program: longer programs are considered less likely, in line with Occam's razor. AIXI then selects the action that has the highest expected total reward in the weighted sum of all these programs.
+
+---
+
+[Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel) has studied AGI for decades. He has now put forth an accumulated hypothesis of AGI based on patternist theory of mind. While Goedel machines and AIXI are theoretical examples of how to build an AGI, they are not practical. He describes his General Theory of General Intelligence: A Pragmatic Patternist Perspective [on YouTube](https://www.youtube.com/watch?v=d8nzFqoEOvE).
