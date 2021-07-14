@@ -586,9 +586,9 @@ If the universe tends toward disorder, how does information grow? The author arg
 
 The ability of matter to embody information in solid form allows the recombination of information to produce new information. If we could freeze the whirlpool we would retain some of the information about the whirlpool in a solid object.
 
-Plants, animals, and life act as a trap which maintains and grows information. Even trees have computational power and stored knowledge. Sunflowers always face their flower at the sun, tracking its position from morning to night. They are performing some type of information processing to adjust and grow their bodies. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
+Plants, animals, and life act as a trap which maintains and grows information. Even trees have computational power and stored knowledge. So much _know-how_ is stored in the self-organized structure of our bodies. Sunflowers always face their flower at the sun, tracking its position from morning to night. They are performing some type of information processing to adjust and grow their bodies. However, there are limitations on the ability of organisms to accumulate knowledge and process information.
 
-The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To breakthrough the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_. We can begin to find limits to knowledge and skills such as the minimum number of person-bytes needed formed into a network to create a firm-byte to produce a product.
+The amount of knowledge and information processing a single person can amass the author calls a _person-byte_. To break through the limits of knowledge and computation, humans arrange themselves into connected networks. No one person knows how to build a plane, but a connected firm of people with the required cumulative skill can. Knowledge and computation which requires more than one person-byte is called a _firm-byte_. We can begin to find limits to knowledge and skills such as the minimum number of person-bytes needed formed into a network to create a firm-byte to produce a product.
 
 Firms with high trust are flexible and adaptable. More familial firms are stronger but more closed. The products networks of humans produce are _crystallized imagination_. Every product had to first form in the imagination of the human mind, either at the person-byte or firm-byte. The objects of our creation cause a growth of order in the universe. The physically embodied product is information and imagination in solid form until entropy inevitably releases the embodied information into disorder.
 
@@ -702,7 +702,7 @@ The only claim Descartes believed to be beyond doubt is that even if we are bein
 
 A later linguist and philosopher, Friedrich Nietzsche, [cast doubt on the _cogito_ claim](https://en.wikipedia.org/wiki/Cogito,_ergo_sum#Use_of_%22I%22). Consider the statement 'it is raining.' What is the 'it' which is raining? Is 'it' the clouds? In language, subjects are inferred. Rain and rain drops spontaneously appear from the aggregation of water molecules floating freely in the air. The water molecules transform from vapor to liquid. There is no subject that causes or creates the rain, but we speak about an implied subject which does not exist. Analogously, perhaps there is no 'I' in _I think therefore I am_; perhaps there is only thinking like there is only raining.
 
-Thus we arrive at the only claim beyond doubt, the only statement we can be certain of: we are at least **a momentary blip of consciousness**.
+Thus we arrive at the only claim beyond doubt, the only statement we can be certain of: this experience is at least **a momentary blip of consciousness**.
 
 How can we be sure our mind didn't form similar to how a single raindrop forms, aggregating based on random chance? There is some theoretical backing to these ideas of blips of consciousness.
 
@@ -1160,6 +1160,12 @@ Good and bad are so ubiquitous we hardly stop to define them. The words 'good' a
 
 As a basic, bodily example of good and bad, think of your arm falling asleep. If your arm doesn't receive circulation, your cells will cry out with need. Your arm will tingle and go numb as your internal alarm sounds for you to move. To lose circulation and cause harm to your body is bad, harm. To relieve pain and move your arm into a position of sustainable circulation is good.
 
+To define good and bad simply:
+
+Good maintains or grows information.
+
+Bad shrinks or destroys information.
+
 To get at objective morality, we need to separate inter-subjective and subjective evaluations of actions. If we use the island analogy, an empty island takes no action. We still need to think of an agent acting. Let's imagine instead an AI opponent in the game of [Go](https://en.wikipedia.org/wiki/Go_(game)). There are two sides, black and white, each trying to control the most territory on the Go board.
 
 The end goal, the _terminal_ goal, of each player is to win the game by the most points (control of territory). The _instrumental_ goal are all of the steps from the start to the finish of the game. We can evaluate instrumental goals in terms of their effects on the terminal goal. We can say what moves are good or bad based on the likelihood they lead to winning. Similarly, we can evaluate instrumental goals in terms of other instrumental goals. For example, to win the game we need to gain control of parts of the board, so now my goal is to control one part of the board. The player can evaluate instrumental goals leading to other instrumental goals.
@@ -1276,7 +1282,7 @@ Learn the anatomy of a wave function. We have the horizontal axis where points a
 <img src="../../images/MoL/transverse_wave.gif">
 {: refdef}
 
-In the above transverse wave, imagine the red dot is you in the current moment. The present is flowing from the past into the future on a flowing pattern. So much information can be described by a simple wave function!
+In the above transverse wave, imagine the red dot is you in the current moment. The present is changing from the past into the future on a flowing pattern. So much information can be described by a simple wave function!
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/pos_time_wave.gif" width="60%" height="60%">
@@ -1322,9 +1328,15 @@ What we would expect to see in a rationally ordered universe is the laws derive 
 
 As we've seen, a good scientific theory should be tested, criticized, and remain firm against scrutiny. However, the picture of the universe we have now is strange. Is our universe simply a _slice_ of a larger, hyper object? Perhaps our universe is a slice of a larger object where just parallel to us is another slightly different universe. In the other universe, everything is the same except for a single bit, one piece of information is one where the other is zero. The _multiverse_ would then have a more complete shape like a probability distribution. The most extreme cases are on either end with the most common cases occurring in the "middle." Maybe when electrons pop in and out they seem to disappear because they are sliding through a parallel universe in a dimension we don't experience. If we were to design a universe generation machine, we could save computational resources by sharing quantum states between universes where no causal connection occurs which effect the macro/particle level. Perhaps there are an infinite number of universes just like ours but slightly different. Perhaps the universe expands and contracts in a big crunch to start the creation of the universe over in an endless loop. Perhaps infinite universes occur not simultaneously but consecutively and slightly different. We will never know all the truths of our level, and we're likely to know even less about levels above and below. We cannot reduce everything to a simple equation and explanation. There will always be mysteries and conundrums no matter how deep or how far we go. This is a part of the beauty of life. There is no final end. We can continue infinitely.
 
-I am delighted to be alive at the same time as [Stephen Wolfram](https://www.stephenwolfram.com/) developed a theory of the everything, _[Finally We May Have a Path to the Fundamental Theory of Physics..](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)_.
+I am delighted to be alive at the same time as [Stephen Wolfram](https://www.stephenwolfram.com/) developed a theory of the everything, _[Finally We May Have a Path to the Fundamental Theory of Physics..](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)_. The work of Wolfram and his colleagues are still ongoing. Wolfram's theory is still not widely accepted, but I don't have the background to follow the technical arguments. I will update my view of the univsere based Wolfram et al's research unless there is an overwhelming refutation.
 
-Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
+Wolfram posits space is made of [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), more specifically [hypergraphs](https://en.wikipedia.org/wiki/Hypergraph). The update of the universal hypergraph is spacetime which gives rise to everything. Looking back on the Game of Life, the 2D grid we used can be represented in terms of a graph where the nodes are linked in a grid way. The challenge of Wolfram's generalized framework is to determine what rules govern our specific universe, since hypergraphs can give rise to many types of rules and universes.
+
+What I find most interesting about this theory of everything is the "pockets" of reducibility found in irreducibility. Computational irreducibility means you have to run the program to see what happens; you can't predict what a program will be doing at some given time. Even if we have a more powerful computer the system still has to run the program up to the future state to see what happens. Computational reducibility means we can predict what will happen. We can "look ahead" to know how the program will run without doing every step.
+
+The really interesting part is there will be areas in computationally irreducibility that _can_ be reduced and predicted.
+
+We are living in these pockets! This explains why the universe can appear to be chaos yet have predictable and deterministic moments.
 
 I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). There are systems which have [periodicity](https://en.wikipedia.org/wiki/Periodic_function). We can expect at 9am that in 12 hours a clock will return to 9pm. We try to reduce, compress, the phenomenon down to an equation or scientific theory to explain or predict the system. We can describe a line in a graph with the equation y=mx+b. [Reductionism](https://en.wikipedia.org/wiki/Reductionism) attempts to understand systems at lower levels than the whole to reduce variability and noise. Perhaps if we understand all the small parts we can fully predict the whole. Like reducing an organism to its genetic code. However genes give an example against reduction. There are billions of connections in the brain, but there aren't billions of genes coding for each connection. The code gives rules for a pattern, but the pattern can be _perturbed_ by initial conditions. Each time you run the code and generate the pattern it will turn out differently.
 
@@ -1420,8 +1432,7 @@ Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice 
 
 Let us see how entropy relates to mathematics. Why is it that math has translated across languages and cultures? If math is simply a human idea, a useful fiction, then wouldn't people disagree on math? Few other ideas have passed those barriers. Are we somehow connecting to something outside of us in a mathematical plane of existence?
 
-Think of a square in terms of entropy. How many questions do you need to ask to describe a square? Math is about the structure of information. The definition of a square provides a structure of information which we can make inferences on. We stumbled upon math and found it unreasonably effective at describing our universe. We can create new systems of math which don't map to our reality. Of course we don't always find an application, but we can explore possibilities.
-
+Think of a square in terms of entropy. How many questions do you need to ask to describe a square? Math is about the structure of information. The definition of a square provides a structure of information which we can make inferences on. There is math which is built upon itself, a few axioms or definitions, and there is applied math. We stumbled upon math and found it unreasonably effective set of mathematics for describing our universe. We can create new systems of math which don't map to our reality. Of course we don't always find an application, but we can explore possibilities.
 
 ## We are an evolutionary algorithm.
 
@@ -1544,9 +1555,9 @@ Even with the second image and various ways to verify the color of the two tiles
 
 Consciousness is a dream state. Our dreams are simply more disconnected states of our brain, not all of the regions are functioning normally. Dreams appear distorted, but our waking state is different in coherence and acuity. We are all dreaming similarly enough that we can interact with each other.
 
-As evolutionary creatures we see the world in a delusional and distorted way shaped by the evolution of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
+As evolutionary creatures we see the world in a delusional and distorted way shaped by the adaptation of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
-We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize both that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and forces.
+We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize both that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves. 
 
 We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
 
@@ -1856,6 +1867,8 @@ For further developments on this foundation, please see [Society 3.0](/society3/
 ---
 
 Possibly cut:
+
+Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
 
 The truth hurts because lies make us feel better.
 

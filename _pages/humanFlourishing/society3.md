@@ -70,6 +70,8 @@ Capitalism is based on the irrational belief that we can expand and grow forever
 
 Pretty much a summary of my views on American politics. We live under Tweedism by the wealthiest 0.02%. The elites of our society control our choices then follow up by rigging our elections. We should all know about [manufacturing consent](https://en.wikipedia.org/wiki/Manufacturing_Consent).
 
+In a [study analyzing policies in the United States over 20 years](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf), they found "When the preferences of economic elites and the stands of organized interest groups are controlled for, the preferences of the average American appear to have only a minuscule, near-zero, statistically non-significant impact upon public policy." Your vote won't change anything. The system is rigged. One path to power is for us to organize.
+
 The word _person_ almost always means one's own group. When [the U.S. constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) says "We the people..." what they meant at the time was land-owning, white, man; that was the definition of a person. We label people outside our groups with a metaphor. Over the centuries as we expanded our definition of person to include the non-white, women, and landless, we have the appearance of inclusivity. The truth is we were never given anymore power without ensuring the dilution of that power hid the interests of the elites. The people who took the place of the most wealthy Americans manufacture our consent and give us meaningless options.
 
 Are the elites going to solve climate change once it effects them? No. Rather than a conspiracy theory of supreme power, these people who are in the position of elites are just as enslaved as the poorest among us. While the poor struggle to survive, the elites are seduced by the opposite. In a competitive world created by capitalism, who wouldn't listen to the whispers of billions of dollars: _you and anyone you care about will never have a material worry again_, _do anything you want_, _you deserve this_, _you're better than anyone else_. Few of us could turn away given the opportunity. If the elites actually tried to solve a real problem, such as climate change, poverty, or proper education, they would fail miserably. They will never try because the solutions to these problems often involves change to the current system, which jeopardizes their elite position, which they are too enthralled to give up. Really the elites are slaves to maintaining the rigged system no matter what they once believed. The capitalist system itself is an exploitative pyramid. The best choice is to be near the top where the exploitation of the masses funnels upward.
@@ -96,11 +98,13 @@ We're too powerful and we're a greedy algorithm.
 
 A greedy algorithm is like a fire burning the closest fuel as soon as it can. It's like how single celled life in a petri dish will eat and grow as long as food is available before dying in its accumulated shit.
 
+Doesn't this all seem inhuman? How did we end up here, and can we find our way out?
+
 ### AI has already taken over - Corporations as AI
 
 Some argue corporations are already an example of artificial general intelligence (AGI).
 
-[AI Has Already Taken Over. It’s Called the Corporation.](https://www.commondreams.org/views/2017/12/03/ai-has-already-taken-over-its-called-corporation)
+Selected parts of [AI Has Already Taken Over. It’s Called the Corporation.](https://www.commondreams.org/views/2017/12/03/ai-has-already-taken-over-its-called-corporation)
 
 ---
 
@@ -140,6 +144,8 @@ AI commentator Robert Miles has this to say about [AI as corporations](https://w
 
 ### AI already changed our lives and shaped society
 
+Viewing corporations as AI, we know this artificial form of human intelligence has changed our world, but the technological AI is an extension of that force.
+
 If you're worried about AI taking over and enslaving humans, you should've started worrying decades ago.
 
 AI has already shaped our minds and the world - it's called Google.
@@ -170,7 +176,7 @@ They don't want you to have to think about using their service. The race down yo
 
 Hungry? - Open Yelp or Uber Eats.
 Lonely? - Facebook or Instagram.
-Bored? - Reddit or YouTube
+Bored? - Reddit or YouTube.
 
 As soon as the feeling strikes our hand reaches for our phones and our fingers glide into position. In capitalistic competition they use every addictive tactic they can to trap you, sounds, flashing lights, colors, push notifications at just the right time.
 
@@ -221,11 +227,11 @@ Don't wait for someone to save you; save yourself! Don't wait for regulations th
 
 # iAi Community
 
-What are your answers to these 5 questions?
+What are your answers to these 5 questions:
 
 Do you love the American ideal of merit, equality, and freedom, but find yourself trapped in our current dystopia with no alternative?
 
-Have you accepted collapse, on the scale of ecological, social, global collapse is imminent in the next 10 to 80 years?
+Have you accepted collapse, on the scale of ecological, social, global collapse is imminent by the year 2050?
 
 Do you accept humans are deeply flawed, greed is rarely good, and we should have limitations?
 
@@ -257,7 +263,7 @@ The economist [Manfred Max-Neef](https://en.wikipedia.org/wiki/Manfred_Max-Neef)
 * Identity
 * Freedom
 
-See pages 32-33 of Max-Neef's work, [Human Scale Development](http://www.wtf.tw/ref/max-neef.pdf).
+See pages 32-33 of Max-Neef's work, [Human Scale Development](http://www.wtf.tw/ref/max-neef.pdf). Earlier in the work, Max-Neef also discusses the inclusion of _transcendence_, which is the level of self-actualization in [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). However, he was working towards the alleviation of poverty and saw transcendence as a need for future societies.
 
 The goal of our community is to maximize [adaptive capacity](https://www.youtube.com/watch?v=o6lSuwJw0pk). What makes a social group adaptive is based upon:
 
@@ -277,13 +283,13 @@ Our community can be a beacon of hope and rationality for a future of synergisti
 
 Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deepfakes because a deepfake of a community member can hopefully be sorted out by walking over and knocking on the door of the member to discuss.
 
+On the basis of history and [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number), I suggest the smallest functional unit of the community to be a band of 150 members, allowing 10 groups of 15 people in service to each of the community's needs. Scaling up to a full 10,000, there will be 10 groups of 1,000 each serving a community need.
+
 * Automation for all.
 
 Every human activity deemed not intrinsically worth doing should be automated as much as possible. If people don't like doing it, automate it!
 
 Much of our food production should be automated with [Farm Bot](https://farm.bot/). Farm bot is opensource. While we can buy a kit, it's also possible to download the code and schematics online to build ourselves. We can have a farm bot for every community household. Distributing food production will make us more secure and resilient.
-
-An ever growing amount of medical care can be automated. From [diagnosing skin conditions almost as well as a dermatologist](https://ai.googleblog.com/2019/09/using-deep-learning-to-inform.html) to [estimating cardiovascular risks based on retinal scans](https://ai.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html), AI can be the first step in the medical care process. Search engines are AI which help diagnose. Where our medical automation fails and the scope of treatment is beyond the scope of the community medical team, we will work with established hospitals for treatment, trading their money for service.
 
 We see that automation currently favors the wealthiest among us and serves their whims. Whoever has the most access to hardware and computation owns automation. This is the digital version of land. The point of automation is for _all of us_. No small group should be the main benefactors or hold unequal power. Humans should be involved where ever humanity is needed.
 
@@ -318,6 +324,8 @@ We need to focus on sustainable housing. Everyone should have access to an [Eart
 
 If someone is ill, take care of them.
 
+An ever growing amount of medical care can be automated. From [diagnosing skin conditions almost as well as a dermatologist](https://ai.googleblog.com/2019/09/using-deep-learning-to-inform.html) to [estimating cardiovascular risks based on retinal scans](https://ai.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html), AI can be the first step in the medical care process. Search engines are AI which help diagnose. Where our medical automation fails and the treatment is beyond the scope of the community medical team, we will work with established hospitals for treatment, trading their money for service.
+
 * Local currency and the economy.
 
 Each community should have its own local currency. Most high school computer science students can create their own version of digital cryptocurrency. The point is internal trade only. The value of a community currency outside of the community should be zero! When we create a collective currency between countries, we _will_ have wealth and tax evasion. People will store their assets outside of the community and become separate.
@@ -338,7 +346,7 @@ Rather than economic measures like the GDP, we should have multiple and distinct
 
 * Sustainable Jobs -- Stewards of the Earth
 
-Many of our jobs should be based solely in redeveloping symbiosis with nature. We should disrupt the ecosystem as little as possible while making it robust to the coming climate changes. We should have a section of our population planting trees and growing [food forests](https://en.wikipedia.org/wiki/Forest_gardening). You should be paid to plant trees.
+Many of our jobs should be based solely in redeveloping symbiosis with nature. We should disrupt the ecosystem as little as possible while making it robust to coming climate change. We should have a section of our population planting trees and growing [food forests](https://en.wikipedia.org/wiki/Forest_gardening). You should be paid to plant trees.
 
 Alongside our necessities, we need sustainability engineers to redesign our modern lives. We need to decide as a community what we can give up and what we can keep in a post-fossil fuel world. We should fill the gaps with indigenous knowledge as much as possible while generating our own indigenous knowledge through connection to our land. Necessary appliances to maintain our standard of living should be as sustainable as possible and the schematics freely shared with the world.
 

@@ -157,6 +157,14 @@ Defeat is a state of mind; no one is ever defeated until defeat has been accepte
 
 "Those who educate children well are more to be honored than they who produce them; for these only gave them life, those the art of living well." - Aristotle
 
+"The life of money-making is one undertaken under compulsion, and wealth is evidently not the good we are seeking; for it is merely useful and for the sake of something else." - Aristotle
+
+"When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds. Your mind transcends limitations, your consciousness expands in every direction, and you find yourself in a new, great, and wonderful world. Dormant forces, faculties and talents become alive, and you discover yourself to be a greater person by far than you ever dreamed yourself to be." - Patanjali
+
+"Although you may spend your life killing, you will not exhaust all your foes. But if you quell your own anger, your real enemy will be slain." - Nagarjuna
+
+"Most powerful is he who has himself in his own power." - Seneca
+
 "If you only had 48 hours left to live, would you spend it like you normally spend your weekends? If not, why spend 2/7th of your life wasting your free time? After all, free time isn’t free. Free time is the most expensive time you have, because nobody pays for it but you. But that also makes it the most valuable time you have, as you alone stand to reap the profits from spending it wisely." - Jarod Kintz, I Should Have Renamed This
 
 "Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?" - Stephen Hawking, A Brief History of Time
@@ -184,6 +192,10 @@ Defeat is a state of mind; no one is ever defeated until defeat has been accepte
 "The philosophers have only <i>interpreted</i> the world, in various ways. The point, however, is to <i>change</i> it.<br/><br/>[<i>These words are also inscribed upon his grave</i>]" - Karl Marx, Eleven Theses on Feuerbach
 
 "If you understand others you are smart.<br/>If you understand yourself you are illuminated.<br/>If you overcome others you are powerful.<br/>If you overcome yourself you have strength.<br/>If you know how to be satisfied you are rich.<br/>If you can act with vigor, you have a will.<br/>If you don't lose your objectives you can be long-lasting.<br/>If you die without loss, you are eternal." - Lao Tzu, Tao Te Ching
+
+"Therefore the sage, because he does nothing, never ruins anything; And, because he does not lay hold of anything, loses nothing." - Lao Tzu, Tao Te Ching
+
+"(The Sage) is ready to use all situations and doesn't waste anything. This is called embodying the light." - Lao Tzu, Tao Te Ching
 
 "I am, therefore I'll think." - Ayn Rand
 
