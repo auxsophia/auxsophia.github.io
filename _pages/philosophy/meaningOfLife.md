@@ -1338,6 +1338,10 @@ The really interesting part is there will be areas in computationally irreducibi
 
 We are living in these pockets! This explains why the universe can appear to be chaos yet have predictable and deterministic moments.
 
+In my younger years I had the feeling of a deeply rational and intuitionist argument for proof of god. It took me years to articulate the argument to myself conceptually. I wanted an argument for god so powerful that if you were to be rational at all you must accept belief in god. Like so many thinkers, this would be one of the foundational beliefs in my epistemology.
+
+If randomness is irrational, how is there rationality? To be rational requires a mind to intentionally order the universe. That mind is what we would consider god. If no intentional being ordered the universe, then we don't have rationality by definition. What was hard for me to mentally grasp and accept was that order and rationality could occure spontaneously from randomness.
+
 I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). There are systems which have [periodicity](https://en.wikipedia.org/wiki/Periodic_function). We can expect at 9am that in 12 hours a clock will return to 9pm. We try to reduce, compress, the phenomenon down to an equation or scientific theory to explain or predict the system. We can describe a line in a graph with the equation y=mx+b. [Reductionism](https://en.wikipedia.org/wiki/Reductionism) attempts to understand systems at lower levels than the whole to reduce variability and noise. Perhaps if we understand all the small parts we can fully predict the whole. Like reducing an organism to its genetic code. However genes give an example against reduction. There are billions of connections in the brain, but there aren't billions of genes coding for each connection. The code gives rules for a pattern, but the pattern can be _perturbed_ by initial conditions. Each time you run the code and generate the pattern it will turn out differently.
 
 We attempt to reduce variability and noise to find that both are features of the system which are scale free. No matter how much we reduce and magnify, no matter how far we zoom out to study the whole, there will always be variability, noise, and mysteries remaining. Like the value of pi, the more resolution of the number we hope to have by finding a new decimal place, we can determine the next digit giving greater precision, but the value doesn't end. We can zoom in for precision endlessly.
@@ -1398,7 +1402,7 @@ And so on for _n_ given bits. We can map _2^n_ binary sequences. With just 32 bi
 
 Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's answer of 1 or 0 represents an answer to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Well binary addition gives us a new output sequence from two given binary strings added together, new information generated from given information.
 
-Every human being is running something like a computer program, processing information.
+Every human being is running something like a computer program, processing information. When we introspect on the question of can our mind be separate from our body, many believe we can separate. We see there are generalized aspects of computing information in how our brains work. We have a biological self and a simulated, information processing self. As we age the two can feel disconnected. We, the simulated selff, can grow divergent to and less attached to our body.
 
 Younger in my life I focused on the storage of information as the greatest good. To have experience and reflect on it was a good in its own sake. To store information persists its existence and meaning. As I learned more math, I realized the data for a complete mapping of the universe exists infinity times over. Consider the value of [pi](https://en.wikipedia.org/wiki/Pi).
 
@@ -1414,7 +1418,7 @@ By chaining together a series of possibilities represented as flipped bits and u
 
 What if people were twice as tall?! What would be different about the world? We're changing something simple about a feature of our world, take everyone's height and double it. Would doors still be the same size? A child can answer, "no, they would be twice as big for people to get through." We understand doors are made by people, and the size is related to average height. If average human height changes, the average door size changes. We can also ask why people are twice as tall in this imaginary world. An evolutionary biologist likely has a few probable answers. Maybe in the history of humans the trees around them had branches higher up, and they had to jump. Only the tall apes would make it.
 
-Taking a look at information again, a good definition of information is _the difference that makes a difference_. In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit with context, what if each bit is asking a yes or no question?
+Taking a look at information again, a good definition of information is _the difference that makes a difference_. For two pieces of data, how can you tell them apart? In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit with context, what if each bit is asking a yes or no question?
 
 Imagine we're sending messages to each other through a computer, but one person doesn't have a microphone. That person has to communicate yes or no visually. Given the English alphabet A-Z, how many yes or no questions are required to spell the word 'one'? Let's start with the first letter, _o_. What question would you ask?
 
@@ -1557,7 +1561,7 @@ Consciousness is a dream state. Our dreams are simply more disconnected states o
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the adaptation of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
-We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize both that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves. 
+We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize both that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves.
 
 We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
 
@@ -1569,7 +1573,7 @@ Many strategies will not work. Some strategies will. Fewer still will be very su
 Add the blue line gif here?
 
 
-
+~
 
 
 Of course the evaluation of life is multidimensional. We are in a constant need to maintain homeostasis, necessitating powerful urges for water, food, socializing, etc. For every need and personal desire we must add its own dimension on an axis. Quickly we move from 2 and 3 dimensional space to a large number of dimensions. The problem is described as the [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality).
@@ -1698,7 +1702,7 @@ Given the previous information, our picture of the self, who we are, becomes unc
 
 **What are you?**
 
-You are a multicellular organism. Each cell of your body is living and replicating for you to continue. Without a stable change of energy in and out of your body you would die. Your body is made up mostly of water, carbon, and air. The function of your body through time embodies your subjective experience. We are not one entity; we are legion. Think of an individual neuron. That neuron is growing and connecting with others to sustain itself and the whole organism, but how much does it know of the whole organism? You contribute to your society in some way, how much do you believe you know of the whole? An individual neuron follows rules which feed and stabilize it. Your thoughts are driven by a swarm of interacting neurons all considering themselves and their environment.
+You are a multicellular organism. Each cell of your body is living and replicating for you to continue. Without a stable change of energy in and out of your body you would die. Your body is made up mostly of water, carbon, and air. We are not one entity; we are legion. Think of an individual neuron. That neuron is growing and connecting with others to sustain itself and the whole organism, but how much does it know of the whole organism? You contribute to your society in some way, how much do you believe you know of the whole? An individual neuron follows rules which feed and stabilize it. Your thoughts are driven by a swarm of interacting neurons all considering themselves and their environment.
 
 Our mind is like an ant colony. The colony emerges from the collective simple actions of each ant. No one ant is critical besides the queen, and even she can be replaced. Your neurons die off slowly as we age, but the brain adapts its structure to retain performance. Just like ants follow rules of behavior, so do neurons. By carrying out simple rules swarms of insects can solve complex problems.
 
@@ -1709,7 +1713,7 @@ Now think of a thunderstorm, another pattern of electrical activity. It is less 
 
 The biological make up of who we are conflicts with the common sense intuition of identity. Don't you have a name and a sense of self? Wouldn't you say you are the same person as you were 7 years ago or when you were 7 years old?
 
-
+~
 
 What "you" are is an emergent phenomena arising from the activity of your body. What we consider to be us is really a small simulation on top of and separate from most of the activity in your body. The closest we get to who we are is a pattern of activity, our consciousness, which provides us a coherent story of ourselves. The story can change drastically and be forgotten. The most important factor in answering 'yes' to the question 'are you the same you as before' is the feeling of trust and certainty of who we are, not the truth, but the feeling of truth.
 
@@ -1717,11 +1721,11 @@ Why would a creature have an ego, the sense of self? There are many examples whe
 
 Our criminal justice system is based on the idea of ego. If we all did not have egos we would not see the reason to punish law breakers. Who is there to punish if there is no you? However, people who cheat and steal harm the group to benefit themselves. Groups which can stop this behavior will likely outperform those who don't (on small scales).
 
-
+~
 
 If you want to know yourself, your mind, then I suggest paying attention to the working of your mind. Think about your thinking. Think about your feelings; notice them. The path to enlightenment is as simple as sitting in a corner of a room facing a blank wall. Close your eyes and focus on your breathing from the nose throughout the lungs. Thoughts will inevitably arise; notice them. Where did the thought come from? Where did the thought go? Return to your breath. Focus all of your attention on breathing. _Interrupting thoughts are good!_ Having stray thoughts during meditation/breathing practice is a perfect chance to train your mind and attention. Notice the thought then notice your breathing. Bring yourself back to the breath; every time you do it is one repetition leading to a stronger, more resilient, more focused mind. With 10 minutes a day, over the course of your practice you will gain deeper insight into yourself and the nature of your consciousness.
 
-I believe the long tradition of meditation is a method of deactivating the "human" modules of our brain. Each meditation practitioner noticed the drives and thoughts of their mind. Through attention and will we can increase or decrease the activity of brain regions. Think of all the drives and thoughts we have, the desire for water, food, safety, comfort, the constant chatter of our ego-driven mind, caught in the past, fear of the future, always thinking of 'I.' What is left when we silence all of this activity? Put another way, what is always there in your mind when we feel and think anything?
+I believe the long tradition of meditation is a method of deactivating the "human" modules of our brain. Meditation techniques are a systematic paths to dispelling our mental illusions. Each meditation practitioner noticed the drives and thoughts of their mind. Through attention and will we can increase or decrease the activity of brain regions. Think of all the drives and thoughts we have, the desire for water, food, safety, comfort, the constant chatter of our ego-driven mind, caught in the past, fear of the future, always thinking of 'I.' What is left when we silence all of this activity? Put another way, what is always there in your mind when we feel and think anything?
 
 We are a swirl of living matter. We came from nothing and will return to nothing. What if we currently are nothing? When we think of ourselves an organic neural network returns a perception. What happens when we deactivate that neural network and look "beyond" it? Much like analyzing an artificial neural network one layer at a time, we can mentally peel back the layers of our mind momentarily. At the core of self, we see _nothing_. The core is an empty space surrounded by structure. We are a hole. We are defined by what surrounds the hole.
 
@@ -1733,7 +1737,100 @@ I will make another claim about our innermost selves: our identification with th
 
 My guess is our conscious selves are an abstracted layer on top of the information processing required to maintain bodily function. We aren't fully conscious of our hormones, digestion, etc. all the time. They come to us in vague impressions. This would make sense if the function of consciousness were to process certain types of information undisturbed from the function of the rest of our body. We likely wouldn't want to be in full control of breathing, heart rate, and everything else. That information would distract us from the thinking our consciousness is doing. Instead, following [Karl Friston's free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), our mind exists in a markov blanket, the mind can be separated from the other information processing of the body. To isolate the "I" of us from all of the life sustaining functions our bodies and brains carry out might leave us with much less brain power required than we expect.
 
-If our conscious experience arises from the activity of a neural network in a distinct markov blanket, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
+From the Blue Brain Project, [research suggests](https://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists) the brain [processes information in up to 11 dimensions.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) The work is based on [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology) which studies multidimensional space.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neocortex-11.jpg" width="80%" height="80%">
+{: refdef}
+
+> "Left: digital copy of a part of the neocortex, the most evolved part of the brain. Right: shapes of different sizes and geometries that represent structures ranging from 1 dimension to 7 dimensions and more. The "black-hole" in the middle symbolizes a complex of multi-dimensional spaces aka cavities." - [Big Think](https://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
+
+### The nature of our mind is truly transcendent.
+
+Is it a coincidence that the brain processes in 11 dimensions and physics describes the universe in the [11 dimensions of](https://www.youtube.com/watch?v=ZS2hJLIN1DM) time (1), gravity (3 dimensions), electromagnetic (1), weak (2), and strong (4)? How do we unite 11 dimensional processing with the very 3 dimensional wet brain? If our bodies and brains evolved to navigate 3 dimensional space with time, why would we have higher dimensional processing at all?
+
+Perhaps evolution and adaptation exploited a greater density of information processing. Like a sphere has volume while a circle has area, higher dimensions allow for greater complexity of problem solving. The solution may be a knot which can only be tied and untied in higher dimensional space.
+
+Why do we feel a spark of life, an ineffable qualia, a powerful, feeling subjective sense? That is because we are processing higher dimensional information, but what we feel is the process of being that information processing. In computing we transcend, but we are a shadow of the full existence of that higher dimensional processing. So we return to problems related to Platonic forms. Do these higher realms exist? Does the feeling of moral justice require 8 dimensional processing or 4?
+
+I won't claim knowledge of higher realms. I leave that to scientists and mathematicians. I don't even know 3 dimensions well. However with this framework we can begin to ask questions like these. We can search for computational limits which can and cannot be exceeded for phenomena to occur.
+
+Birds don't need to be lectured on the biomechanics of how they fly, they learn to fly by doing. We don't need to know the mathematical basis for computation to feel our lives. Reflect on your experience to feel the depths of consciousness.
+
+If higher dimensional processing is all that is required for consciousness, the right form, the right shape of processing, then why can't a computer be made to feel conscious? An AI entity could process beyond the barrier of 11 dimensions which may be a biological limit.  
+
+# More Detail on Neural Networks
+
+Microscopes became good enough [to see individual neurons around 1905](https://en.wikipedia.org/wiki/Neuron_doctrine). The first drawings of neurons shook the neuroscience world and led the pioneers to a Nobel prize. With neurons being the fundamental unit of information processing in the body, AI researchers attempted to create a model of a neuron and neural networks. The first neuron model of the [perceptron](https://en.wikipedia.org/wiki/Perceptron) was formally defined in the 1950's.
+
+We believed the neuron received a chemical and electrical input from other neurons, processed the information in the neuron cell body, the _soma_, then decided to fire or not fire, sending the processed signal to the next neuron. The incoming information is represented as _X_, or you can think of an individual pixel in an image. There is a set of weights, _W_, equal to the number of inputs which the inputs are multiplied by. There is an added bias, _b_, which is sometimes necessary to properly solve a problem. So we can define a perceptron as the function:
+
+f(X) = 1 if X*W+b > 0
+f(X) = 0 if X*W+b <= 0
+
+Notice how f(X) = X*W+b is similar to the equation of a line, y=mx+b. [In slope-intercept form](https://en.wikipedia.org/wiki/Line_(geometry)#Slope-intercept_form), y is the output, m is the slope or gradient of the line, x is the input, and b is the y-intercept, the value of y when x = 0.
+
+Let's look at an example problem: identifying cats and dogs. Children struggle at first. They identify dogs, see a cat, and say, "dog!" When they are correct, "no, that's a cat," they learn the difference between the two. Deciding between two categories like cats and dogs can be thought of as drawing a line. We can graph the examples we see, say by size and some value of domestication, and learn a line which separates the two categories correctly. With each new example the line can change to correctly classify.
+
+You can visualize and play with all kinds of neural networks on [Tensorflow Playground](https://playground.tensorflow.org/). Here is a graph on the data we want to classify shown by the colors orange and blue. We can think of these as cats and dogs as well.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neuron_data.PNG">
+{: refdef}
+
+Just ask yourself, can you draw a single line to separate the data points into their respective classes? We want a neuron to learn the line.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neuron_perceptron.PNG">
+{: refdef}
+
+X1 and X2 on the left are the inputs to a single neuron. That neuron is like the cell body, and the outgoing line is like the axon. After some training, the neuron learn a line. You can see the [decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) by the white line bisecting the data.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neuron_output.PNG">
+{: refdef}
+
+So the problem can be defined as: find the W and b which gives
+
+f(X) returns blue if W*X+b > some threshold
+f(X) returns orange if W*X+b <= some threshold
+
+Notice how the neuron changes its line once trained. The lines leading to and from the neuron represent the weighted connections.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neuron_perceptron_trained.PNG">
+{: refdef}
+
+Finding a decision boundary is the essence of intelligence. Making a decision based on a gradient between two things, yes/no, true/false, move/don't move, etc. The perceptron stops learning when it finds an appropriate line to separate the two classes. Pause to consider there are an infinite number of lines we can find to separate this data. If the data is not linearly separable, then the perceptron will continue to struggle and fail to find the decision boundary.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neuron_output_nonlinear.PNG">
+{: refdef}
+
+As an example ask yourself if you can draw a straight line to separate the two classes? It's not possible.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/neuron_nonlinear_trained.PNG">
+{: refdef}
+
+When our simple model tries it finds some line but hits an unsurpassable limit; it can only be so accurate.
+
+<embed src="../../images/MoL/XOR_Problem_NN.pdf" type="application/pdf">
+
+The hidden layer of neurons, of which there can be many, learn a representation of the data that allows for better decisions. We can visualize it as emphasizing or diminishing the input which creates an altered topology, like flexing or folding a piece of paper or cloth, to draw a decision boundary. This extends to multiple dimensions, so instead of decision line we have a decision plane.
+
+By mathematical proof, neural networks are [universal approximators of continuous functions](https://en.wikipedia.org/wiki/Universal_approximation_theorem). Amything which can be represented by a continuous function can be learned by a neural network. We can see the universality, the generalizability, of neural networks, but this is all based on the most simple models of neurons. We are still only considering neural architectures which feed-forward then send an error signal back. Real neurons are humming with information and have all kinds of connections.
+
+The model we had which is of the input x1, x2...sending a signal of on or off relates to the synaptic connections between neurons.
+
+Relation to XOR problem. Why some researchers thought perceptrons were a deadend. How a NN can approximate any function.
+
+
+
+~
+
+
+If our conscious experience arises from the activity of a neural network in a distinct markov blanket, a system of self-contained information processing, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
 
 "The enteric nervous system in humans consists of some 500 million neurons (including the various types of Dogiel cells), 0.5% of the number of neurons in the brain, five times as many as the one hundred million neurons in the human spinal cord, and about ​2⁄3 as many as in the whole nervous system of a cat," -- [Wikipedia](https://en.wikipedia.org/wiki/Enteric_nervous_system)
 
@@ -1811,6 +1908,7 @@ All we can really do is hope; hope we are in the universe which arranges our liv
 
 Subjectively, we will feel as though we are making choices, but our choices are the result of information processing according to the laws of nature. Life appears to us to be based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
 
+~
 
 ## Every moment matters.
 
@@ -1818,7 +1916,7 @@ I would like to bring a disturbing thought to your attention. Is anything added 
 
 The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it. Future observers can only wonder and guess.
 
-
+~
 
 
 The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. Not only does life resist entropy, the tendency of energy to breakdown from order to disorder, but life grows information. Life exists in out of equilibrium systems where solid matter (embodied information) can be recombined to form new information. Following this progression to its end, the objective meaning of life is to maintain and grow order where the optimal achievement would be the out of equilibrium system which allows the greatest manipulation of memory (solid matter) into new forms of information by computation. While humans may be near the biological limits of computation, we can expand beyond ourselves into artificial intelligence with capacities we can only begin to imagine.
