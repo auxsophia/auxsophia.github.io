@@ -1815,7 +1815,7 @@ As an example ask yourself if you can draw a straight line to separate the two c
 
 When our simple model tries it finds some line but hits an unsurpassable limit; it can only be so accurate.
 
-<embed src="../../images/MoL/XOR_Problem_NN.pdf" type="application/pdf">
+<embed src="../../images/MoL/XOR_Problem_NN.pdf" type="application/pdf" height="1000px" width="100%">
 
 The hidden layer of neurons, of which there can be many, learn a representation of the data that allows for better decisions. We can visualize it as emphasizing or diminishing the input which creates an altered topology, like flexing or folding a piece of paper or cloth, to draw a decision boundary. This extends to multiple dimensions, so instead of decision line we have a decision plane.
 
