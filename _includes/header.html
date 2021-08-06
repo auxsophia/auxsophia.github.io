@@ -12,10 +12,17 @@ navigation bar, except for the blog page, which I will load manually.
 				{% endif %} {% endfor %}-->
 				<li><a href="{{ site.url }}">Home</a></li>
 				<li><a href="{{ "/about/" | prepend: site.baseurl }}">About</a></li>
-				<li><a href="{{ "/humanFlourishing/" | prepend: site.baseurl }}">Human Flourishing</a></li>
-				<li><a href="{{ "/philosophy/" | prepend: site.baseurl }}">Philosophy</a></li>
-				<li><a href="{{ "/ai/" | prepend: site.baseurl }}">Artificial Intelligence</a></li>
-				<li><a href="{{ "/CS/" | prepend: site.baseurl }}">Computer Science</a></li>
+				<div class="dropdown">
+				 <button class="dropbtn">Topics
+					 <i class="fa fa-caret-down"></i>
+				 </button>
+				 <div class="dropdown-content">
+					<li><a href="{{ "/humanFlourishing/" | prepend: site.baseurl }}">Human Flourishing</a></li>
+					<li><a href="{{ "/philosophy/" | prepend: site.baseurl }}">Philosophy</a></li>
+					<li><a href="{{ "/ai/" | prepend: site.baseurl }}">Artificial Intelligence</a></li>
+					<li><a href="{{ "/CS/" | prepend: site.baseurl }}">Computer Science</a></li>
+					</div>
+				</div>
 			</ul>
 		</nav>
 	</div>
