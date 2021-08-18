@@ -955,6 +955,8 @@ Pearl once believed as many others that Bayesian rationalism was the highest for
 
 One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
 
+~
+
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/confounding.png" width="75%" height="75%">
 {: refdef}
@@ -1569,13 +1571,6 @@ We can in principle graph life on a two dimensional plane of fitness over time. 
 
 Many strategies will not work. Some strategies will. Fewer still will be very successful over the long term.
 
-
-Add the blue line gif here?
-
-
-~
-
-
 Of course the evaluation of life is multidimensional. We are in a constant need to maintain homeostasis, necessitating powerful urges for water, food, socializing, etc. For every need and personal desire we must add its own dimension on an axis. Quickly we move from 2 and 3 dimensional space to a large number of dimensions. The problem is described as the [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality).
 
 > "The curse of dimensionality refers to various phenomena that arise when analyzing and organizing data in high-dimensional spaces that do not occur in low-dimensional settings such as the three-dimensional physical space of everyday experience...The common theme of these problems is that when the dimensionality increases, the volume of the space increases so fast that the available data become sparse. This sparsity is problematic for any method that requires statistical significance. In order to obtain a statistically sound and reliable result, the amount of data needed to support the result often grows exponentially with the dimensionality. Also, organizing and searching data often relies on detecting areas where objects form groups with similar properties; in high dimensional data, however, all objects appear to be sparse and dissimilar in many ways, which prevents common data organization strategies from being efficient."
@@ -1804,7 +1799,7 @@ Notice how the neuron changes its line once trained. The lines leading to and fr
 Finding a decision boundary is the essence of intelligence. Making a decision based on a gradient between two things, yes/no, true/false, move/don't move, etc. The perceptron stops learning when it finds an appropriate line to separate the two classes. Pause to consider there are an infinite number of lines we can find to separate this data. If the data is not linearly separable, then the perceptron will continue to struggle and fail to find the decision boundary.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_output_nonlinear.PNG">
+<img src="../../images/MoL/neuron_data_nonlinear.PNG">
 {: refdef}
 
 As an example ask yourself if you can draw a straight line to separate the two classes? It's not possible.
@@ -1819,16 +1814,9 @@ When our simple model tries it finds some line but hits an unsurpassable limit; 
 
 The hidden layer of neurons, of which there can be many, learn a representation of the data that allows for better decisions. We can visualize it as emphasizing or diminishing the input which creates an altered topology, like flexing or folding a piece of paper or cloth, to draw a decision boundary. This extends to multiple dimensions, so instead of decision line we have a decision plane.
 
-By mathematical proof, neural networks are [universal approximators of continuous functions](https://en.wikipedia.org/wiki/Universal_approximation_theorem). Amything which can be represented by a continuous function can be learned by a neural network. We can see the universality, the generalizability, of neural networks, but this is all based on the most simple models of neurons. We are still only considering neural architectures which feed-forward then send an error signal back. Real neurons are humming with information and have all kinds of connections.
+By mathematical proof, neural networks are [universal approximators of continuous functions](https://en.wikipedia.org/wiki/Universal_approximation_theorem). Amything which can be represented by a continuous function can be learned by a neural network. You could potentially learn any function with enough neurons needed in a single hidden layer. It is also proven for multiple hidden layers where each layer is learning from a slightly modified previous layer. We can see the universality, the generalizability, of neural networks, but this is all based on the most simple models of neurons. We are still only considering neural architectures which feed-forward then send an error signal back. Real neurons are humming with information and have all kinds of connections.
 
-The model we had which is of the input x1, x2...sending a signal of on or off relates to the synaptic connections between neurons.
-
-Relation to XOR problem. Why some researchers thought perceptrons were a deadend. How a NN can approximate any function.
-
-
-
-~
-
+The model we had which is of the input x1, x2...sending a signal of on or off relates to the synaptic connections between neurons. We thought of synaptic connections as sending a charge like a metal transistor wire carries electricity, but [research has shown human dendritic connections can solve the XOR problem](https://pubmed.ncbi.nlm.nih.gov/31896716/). Looking closely, "The dendrites generated local spikes, had their own nonlinear input-output curves and had their own activation thresholds, distinct from those of the neuron as a whole. The dendrites themselves could act as AND gates, or as a host of other computing devices," [Quanta Magazine](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/). The closer we look the more computational complexity we find.
 
 If our conscious experience arises from the activity of a neural network in a distinct markov blanket, a system of self-contained information processing, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
 
