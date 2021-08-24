@@ -4,9 +4,7 @@ title: Society 3.0
 permalink: /society3/
 ---
 
-This work is a natural continuation of [the meaning of life](/meaningOfLife/). Many conclusions will not make sense without first reading the foundation. All of humanity should work towards the ultimate goal of artificial general intelligence capable of surpassing us in every way possible. AI can be conscious. We can make an AI entity with the ideals of humanity and incapable of our evils. What is more important than creating a superior being and ushering the next stage of evolution and consciousness?
-
-But the answer is not to move to Silicon Valley in California or join a tech startup.
+How does a human being flourish? What should society and humanity do? I want to explain each part to show you how far we are from the reality of our situation and where we should go. [It took me quite some time to accept climate change (video)](https://www.youtube.com/watch?v=zGRLZGtLrr0). I have released a [video outline](https://youtu.be/NRSXLAlosQA) of this work, but there is much to gain from the details.
 
 I hope to show you what I believe humanity's best path forward and what led me to these conclusions.
 
@@ -231,7 +229,7 @@ What are your answers to these 5 questions:
 
 Do you love the American ideal of merit, equality, and freedom, but find yourself trapped in our current dystopia with no alternative?
 
-Have you accepted collapse, on the scale of ecological, social, global collapse is imminent by the year 2050?
+Have you accepted collapse is imminent on the ecological, social, global scale by the year 2050?
 
 Do you accept humans are deeply flawed, greed is rarely good, and we should have limitations?
 
@@ -258,12 +256,13 @@ The economist [Manfred Max-Neef](https://en.wikipedia.org/wiki/Manfred_Max-Neef)
 * Participation
 * Understanding
 * Affection
-* Idleness
+* Leisure
 * Creation
 * Identity
 * Freedom
+* _Transcendence_
 
-See pages 32-33 of Max-Neef's work, [Human Scale Development](http://www.wtf.tw/ref/max-neef.pdf). Earlier in the work, Max-Neef also discusses the inclusion of _transcendence_, which is the level of self-actualization in [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). However, he was working towards the alleviation of poverty and saw transcendence as a need for future societies.
+See pages 32-33 of Max-Neef's work, [Human Scale Development](http://www.wtf.tw/ref/max-neef.pdf). Earlier in the work, Max-Neef also discusses the inclusion of _transcendence_, which is the level of self-actualization/transcendence in [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). However, Max-Neef was working towards the alleviation of poverty and saw transcendence as a need for future societies.
 
 The goal of our community is to maximize [adaptive capacity](https://www.youtube.com/watch?v=o6lSuwJw0pk). What makes a social group adaptive is based upon:
 
@@ -364,48 +363,36 @@ A sovereign community should respect the sovereignty of other communities. Indig
 
 # Globally Opensourced
 
-If we all individually lived a zero-waste lifestyle the impact would be small while coming at a great personal cost. We need a global solution to the challenges we collectively face. Humans need to organize and adapt where they are unless that is impossible. The current system should be replicated the world over in almost every country.
+If we all individually lived a zero-waste lifestyle the impact would be small while coming at a great personal cost. We need a global solution to the challenges we collectively face. Humans need to organize and adapt where they are unless that is impossible. The community ideal should be replicated the world over in almost every country.
 
-Like a nation is an organism, these communities should be a mitochondrion in the cell.
+Like a nation is an organism, these communities should be mitochondria to the cell.
 
 The communities should exchange fairly and equally with the existing nation. We can benefit everyone. The communities can be carbon negative, soaking up excess emissions. They can take your nation's weird and undesireable people. Send us your diverse, your strange! The end result is for communities to be seamless with their societies while needing little attention or care.
 
 Unfortunately disruptions to existing power structures are rarely tolerated. If people have an alternative they aren't trapped in the system they're in. Worse yet, we're running out of time. Developing a community like this, even as easy as we can make it, will likely take years, assuming everyone is ready and in agreement to make massive change.
 
+---
+
+# Join Now!
+
+I am looking for the founding 150 members for the iAi community. This is meant to be your home and people. Here you will matter in a way you have never felt. Ask yourself where you can best provide in the above 10 human needs. More than any productivity, do you feel the commitment to connection?
+
+If you are ready to join, email philosopherscholar@protonmail.com with your answers to the 5 questions:
+
+1. Do you love the American ideal of merit, equality, and freedom, but find yourself trapped in our current dystopia with no alternative?
+
+2. Have you accepted collapse is imminent on the ecological, social, global scale by the year 2050?
+
+3. Do you accept humans are deeply flawed, greed is rarely good, and we should have limitations?
+
+4. Do you believe we cannot go back to full connection with the Earth, but must reconnect to sustainable, community living while maintaining beneficial technology?
+
+5. Do you believe the study and development of good AI is the best path for our species?
+
+Please title your email "iAi Community".
+
+Once your application is reviewed, you will be invited to the Telegram or Discord server with other community members. We are looking for the first 150 members. We need diversity and skills of all kinds.
+
+With your help and AI, we can eradicate human corruption with artificial perfection! We can reach new heights of flourishing!
+
 ***
-
-## [Sustainable Development Goals #Envision2030](https://sustainabledevelopment.un.org/sdgs)
-
-[Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
-
-{:refdef: style="text-align: center;"}
-<img src="../../images/Sustainable_Development_Goals.png" width="100%" height="100%">
-{: refdef}
-
-The Sustainable Development Goals are:
-
-1. No Poverty
-2. Zero Hunger
-3. Good Health and Well-being
-4. Quality Education
-5. Gender Equality
-6. Clean Water and Sanitation
-7. Affordable and Clean Energy
-8. Decent Work and Economic Growth
-9. Industry, Innovation, and Infrastructure
-10. Reducing Inequality
-11. Sustainable Cities and Communities
-12. Responsible Consumption and Production
-13. Climate Action
-14. Life with Water
-15. Life On Land
-16. Peace, Justice, and Strong Institutions
-17. Partnerships for the Goals
-
----
-
-[First-ever compendium of indigenous technologies provides a powerful toolkit for climate-resilient design](https://www.gsd.harvard.edu/2020/02/first-ever-compendium-of-indigenous-technologies-provides-a-powerful-toolkit-for-climate-resilient-design/?fbclid=IwAR3pSSnJmXAUfbdzIffobCPOt_x0-7dZT-ql5z8LvGNKTqrdIhBDiJxdB4U)
-
-Lo—TEK: Design by Radical Indigenism by Julia Watson
-
----
