@@ -344,7 +344,7 @@ Polyphenol food sources:
 
 | Phenol         | Found in            | Benefits                     |
 |:---------------|:--------------------|:-----------------------------|
-| Reservatrol | Red wine, dark chocolate, pistachios | Improves brain glucose metabolism, cognitive function |
+| Resveratrol | Red wine, dark chocolate, pistachios | Improves brain glucose metabolism, cognitive function |
 | Quercetin | Onions | Strengthens gut barrier integrity and reduces permeability |
 | Anthocyanins | Blueberries | Reduces cognitive aging and Alzheimer's risk |
 | Fisetin | Strawberries, cucumbers | Reduces brain inflammation, protects from cognitive decline |

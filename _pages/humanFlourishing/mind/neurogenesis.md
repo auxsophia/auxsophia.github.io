@@ -8,7 +8,7 @@ permalink: /neurogenesis/
 > Can we, as adults, grow new neurons? Neuroscientist Sandrine Thuret says that we can, and she offers research and practical advice on how we can help our brains better perform neurogenesis—improving mood, increasing memory formation and preventing the decline associated with aging along the way.
 
 Things that promote neurogenesis:
-- Reservatol (found in red wine, has been shown to promote the survival of these new neurons)
+- Resveratrol (found in red wine, has been shown to promote the survival of these new neurons)
 - Omega 3 fatty acids
 - Calorie restriction (20-30%)
 - Intermittent fasting
@@ -25,7 +25,7 @@ And physical activities:
 
 Things against neurogenesis:
 - Vitamin E, B, A deficiency
-- Ethanol (alcohol - red wine counter balanced with reservatol)
+- Ethanol (alcohol - red wine counter balanced with resveratrol)
 - High sugar
 - High saturated fat
 - Soft diet (So Japanese groups are fascinated with food textures, and they have shown that soft diets impair neurogenesis, as opposed to food that requires mastication -- chewing -- or crunchy food.)

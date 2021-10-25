@@ -953,7 +953,7 @@ Pearl once believed as many others that Bayesian rationalism was the highest for
 
 "They [Bayesian networks] are related to causal diagrams in a simple way: a causal diagram is a Bayesian network in which every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow," page 110, location 1457.
 
-One example is _does smoking cause lung cancer?_ Here we have an important health question which we should establish a cause and effect relationship for.
+What effect does age, walking, and mortality have on each other?
 
 ~
 

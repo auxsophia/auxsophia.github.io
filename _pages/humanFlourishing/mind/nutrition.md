@@ -8,22 +8,30 @@ permalink: /nutrition/
 
 "Nutrition is the science that interprets the nutrients and other substances in food in relation to maintenance, growth, reproduction, health and disease of an organism," -- [Wikipedia](https://en.wikipedia.org/wiki/Nutrition).
 
-I'm not a nutritionist. None of this is "legitimate" nutritional advice. However food is one of the pillars of health and one area in which we can make good choices. To be upfront, I've struggled with my weight my whole life. I was obese at the age of 6 and spent most of my childhood overweight. I've worked most of my life experimenting and learning about food and diets.
+I'm not a nutritionist. None of this is "legitimate" nutritional advice. However food is one of the pillars of health and one area we can make good choices. To be upfront, I've struggled with my weight my whole life. I was obese at the age of 6 and spent most of my childhood overweight. I've experimented and learned about food and diets for over 15 years.
 
 ## My goal is a personal diet for optimal brain function.
 
-This isn't about looking good, athletic performance, or a way to eat for a few weeks. This diet is for mental athletes. Foods that boost focus, learning, and wellbeing. A balanced meal plan that balances neurotransmitters. I want to present basic diet advice I've gathered over many years. I continue to learn and refine my plan. Afterwards I will provide my resources and justification.
+This isn't about looking good, athletic performance, or a way to eat for a few weeks. This diet is for mental athletes. Foods that boost focus, learning, and wellbeing. A balanced meal plan that balances neurotransmitters. I want to present concise diet advice, and afterwards I will provide my resources and justification.
 
 Your diet should include:
 
-1. Meat cooked on the bone
-2. Organ meats
-3. Sprouted and fermented foods
-4. Raw food
+* Meat cooked on the bone
+* Organ meat
+* Fresh, raw plant and animal products
+* Fermented and sprouted foods
 
+Traditional food is best. If you have a connection to a culture going back 1000 years, look into traditionally known foods of your people. What would your great, great, great grandma recognize as food? Try to cover the 4 points above.
 
+**Food is information**. The closest connection our body gets to the outside world is food passing through the digestive tract. Whatever you eat is telling your body what your access to the environment is like.
 
+Eat whole foods, not too much, mostly plants.
 
+Eat across the rainbow - eat foods that are red, orange, yellow, green, blue, indigo, and violet. Eat a variety foods where each has its own benefits.
+
+Eat as close to the source of your food as possible. Raw nuts, not nut milk.
+
+Avoid C.R.A.P. Chemicals, Refined sugar & flour, Artificial stuff, Preservatives.
 
 ---
 
