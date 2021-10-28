@@ -30,6 +30,10 @@ Sourdough bread toasted with sauerkraut on top (optionally add yellowfin tuna or
 
 ---
 
+Dark chocolate
+
+---
+
 ## Smoothies
 
 

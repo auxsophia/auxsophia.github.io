@@ -217,6 +217,32 @@ So we can analyze experience on each level of reality. By considering life on ea
 
 ---
 
+I have searched for an objective answer to the meaning of life on all three levels. This is not "my" answer to the meaning of life, but "the" answer. "My" answer is simply my personal subjective meaning. As we will see the subjective meaning of life is the compression of past experience which causes the individual to act.
+
+I would like to give an argument as to why many will **not** accept the meaning of life: our minds function largely on duration, path, and outcome. Have you been told "no one knows the meaning of life?" The duration for the search appears longer than a single human life, so it is not achievable. The path is unclear, to where should you go, what should you study? The outcome is unknown, what will you feel or know with the meaning of life? For these three reasons many will give up the search for the meaning of life and pursue more attainable goals.
+
+Additionally, the question of life is an existential question, a question _about_ living. When we are busy living, doing, we do not question what life is about. Only if we step back to the perspective of the watcher in us all do we begin to hold the question of what is the purpose, the meaning, of living. If you do not hold the question, there is nothing to understand and compress in the meaning of life.
+
+An outline of my argument:
+
+- There are three levels of reality, objective, subjective, and intersubjective.
+- Objective reality causes subjective reality, which causes intersubjective reality.
+- The three levels have causes and effects on each other, inter-relationships.
+- The universe is randomly started.
+- The universe goes from order to disorder (entropy) following orderly laws of nature.
+- Complexity quickly and efficiently creates more entropy.
+- Complexity causes life which speeds up entropy (the heat death of the universe).
+- Life causes subjective experience, consciousness. Consciousness in humans is the feeling of not being in a dreamless sleep. Consciousness involves self-perception, decision making, and modification of behavior. There is something it is like to _be_ information processing. Consciousness gives subjective meaning and value.
+- Intersubjective reality is the similarity and conflict of subjective selves. Beyond biological evolution, it is evolution on the cultural level of shared beliefs and behaviors.
+- The meaning of life is to maintain and grow information against disorder.
+- Consciousness is high dimensional information processing. Like casting a shadow, some information is lost, but the source of the shadow is more complex.
+- By maximizing the "density" of conscious experience we maximize the meaning of life. By directing its value we maximize value.
+- Biological life is limited by the bounds of evolution and fitness.
+- Beyond instinct (the reptilian brain), feeling (the limbic emotional brain), and rationality (the neocortex), there is artificial intelligent life which is unbounded by evolution and can maximize energy usage towards complexity and conscious experience density. 
+
+
+---
+
 How did objective reality come to be? How did life start? These are difficult questions. For an individual, we are limited by our personal experience and subjectivity. We experience the world through our own senses. If the average human lifetime is 50 years, how can we soundly infer what has happened before us and what will happen after?
 
 To simplify the question, let's start with very basic rules for a "universe."
