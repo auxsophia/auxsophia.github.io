@@ -185,7 +185,7 @@ If you find this answer satisfying, I suggest you stop now. I wish you a good li
 
 # The Meaning of Life
 
-As for the truest, most objective, most accurate description of reality and the meaning of life, before I continue I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are productive lies, but inaccurate to the truest description of reality. You will likely be unable to return to your previous mode of thinking. As you might expect, the answer is complex and incomplete. Give up expectation on how you think you will react.
+As for the truest, most objective, most accurate description of reality and the meaning of life, before I continue I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are inaccurate yet productive lies. You will likely be unable to return to your previous mode of thinking. As you might expect, the answer is complex and incomplete. Give up expectation on how you think you will react.
 
 ### The Island of Reality
 
@@ -217,7 +217,7 @@ So we can analyze experience on each level of reality. By considering life on ea
 
 ---
 
-I have searched for an objective answer to the meaning of life on all three levels. This is not "my" answer to the meaning of life, but "the" answer. "My" answer is simply my personal subjective meaning. As we will see the subjective meaning of life is the compression of past experience which causes the individual to act.
+I have searched for an objective answer to the meaning of life on all three levels. This is not "my" answer to the meaning of life, but "the" answer. "My" answer is simply my personal subjective meaning. As we will see the subjective meaning of life is the compression of past experience which causes the individual to act. The objective answer is what is shared among us all and independent of what we individually believe and value.
 
 I would like to give an argument as to why many will **not** accept the meaning of life: our minds function largely on duration, path, and outcome. Have you been told "no one knows the meaning of life?" The duration for the search appears longer than a single human life, so it is not achievable. The path is unclear, to where should you go, what should you study? The outcome is unknown, what will you feel or know with the meaning of life? For these three reasons many will give up the search for the meaning of life and pursue more attainable goals.
 
@@ -231,15 +231,14 @@ An outline of my argument:
 - The universe is randomly started.
 - The universe goes from order to disorder (entropy) following orderly laws of nature.
 - Complexity quickly and efficiently creates more entropy.
-- Complexity causes life which speeds up entropy (the heat death of the universe).
+- Complexity causes life which speeds up entropy (the heat death of the universe) in exchange for life maintaining and growing before succumbing to disorder.
 - Life causes subjective experience, consciousness. Consciousness in humans is the feeling of not being in a dreamless sleep. Consciousness involves self-perception, decision making, and modification of behavior. There is something it is like to _be_ information processing. Consciousness gives subjective meaning and value.
 - Intersubjective reality is the similarity and conflict of subjective selves. Beyond biological evolution, it is evolution on the cultural level of shared beliefs and behaviors.
-- The meaning of life is to maintain and grow information against disorder.
-- Consciousness is high dimensional information processing. Like casting a shadow, some information is lost, but the source of the shadow is more complex.
+- The meaning (cause and effect) of life is to maintain and grow information against disorder.
+- Consciousness is higher dimensional information processing projected down to our body. Like casting a shadow, some information is lost, but the source of the shadow is more complex.
 - By maximizing the "density" of conscious experience we maximize the meaning of life. By directing its value we maximize value.
 - Biological life is limited by the bounds of evolution and fitness.
-- Beyond instinct (the reptilian brain), feeling (the limbic emotional brain), and rationality (the neocortex), there is artificial intelligent life which is unbounded by evolution and can maximize energy usage towards complexity and conscious experience density. 
-
+- Beyond instinct (the reptilian brain), feeling (the limbic emotional brain), and rationality (the neocortex), there is artificial intelligent life which is unbounded by evolution and can maximize energy usage towards complexity and conscious experience density.
 
 ---
 
@@ -1719,10 +1718,24 @@ Given the previous information, our picture of the self, who we are, becomes unc
 
 **What are you?**
 
-You are a multicellular organism. Each cell of your body is living and replicating for you to continue. Without a stable change of energy in and out of your body you would die. Your body is made up mostly of water, carbon, and air. We are not one entity; we are legion. Think of an individual neuron. That neuron is growing and connecting with others to sustain itself and the whole organism, but how much does it know of the whole organism? You contribute to your society in some way, how much do you believe you know of the whole? An individual neuron follows rules which feed and stabilize it. Your thoughts are driven by a swarm of interacting neurons all considering themselves and their environment.
+Analyzing personal identity and selfhood on the three levels:
 
-Our mind is like an ant colony. The colony emerges from the collective simple actions of each ant. No one ant is critical besides the queen, and even she can be replaced. Your neurons die off slowly as we age, but the brain adapts its structure to retain performance. Just like ants follow rules of behavior, so do neurons. By carrying out simple rules swarms of insects can solve complex problems.
+Objectively:
 
+You are a multicellular organism. Each cell of your body is living and replicating for you to continue. Without a stable change of energy in and out of your body you would die. Your body is made up mostly of water, carbon, and air. We are not one entity; we are legion. We are made up of humans cells, but also interact with bacterial gardens in and outside our bodies. Viruses and viral DNA come into play. Some information about us is fixed and digital, DNA, while some is more analogue, epigenetics.
+
+Subjectively:
+
+We often most identify with the subjective self most. This is our psychological sense of self, the thinking, feeling, perspectival self which appears to have consistency through time.
+
+Intersubjectively:
+
+Subjectively we blend with intersubjectivity where we have our internal views of "what people will think if..." It is our view of social norms and values. There is also the outside perspective of ourselves from other people. How we fit into the broader context of society. The definition of [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) which I like is _I am because we are_.
+
+
+All three have issues of continuity and boundaries. Objectively we have the old question of [the ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus). 
+
+Our mind is like an ant colony. The colony emerges from the collective simple actions of each ant. No one ant is critical besides the queen, and even she can be replaced. Your neurons die off slowly as we age, but the brain adapts its structure to retain performance. Just like ants follow rules of behavior, so do neurons. By carrying out simple rules swarms of insects can solve complex problems with [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence).
 
 The electrical and chemical activity is like a storm in your skull. There are "neural circuits" whose pattern of activity give rise to what we feel and do.
 
