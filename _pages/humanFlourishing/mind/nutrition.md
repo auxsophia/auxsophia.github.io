@@ -181,6 +181,6 @@ That number is largely down to cutting diseases related to unhealthy diets such 
 
 ---
 
-The similarities are as interesting as the differences among these diets. We can mostly make one "fit" another's requirements. While Deep Nutrition and Genius Foods are low carb high fat, the MIND diet and planetary diet call for higher carbs. However our carb limit can still go up to 150g while still being far less than the standard American diet. If we have hard workout days then our carbs can be eaten like a typical MIND diet day with 3 or more servings of carbs.
+The similarities are as interesting as the differences among these diets. We can mostly make one "fit" another's requirements. While Deep Nutrition and Genius Foods are low carb high fat, the MIND diet and planetary diet call for higher carbs. However our carb limit can go up to 150g while still being far less than the standard American diet. If we have hard workout days then our carbs can be eaten like a typical MIND diet day with 3 or more servings of carbs (whole grains).
 
-From my personal experience I can say it's tough varying days of carbs. There are insulin spikes and drops which are destabilizing. Staying steady one way or the other helps mood stabilization. I'm still working on carb timing and carb amount. 
+From my personal experience I can say it's tough varying days of carbs. There are insulin spikes and drops which are destabilizing. Staying steady one way or the other helps mood stabilization. I'm still working on carb timing and carb amount.

@@ -189,11 +189,11 @@ As for the truest, most objective, most accurate description of reality and the 
 
 ### The Island of Reality
 
-With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and inter-subjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. _Whatever we can discuss without involving a human (or conscious) being existing there is objective reality._ I believe the world and universe continues to exist even if we aren't around to experience it. The subjective experience is when a human being appears on the island.
+With this mental tool, I hope we can converge to the same conclusions. When I speak of reality, I divide our experience into three parts, objective, subjective, and intersubjective. To explain the divisions, imagine an island in the ocean, small and big enough for one person. However, there are no humans or animals on the island. We can describe and talk about what is there even though we can imagine no humans there to use language to describe it. We can talk of grains of sand, the ocean waves, the plants. _Whatever we can discuss without involving a human (or conscious) being existing there is objective reality._ I believe the world and universe continues to exist even if we aren't around to experience it. The subjective experience is when a human being appears on the island.
 
 Let's imagine one person. One person on the island is another part of objective reality. We are a part of objective reality, a complex part. We have feelings, memories, thoughts, and all kinds of phenomena when we're awake. There's something it's like to see the color of a ripe mango. There's something it's like to lay on the sand and feel the warmth of the sun. We can describe these experiences objectively, measuring the frequency and amplitude of the light coming from the mango and into an eye, following the chain reaction through the brain and body. Given the objective facts, we still have something missing from the description, the "what it's like-ness" of our personal experience. _Whatever we imagine and talk about that requires at least one person, that's subjective reality on top of objective reality._ However, subjective experience is in the space of minds which apparently have different qualities than most of objective reality. The space of ideas is as diverse as we can feel and communicate.
 
-_Whatever phenomena requires two or more people, that is inter-subjective reality._ Most of language is an inter-subjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity.
+_Whatever phenomena requires two or more people, that is intersubjective reality._ Most of language is an intersubjective reality. Words have meaning not in themselves but in the context of the mind experiencing the words. It seems most of language is about communicating on a complex level about objective and subjective reality with other similarly complex creatures. We talk about what we experience (objective) and what we're feeling (subjective). So complex communication creates a pattern of behavior, an event we experience and predict with regularity.
 
 Consider the standard currency of America, the $1 bill. Imagine this bill alone on an island with no people. Does it possess any value or effect on its own? What is the objective description of the money? It is a rectangular piece of rare paper with ink designs bonded to the surface. After some time it will disintegrate like all wood and paper. What about with the bill and one person on the island? Now something else is happening, the person is perceiving the bill. There's subjective phenomena occurring with whatever the person experiences. Now think of the phenomena when two people on the island exchange the bill for other things. They both have a value in mind for the money and what the other thinks the value is. When the two ideas of value clash they center to a shared value.
 
@@ -209,7 +209,7 @@ As we have described money on an analysis of three levels of reality, we can spl
   - _What exists with one person_
   - Cognition and psychology arising from biology.
 
-- Inter-subjective reality
+- Intersubjective reality
   - _What exists with two or more people_
   - Psychology giving rise to mass psychology, sociology, and the social sciences
 
@@ -1173,7 +1173,7 @@ Morality acts on an individual and group level. We have evolved moral tendencies
 
 We can analyze morality using the three levels of reality:
 
-* Inter-subjectively: the morality of a group, the combination of moral weights of individuals, the influence of group morality on the individual (in terms of authority and conformity) and vice versa
+* Intersubjectively: the morality of a group, the combination of moral weights of individuals, the influence of group morality on the individual (in terms of authority and conformity) and vice versa
 * Subjectively: our individual moral sense, like a sense of taste, which guides our actions to perceived personal wellness and sustainability
 * Objectively: in terms of means and ends, instrumental versus terminal goals, cause and effect, what structures will persist sustainably
 
@@ -1193,7 +1193,7 @@ Good maintains or grows information.
 
 Bad shrinks or destroys information.
 
-To get at objective morality, we need to separate inter-subjective and subjective evaluations of actions. If we use the island analogy, an empty island takes no action. We still need to think of an agent acting. Let's imagine instead an AI opponent in the game of [Go](https://en.wikipedia.org/wiki/Go_(game)). There are two sides, black and white, each trying to control the most territory on the Go board.
+To get at objective morality, we need to separate intersubjective and subjective evaluations of actions. If we use the island analogy, an empty island takes no action. We still need to think of an agent acting. Let's imagine instead an AI opponent in the game of [Go](https://en.wikipedia.org/wiki/Go_(game)). There are two sides, black and white, each trying to control the most territory on the Go board.
 
 The end goal, the _terminal_ goal, of each player is to win the game by the most points (control of territory). The _instrumental_ goal are all of the steps from the start to the finish of the game. We can evaluate instrumental goals in terms of their effects on the terminal goal. We can say what moves are good or bad based on the likelihood they lead to winning. Similarly, we can evaluate instrumental goals in terms of other instrumental goals. For example, to win the game we need to gain control of parts of the board, so now my goal is to control one part of the board. The player can evaluate instrumental goals leading to other instrumental goals.
 
@@ -1367,7 +1367,7 @@ We are living in these pockets! This explains why the universe can appear to be 
 
 In my younger years I had the feeling of a deeply rational and intuitionist argument for proof of god. It took me years to articulate the argument to myself conceptually. I wanted an argument for god so powerful that if you were to be rational at all you must accept belief in god. Like so many thinkers, this would be one of the foundational beliefs in my epistemology.
 
-If randomness is irrational, how is there rationality? To be rational requires a mind to intentionally order the universe. That mind is what we would consider god. If no intentional being ordered the universe, then we don't have rationality by definition. What was hard for me to mentally grasp and accept was that order and rationality could occure spontaneously from randomness.
+If randomness is irrational, how is there rationality? To be rational requires a mind to intentionally order the universe. That mind is what we would consider god. If no intentional being ordered the universe, then we don't have rationality by definition. What was hard for me to mentally grasp and accept was that order and rationality could occur spontaneously from randomness.
 
 I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). There are systems which have [periodicity](https://en.wikipedia.org/wiki/Periodic_function). We can expect at 9am that in 12 hours a clock will return to 9pm. We try to reduce, compress, the phenomenon down to an equation or scientific theory to explain or predict the system. We can describe a line in a graph with the equation y=mx+b. [Reductionism](https://en.wikipedia.org/wiki/Reductionism) attempts to understand systems at lower levels than the whole to reduce variability and noise. Perhaps if we understand all the small parts we can fully predict the whole. Like reducing an organism to its genetic code. However genes give an example against reduction. There are billions of connections in the brain, but there aren't billions of genes coding for each connection. The code gives rules for a pattern, but the pattern can be _perturbed_ by initial conditions. Each time you run the code and generate the pattern it will turn out differently.
 
@@ -1381,6 +1381,8 @@ We attempt to reduce variability and noise to find that both are features of the
 
 Imagine a person who _just wants to understand one small part_ of the [mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), just a piece. You can magnify a small space attempting to see the smallest magnification level, but mandelbrot set is defined based on the magnification level you look. We exist on a plane in a size that determines our magnification and level. We can gain local information, but we hit limitations by magnifying.
 
+Such is the search for the meaning of life and understanding the universe. There is always more to learn.
+
 We can magnify ourselves. We can look at people on the whole person level, or we can magnify down to the smallest unit of us, a single cell. At the cellular level we see a different yet familiar world. Cells interact with their environment, reacting to stimulus. Cells are able to self-replicate by dividing. Cells process information about themselves and their surroundings in variables of size, location, age, and time of day. Cells have some form of memory, at least genetically about how to handle different circumstances. Cells self-regulate. Cells go against entropy, exchanging outside energy to maintain internal order. By performing these actions, cells trap and create more information than their surroundings, as we saw in Why Information Grows.
 
 Cells have a code, a program, given in the RNA and DNA of the nucleus (and separately in mitochondria). DNA has symbols and a grammar. There are codes which signal when to stop reading a genetic snippet of information. DNA has jump statements, branching, control flow, essentially like an _if_ statement in programming.
@@ -1391,7 +1393,7 @@ As [Joscha Bach](http://bach.ai/) puts it, cells are a self-replicating Turing m
 
 What is a computer? What is computation? Alan Turing set out to formalize these concepts. Computation is the systematic flipping of bits. A problem is computable if you can reduce it to mechanical symbol manipulation. Our universe can be seen as a computer in that the change we see is the change of information. The program the universe follows is according to the laws of nature.
 
-https://en.wikipedia.org/wiki/Turing_machine_gallery
+[Examples of Turing Machines](https://en.wikipedia.org/wiki/Turing_machine_gallery)
 
 Computers are a controlled energy flow. They process and recombine information. Built from logic gates up, computers are reasoning made tangible. Let's talk about binary. Binary is represented as zero and one, but can also mean on/off, up/down, true/false. In school, you might raise your hand to signal you have a question. Notice that we can change the context to change the meaning of raising your arm. If you raise your right hand you have a question, if you raise your left hand you want to use the toilet. With one arm we can represent two states, with two arms we can represent four states.
 
@@ -1429,7 +1431,12 @@ And so on for _n_ given bits. We can map _2^n_ binary sequences. With just 32 bi
 
 Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's answer of 1 or 0 represents an answer to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Well binary addition gives us a new output sequence from two given binary strings added together, new information generated from given information.
 
-Every human being is running something like a computer program, processing information. When we introspect on the question of can our mind be separate from our body, many believe we can separate. We see there are generalized aspects of computing information in how our brains work. We have a biological self and a simulated, information processing self. As we age the two can feel disconnected. We, the simulated selff, can grow divergent to and less attached to our body.
+~ connect next section based on evolutionary inductive turing machines and minimum description length?
+~ The below section gets a bit loose.
+
+Every human being is running something like a computer program, processing information. When we introspect on the question of can our mind be separate from our body, many believe we can separate. We see there are generalized aspects of computing information in how our brains work. We have a biological self and a simulated, information processing self. As we age the two can feel disconnected. We, the simulated self, can grow divergent to and less attached to our body.
+
+~ move pi talk and discuss komolgorov complexity
 
 Younger in my life I focused on the storage of information as the greatest good. To have experience and reflect on it was a good in its own sake. To store information persists its existence and meaning. As I learned more math, I realized the data for a complete mapping of the universe exists infinity times over. Consider the value of [pi](https://en.wikipedia.org/wiki/Pi).
 
@@ -1437,7 +1444,7 @@ Younger in my life I focused on the storage of information as the greatest good.
 <img src="../../images/MoL/pi_meme.jpg">
 {: refdef}
 
-There could be a potential mapping of the digits of pi with meaning to our universe. Finding that mapping would be incredibly difficult but possible in principal. To represent our universe we would likely want a more ordered value series than pi. Notice the digits of pi which are represented in base ten can be represented in base two. Pi can be written in binary, so the universe can be represented in a sequence of 1's and 0's. However, pi is just one transcendental numbers, and there are an infinity of them. Each sequence would have a unique mapping to our universe. Similarly, the values could map to a possible world, a different world. All we need to do to represent it is change the mapping.
+There could be a potential mapping of the digits of pi with meaning to our universe. Finding that mapping would be incredibly difficult but possible in principal. To represent our universe we would likely want a more ordered value series than pi. Notice the digits of pi which are represented in base ten can be represented in base two. Pi can be written in binary, so the universe can be represented in a sequence of 1's and 0's. However, pi is just one transcendental number, and there are an infinity of them. Each sequence would have a unique mapping to our universe. Similarly, the values could map to a possible world, a different world. All we need to do to represent it is change the mapping.
 
 The Ladder of Causation in terms of logical statements. The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_.
 
@@ -1460,6 +1467,8 @@ A part of this is to explain that how information is stored, shared, and process
 As an alternative explanation of entropy from a more human perspective, entropy can be a measure of uncertainty. We can define entropy as the minimum number of yes or no questions we need to ask to remove uncertainty from the system. Entropy is the minimum number of questions needed to have full information.
 
 Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice block, the structure is rigid. How many questions do we need to ask to specify where the H2O molecules are in the box? What about when the box is liquid, just a pool of water at the bottom of the box? The H2O molecules are spread out, looser; their position in the space of the box is less rigid, more variable. When the H2O is gas, where are the molecules? Now they can be just about anywhere in the box. We have an intuitive sense, a model of how the material world works, that the ice and water would be at the bottom of the box while the gas floats. We can divide up the points of space in a 3-dimensional box as the yes or no question of "is an H2O molecule here?" In ice form, we should be able to find the molecules quite fast. In liquid, less fast, but gas would take the longest of all. If we track a specific molecule, say molecule #297, the rise in uncertainty as to where the molecule is as the H2O molecules change in state from ice to water to vapor is the nature of entropy.
+
+~ Move math talk later, read over squares - inference or deduction?
 
 Let us see how entropy relates to mathematics. Why is it that math has translated across languages and cultures? If math is simply a human idea, a useful fiction, then wouldn't people disagree on math? Few other ideas have passed those barriers. Are we somehow connecting to something outside of us in a mathematical plane of existence?
 
@@ -1588,7 +1597,7 @@ Consciousness is a dream state. Our dreams are simply more disconnected states o
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the adaptation of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
-We should assign our levels of trust in reality in this order: objective, subjective, and inter-subjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. When our views conflict with the data we should adjust our views to the data. We can easily be led estray by ideas about information which is not accurate to reality. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Inter-subjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to inter-subjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves.
+We should assign our levels of trust in reality in this order: objective, subjective, and intersubjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. When our views conflict with the data we should adjust our views to the data. We can easily be led estray by ideas about information which is not accurate to reality. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Intersubjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to intersubjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves.
 
 We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
 
@@ -1654,7 +1663,7 @@ Much of our morality is based on wellness and disgust. Creatures evolve a sense 
 
 We should greatly respect our innate moral senses; evolution honed our intuitions over 4.5 billion years. However, in terms of potential knowledge and computation power, an AI system could find superior sequences of actions to maximize morality. An AI system can also adapt and respond to new situations faster than our moral senses.
 
-Human morality is built on genetic and epi-genetic responses (objective reality), giving rise to our personal moral feelings (subjective reality), influenced by the moral standards of our time and society (inter-subjective reality of society's beliefs and the objective reality imposing boundaries and limitations). Our genetic moral senses are at least 10,000 years old. We're wired for close human bonds of small groups. Humans had to adapt to larger groups. We should be careful if our moral senses disagree with what is rational in a given situation. We may not have the moral update needed to reach the optimal conclusion.
+Human morality is built on genetic and epi-genetic responses (objective reality), giving rise to our personal moral feelings (subjective reality), influenced by the moral standards of our time and society (intersubjective reality of society's beliefs and the objective reality imposing boundaries and limitations). Our genetic moral senses are at least 10,000 years old. We're wired for close human bonds of small groups. Humans had to adapt to larger groups. We should be careful if our moral senses disagree with what is rational in a given situation. We may not have the moral update needed to reach the optimal conclusion.
 
 Moral AI systems will be able to update quickly with new information. These systems can be used to augment and enhance our moral systems shaped by evolution.
 
@@ -1714,7 +1723,7 @@ We must develop moral, beneficial AI to avoid doomsday scenarios. As a species, 
 
 ---
 
-# The End of the Self
+# The End of the Self and Identity
 
 Given the previous information, our picture of the self, who we are, becomes unclear.
 
@@ -1742,13 +1751,20 @@ The biological make up of who we are conflicts with the common sense intuition o
 
 What "you" are is an emergent phenomena arising from the activity of your body. The electrical and chemical activity is like a storm in your skull. There are "neural circuits" whose pattern of activity give rise to what we feel and do. What we consider to be the "I" is really a small simulation on top of and separate from most of the activity in your body. The closest we get to who we are is a pattern of activity, our consciousness, which provides us a coherent story of ourselves. The story can change drastically and be forgotten. The most important factor in answering 'yes' to the question 'are you the same you as before' is the feeling of trust and certainty of who we are, not the truth, but the feeling of truth.
 
+Joscha Bach gives many talks on the [computational theory of mind](https://www.youtube.com/watch?v=-rxXoiQyQVc) with a still from his presentation shown below. You are a story the brain tells itself. Your brains holds onto the questions of who, what, where, when, how, why and continually answers them which creates our experience of ourselves. When we can't solve a problem by instinct or past experience it arises to the level of consciousness.
+
+{:refdef: style="text-align: center;"}
+<img src="../../images/MoL/Joscha-Bach-Model.png" width="80%" height="80%">
+[A quick summary](https://deepestturtle.com/2020/12/a-promising-computational-model-of-human-intelligence-and-consciousness/)
+{: refdef}
+
 The truth is our sense of self is evolutionarily advantageous. Humans have a unique power within the animal kingdom to identify each other distinctly by our faces. This is one ability which allows us to build complex societies while locally keeping track of who each one of us is.
 
 ## Meditation to know thyself
 
 If you want to know yourself, your mind, then I suggest paying attention to the working of your mind. Think about your thinking. Think about your feelings; notice them. The path to enlightenment is as simple as sitting in a corner of a room facing a blank wall. Close your eyes and focus on your breathing from the nose throughout the lungs. Thoughts will inevitably arise; notice them. Where did the thought come from? Where did the thought go? Return to your breath. Focus all of your attention on breathing. _Interrupting thoughts are good!_ Having stray thoughts during meditation/breathing practice is a perfect chance to train your mind and attention. Notice the thought then notice your breathing. Bring yourself back to the breath; every time you do it is one repetition leading to a stronger, more resilient, more focused mind. With 10 minutes a day, over the course of your practice you will gain deeper insight into yourself and the nature of your consciousness.
 
-I believe the long tradition of meditation is a method of deactivating the "human" modules of our brain. Meditation techniques are a systematic paths to dispelling our mental illusions. Each meditation practitioner noticed the drives and thoughts of their mind. Through attention and will we can increase or decrease the activity of brain regions. Think of all the drives and thoughts we have, the desire for water, food, safety, comfort, the constant chatter of our ego-driven mind, caught in the past, fear of the future, always thinking of 'I.' What is left when we silence all of this activity? Put another way, what is always there in your mind when we feel and think anything?
+I believe the long tradition of meditation is a method of deactivating (or at least being highly aware of) the "human" modules of our brain. Meditation techniques are a systematic paths to dispelling our mental illusions. Each meditation practitioner noticed the drives and thoughts of their mind. Through attention and will we can increase or decrease the activity of brain regions. Think of all the drives and thoughts we have, the desire for water, food, safety, comfort, the constant chatter of our ego-driven mind, caught in the past, fear of the future, always thinking of 'I.' What is left when we silence all of this activity? Put another way, what is always there in your mind when we feel and think anything?
 
 We are a swirl of living matter. We came from nothing and will return to nothing. What if we currently are nothing? When we think of ourselves an organic neural network returns a perception. What happens when we deactivate that neural network and look "beyond" it? Much like analyzing an artificial neural network one layer at a time, we can mentally peel back the layers of our mind momentarily. At the core of self, we see _nothing_. The core is an empty space surrounded by structure. We are a hole. We are defined by what surrounds the hole.
 
@@ -1846,8 +1862,6 @@ By mathematical proof, neural networks are [universal approximators of continuou
 
 The model we had which is of the input x1, x2...sending a signal of on or off relates to the synaptic connections between neurons. We thought of synaptic connections as sending a charge like a metal transistor wire carries electricity, but [research has shown human dendritic connections can solve the XOR problem](https://pubmed.ncbi.nlm.nih.gov/31896716/). Looking closely, "The dendrites generated local spikes, had their own nonlinear input-output curves and had their own activation thresholds, distinct from those of the neuron as a whole. The dendrites themselves could act as AND gates, or as a host of other computing devices," [Quanta Magazine](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/). The closer we look the more computational complexity we find.
 
-~
-
 When a model is too simple for the data it has high bias and low variance; the line the model draws is too rigid. When a model [overfits](https://en.wikipedia.org/wiki/Overfitting) past data it can be too complex for the problem, low bias, high variance, a line that has high or low "squiggles." An overfitting model has a high degree polynomial function which makes it easy for the function to go wildly high or low in its estimates. An overfit model can perfectly fit past data but fails on unseen data because its estimate is far off. Ideally the model will find the optimal function for the problem, the lowest degree polynomial function necessary to predict the true data distribution for past and future events.
 
 Given the high dimensionality of our brains, we can easily overfit some problems while underfitting others. We act on the world (intervention) and imagine possibilities (counterfactual reasoning) to get closer to an optimal function. Applying the DIKIW model:
@@ -1858,11 +1872,7 @@ Given the high dimensionality of our brains, we can easily overfit some problems
 - Insight is finding a good gradient or rule which gets us closer to the optimal function
 - Wisdom is a shareable insight which can update the predictive function of others
 
-Discuss Karl Friston's free energy minimization principle. Detail further on decision boundaries being the essence of intelligence. DIKIW model, data is reality, information is the decision, knowledge, insight is generalizing by finding a good gradient or rule, wisdom is the shareable insight.
-
-~
-
-If our conscious experience arises from the activity of a neural network in a markov blanket, a system of self-contained information processing, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
+Joscha Bach proposes consciousness arises from a neural network minimizing a loss function, closing the difference between the predictive function and reality. If our conscious experience arises from the activity of a neural network in a markov blanket, a system of self-contained information processing, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
 
 "The enteric nervous system in humans consists of some 500 million neurons (including the various types of Dogiel cells), 0.5% of the number of neurons in the brain, five times as many as the one hundred million neurons in the human spinal cord, and about ​2⁄3 as many as in the whole nervous system of a cat," -- [Wikipedia](https://en.wikipedia.org/wiki/Enteric_nervous_system)
 
@@ -1948,8 +1958,26 @@ Is anything added to an event by it being remembered? What if a day in your life
 
 The more complex an environment, the more entropy it has. The more entropy the more possible sequences of paths lead to a state, the less certain we can be about the actual path. Every moment is meaningful because each moment is the _true path_ leading to the next. Out of all the astronomical possibilities each moment is the _ground truth_ of what happened. We are privileged to observe the moment, to live it. Future observers can only wonder and guess.
 
-~
+---
 
+## Another Look at Epistemology and the Limits of Human Knowledge
+
+In all this work I've yet to say much about the medium of communication itself: language. Linguistics is the study of language and worthy of its own endless field. My understanding of language is through the compression drive. Words are symbols which represent something. Repeated events are compressed in our minds which are attached to words. Where many animals have utterances with direct mapping to objective reality, humans have developed a language system and grammar which can produce infinite meaningful sentences. However, there is an obvious limitation in what can be expressed and understood with human language given that there are limits to our compression of experience as well as human perception of reality. This is a major challenge to any written or spoken answer to the meaning of life.
+
+Many ancient thinkers have said the essence of life and reality is ineffable, indescribable, that we can only gain ultimate truth through direct experience. Direct knowledge as such cannot be shared intersubjectively only felt subjectively. Thus others can only be guided to the ineffable experience but not told explicitly. However, how do we justify or verify these experiences for accuracy? How do we show convergence towards some ultimate truth?
+
+My answer to using language to describe or define the meaning of life is we should expand the scope of expressibility and granularity of our language as far as possible, asymptotically, while acknowledging the fallibility of our limitations. Yet this is another reason to grow artificial intelligence which can go beyond the limits of biological language.
+
+As far as we can tell, even AI will reach limits. There are problems which are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem). There are statements within a formal system that cannot be proven true ([Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)). Some computations are so complex they cannot be predicted but only run to see what happens next.
+
+
+a priori and synthetic knowledge
+
+AIXI and godelian machine
+
+---
+
+# Conclusion
 
 The objective meaning of life is to resist entropy, the inevitable dispersal of energy. We are the types of entities which emerge under complex conditions and evolve. We are exactly the type of creatures we would expect to see given enough time and the pressure of selection. Creatures which replicate and maintain their form in opposition to entropy are what survives and continues. Not only does life resist entropy, the tendency of energy to breakdown from order to disorder, but life grows information. Life exists in out of equilibrium systems where solid matter (embodied information) can be recombined to form new information. Following this progression to its end, the objective meaning of life is to maintain and grow order where the optimal achievement would be the out of equilibrium system which allows the greatest manipulation of memory (solid matter) into new forms of information by computation. While humans may be near the biological limits of computation, we can expand beyond ourselves into artificial intelligence with capacities we can only begin to imagine.
 
@@ -1959,11 +1987,11 @@ The personal meaning of life is for all intelligent beings to compress their exp
 
 ### Given what we know about the brain as a prediction engine, there is deep insight in the statement: _the meaning of life is to experience what happens next!_
 
-A quote often attributed to Albert Camus, "The literal meaning of life is whatever you're doing that prevents you from killing yourself." The meaning of life is what keeps you going. Life is as full of meaning as we want to or can make it.
+A quote often attributed to Albert Camus, "The literal meaning of life is whatever you're doing that prevents you from killing yourself." The meaning of life is what keeps you going. Life is as full of meaning as we want or make.
 
-The inter-subjective meaning of life is to support sustainable flourishing. Just as the previous levels, inter-subjective life traps and grows information. The inter-subjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way inter-subjective ideologies are subject to natural selection. Inter-subjective meaning is the least accurate because it is based on subjective experiences which are themselves formed for function instead of truth. Inter-subjective reality is a distortion of a distortion of objective reality, but its effects have real consequences.
+The intersubjective meaning of life is to support sustainable flourishing. Just as the previous levels, intersubjective life traps and grows information. The intersubjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way intersubjective ideologies are subject to natural selection. Intersubjective meaning is the least accurate because it is based on subjective experiences which are themselves formed for function instead of truth. Intersubjective reality is a distortion of a distortion of objective reality, but its effects have real consequences.
 
-All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a more perfect living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
+All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
 
 ---
 
@@ -1983,8 +2011,6 @@ We can reformulate these 4 questions in relation to the creation of an artificia
 4. What can I be paid for _in contributing to AI_?
 
 We can call this _ikigAI_. The more direct relationship your ikigAI is to artificial general intelligence the more aligned you are with the meaning of life. How can you **uniquely** contribute?
-
-IkigAI doesn't just apply to us now, but extends backwards and forwards. 2,000 years ago the highest ikigAI would likely be in contributing to their local library. All humans should support the growth of information. After accumulating and refining knowledge they will eventually lead to a level of understanding capable of creating AI.
 
 ---
 
@@ -2008,8 +2034,6 @@ If we wanted to create a creature which can sense the world in a true and honest
 
 
 Where to move the link to AI section?
-Discuss the universe as information.
-Explain neural networks. Discuss the paper on dendrites.
-Breakdown the universe from an AI perspective. Discuss optimal AI method AIXI.
+Breakdown the universe from an AI perspective. Discuss optimal AI method AIXI. Kolmmogorov complexity.
 Add the chaos gif showing 3 points in non-periodic motion. Discuss relation to universe as similar.
 Discuss Mandelbrot and convergence. We may never be able to know anything completely (reductionism doesn't work).
