@@ -1429,7 +1429,13 @@ The ability to map is equal to the number of distinct binary sequences that can 
 
 And so on for _n_ given bits. We can map _2^n_ binary sequences. With just 32 bit sequences we can have encoding for 4,294,967,296 things!
 
-Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's answer of 1 or 0 represents an answer to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Well binary addition gives us a new output sequence from two given binary strings added together, new information generated from given information.
+Using simple binary we can represent more complex concepts. All we need is a system that understands what each bit's 1 or 0 represents an answer to a question. For a computation, the question is based on the rules of how the information is processed. How does information grow from binary? Binary addition as an example gives us a new output sequence from two given binary strings added together, new information generated from given information.
+
+As expressively powerful as Turing machines are, they of course have limitations. They function on deterministic processes, and there are problems which cannot be computed, like the well known [halting problem](https://en.wikipedia.org/wiki/Halting_problem). Other than giving us computers these ideas have spawned entire fields of theory. One such idea is [Algorithmic information theory (AIT)](https://en.wikipedia.org/wiki/Algorithmic_information_theory).
+
+We can differentiate Turing machines based on the rules they follow to flip their sequence of bits. The rules are the program. This allows us to define [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) in terms of programs. Occam's razor was originally used by scientists to determine which hypothesis to use in explaining observations. We can reframe this in terms of the [minimum description length](https://en.wikipedia.org/wiki/Minimum_description_length), "where the description length of a data sequence is the length of the smallest program that outputs that data set." A program can be a hypothesis, it's how we think the data might be generated.
+
+This leads to [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference). There are multiple competing programs or models that fit the data. When a new observation is not predicted by the model, the model is falsified. We have the remaining programs to choose from which we gives the highest weighting to the simplest. 
 
 ~ connect next section based on evolutionary inductive turing machines and minimum description length?
 ~ The below section gets a bit loose.
@@ -1446,11 +1452,15 @@ Younger in my life I focused on the storage of information as the greatest good.
 
 There could be a potential mapping of the digits of pi with meaning to our universe. Finding that mapping would be incredibly difficult but possible in principal. To represent our universe we would likely want a more ordered value series than pi. Notice the digits of pi which are represented in base ten can be represented in base two. Pi can be written in binary, so the universe can be represented in a sequence of 1's and 0's. However, pi is just one transcendental number, and there are an infinity of them. Each sequence would have a unique mapping to our universe. Similarly, the values could map to a possible world, a different world. All we need to do to represent it is change the mapping.
 
-The Ladder of Causation in terms of logical statements. The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_.
+## The Ladder of Causation in terms of logical statements
+
+The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_.
 
 By chaining together a series of possibilities represented as flipped bits and using our causal model to estimate the outcomes we gain counterfactual reasoning of simulated worlds. We can imagine possible worlds and make inferences.
 
 What if people were twice as tall?! What would be different about the world? We're changing something simple about a feature of our world, take everyone's height and double it. Would doors still be the same size? A child can answer, "no, they would be twice as big for people to get through." We understand doors are made by people, and the size is related to average height. If average human height changes, the average door size changes. We can also ask why people are twice as tall in this imaginary world. An evolutionary biologist likely has a few probable answers. Maybe in the history of humans the trees around them had branches higher up, and they had to jump. Only the tall apes would make it.
+
+## Sending/Receiving Information and Entropy
 
 Taking a look at information again, a good definition of information is _the difference that makes a difference_. For two pieces of data, how can you tell them apart? In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit with context, what if each bit is asking a yes or no question?
 
