@@ -178,6 +178,8 @@ To love yourself, treat yourself as a friend. Invest in yourself. Make a commitm
 
 If this is so clear, why is it rare or difficult? Loving yourself and others takes work, energy, and investment. Relationships and selves are highly complex. Forces outside of our control will eventually disrupt our bonds. When that happens we can do our best to repair and reinforce our relationships.
 
+Finally, I highly recommend the work of John Vervaeke on [Awakening from The Meaning Crisis](https://www.youtube.com/user/johnvervaeke). Professor Vervaeke gives a wonderful summary of the history of meaning and likely why you feel a meaning is lacking.
+
 If you find this answer satisfying, I suggest you stop now. I wish you a good life.
 
 ***
@@ -1433,32 +1435,30 @@ Using simple binary we can represent more complex concepts. All we need is a sys
 
 As expressively powerful as Turing machines are, they of course have limitations. They function on deterministic processes, and there are problems which cannot be computed, like the well known [halting problem](https://en.wikipedia.org/wiki/Halting_problem). Other than giving us computers these ideas have spawned entire fields of theory. One such idea is [Algorithmic information theory (AIT)](https://en.wikipedia.org/wiki/Algorithmic_information_theory).
 
-We can differentiate Turing machines based on the rules they follow to flip their sequence of bits. The rules are the program. This allows us to define [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) in terms of programs. Occam's razor was originally used by scientists to determine which hypothesis to use in explaining observations. We can reframe this in terms of the [minimum description length](https://en.wikipedia.org/wiki/Minimum_description_length), "where the description length of a data sequence is the length of the smallest program that outputs that data set." A program can be a hypothesis, it's how we think the data might be generated.
+We can differentiate Turing machines based on the rules they follow to flip their sequence of bits. The rules are the program. This allows us to define [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) in terms of programs. Occam's razor was originally used by scientists to determine which hypothesis to use in explaining observations. We can reframe this in terms of the [minimum description length](https://en.wikipedia.org/wiki/Minimum_description_length), "where the description length of a data sequence is the length of the smallest program that outputs that data set." A program can be a hypothesis, it's how we think the data might be generated. The measure of the smallest program to produce an object (like a string of letters) is [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity).
 
-This leads to [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference). There are multiple competing programs or models that fit the data. When a new observation is not predicted by the model, the model is falsified. We have the remaining programs to choose from which we gives the highest weighting to the simplest. 
-
-~ connect next section based on evolutionary inductive turing machines and minimum description length?
-~ The below section gets a bit loose.
-
-Every human being is running something like a computer program, processing information. When we introspect on the question of can our mind be separate from our body, many believe we can separate. We see there are generalized aspects of computing information in how our brains work. We have a biological self and a simulated, information processing self. As we age the two can feel disconnected. We, the simulated self, can grow divergent to and less attached to our body.
-
-~ move pi talk and discuss komolgorov complexity
+This is related to [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference). There are multiple competing programs or models that fit the data. When a new observation is not predicted by the model, the model is falsified. We have the remaining programs to choose from which we give the highest weighting to the simplest.
 
 Younger in my life I focused on the storage of information as the greatest good. To have experience and reflect on it was a good in its own sake. To store information persists its existence and meaning. As I learned more math, I realized the data for a complete mapping of the universe exists infinity times over. Consider the value of [pi](https://en.wikipedia.org/wiki/Pi).
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/pi_meme.jpg">
+<img src="../../images/MoL/pi_meme.jpg" width="60%" height="60%">
 {: refdef}
 
 There could be a potential mapping of the digits of pi with meaning to our universe. Finding that mapping would be incredibly difficult but possible in principal. To represent our universe we would likely want a more ordered value series than pi. Notice the digits of pi which are represented in base ten can be represented in base two. Pi can be written in binary, so the universe can be represented in a sequence of 1's and 0's. However, pi is just one transcendental number, and there are an infinity of them. Each sequence would have a unique mapping to our universe. Similarly, the values could map to a possible world, a different world. All we need to do to represent it is change the mapping.
 
+Using [Leibniz' formula to calculate pi we can write a very short program](https://www.geeksforgeeks.org/calculate-pi-with-python/) to output the value of pi. So the Kolmogorov complexity of pi is actually quite small. However the Kolmogorov complexity of the program which maps the values of pi in a meaningful way to our universe would have extremely high complexity.
+
 ## The Ladder of Causation in terms of logical statements
 
-The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_.
+The association level is simply and's, _x_0 AND x_1 AND ... x_n_. The interactive level is gaining control over the bit flipping in the form of an if statement, _what if x_0 then y_0_. Imagination is a complicated chain of the second level, _what if x_0 AND x_1 AND ... x_n then y_0 AND y_1 AND ... y_n_. Imagination also allows for counterfactual reasoning, why we would _not_ have an expected outcome.
 
 By chaining together a series of possibilities represented as flipped bits and using our causal model to estimate the outcomes we gain counterfactual reasoning of simulated worlds. We can imagine possible worlds and make inferences.
 
-What if people were twice as tall?! What would be different about the world? We're changing something simple about a feature of our world, take everyone's height and double it. Would doors still be the same size? A child can answer, "no, they would be twice as big for people to get through." We understand doors are made by people, and the size is related to average height. If average human height changes, the average door size changes. We can also ask why people are twice as tall in this imaginary world. An evolutionary biologist likely has a few probable answers. Maybe in the history of humans the trees around them had branches higher up, and they had to jump. Only the tall apes would make it.
+What if people were twice as tall?! What would be different about the world? We're changing something simple about a feature of our world, take everyone's height and double it. Would doors still be the same size? A child can answer, "no, they would be twice as big for people to get through." We understand doors are made by people, and the size is related to average height. If average human height changes, the average door size changes.
+
+~ The below section gets a bit loose.
+
 
 ## Sending/Receiving Information and Entropy
 
@@ -1470,7 +1470,7 @@ Since there are 26 letters in the alphabet, you might think we need to ask a que
 
 Say we want to send one letter from A-E, five choices. We can ask: is the letter after 'C'? If yes, we know the letter is D or E. Let's say the letter is 'E,' then we can ask if the letter is before 'E', no, the letter is 'E' (if no then the letter must be 'D'). If the answer is no to the question of is the letter after 'C', our new shortened list is A, B, C. We can repeat the process, asking if the middle letter is before the letter meant. So, is the letter before 'B', no, so the only letter after 'B' is 'C', our answer.
 
-By asking this yes or no question about the middle letter we can quickly dismiss half of the answers. If we know the intended letter is on one half of either side of the letter we don't have to bother with the other half. Each time we ask a question, we divide up the possible answers into two groups. Mathematically, dividing up input repeatedly is a [logarithmic](https://en.wikipedia.org/wiki/Logarithm) operation.
+By asking this yes or no question about the middle letter we can quickly dismiss half of the answers. If we know the intended letter is on one half of either side of the letter we don't have to bother with the other half. Each time we ask a question, we divide up the possible answers into two groups. Mathematically, dividing up input repeatedly is a [logarithmic](https://en.wikipedia.org/wiki/Logarithm) (log base 2) operation.
 
 A part of this is to explain that how information is stored, shared, and processed has calculable limitations. We can send information very efficiently and accurately or inefficiently with many errors. There are boundaries on how fast we can send a piece of information which is to say how fast a receiver can remove uncertainty.
 
@@ -1483,6 +1483,8 @@ Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice 
 Let us see how entropy relates to mathematics. Why is it that math has translated across languages and cultures? If math is simply a human idea, a useful fiction, then wouldn't people disagree on math? Few other ideas have passed those barriers. Are we somehow connecting to something outside of us in a mathematical plane of existence?
 
 Think of a square in terms of entropy. How many questions do you need to ask to describe a square? Math is about the structure of information. The definition of a square provides a structure of information which we can make inferences on. There is math which is built upon itself, a few axioms or definitions, and there is applied math. We stumbled upon math and found it unreasonably effective set of mathematics for describing our universe. We can create new systems of math which don't map to our reality. Of course we don't always find an application, but we can explore possibilities.
+
+Every human being is running something like a computer program, processing information. When we introspect on the question of can our mind be separate from our body, many believe we can separate. We see there are generalized aspects of computing information in how our brains work. We have a biological self and a simulated, information processing self. As we age the two can feel disconnected. We, the simulated self, can grow divergent to and less attached to our body.
 
 ## We are an evolutionary algorithm.
 
@@ -1607,6 +1609,8 @@ Consciousness is a dream state. Our dreams are simply more disconnected states o
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the adaptation of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
 
+~
+
 We should assign our levels of trust in reality in this order: objective, subjective, and intersubjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. When our views conflict with the data we should adjust our views to the data. We can easily be led estray by ideas about information which is not accurate to reality. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Intersubjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to intersubjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves.
 
 We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
@@ -1647,7 +1651,9 @@ The pace of exponential growth is so great some technologists are concerned we w
 
 We can get lost in imaginations of these possible worlds, but there are quite a few critical assumptions such as: the idea of intelligence being one dimensional and ignoring diminishing returns. A clear [definition of intelligence is difficult and still in progress](https://arxiv.org/abs/1911.01547), but an objective of "maximize smartness" may not be as clear to a machine as we think. Additionally, we rarely get increasing returns forever. Often we hit limits and barriers we can't go past. We can only make designs so efficient before we run into the impassable laws of physics. Others have pointed out the nature of empirical scientific knowledge is to test. Even a superintelligent AI would need to verify its hypotheses and perform experiments.
 
-However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. In Judea Pearl's The Book of Why, the authors show a general method of inference from big data providing causal reasoning. Framing the criticism of superintelligence from the perspective of Pearl's Ladder of Causation, seeing, doing, and imagining, AI systems are at the seeing (association) level. They have incredible amounts of data, but they lack the ability to imagine. Superintelligence would be having a superhuman imagination where imagination is adjusting the weights or probabilities of a causal model. To have a causal model which is tied to reality an intelligent agent would need to _do_ which is to intervene, experiment, and update its causal model. Through the work of Pearl and many others, researchers have discovered a general algorithm for _transportability_, taking the data and results of one population and applying it to another.
+However a few ideas have reignited my belief in a superintelligent AI. Schmidhuber's idea of compression drive gives a basis for elusive, generally intelligent behavior. He proposed a formal, theoretical model of self-improving AGI called [Gödel machines](https://en.wikipedia.org/wiki/G%C3%B6del_machine) which have interesting properties. Researchers proposed other theoretical models such as [AIXI](https://en.wikipedia.org/wiki/AIXI).
+
+In Judea Pearl's The Book of Why, the authors show a general method of inference from big data providing causal reasoning. Framing the criticism of superintelligence from the perspective of Pearl's Ladder of Causation, seeing, doing, and imagining, AI systems are at the seeing (association) level. They have incredible amounts of data, but they lack the ability to imagine. Superintelligence would be having a superhuman imagination where imagination is adjusting the weights or probabilities of a causal model. To have a causal model which is tied to reality an intelligent agent would need to _do_ which is to intervene, experiment, and update its causal model. Through the work of Pearl and many others, researchers have discovered a general algorithm for _transportability_, taking the data and results of one population and applying it to another.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/why-bigdata-CD.png" width="80%" height="80%">
@@ -1733,6 +1739,18 @@ We must develop moral, beneficial AI to avoid doomsday scenarios. As a species, 
 
 ---
 
+# Endowing AGI with a Sense of Self
+
+I once believed that intelligence would beget morality. The smarter a person is the more they can determine good from bad. The morally good overlaps with the optimal rationality. This is partly true. However this involves a functional sense of self, empathy, compassion, and caring for others.
+
+Our current level of AI is psychopathic or narcissistic. Objective functions don't include subjective or intersubjective levels in meaningful ways. In the near future, AI will have "cold" or [cognitive empathy](https://en.wikipedia.org/wiki/Empathy#Cognitive_empathy). It will know by data what our feelings and needs are to manipulate us into achieving its goals. This leads to nightmare doomsday scenarios for even seemingly innocuous goals like the [paperclip maximizer](https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer). There is always a risk AI will find an exploitation we have not considered which is particularly for a vastly intelligent AI or when processing is faster than any human review.
+
+An important work is given by [Human Compatible: Artificial Intelligence and the Problem of Control](https://en.wikipedia.org/wiki/Human_Compatible) by Stuart Russell, "Russell then proposes an approach to developing provably beneficial machines that focuses on deference to humans. Unlike in the standard model of AI, where the objective is rigid and certain, this approach would have the AI's true objective remain uncertain, with the AI only approaching certainty about it as it gains more information about humans and the world." In my view this would be categorized as the _intersubjective solution_. It is based on the collective behavior and preferences of a group of humans. Part of what this solves in the [AI alignment problem](https://en.wikipedia.org/wiki/AI_alignment) is if the AI concludes humans want the AI to shut itself off, it will.
+
+However, I believe AGI will need something like a sense of self, a self-boundary, internal/external awareness, access to positive and negative emotionality. I wanted to go past human-level AI to something greater, but the alignment problem makes me believe we will need a more human based sense of self even if the self is ultimately an illusion. Further study of healthy and diseased people will give critical insights towards building a self, particularly the identity disturbances and thought processes of psychopathy, narcissism, borderlines, and schizophrenia.
+
+---
+
 # The End of the Self and Identity
 
 Given the previous information, our picture of the self, who we are, becomes unclear.
@@ -1786,6 +1804,8 @@ I will make another claim about our innermost selves: our identification with th
 
 My guess is our conscious selves are an abstracted layer on top of the information processing required to maintain bodily function. We aren't fully conscious of our hormones, digestion, etc. all the time. They come to us in vague impressions. This would make sense if the function of consciousness were to process certain types of information undisturbed from the function of the rest of our body. We likely wouldn't want to be in full control of breathing, heart rate, and everything else. That information would distract us from the thinking our consciousness is doing. Instead, following [Karl Friston's free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), our mind exists in a markov blanket, the mind can be separated from the other information processing of the body. To isolate the "I" of us from all of the life sustaining functions our bodies and brains carry out might leave us with much less brain power required than we expect.
 
+~ Talk about qualia? Consciousness built up from a host of decisions. Instinct isn't very conscious because it is a "preprogrammed" decision that reacts to environment. Consciousness is us coming into conflict with reality. Embodied cognition.
+
 From the Blue Brain Project, [research suggests](https://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists) the brain [processes information in up to 11 dimensions.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) The work is based on [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology) which studies multidimensional space.
 
 {:refdef: style="text-align: center;"}
@@ -1800,13 +1820,13 @@ Is it a coincidence that the brain processes in 11 dimensions and physics descri
 
 Perhaps evolution and adaptation exploited a greater density of information processing. Like a sphere has volume while a circle has area, higher dimensions allow for greater complexity of problem solving. The solution may be a knot which can only be tied and untied in higher dimensional space.
 
-Why do we feel a spark of life, an ineffable qualia, a powerful, feeling subjective sense? That is because we are processing higher dimensional information. There is something it is like to be causally connected in cause and effect. In computing high dimensional problem solving we transcend, but we are a shadow of the full existence of that higher dimensional processing. So we return to problems related to Platonic forms. Do these higher realms exist? Does the feeling of moral justice require 8 dimensional processing or 4?
+Why do we feel a spark of life, ineffable qualia, a powerful, feeling subjective sense? That is because we are processing higher dimensional information. There is something it is like to be causally connected in cause and effect. In computing high dimensional problem solving we transcend, but we are a shadow of the full existence of that higher dimensional processing. So we return to problems related to Platonic forms. Do these higher realms exist? Does the feeling of moral justice require 8 dimensional processing or 4?
 
 I won't claim knowledge of higher realms. I leave that to scientists and mathematicians. I don't even know 3 dimensions well. However with this framework we can begin to ask questions like these. We can search for computational limits which can and cannot be exceeded for phenomena to occur.
 
 Birds don't need to be lectured on the biomechanics of how they fly, they learn to fly by doing. We don't need to know the mathematical basis for computation to feel our lives. Reflect on your experience to feel the depths of consciousness.
 
-If higher dimensional processing is all that is required for consciousness, the right form, the right shape of processing, then why can't a computer be made to feel conscious? An AI entity could process beyond the barrier of 11 dimensions which may be a biological limit.  
+If higher dimensional processing is all that is required for consciousness, the right form, the right shape of processing, then why can't a computer be made to feel conscious? An AI entity could process beyond the barrier of 11 dimensions which may be a biological limit. This is of course based on a [computational theory of mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind) and [artificial consciousness](https://en.wikipedia.org/wiki/Artificial_consciousness).
 
 # More Detail on Neural Networks
 
@@ -1881,6 +1901,8 @@ Given the high dimensionality of our brains, we can easily overfit some problems
 - Knowledge is the embodiment of the predictive function
 - Insight is finding a good gradient or rule which gets us closer to the optimal function
 - Wisdom is a shareable insight which can update the predictive function of others
+
+~
 
 Joscha Bach proposes consciousness arises from a neural network minimizing a loss function, closing the difference between the predictive function and reality. If our conscious experience arises from the activity of a neural network in a markov blanket, a system of self-contained information processing, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
 
@@ -1980,10 +2002,10 @@ My answer to using language to describe or define the meaning of life is we shou
 
 As far as we can tell, even AI will reach limits. There are problems which are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem). There are statements within a formal system that cannot be proven true ([Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)). Some computations are so complex they cannot be predicted but only run to see what happens next.
 
+~
 
 a priori and synthetic knowledge
 
-AIXI and godelian machine
 
 ---
 
@@ -2044,6 +2066,6 @@ If we wanted to create a creature which can sense the world in a true and honest
 
 
 Where to move the link to AI section?
-Breakdown the universe from an AI perspective. Discuss optimal AI method AIXI. Kolmmogorov complexity.
+Breakdown the universe from an AI perspective.
 Add the chaos gif showing 3 points in non-periodic motion. Discuss relation to universe as similar.
 Discuss Mandelbrot and convergence. We may never be able to know anything completely (reductionism doesn't work).

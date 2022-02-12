@@ -20,6 +20,8 @@ What would you do?
 
 I like this analogy because an asteroid is a simple idea. It's a big rock hurtling through space at high speeds. You can see it. We've made movies about blowing them up before they hit Earth. That would be awesome, but we can't even nuke this huge asteroid. The governments can't really deny the asteroid if it's so huge you could see it getting bigger year after year.
 
+(Yes, this is mostly the plot of the movie _Don't Look Up_, but I thought it before. It's a really good metaphor!)
+
 Hey, do you think the elites of our society would hide information about the asteroid if they knew?
 
 I imagine most people would want to live their lives to the fullest in the final remaining years. People likely wouldn't do the soul crushing work needed to sustain our current pace of life, at least for the elite. In 2024 who will be spending the next 10 years studying to get a highly specialized skill right before the world ends? Who will work when there is no return?
@@ -50,6 +52,8 @@ While we have talked of carbon dioxide, there's another gas which traps heat eve
 
 I hope you can see we are facing a literal existential crisis. We may end all multicellular life on this planet. We are living through a mass extinction now, the anthropocene era, which will likely cause humans to go extinct. People like Roger Hallam are one of the few trying to enact real change, [Advice to Young People as they face Annihilation - Roger Hallam - 2021](https://www.youtube.com/watch?v=dnpOnO71wno). This is why Greta Thunberg won't take any shit from politicians.
 
+[Watch my My Journey to Accepting Climate Change](https://www.youtube.com/watch?v=zGRLZGtLrr0)
+
 ## Society is Fucked
 
 What should you do? Read [_Sapiens: A Brief History of Humankind_](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) as soon as you can! That book is amazing. It's important to understand what human beings are. We are the only species we know of that can cooperate flexibly in large numbers. We do this mainly with the help of myths and stories.
@@ -60,7 +64,7 @@ Both share the same issue but have different rates of collapse. Communism aims a
 
 Capitalism is the opposite of communism in the sense of distributed means of production. While distributed production allows for great freedom and prosperity, that prosperity is masked by far distribution. Capitalism creates a situation of constant competition. With unchecked price setting companies want to produce as efficiently as possible to give the greatest net return as profit. Humanitarian laws and bills of rights are necessary to stop capitalism from creating slavery conditions. Slavery is the natural progression of capitalism, a slave is a worker who has no power to negotiate and produces work at minimum cost. Your employer always wants to pay you the minimum if it wants to maximize its profits. Ask yourself if your place of business wants to maximize profits as a main concern. Even if there are bills of rights or other laws in some countries, international labor gives access to workers with less rights and power. These workers are exploited to some degree of slavery out of any view by the customers they serve. Capitalism creates all kinds of incentives to continue for short term profit gain at any expense. Workers are in a constant war for liberty and fairness.
 
-[The dirty secret of capitalism -- and a new way forward - Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
+[See my video on Communism, Capitalism, and AInomics](https://www.youtube.com/watch?v=L9YLXvxlN0Q)
 
 Capitalism is based on the irrational belief that we can expand and grow forever. Our planet and resources are finite. When is a short sighted goal of maximum return as soon as possible the best choice? Capitalism did offer a way out of poverty based on merit. If you could perform a valuable service you could earn money. For the first generation, your pay was close to the value you produced. Once that generation succeeds, they realize how hard competition truly is. They give their children any advantage they can to help them achieve. Each generation after does the same, but this breaks the original system of merit, your value matching your pay. We end with huge inequality where the rich stay rich and the poor stay poor. Even merit based capitalism slides into oligarchy.
 
@@ -241,6 +245,8 @@ Do you believe the study and development of good AI is the best path for our spe
 
 We need to attack all problems at once. Many problems are connected in linear and non-linear ways. Some progress in all areas could give a greater return than the investment.
 
+[Watch my video here: iAi Community - intentional Artificial intelligence and Human Flourishing](https://www.youtube.com/watch?v=NRSXLAlosQA)
+
 Our current society is setup to enable us all to make the wrong choices. We need to change our environment to make the easiest choice the right choice. These ideas will appear "radical," likely more radical than any non-fictional society proposed to you before. However, given climate change, the looming threat of the genuine extinction of our species, the coming collapse of society on a global scale, and the egregious misuse of power by every country and authority, I hope you see why these changes are necessary.
 
 Humans should form into distinct, self-sustainable communities of no more than 10,000 people. Each community should be a non-profit following the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line), evaluating the corporation by its impact on the planet, people, and profit in that order.
@@ -283,6 +289,12 @@ Our community can be a beacon of hope and rationality for a future of synergisti
 Since the time of Aristotle, humans believed we could not maintain democracy beyond a city of 10,000 because that is the limit at which people have any sense of actually knowing who they're voting for. Additionally, we see that the aggregate power of a society needs to be tied to some human sense of self. By keeping a small number we set a limit on our power thus limiting the corrupt use of that power. Our community will be resilient to deepfakes because a deepfake of a community member can hopefully be sorted out by walking over and knocking on the door of the member to discuss.
 
 On the basis of history and [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number), I suggest the smallest functional unit of the community to be a band of 150 members, allowing 10 groups of 15 people in service to each of the community's needs. Scaling up to a full 10,000, there will be 10 groups of 1,000 each serving a community need.
+
+* Decision making by consensus.
+
+There shouldn't be a strict hierarchy or tyranny of the majority. Everyone's beliefs and votes should matter. Important decisions for the community should be debated in the style of [Kialo](https://www.kialo.com/). There is a central issue with supporting and critical arguments. Members vote on the strength of each argument. Any member is free to add relevant arguments. In this way we create a shared information exchange within the community.
+
+Ultimately voting would take the form of [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making). This system allows for data collection on human reasoning and preferences. Eventually this leads to a system like [augmented democracy](https://www.peopledemocracy.com/) proposed by César Hidalgo. We will have a twin digital agent that is able to vote for us. At any time we can override the agent's vote with our actual preference, then providing further data on human preference. The goal would be to largely automate decision-making.
 
 * Automation for all.
 
@@ -352,6 +364,8 @@ Alongside our necessities, we need sustainability engineers to redesign our mode
 * Information exchange.
 
 As an open source community, we should exchange information openly. Every person should benefit from sustainability and AI research. When we develop a new technology to filter water, grow better food, make a medical advancement, or any development which increases human well being, we only make the world better by sharing it. We aren't going to work or provide materials for other groups, but we can provide knowledge and schematics so they can implement the technology for themselves. In a similar exchange, when other communities make advancements we can benefit as well. Mutual information exchange is a path towards peace.
+
+A community group which already has thousands of hours of development opensourced is [One Community](https://www.onecommunityglobal.org/).
 
 * Indigenous Rights
 
