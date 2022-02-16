@@ -209,7 +209,7 @@ As we have described money on an analysis of three levels of reality, we can spl
 
 - Subjective reality
   - _What exists with one person_
-  - Cognition and psychology arising from biology.
+  - Cognition and psychology arising from biology
 
 - Intersubjective reality
   - _What exists with two or more people_
@@ -1773,6 +1773,10 @@ Joscha Bach gives many talks on the [computational theory of mind](https://www.y
 [A quick summary](https://deepestturtle.com/2020/12/a-promising-computational-model-of-human-intelligence-and-consciousness/)
 {: refdef}
 
+{:refdef: style="text-align: center;"}
+[A quick summary](https://deepestturtle.com/2020/12/a-promising-computational-model-of-human-intelligence-and-consciousness/)
+{: refdef}
+
 The truth is our sense of self is evolutionarily advantageous. Humans have a unique power within the animal kingdom to identify each other distinctly by our faces. This is one ability which allows us to build complex societies while locally keeping track of who each one of us is.
 
 ## Meditation to know thyself
@@ -1844,19 +1848,19 @@ Let's look at an example problem: identifying cats and dogs. Children struggle a
 You can visualize and play with all kinds of neural networks on [Tensorflow Playground](https://playground.tensorflow.org/). Here is a graph on the data we want to classify shown by the colors orange and blue. We can think of these as cats and dogs as well.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_data.PNG">
+<img src="../../images/MoL/neuron_data.PNG" width="80%" height="80%">
 {: refdef}
 
 Just ask yourself, can you draw a single line to separate the data points into their respective classes? We want a neuron to learn the line.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_perceptron.PNG">
+<img src="../../images/MoL/neuron_perceptron.PNG" width="80%" height="80%">
 {: refdef}
 
 X1 and X2 on the left are the inputs to a single neuron. That neuron is like the cell body, and the outgoing line is like the axon. After some training, the neuron learn a line. You can see the [decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) by the white line bisecting the data.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_output.PNG">
+<img src="../../images/MoL/neuron_output.PNG" width="80%" height="80%">
 {: refdef}
 
 So the problem can be defined as: find the W and b which gives
@@ -1867,19 +1871,19 @@ f(X) returns orange if W*X+b <= some threshold
 Notice how the neuron changes its line once trained. The lines leading to and from the neuron represent the weighted connections.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_perceptron_trained.PNG">
+<img src="../../images/MoL/neuron_perceptron_trained.PNG" width="80%" height="80%">
 {: refdef}
 
 Finding a decision boundary is the essence of intelligence. Making a decision based on a gradient between two things, yes/no, true/false, move/don't move, etc. The perceptron stops learning when it finds an appropriate line to separate the two classes. Pause to consider there are an infinite number of lines we can find to separate this data. If the data is not linearly separable, then the perceptron will continue to struggle and fail to find the decision boundary.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_data_nonlinear.PNG">
+<img src="../../images/MoL/neuron_data_nonlinear.PNG" width="80%" height="80%">
 {: refdef}
 
 As an example ask yourself if you can draw a straight line to separate the two classes? It's not possible.
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/MoL/neuron_nonlinear_trained.PNG">
+<img src="../../images/MoL/neuron_nonlinear_trained.PNG" width="80%" height="80%">
 {: refdef}
 
 When our simple model tries it finds some line but hits an unsurpassable limit; it can only be so accurate.
@@ -1997,8 +2001,6 @@ Many ancient thinkers have said the essence of life and reality is ineffable, in
 My answer to using language to describe or define the meaning of life is we should expand the scope of expressibility and granularity of our language as far as possible, asymptotically, while acknowledging the fallibility of our limitations. Yet this is another reason to grow artificial intelligence which can go beyond the limits of biological language.
 
 As far as we can tell, even AI will reach limits. There are problems which are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem). There are statements within a formal system that cannot be proven true ([Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)). Some computations are so complex they cannot be predicted but only run to see what happens next. This all a part of what makes life and the search so exciting. We continually find mysteries. We can forge ahead.
-
-~
 
 To which level of reality should we assign the most trust? Which is the most reliable?
 
