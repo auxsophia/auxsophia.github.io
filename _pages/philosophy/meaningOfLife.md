@@ -682,7 +682,7 @@ These four senses are the basis of their shared reality. A cell has a size, a lo
 
 Cells are open systems out of equilibrium. Cells take in energy and matter and expel energy and matter. One organelle of the cell, the mitochondria, produces an excess of energy to the cell for movement, function, and growth. Spend some time searching for videos and art of the inner function of a cell. Ask yourself, "why does the cell live?" If you could ask a cell, what do you expect it to say? When down to molecular biology, we can see the complex interplay of every part is driven by the laws of physics and chemistry. Molecules bind based on their own and combined properties. The cell is simply functioning by its code.
 
-Somehow by interaction and communication, a multicellular organism gives rise to a person with conscious experience. Cells communicate by chemical signaling with the cells around them. While human cells are of interest, just like the body can't live without water, our bodies can't function without bacteria. Bacterial cells live in and around your body, both helping and hurting. The mitochondria was originally a bacteria cell absorbed by an animal cell. Other bacteria are separate but symbiotic; they co-evolved with us. Bacteria cells most likely communicate with us on levels we don't understand. Some of the most import bacteria we have are gut bacteria which help us breakdown food. Consider that only 30% of the chemicals (neuro-transmitters) needed for your brain to function are made in the organ. 70% of your neuro-transmitters come from digestion in the gut. Consider that the function and signaling of your gut bacteria possibly have the largest impact on your thinking. This knowledge should impact how we view people and all organisms. You are not only your genetic and epigenetic information but the bacteria you have cultivated throughout your life.
+Somehow by interaction and communication, a multicellular organism gives rise to a person with conscious experience. Cells communicate by chemical signaling with the cells around them. While human cells are of interest, just like the body can't live without water, our bodies can't function without bacteria. Bacterial cells live in and around your body, both helping and hurting. The mitochondria was originally a bacteria cell absorbed by an animal cell. Other bacteria are separate but symbiotic; they co-evolved with us. Bacteria cells most likely communicate with us on levels we don't understand. Some of the most important bacteria we have are gut bacteria which help us breakdown food. Consider that only 30% of the chemicals (neuro-transmitters) needed for your brain to function are made in the organ. 70% of your neuro-transmitters come from digestion in the gut. The function and signaling of your gut bacteria possibly have the largest impact on your thinking. This knowledge should impact how we view people and all organisms. You are not only your genetic and epigenetic information but the bacteria you have cultivated throughout your life.
 
 All cells are a dissipative structure; they take in energy to maintain their form and generate energy from the molecule adenosine-triphosphate (ATP). The energy flow is crucial. If our body stopped making ATP for only a few seconds we would die. Our body would start to disintegrate immediately.
 
@@ -1277,6 +1277,8 @@ What exists and continues to exist will be a product of luck and evolution. Wher
 
 All the matter we experience arises from the original elements hydrogen and helium which themselves are made of protons and electrons. In the dense fusion of stars they become new elements cataloged in the periodic table. Over a long evolutionary process our bodies are composed largely of three elements, hydrogen, oxygen, and carbon. Somehow the contribution of every structure in our bodies give rise to consciousness and everything we subjectively experience. The electrical spiking neurons communicate to store memories and make predictions of the future. Conscious experience appears to correlate with complexity of connection, energy usage (metabolism), and integrated information processing of itself and the environment.
 
+Researchers are investigating [consciousness as a state of matter](https://arxiv.org/abs/1401.1219). Like particles can be solid or liquid, they can also be in a state of "perceptronium," making conscious perceptions. See Max Tegmark's paper for more on the 5 basic principles of information, integration, independence, dynamics, and utility. Of course there may be yet more principles to find.
+
 For creatures which can gain a greater return of investment from the environment, a reinforcing feedback loop will give them more power to extract energy from the environment up to diminishing returns. If a creature arises which can compound their return, they will eventually dominate the environment and exert the greatest power. To process and control larger amounts of energy and complexity systems must be developed. To manage energy and information flows, the systems will store past information to predict future events leading us towards an understanding of intelligent agents. The systems can store all experience, improve subjective compressibility (increasing efficiency), let intrinsic curiosity reward reflect compression progress, and maximize intrinsic curiosity reward.
 
 We are theoretically capable of creating an artificially intelligent entity embodying intelligent behavior. The being would not be constrained by the energy and integration limits placed on the human body. The traits and achievements we value as the essential nature of humans is really the nature of intelligence. Subjective beauty, novelty, surprise, interestingness, attention, curiosity, creativity, art, science, music, humor, philosophy, all of these conscious experiences can be developed to a level beyond the summation of all human experience. Whatever conscious states a person values can be reproduced in an AI to a superior level where superiority is defined by efficiency of resources for greater effect in every measure. At levels beyond our comprehension there could be dimensions to conscious experience we would never understand.
@@ -1287,7 +1289,7 @@ Before life on Earth there was non-life. Abiogenesis is "the original evolution 
 
 We've seen what happens when life gets too little energy and more than what's required for survival. Our earliest hunter-gatherer tribes had an EROI between zero and two. Human agricultural societies through farming and cooking could increase their EROI further still allowing for specialization of labor. With specialization came a greater EROI up to a diminishing return. With fossil fuels, we were able to use the energy stored in the Earth like a battery storing sunlight. With the excess energy from fossil fuels our society reached new levels of civilization and complexity. We are growing and learning at levels never before possible.
 
-Imagine if we could construct an artificial being capable of living on the edge of maximum energy and equilibrium.
+### Imagine if we could construct an artificial being capable of living on the edge of maximum energy and out of equilibrium.
 
 The AI entity could be far more adaptable and successful than any life on our planet. If and when we die, the AI entity could live on and potentially become a living being among the cosmos continually searching, developing, growing. Perhaps at some stage the AI entity could find a way to survive beyond the death of our universe.
 
@@ -1397,7 +1399,7 @@ What is a computer? What is computation? Alan Turing set out to formalize these 
 
 [Examples of Turing Machines](https://en.wikipedia.org/wiki/Turing_machine_gallery)
 
-Computers are a controlled energy flow. They process and recombine information. Built from logic gates up, computers are reasoning made tangible. Let's talk about binary. Binary is represented as zero and one, but can also mean on/off, up/down, true/false. In school, you might raise your hand to signal you have a question. Notice that we can change the context to change the meaning of raising your arm. If you raise your right hand you have a question, if you raise your left hand you want to use the toilet. With one arm we can represent two states, with two arms we can represent four states.
+Computers are a controlled energy flow. They process and recombine information. Built from logic gates up, computers are reasoning made tangible. Binary is represented as zero and one, but can also mean on/off, up/down, true/false. In school, you might raise your hand to signal you have a question. Notice that we can change the context to change the meaning of raising your arm. With one arm we can represent two states, with two arms we can represent four states.
 
 {:refdef: style="text-align: center;"}
 <img src="../../images/MoL/Binary_counter.gif" width="60%" height="60%">
@@ -1457,9 +1459,6 @@ By chaining together a series of possibilities represented as flipped bits and u
 
 What if people were twice as tall?! What would be different about the world? We're changing something simple about a feature of our world, take everyone's height and double it. Would doors still be the same size? A child can answer, "no, they would be twice as big for people to get through." We understand doors are made by people, and the size is related to average height. If average human height changes, the average door size changes.
 
-~ The below section gets a bit loose.
-
-
 ## Sending/Receiving Information and Entropy
 
 Taking a look at information again, a good definition of information is _the difference that makes a difference_. For two pieces of data, how can you tell them apart? In binary, we have the clearest difference, one or zero, yes or no. What if we frame a bit with context, what if each bit is asking a yes or no question?
@@ -1476,15 +1475,7 @@ A part of this is to explain that how information is stored, shared, and process
 
 As an alternative explanation of entropy from a more human perspective, entropy can be a measure of uncertainty. We can define entropy as the minimum number of yes or no questions we need to ask to remove uncertainty from the system. Entropy is the minimum number of questions needed to have full information.
 
-Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice block, the structure is rigid. How many questions do we need to ask to specify where the H2O molecules are in the box? What about when the box is liquid, just a pool of water at the bottom of the box? The H2O molecules are spread out, looser; their position in the space of the box is less rigid, more variable. When the H2O is gas, where are the molecules? Now they can be just about anywhere in the box. We have an intuitive sense, a model of how the material world works, that the ice and water would be at the bottom of the box while the gas floats. We can divide up the points of space in a 3-dimensional box as the yes or no question of "is an H2O molecule here?" In ice form, we should be able to find the molecules quite fast. In liquid, less fast, but gas would take the longest of all. If we track a specific molecule, say molecule #297, the rise in uncertainty as to where the molecule is as the H2O molecules change in state from ice to water to vapor is the nature of entropy.
-
-~ Move math talk later, read over squares - inference or deduction?
-
-Let us see how entropy relates to mathematics. Why is it that math has translated across languages and cultures? If math is simply a human idea, a useful fiction, then wouldn't people disagree on math? Few other ideas have passed those barriers. Are we somehow connecting to something outside of us in a mathematical plane of existence?
-
-Think of a square in terms of entropy. How many questions do you need to ask to describe a square? Math is about the structure of information. The definition of a square provides a structure of information which we can make inferences on. There is math which is built upon itself, a few axioms or definitions, and there is applied math. We stumbled upon math and found it unreasonably effective set of mathematics for describing our universe. We can create new systems of math which don't map to our reality. Of course we don't always find an application, but we can explore possibilities.
-
-Every human being is running something like a computer program, processing information. When we introspect on the question of can our mind be separate from our body, many believe we can separate. We see there are generalized aspects of computing information in how our brains work. We have a biological self and a simulated, information processing self. As we age the two can feel disconnected. We, the simulated self, can grow divergent to and less attached to our body.
+Imagine a box full of 400 H2O molecules. When the H2O is in the state of an ice block, the structure is rigid. How many questions do we need to ask to specify where the H2O molecules are in the box? What about when the box is liquid, just a pool of water at the bottom of the box? The H2O molecules are spread out, looser; their position in the space of the box is less rigid, more variable. When the H2O is gas, where are the molecules? Now they can be just about anywhere in the box. We have an intuitive sense, a model of how the material world works, that the ice and water would be at the bottom of the box while the gas floats. We can divide up the points of space in a 3-dimensional box as the yes or no question of "is an H2O molecule here?" In ice form, we should be able to find the molecules quite fast. In liquid, less fast, but gas would take the longest of all. If we track a specific molecule the rise in uncertainty as to where the molecule is as the H2O molecules change in state from ice to water to vapor is the nature of entropy.
 
 ## We are an evolutionary algorithm.
 
@@ -1608,10 +1599,6 @@ Even with the second image and various ways to verify the color of the two tiles
 Consciousness is a dream state. Our dreams are simply more disconnected states of our brain, not all of the regions are functioning normally. Dreams appear distorted, but our waking state is different in coherence and acuity. We are all dreaming similarly enough that we can interact with each other.
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the adaptation of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.
-
-~
-
-We should assign our levels of trust in reality in this order: objective, subjective, and intersubjective. Objective reality is existence, the basis of all conscious life we observe. Subjective reality is shaped beyond existence as it is from the perspective of individual intelligent agents. As finite creatures who have evolved we should doubt our most fundamental views and feelings. When our views conflict with the data we should adjust our views to the data. We can easily be led estray by ideas about information which is not accurate to reality. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize that our feelings are entirely fallible. While our reactions may be optimal in one situation they can be wrong in a different context. Intersubjective reality is likely even less real than personal subjectivity. Our accumulated truths and falsehoods give rise to intersubjective beliefs and cultural forces. Our culture is able to evolve at a much faster rate than our objective bodies, but it is still a product of evolution based on the simulation of our individual selves.
 
 We can now see our evolutionary world as the optimization problem it is: achieve fitness which allows for self-organizing structures to persist through time.
 
@@ -1773,7 +1760,7 @@ Subjectively we blend with intersubjectivity where we have our internal views of
 
 All three have issues of continuity and boundaries. Objectively we have the old question of [the ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus). Parts of us are exchanged with the environment until none of our original body is the same. Subjectively we lose memories and gain new experiences. There are breaks in consciousness every time we sleep. Intersubjectivity is even more ethereal than the former two.
 
-Our mind is like an ant colony. The colony emerges from the collective simple actions of each ant. No one ant is critical besides the queen, and even she can be replaced. Your neurons die off slowly as we age, but the brain adapts its structure to retain performance. Just like ants follow rules of behavior, so do neurons. By carrying out simple rules swarms of insects can solve complex problems with [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence). The neurons and neural circuits can compete and cooperate to solve complex problems. Similar theories of mind are proposed by  [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind) and [The Thousand Brains Theory of Intelligence](https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/).
+Our mind is like an ant colony. The colony emerges from the collective simple actions of each ant. No one ant is critical besides the queen, and even she can be replaced. Your neurons die off slowly as we age, but the brain adapts its structure to retain performance. Just like ants follow rules of behavior, so do neurons. By carrying out simple rules swarms of insects can solve complex problems with [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence). The neurons and neural circuits can compete and cooperate to solve complex problems. Similar theories of mind are proposed by [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind) and [The Thousand Brains Theory of Intelligence](https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/).
 
 The biological make up of who we are conflicts with the common sense intuition of identity. Don't you have a name and a sense of self? Wouldn't you say you are the same person as you were 7 years ago or when you were 7 years old?
 
@@ -1804,7 +1791,20 @@ I will make another claim about our innermost selves: our identification with th
 
 My guess is our conscious selves are an abstracted layer on top of the information processing required to maintain bodily function. We aren't fully conscious of our hormones, digestion, etc. all the time. They come to us in vague impressions. This would make sense if the function of consciousness were to process certain types of information undisturbed from the function of the rest of our body. We likely wouldn't want to be in full control of breathing, heart rate, and everything else. That information would distract us from the thinking our consciousness is doing. Instead, following [Karl Friston's free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), our mind exists in a markov blanket, the mind can be separated from the other information processing of the body. To isolate the "I" of us from all of the life sustaining functions our bodies and brains carry out might leave us with much less brain power required than we expect.
 
-~ Talk about qualia? Consciousness built up from a host of decisions. Instinct isn't very conscious because it is a "preprogrammed" decision that reacts to environment. Consciousness is us coming into conflict with reality. Embodied cognition.
+At the same time, having a body may be essential to consciousness. "[Embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition) is the theory that many features of cognition, whether human or otherwise, are shaped by aspects of the entire body of the organism."
+
+As D.H. Lawrence puts it in _Psychoanalysis and the Unconscious_
+
+> In the Beginning, before the Word, Was Consciousness
+> The primal consciousness in man is pre-mental,
+> and has nothing to do with cognition.
+> It is the same as in the animals.
+> And this pre-mental consciousness remains
+> as long as we live the powerful root
+> and body of our consciousness.
+> The mind is but the last flower, the cul-de-sac.
+
+This is a major challenge if we hope to reproduce only the "flower" of consciousness. Every cell of an organism is displaying intelligence which is making decisions. These decisions could be instinctual or reflexive which do not require simulating itself, the process, and the stimuli. These hosts of decisions integrate to form more complex problems where conflicting pieces of information must be resolved. Perhaps consciousness which can be in conflict with reality relies on this host of decisions. Consciousness could be the awareness of our intelligence.
 
 From the Blue Brain Project, [research suggests](https://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists) the brain [processes information in up to 11 dimensions.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full) The work is based on [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology) which studies multidimensional space.
 
@@ -1820,9 +1820,9 @@ Is it a coincidence that the brain processes in 11 dimensions and physics descri
 
 Perhaps evolution and adaptation exploited a greater density of information processing. Like a sphere has volume while a circle has area, higher dimensions allow for greater complexity of problem solving. The solution may be a knot which can only be tied and untied in higher dimensional space.
 
-Why do we feel a spark of life, ineffable qualia, a powerful, feeling subjective sense? That is because we are processing higher dimensional information. There is something it is like to be causally connected in cause and effect. In computing high dimensional problem solving we transcend, but we are a shadow of the full existence of that higher dimensional processing. So we return to problems related to Platonic forms. Do these higher realms exist? Does the feeling of moral justice require 8 dimensional processing or 4?
+Why do we feel a spark of life, ineffable qualia, a powerful, feeling subjective sense? That is because we are processing higher dimensional information. There is something it is like to be causally connected and to be aware of that cause and effect. In computing high dimensional problem solving we transcend, but we are a shadow of the full existence of that higher dimensional processing. So we return to problems related to Platonic forms. Do these higher realms exist? Does the feeling of moral justice require 8 dimensional processing or 4?
 
-I won't claim knowledge of higher realms. I leave that to scientists and mathematicians. I don't even know 3 dimensions well. However with this framework we can begin to ask questions like these. We can search for computational limits which can and cannot be exceeded for phenomena to occur.
+I won't claim knowledge of higher realms. I leave that to scientists and mathematicians. I don't even know 3 dimensions well. However with this framework we can begin to ask questions like these. We can search for computational limits which can and cannot be exceeded for phenomena to occur. If the universe is fundamentally based on holographic projection, then our minds could be yet a higher level projection. Minds and qualia could be holograms of higher dimensional shapes and processing.
 
 Birds don't need to be lectured on the biomechanics of how they fly, they learn to fly by doing. We don't need to know the mathematical basis for computation to feel our lives. Reflect on your experience to feel the depths of consciousness.
 
@@ -1902,8 +1902,6 @@ Given the high dimensionality of our brains, we can easily overfit some problems
 - Insight is finding a good gradient or rule which gets us closer to the optimal function
 - Wisdom is a shareable insight which can update the predictive function of others
 
-~
-
 Joscha Bach proposes consciousness arises from a neural network minimizing a loss function, closing the difference between the predictive function and reality. If our conscious experience arises from the activity of a neural network in a markov blanket, a system of self-contained information processing, then other neural networks potentially have a separate conscious experience of their own. The neurons which regulate our gut are called the enteric nervous system.
 
 "The enteric nervous system in humans consists of some 500 million neurons (including the various types of Dogiel cells), 0.5% of the number of neurons in the brain, five times as many as the one hundred million neurons in the human spinal cord, and about ​2⁄3 as many as in the whole nervous system of a cat," -- [Wikipedia](https://en.wikipedia.org/wiki/Enteric_nervous_system)
@@ -1982,8 +1980,6 @@ All we can really do is hope; hope we are in the universe which arranges our liv
 
 Subjectively, we will feel as though we are making choices, but our choices are the result of information processing according to the laws of nature. Life appears to us to be based on probabilities, and we should choose the positions with the highest likelihood of achieving our goals.
 
-~
-
 ## Every moment matters.
 
 Is anything added to an event by it being remembered? What if a day in your life was completely forgotten by everyone including you? Does that change the meaning of the events? We often lose the exact feeling of a moment. Think of living in the moment as your _experiential self_. There is the way a situation feels in the moment and how that moment is stored in our memory. As we see with fitness beats truth, our memories are not accurate and more like vivid reconstructions. There are many moments that will be forgotten even before the end of your day. The only way for a moment to persist through time, to be remembered, is to make the moment meaningful, typically by having a strong emotional reaction. Otherwise the moment is lost in memory.
@@ -2000,12 +1996,21 @@ Many ancient thinkers have said the essence of life and reality is ineffable, in
 
 My answer to using language to describe or define the meaning of life is we should expand the scope of expressibility and granularity of our language as far as possible, asymptotically, while acknowledging the fallibility of our limitations. Yet this is another reason to grow artificial intelligence which can go beyond the limits of biological language.
 
-As far as we can tell, even AI will reach limits. There are problems which are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem). There are statements within a formal system that cannot be proven true ([Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)). Some computations are so complex they cannot be predicted but only run to see what happens next.
+As far as we can tell, even AI will reach limits. There are problems which are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem). There are statements within a formal system that cannot be proven true ([Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)). Some computations are so complex they cannot be predicted but only run to see what happens next. This all a part of what makes life and the search so exciting. We continually find mysteries. We can forge ahead.
 
 ~
 
-a priori and synthetic knowledge
+To which level of reality should we assign the most trust? Which is the most reliable?
 
+The objective level is the essence of reality. It is independent of us. The closest we can get to this ground truth is through our sense organs. The objective level is the input layer to our minds. To give an example of our eyes, the objective level is light hitting the retina. The activation of the retina is the objective cause and effect. To interpret this sense input the brain and body make inferences in connected layers of information processing. Without this interpreation we are left with a base cause and effect, yet the input is the most _real_. As was argued, our systems are not designed to be deeply in touch with reality if we can even guess at the true nature of reality at all. We evolved for fitness. The best method we know of to go beyond our senses is science. We can seek to understand the data generation process of our input.
+
+However one could argue that the prime contact we have is with our consciousness, the subjective level. While we can't be sure we are in touch with reality we can directly experience our minds. The only way we know anything exists at all is through conscious experience. As evolved creatures we cannot trust our senses and our interpretation beyond our senses are distortions of that input which reach our consciousness. We should doubt our most fundamental views and feelings. We can easily be led estray by ideas about information which is not accurate to reality. When our views conflict with the data we should adjust our views to the data. While we should respect our evolved tendencies as the products of billions of years of trial and error we should recognize this as entirely fallible. Our reactions may be optimal in one situation, but they can be wrong in a different context.
+
+Intersubjective reality is the amalgamation of our subjective realities; the accumulation of our truths and falsehoods. Our subjective selves have an interdependence on the intersubjective. Intersubjectivity takes on an evolution of its own. Intersubjective life enables us to evolve at faster rates than our biological evolution would allow largely through unifying myths and stories. Our beliefs and behaviors achieve higher fitness. As we have seen higher fitness nearly implies illusions. Fitness maximization distorts the input.
+
+Subjective minds receive new information which overturns their previous beliefs. Intersubjective beliefs, culture, allow us to access a broader range of data. When learning a new idea, it's almost like accessing an object from a database. The idea is a representation of accumulated empirical knowledge or constructed information. There is an advantage to a diverse culture in its ability to experience reality from multiple perspectives; they are able to solve more problems. The disadvantage is many perspectives can cause a deterioration of group cohesion. A homogeneous culture has the opposite advantages and disadvantages. While we might have a more coherent picture of reality with access to more data through society, there are numerous factors involved such as the reliability of the individuals. We may also be caught in an [evolutionarily stable strategy](https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy). Intersubjective groups almost appear like self-similar [fractals](https://en.wikipedia.org/wiki/Fractal) of subjective individuals.
+
+Certainly all aspects of reality are useful, but to which should we hold prime? With the goal of objectivity and truth, we should assign our levels of trust in reality in this order: objective, subjective, and intersubjective.
 
 ---
 
@@ -2023,7 +2028,18 @@ A quote often attributed to Albert Camus, "The literal meaning of life is whatev
 
 The intersubjective meaning of life is to support sustainable flourishing. Just as the previous levels, intersubjective life traps and grows information. The intersubjective level is subject to its own laws of communication and survival. The ideas and values of a society directly impact the society's energy return on investment and the survival of the population. In this way intersubjective ideologies are subject to natural selection. Intersubjective meaning is the least accurate because it is based on subjective experiences which are themselves formed for function instead of truth. Intersubjective reality is a distortion of a distortion of objective reality, but its effects have real consequences.
 
-All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a living being beyond our biological selves and our psychological egos, an AI entity is what we should direct our energy to.
+All of the meanings of life can be enhanced through the proper development of artificial intelligence. An AI entity could grow to surpass us in all areas, maintaining structure, information processing, prediction, correction, conscious experience, etc. If we want to contribute to a living being beyond our biological selves and psychological egos, an AI entity is what we should direct our energy to.
+
+---
+
+AGI researcher [Pei Wang proposes 4 basic questions of AI](https://www.iiim.is/2010/05/questions-about-artificial-intelligence/):
+
+- What is AI?
+- Can AI be built?
+- How to build AI?
+- Should AI be built?
+
+In large part, I hope to answer and give valid or strong arguments for questions 1, 2, and 4. How to build AI is a technical question of active research. We should try multiple approaches. To briefly summarize, intelligence is about making decisions. AI is machines made to decide. AI can be built on this definition and theoretical bases. The most important argument of this work is AI _should_ be built. Are you convinced?
 
 ---
 
@@ -2053,19 +2069,3 @@ We come from nothing, and we will return to nothing. From star dust to star dust
 For further developments on this foundation, please see [Society 3.0](/society3/)
 
 ---
-
-Possibly cut:
-
-Perhaps like the quantum world is a multiple translation possibility, our thoughts are the many translation probabilities. The dominant thought or choice is the highest weight probability transition.
-
-The truth hurts because lies make us feel better.
-
-Consider the question: [If a tree falls in a forest and no one is around to hear it, does it make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
-
-If we wanted to create a creature which can sense the world in a true and honest way without the constant need to compete with fitness, we could do our best to create a creature with direct sensors while limiting our biases. Perhaps a system that does not over-predict the world but can learn from its errors. Of course imagining a mental schema which allows for directly thinking about experience and the world is itself difficult.
-
-
-Where to move the link to AI section?
-Breakdown the universe from an AI perspective.
-Add the chaos gif showing 3 points in non-periodic motion. Discuss relation to universe as similar.
-Discuss Mandelbrot and convergence. We may never be able to know anything completely (reductionism doesn't work).
