@@ -4,7 +4,7 @@ title: Society 3.0
 permalink: /society3/
 ---
 
-How does a human being flourish? What should society and humanity do? I want to explain each part to show you how far we are from the reality of our situation and where we should go. [It took me quite some time to accept climate change (video)](https://www.youtube.com/watch?v=zGRLZGtLrr0). I have released a [video outline](https://youtu.be/NRSXLAlosQA) of this work, but there is much to gain from the details.
+How does a human being flourish? What should society and humanity do? I want to explain each part to show you how far we are from the reality of our situation and where we should go. [It took me quite some time to accept climate change (video)](https://www.youtube.com/watch?v=zGRLZGtLrr0). I have released a [video outline](https://youtu.be/NRSXLAlosQA) of this work, but there is much to gain from the details. This is an extension on my perspective of the [meaning of life](/meaningOfLife/).
 
 I hope to show you what I believe humanity's best path forward and what led me to these conclusions.
 

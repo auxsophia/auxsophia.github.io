@@ -15,3 +15,9 @@ The sensorimotor approach provides a way to make the hard problem easy. It sugge
 ## [Consciousness as a State of Matter](https://arxiv.org/abs/1401.1219) by Max Tegmark
 
 > We examine the hypothesis that consciousness can be understood as a state of matter, "perceptronium", with distinctive information processing abilities. We explore five basic principles that may distinguish conscious matter from other physical systems such as solids, liquids and gases: the information, integration, independence, dynamics and utility principles. If such principles can identify conscious entities, then they can help solve the quantum factorization problem: why do conscious observers like us perceive the particular Hilbert space factorization corresponding to classical space (rather than Fourier space, say), and more generally, why do we perceive the world around us as a dynamic hierarchy of objects that are strongly integrated and relatively independent? Tensor factorization of matrices is found to play a central role, and our technical results include a theorem about Hamiltonian separability (defined using Hilbert-Schmidt superoperators) being maximized in the energy eigenbasis. Our approach generalizes Giulio Tononi's integrated information framework for neural-network-based consciousness to arbitrary quantum systems, and we find interesting links to error-correcting codes, condensed matter criticality, and the Quantum Darwinism program, as well as an interesting connection between the emergence of consciousness and the emergence of time.
+
+---
+
+Joscha Bach has [several interesting videos](http://bach.ai/videos/) on computational theory of mind.
+
+---
