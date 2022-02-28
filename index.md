@@ -5,6 +5,10 @@ layout: default
 This website is the open notebook of [Elliott Collin Ploutz](/about/). I am a philosopher, computer scientist, and aspiring influencer. These pages are my public notes on various topics I investigate. If you're interested in living a good life, optimizing productivity, philosophy, computer science, artificial intelligence, and making sense of this absurd universe we live in, I hope something on this site saves you time and energy.
 
 ---
+
+My life's work is answering [the meaning of life](/meaningOfLife/). I imagine a [new way for society to live](/society3/). You can find my [YouTube channel here](https://www.youtube.com/c/PhilosopherScholar).
+
+---
 ## [Human Flourishing](/humanFlourishing/)
 
 I've made self-improvement a hobby. With the aim of maximizing cognitive potential, these are my notes on living well and flourishing, including topics such as mental training, proper diet, exercise, and hygiene.
