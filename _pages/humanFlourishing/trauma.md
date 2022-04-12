@@ -296,6 +296,7 @@ Defensive strategies often break down in the third or fourth decade of life. Bri
 The major contribution of Dr. Herman’s work is in a proposed diagnosis of complex PTSD for sufferers of prolonged or repeated traumas. The ongoing nature of the trauma results in different symptoms than a single event PTSD. CPTSD sufferers are often misdiagnosed within the mental healthcare system for quite some time before getting to underlying trauma.
 
 PTSD: they fear they’ve lost their minds.
+
 CPTSD: they fear they’ve lost themselves.
 
 Part 2 of the book describes the 4 stages of recovery.
@@ -350,18 +351,27 @@ However, little t trauma can be any event which causes a lack of safety. Chronic
 
 Tim is big on re-parenting ourselves to heal trauma and taking care of our 12 needs. His videos help to identify and understand complex trauma.
 
-Healing CPTSD
+#### Healing CPTSD
+
 Phase 1 - tools to deescalate dysregulated emotions (grounding)
+
   - Rhythms - music, walking, tapping (EFT), drawing, counting, breathing
   - Cortex is not available initially
+
 Phase 2 - Once regulated and the cortex is back online, reprocess the event, what was triggered. Learn from it.
+
 Phase 3 - tools for an increasingly healthy stress response system
+
   - Yoga, running, pet therapy, art therapy
   - Learning to meet 12 needs
   - Connect to healthy people
+
 Phase 4 - Healing deep trauma wounds
+
   - Trigger = unhealed trauma wound being poked
+
 Phase 5 - Mindfulness
+
   - Interoception of emotions/mental state. How can you improve if not good?
   - Curiosity - don't judge yourself, be curious what wound was triggered
 
@@ -384,7 +394,7 @@ Walker defines CPTSD as a more severe form of PTSD and draws on the work of Judi
 - Vicious inner critic
 - Social anxiety
 
-Emotional flashbacks are most notable of CPTSD. Flashbacks are the inner child crying for help. Walker calls these feelings the abandonment mélange, the depressive and other negative feelings from early childhood abandonment and abuse. Walker has the 13 steps to manage emotional flashbacks on his website at http://www.pete-walker.com/13StepsManageFlashbacks.htm.
+Emotional flashbacks are most notable of CPTSD. Flashbacks are the inner child crying for help. Walker calls these feelings the abandonment mélange, the depressive and other negative feelings from early childhood abandonment and abuse. Walker has the [13 steps to manage emotional flashbacks](http://www.pete-walker.com/13StepsManageFlashbacks.htm) on his website at http://www.pete-walker.com/13StepsManageFlashbacks.htm.
 
 Toxic shame is blame unfairly directed at the self. Shame at a very young age can be toxic and result in something called soul murder, where we deeply repress essential parts of ourselves.
 
@@ -399,15 +409,21 @@ I didn’t like to hear it, but Walker says we need to give up the idea of ideal
 While we’ve seen the 4 F’s of survival before, I didn’t know how they played out as entrenched defensive structures in personality development. We gravitate to one or more of these defenses to survive.
 
 Fight -> Narcissism
+
 Flight -> Obsessive-compulsive
+
 Freeze -> Dissociation
+
 Fawn -> Codependent
 
 Each response has a healthy use, and we should be able to employ all of them flexibly. However over reliance on one or two responses plays out in a number of ways. They effect our attachment style.
 
 Fight -> control to connect, rage to be safe
+
 Flight -> perfect to connect, perfect to be safe
+
 Freeze -> no way out to connect, hide to be safe
+
 Fawn -> merge to connect, grovel to be safe
 
 Walker offers paths for recovery from each type. Particularly interesting to me was the relation between fight and flight types of dissociation, left-brain and right-brain dissociation. Flight types flee their feelings by constantly doing and thinking. Freeze types can disconnect by fantasizing and often fall into daydreaming, online browsing, and video games. Walker has a whole chapter on fawn-codependency type as that is his personal experience and specialty.
@@ -541,12 +557,14 @@ Finally there is reintegration and reconnection. We are embodied. We are present
 
 Unfortunately it’s easier for children to become traumatized. Kids can more easily be overwhelmed. Especially before the age of 2.5 years our minds are more like a traumatized state, wordless, formless. How can we cognitively place a traumatic event during those times? Developmental trauma leads to complex PTSD which is more difficult to heal. We need to be our own good parent and nurture the hurt inner child in us.
 
-Healing is very difficult, but so is living with trauma. Trauma can be an open wound or a neglected scar. The more we heal the more resilient and fully alive we can be. I expected to hear more about post-traumatic growth theory in these books (https://en.wikipedia.org/wiki/Post-traumatic_growth). Some researchers described four possibilities of adversity: “succumbing to adversity, surviving with diminished quality of life, resiliency (returning to baseline quality of life), and thriving” - where thriving is enhanced quality of life. As unbelievable as it may sound, I hope you can strive for thriving.
+Healing is very difficult, but so is living with trauma. Trauma can be an open wound or a neglected scar. The more we heal the more resilient and fully alive we can be. I expected to hear more about [post-traumatic growth theory](https://en.wikipedia.org/wiki/Post-traumatic_growth) in these books. Some researchers described four possibilities of adversity: “succumbing to adversity, surviving with diminished quality of life, resiliency (returning to baseline quality of life), and thriving” - where thriving is enhanced quality of life. As unbelievable as it may sound, I hope you can strive for thriving.
 
 ---
 
 Other interesting YouTube channels on trauma and healing:
 
-Crappy Childhood Fairy - https://www.youtube.com/channel/UCCZlDCbFTqHkzV_rUP4V5bg
-Kati Morton - https://www.youtube.com/c/Katimorton
-Erasing Fears & Traumas Based on the Modern Neuroscience of Fear | Huberman Lab Podcast #49 - https://www.youtube.com/watch?v=31wjVhCcI5Y
+[Crappy Childhood Fairy](https://www.youtube.com/channel/UCCZlDCbFTqHkzV_rUP4V5bg) - https://www.youtube.com/channel/UCCZlDCbFTqHkzV_rUP4V5bg
+
+[Kati Morton](https://www.youtube.com/c/Katimorton) - https://www.youtube.com/c/Katimorton
+
+[Erasing Fears & Traumas Based on the Modern Neuroscience of Fear | Huberman Lab Podcast #49](https://www.youtube.com/watch?v=31wjVhCcI5Y) - https://www.youtube.com/watch?v=31wjVhCcI5Y
