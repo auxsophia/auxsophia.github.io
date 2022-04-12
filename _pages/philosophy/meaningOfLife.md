@@ -135,7 +135,7 @@ The work of [Shaolin Master Shi Heng Yi](https://www.youtube.com/watch?v=4-079YI
 
 ### Your Reason for Being
 
-Some say the question of meaning in life is a privilege, that self-actualization is the highest level in our list of needs. You should reject this line of thinking as if you were fighting for your life, because you are. Those who want you to turn away from meaning want to control you. Meaning if for everyone and offers guidance and clarity. Meaning is a continual questioning where a lack of meaning is no questions at all.
+Some say the question of meaning in life is a privilege, that self-actualization is the highest level in our list of needs. You should reject this line of thinking as if you were fighting for your life, because you are. Those who want you to turn away from meaning want to control you. Meaning is for everyone and offers guidance and clarity. Meaning is a continual questioning where a lack of meaning is no questions at all.
 
 What is your reason for being? What keeps you alive? To find meaning and coherence in your life I recommend the concept _ikigai_. [Ikigai](https://en.wikipedia.org/wiki/Ikigai) roughly translates to "reason for being."
 
