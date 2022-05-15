@@ -4,6 +4,7 @@ title: Philosopher Scholar - Trauma Notes
 permalink: /trauma/
 ---
 
+## You can watch my video on this text [here on YouTube](https://www.youtube.com/watch?v=NDcZqvrugtk)
 
 I'll just tell you the best way to start healing: meditation, yoga, therapy. They do wonders. Get started on meditation and yoga today.
 
@@ -567,4 +568,4 @@ Other interesting YouTube channels on trauma and healing:
 
 [Kati Morton](https://www.youtube.com/c/Katimorton) - https://www.youtube.com/c/Katimorton
 
-[Erasing Fears & Traumas Based on the Modern Neuroscience of Fear | Huberman Lab Podcast #49](https://www.youtube.com/watch?v=31wjVhCcI5Y) - https://www.youtube.com/watch?v=31wjVhCcI5Y
+[Erasing Fears & Traumas Based on the Modern Neuroscience of Fear - Huberman Lab Podcast #49](https://www.youtube.com/watch?v=31wjVhCcI5Y) - https://www.youtube.com/watch?v=31wjVhCcI5Y
