@@ -4,7 +4,7 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife/
 ---
 
-Here is my attempt to answer the question of the meaning of life.
+Here is my attempt to answer the question of the meaning of life. You can read this as a series of [ten parts here](/meaningOfLife_0/) with accompanying videos.
 
 I'm a person who's had a lot of time to think and reflect on life and my experience. I've searched for meaning my entire life. Any talk of meaning has focused my attention.
 
@@ -74,7 +74,7 @@ If you want to know how happy you will be you should reflect on how happy you ha
 
 _If your average happiness makes you dissatisfied, don't give up yet!_
 
-You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on [posture](/posture/), breathing, [sleep](/sleep/), [nutrition](/MINDdiet/), and [exercise](/calisthenics/), in that order. Some will focus on exercise as a priority. Attaching yourself to the highest level helps to prioritize the lower levels. When you exercise well you want to eat and sleep well to support your training. Similarly we can attach ourselves to meaning and purpose which orders our actions on lower level needs.
+You may not have reached your true set point. Your set point is heavily influenced by your health. Focus first on [posture](/posture/), breathing, [sleep](/sleep/), [nutrition](/nutrition/), and [exercise](/calisthenics/), in that order. Some will focus on exercise as a priority. Attaching yourself to the highest level helps to prioritize the lower levels. When you exercise well you want to eat and sleep well to support your training. Similarly we can attach ourselves to meaning and purpose which orders our actions on lower level needs.
 
 Your circumstances influence happiness and your ability to maintain your health. Some environments are toxic or don't support growth. We must make a voluntary action to change to a different set of circumstances as best we can.
 

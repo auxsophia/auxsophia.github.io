@@ -4,7 +4,7 @@ title: Philosopher Scholar - Human Flourishing
 permalink: /humanFlourishing/
 ---
 
-My conception of _Eudaimonia_. Sound in [body](./body/), sound in [mind](./mind/), sound in [spirit](./spirituality/).
+My conception of _Eudaimonia_. Sound in [body](./body/), sound in [mind](./mind/), sound in [spirit](/spirituality/).
 
 # Eudaimonia
 
@@ -26,6 +26,6 @@ One important move in Greek philosophy to answer the question of how to achieve 
 
 ---
 
-The first part of my work of the [meaning of life](/meaningOfLife/) is directed towards human flourishing for the average person. While an individual can flourish, we are social beings. I have come to believe that for an individual to flourish we need a flourishing community. Towards that end I recommend [community development](/society3/).
+The first part of my work of the [meaning of life](/meaningOfLife_0/) is directed towards human flourishing for the average person. While an individual can flourish, we are social beings. I have come to believe that for an individual to flourish we need a flourishing community. Towards that end I recommend [community development](/society3/).
 
 It is said: trauma is a fact of life. A large part of human flourishing is being resilient and anti-fragile to [trauma](/trauma/).

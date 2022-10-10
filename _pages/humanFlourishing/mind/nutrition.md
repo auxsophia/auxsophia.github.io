@@ -37,7 +37,7 @@ Avoid C.R.A.P. Chemicals, Refined sugar & flour, Artificial stuff, Preservatives
 
 ## Deep Nutrition
 
-Much of the above is from [Deep Nutrition](./deepNutrition) by Catherine Shanahan, M.D. Shanahan spent years searching for good nutrition and forms arguments based on research and physiology. She honed her diet advice to the 4 pillars. Additionally Shanahan gives arguments and explanations for consumption of fats. Many of the fats available today are not properly formed on a molecular level. Fats make up so many important areas of our body from cholesterol in cell walls to the myelin sheaths of our neurons.
+Much of the above is from [Deep Nutrition](/deepNutrition/) by Catherine Shanahan, M.D. Shanahan spent years searching for good nutrition and forms arguments based on research and physiology. She honed her diet advice to the 4 pillars. Additionally Shanahan gives arguments and explanations for consumption of fats. Many of the fats available today are not properly formed on a molecular level. Fats make up so many important areas of our body from cholesterol in cell walls to the myelin sheaths of our neurons.
 
 A key take away is: **stay away from vegetable oils!**
 
@@ -76,7 +76,7 @@ Liver or liverwurst on crackers. If no organ meats, seafood 3 times weekly, pref
 
 ## MIND Diet
 
-While Deep Nutrition is about general health, there are diets specifically designed for mind health. The [MIND diet](./MINDdiet/) is a combination of two well supported diets for brain health and longevity.
+While Deep Nutrition is about general health, there are diets specifically designed for mind health. The [MIND diet](/MINDdiet/) is a combination of two well supported diets for brain health and longevity.
 
 ### 10 “brain-healthy food groups:”
 
@@ -166,15 +166,15 @@ The [flexitarian diet](https://www.bbc.com/news/health-46865204) which aims for 
 
 The diet has room for 31g of sugar and about 50g worth of oils like olive oil.
 
-## Who came up with this?
+### Who came up with this?
 A group of 37 scientists from around the world were brought together as part of the [EAT-Lancet commission](https://eatforum.org/eat-lancet-commission/).
 
 They're a mix of experts from farming to climate change to nutrition. They took two years to come up with their findings which have been published in the Lancet.
 
-## Why do we need a diet for 10 billion people?
+### Why do we need a diet for 10 billion people?
 The world population reached seven billion in 2011 and it's now around 7.7 billion. That figure is expected to reach 10 billion around 2050 and will keep on climbing.
 
-## Will it save lives?
+### Will it save lives?
 The researchers say the diet will prevent about 11 million people dying each year.
 
 That number is largely down to cutting diseases related to unhealthy diets such as heart attacks, strokes and some cancers. These are now the biggest killers in developed countries.
@@ -183,4 +183,4 @@ That number is largely down to cutting diseases related to unhealthy diets such 
 
 The similarities are as interesting as the differences among these diets. We can mostly make one "fit" another's requirements. While Deep Nutrition and Genius Foods are low carb high fat, the MIND diet and planetary diet call for higher carbs. However our carb limit can go up to 150g while still being far less than the standard American diet. If we have hard workout days then our carbs can be eaten like a typical MIND diet day with 3 or more servings of carbs (whole grains).
 
-From my personal experience I can say it's tough varying days of carbs. There are insulin spikes and drops which are destabilizing. Staying steady one way or the other helps mood stabilization. I'm still working on carb timing and carb amount.
+From my personal experience I can say it's tough varying days of carbs. There are insulin spikes and drops which are destabilizing. Staying steady one way or the other helps mood stabilization. I'm still working on carb timing and carb amount. Both Deep Nutrition and Genius Foods recommend at least a 2 week fat adaptation period where eating too many carbs for too long can knock you out of this.

@@ -44,6 +44,8 @@ Giving a small tree of philosophy:
 
 ---
 
+My main focus is [the meaning of life](/meaningOfLife_0/). I'm happy to hear your thoughts.
+
 Check out a pretty cool collection of [arguments](/philosophy/arguments/). It's a project to put some of my reasoning out in the open. This can save energy if I comment on social media about common topics. I can quickly copy and tailor my arguments for that person.
 
 ---

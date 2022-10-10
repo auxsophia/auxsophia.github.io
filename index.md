@@ -6,7 +6,7 @@ This website is the open notebook of [Elliott Collin Ploutz](/about/). I am a ph
 
 ---
 
-My life's work is answering [the meaning of life](/meaningOfLife/). I imagine a [new way for society to live](/society3/). You can find my [YouTube channel here](https://www.youtube.com/c/PhilosopherScholar).
+My life's work is answering [the meaning of life](/meaningOfLife_0/). I imagine a [new way for society to live](/society3/). You can find my [YouTube channel here](https://www.youtube.com/c/PhilosopherScholar).
 
 ---
 ## [Human Flourishing](/humanFlourishing/)
