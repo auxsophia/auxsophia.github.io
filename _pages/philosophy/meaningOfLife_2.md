@@ -4,16 +4,6 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_2/
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XSFETPYL59');
-</script>
-
 Returning to Professor Smith's lecture:
 
 ### What about civilization as dissipative structures?

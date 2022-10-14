@@ -6,6 +6,16 @@ date:   2018-07-22
 categories: books
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 #### By [Scott Adams](https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big)
 
 Published October 22nd 2013

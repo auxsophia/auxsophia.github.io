@@ -6,6 +6,16 @@ date:   2020-03-12 21:36:30 -0700
 categories: books
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 I've listened to audiobook versions of two of [Naomi Klein's](https://naomiklein.org/) (journalist, author, filmmaker, activist) books, [_This Changes Everything: Capitalism versus Climate_](https://naomiklein.org/this-changes-everything/) and [_On Fire: The (Burning) Case for the Green New Deal_](https://naomiklein.org/on-fire/).
 
 ---
@@ -49,4 +59,4 @@ Either we leap—or we sink."
 
 ## [Naomi Klein on How Healthcare Industry & Silicon Valley Plan to Profit from Coronavirus Crisis](https://www.youtube.com/watch?v=-rmt3t94vxM)
 
-An interview, Klein discusses how Silicon Valley is shaping people into two classes, those who can afford to stay at home and have their needs delivered and the workers who support the at home class at great risk for themselves. While staying at home people are plugged in constantly to their phones and computers consuming a barrage of media giving their attention to digital companies. The ads flow and money is made. 
+An interview, Klein discusses how Silicon Valley is shaping people into two classes, those who can afford to stay at home and have their needs delivered and the workers who support the at home class at great risk for themselves. While staying at home people are plugged in constantly to their phones and computers consuming a barrage of media giving their attention to digital companies. The ads flow and money is made.

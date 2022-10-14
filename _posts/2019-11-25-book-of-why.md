@@ -6,6 +6,16 @@ date:   2019-11-21 21:36:30 -0700
 categories: books
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 # [THE BOOK OF WHY: THE NEW SCIENCE OF CAUSE AND EFFECT](https://bayes.cs.ucla.edu/WHY/)
 ### JUDEA PEARL AND DANA MACKENZIE
 

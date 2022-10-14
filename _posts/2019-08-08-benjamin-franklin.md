@@ -6,6 +6,16 @@ date:   2019-08-08
 categories: books
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 # [The Autobiography of Benjamin Franklin](https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin?ac=1&from_search=true)
 
 #### by Benjamin Franklin
@@ -60,4 +70,4 @@ When he was 7, he traded a pocketful of coppers for another boy's whistle. He la
 
 ---
 
-Gosh, I find a kindred spirit in Benjamin Franklin. He really did just seem to keep good habits. He had a deep desire to live on his own on his terms. He was self-reflective and critical about his thoughts and abilities from a young age. He taught himself skills from books and applied those skills to solve problems and do work in his life. He focused on his health, skills, and business, studying or reading 1-2 hours per day for most of his life. He sought friendships of utility, building skills with others and sharing libraries. He focused on writing to improve his prose by hanging around poets. Living as a vegetarian most of his life, he found the lifestyle to be healthy and frugal, saving him money. He did a lot to invest in his communities by creating actual libraries for citizens and academies for higher learning. He juggled multiple projects at the same time. Most inspiring, he wrote his autobiography over a decade and died leaving it unfinished! 
+Gosh, I find a kindred spirit in Benjamin Franklin. He really did just seem to keep good habits. He had a deep desire to live on his own on his terms. He was self-reflective and critical about his thoughts and abilities from a young age. He taught himself skills from books and applied those skills to solve problems and do work in his life. He focused on his health, skills, and business, studying or reading 1-2 hours per day for most of his life. He sought friendships of utility, building skills with others and sharing libraries. He focused on writing to improve his prose by hanging around poets. Living as a vegetarian most of his life, he found the lifestyle to be healthy and frugal, saving him money. He did a lot to invest in his communities by creating actual libraries for citizens and academies for higher learning. He juggled multiple projects at the same time. Most inspiring, he wrote his autobiography over a decade and died leaving it unfinished!
