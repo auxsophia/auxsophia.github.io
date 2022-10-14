@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 This website is the open notebook of [Elliott Collin Ploutz](/about/). I am a philosopher, computer scientist, and aspiring influencer. These pages are my public notes on various topics I investigate. If you're interested in living a good life, optimizing productivity, philosophy, computer science, artificial intelligence, and making sense of this absurd universe we live in, I hope something on this site saves you time and energy.
 
 ---

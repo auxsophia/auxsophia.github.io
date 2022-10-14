@@ -4,6 +4,16 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_4/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 # The Drive of Intelligent Agents and Subjective Meaning
 
 So far much of this explanation is objective. For many this will not help our personal woes or provide direction. We expect the meaning of life to tell us what we _should_ be doing. First we will attempt to explain why we are currently doing what we are doing.

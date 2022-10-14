@@ -6,7 +6,15 @@ date:   2012-07-23 23:41:30 -0700
 categories: experiments
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-XSFETPYL59');
+</script>
 
 The way the general population sleeps is actually called monophasic, i.e. one phase. You go to sleep at night and don't take any naps or second sleeps throughout the day. There are also polyphasic sleep schedules, so multiple sleeps spread throughout the day.
 

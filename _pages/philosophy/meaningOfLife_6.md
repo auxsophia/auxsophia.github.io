@@ -4,6 +4,16 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_6/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 I believe Robert Sapolsky explained [Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo) well. He drew upon the work [Chaos: Making a New Science, by James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science). There are systems which have [periodicity](https://en.wikipedia.org/wiki/Periodic_function). We can expect at 9am that in 12 hours a clock will return to 9pm. We try to reduce, compress, the phenomenon down to an equation or scientific theory to explain or predict the system. We can describe a line in a graph with the equation y=mx+b. [Reductionism](https://en.wikipedia.org/wiki/Reductionism) attempts to understand systems at lower levels than the whole to reduce variability and noise. Perhaps if we understand all the small parts we can fully predict the whole. Like reducing an organism to its genetic code. However genes give an example against reduction. There are billions of connections in the brain, but there aren't billions of genes coding for each connection. The code gives rules for a pattern, but the pattern can be _perturbed_ by initial conditions. Each time you run the code and generate the pattern it will turn out differently.
 
 We attempt to reduce variability and noise to find that both are features of the system which are scale free. No matter how much we reduce and magnify, no matter how far we zoom out to study the whole, there will always be variability, noise, and mysteries remaining. Like the value of pi, the more resolution of the number we hope to have by finding a new decimal place, we can determine the next digit giving greater precision, but the value doesn't end. We can zoom in for precision endlessly.

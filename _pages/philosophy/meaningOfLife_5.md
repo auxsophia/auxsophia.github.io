@@ -4,6 +4,16 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_5/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 # [Ethics](https://en.wikipedia.org/wiki/Ethics)
 
 The history of ethics shows three major traditions which enhance and conflict with each other: [virtue](https://en.wikipedia.org/wiki/Virtue_ethics), [deontological](https://en.wikipedia.org/wiki/Deontological_ethics), and [consequentialist](https://en.wikipedia.org/wiki/Consequentialism) ethics. A simpler way to explain these concepts are character, rules, and outcomes.

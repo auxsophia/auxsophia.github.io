@@ -4,6 +4,16 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_0/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSFETPYL59');
+</script>
+
 Here is my attempt to answer the question of the meaning of life.
 
 I'm a person who's had a lot of time to think and reflect on life and my experience. I've searched for meaning my entire life. Any talk of meaning has focused my attention.
