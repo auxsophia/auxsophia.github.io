@@ -540,6 +540,67 @@ This therapy is most useful for PTSD or one traumatic event. CPTSD tends to be m
 
 ---
 
+# Healing Developmental Trauma, By Laurence Heller, Aline Lapierre
+
+This work focuses specifically on developmental trauma and makes a distinction between shock trauma from a single traumatic event and relational trauma from relationships (caregivers).
+
+{:refdef: style="text-align: center;"}
+[<img src="../../images/HDT1.png"]
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+[<img src="../../images/HDT2.png"]
+{:refdef}
+
+When a need isn't met we develop anger, but anger towards the caregiver is experienced as life threatening. We need the caregiver to survive. The Neuro-Affective Relational Model (NARM) approach identifies five survival styles based on the time of trauma in development:
+
+- Connection (to self, body, others)
+- Attunement (to needs)
+- Trust
+- Autonomy
+- Love and Sexuality
+
+{:refdef: style="text-align: center;"}
+[<img src="../../images/HDT3.png"]
+{:refdef}
+
+I recommend [Dr. Jennifer May's explanation](https://www.youtube.com/watch?v=Zz3YJIk9LGQ) of the survival styles.
+
+Children who feel bad think they are bad. They become identified with badness. Anger at the caregiver causes internal splitting between bad and good. Identifying with good typically means feeling powerless. Identifying with the bad is acting out and powerful.
+
+NARM healing cycle
+
+- Increasing capacity for somatic awareness
+- Somatic Mindfulness
+- Discharge of shock states
+- Increasing regulation and presence
+- Greater capacity for self regulation
+- Increasing awareness of adaptive survival styles
+- Inquiry into identity
+- Disidentification from shame/pride based identifications
+- Self-hatred, self-rejection and judgements diminish
+- Reconnection with core needs and capacities
+- Restoration of connection and aliveness
+
+Each step builds on the previous and self reinforces.
+
+"The search for meaning is the primary coping mechanism of both connection types to handle disconnection." NARM holds the key to meaning is first best found by bodily regulation and connection. In NARM dissociation is primary physiological. To not dissociate is functionally to be present in the body in the moment. NARM defines dissociation scale from numbing, splitting, and fragmenting. Transforming anger into healthy aggression is key to reconnecting and exiting dissociation.
+
+Trying to change stops change. Fully accepting ourselves enables change.
+
+4 primary organizing principles:
+
+- Support connection and organization
+- Explore identity
+- Work in present time
+- Regulate the nervous system
+
+These are sequential but often intermesh and occur organically.
+
+Each of the five survival styles also have two subtypes with different strategies. They're all interesting and the NARM approach requires being mindfully aware of our own style.
+
+---
+
 # Conclusion and Summary
 
 Trauma is a hurt we carry in the present. Trauma is a memory not in its proper place in the past. Trauma is an event we perceive as overwhelming. We must change and expand our perception to process the trauma.

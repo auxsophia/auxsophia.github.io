@@ -4,14 +4,4 @@ title: Philosopher Scholar - Spirituality
 permalink: /spirituality/
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSFETPYL59"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XSFETPYL59');
-</script>
-
-Spirituality often fulfills the final human need of transcendence, to connect to something larger than ourselves.
+Spirituality often fulfills the final human need of transcendence, to connect to something larger than ourselves. In some belief systems, the spirit is simply the breath. When we breath a part of the environment becomes us and a part of us becomes the environment.
