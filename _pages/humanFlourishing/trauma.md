@@ -545,11 +545,11 @@ This therapy is most useful for PTSD or one traumatic event. CPTSD tends to be m
 This work focuses specifically on developmental trauma and makes a distinction between shock trauma from a single traumatic event and relational trauma from relationships (caregivers).
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/HDT1.png" width="80%" height="80%>
+<img src="../../images/HDT1.png" width="80%" height="80%">
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-<img src="../../images/HDT2.png" width="80%" height="80%>
+<img src="../../images/HDT2.png" width="80%" height="80%">
 {:refdef}
 
 When a need isn't met we develop anger, but anger towards the caregiver is experienced as life threatening. We need the caregiver to survive. The Neuro-Affective Relational Model (NARM) approach identifies five survival styles based on the time of trauma in development:
