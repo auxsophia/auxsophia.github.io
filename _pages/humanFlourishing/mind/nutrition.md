@@ -107,6 +107,27 @@ Something great about the MIND diet is they found people who follow the guidelin
 
 So we're aiming for a score of 12 or above out of a possible 15. Notice we can fit this diet to the deep nutrition criteria in terms of food choices.
 
+From the [Harvard review](https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/mind-diet/) wine is no longer required and alcohol can be removed entirely. Simple guidelines are:
+
+"The healthy items the MIND diet guidelines suggest include:
+
+- 3+ servings a day of whole grains
+- 1+ servings a day of vegetables (other than green leafy)
+- 6+ servings a week of green leafy vegetables
+- 5+ servings a week of nuts
+- 4+ meals a week of beans
+- 2+ servings a week of berries
+- 2+ meals a week of poultry
+- 1+ meals a week of fish
+- Mainly olive oil if added fat is used
+
+The unhealthy items, which are higher in saturated and trans fat, include:
+
+- Less than 5 servings a week of pastries and sweets
+- Less than 4 servings a week of red meat (including beef, pork, lamb, and products made from these meats)
+- Less than one serving a week of cheese and fried foods
+- Less than 1 tablespoon a day of butter/stick margarine"
+
 ---
 
 ## Genius Foods
