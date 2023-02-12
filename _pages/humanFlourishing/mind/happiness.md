@@ -51,10 +51,15 @@ The Solution: Science and Spirituality
 4. Silently wish people good when first meeting. Look at the world the way you want people to look at your children.
 
 5. Reframe your challenges using higher order principles
+
 Gratitude
+
 Compassion
+
 Acceptance
+
 Meaning
+
 Forgiveness
 
 Dr. Soot says to practice the above 5 principles Monday - Friday.
