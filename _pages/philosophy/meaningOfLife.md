@@ -158,6 +158,17 @@ In your work, always seek at least these 3 components: **autonomy**, **mastery**
 
 ---
 
+Another great acronym, PURE, a [model for meaning developed by Paul Wong](https://en.wikipedia.org/wiki/Meaning_of_life#Nature_of_meaning_in_life).
+
+"...Wong has proposed a four-component solution to the question of meaning in life, with the four components purpose, understanding, responsibility, and enjoyment (PURE):
+
+- You need to choose a worthy purpose or a significant life goal.
+- You need to have sufficient understanding of who you are, what life demands of you, and how you can play a significant role in life.
+- You and you alone are responsible for deciding what kind of life you want to live, and what constitutes a significant and worthwhile life goal.
+- You will enjoy a deep sense of significance and satisfaction only when you have exercised your responsibility for self-determination and actively pursue a worthy life-goal."
+
+---
+
 ### Loving Yourself and Others
 
 How can you learn to love yourself and others?
@@ -230,7 +241,6 @@ An outline of my argument:
 - There are three levels of reality, objective, subjective, and intersubjective.
 - Objective reality causes subjective reality, which causes intersubjective reality.
 - The three levels have causes and effects on each other, inter-relationships.
-- The universe is randomly started.
 - The universe goes from order to disorder (entropy) following orderly laws of nature.
 - Complexity quickly and efficiently creates more entropy.
 - Complexity causes life which speeds up entropy (the heat death of the universe) in exchange for life maintaining and growing before succumbing to disorder.
@@ -948,8 +958,6 @@ Quite likely you don't have beliefs which are as rational as can be according to
 
 According to critical rationalism, our inductive methods of generalization are not rationally supported but due to "our evolved tendencies." We have some mental model, a schema, to successfully determine cause and effect. What is it? How does it work?
 
-Consider the relationship of altitude and temperature. The higher up we go away from the surface of the Earth, the colder things get, but the relationship goes one way. If we cool an object down, it doesn't change its altitude, its height. Why does that make sense?
-
 If you ask a child who has only seen buses with a bus driver and ask them, "can there be a bus without a bus driver?" they should answer yes. We intuitively know bus drivers are separate from buses even though 100% of buses in observations have bus drivers. How? Are we justified?
 
 In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. Going back to the first paper on linear regression, scientists have long been taught not to infer causation from mere correlation, to observations occurring together with no meaningful relationship. Further back in time, philosophers have many arguments and questions regarding cause and effect relationships. Pearl and Mackenzie argue the topic is confused because of a lack of precise language to formulate cause and effect questions. Pearl describes a three-layered explanation of intelligence up to and including understanding cause and effect, seeing, doing, and imagining. (See figure 1.2 from the book.)
@@ -993,6 +1001,12 @@ An example of causal diagrams:
 {: refdef}
 
 With precise language to ask properly formed cause and effect questions we can simulate this reasoning in machines. Machine inference of cause and effect is [developing more each day](/ai/causeEffect/). Other machine learning models such as trees are modified to causal decision trees.
+
+Relating cause and effect to the three levels of reality this connects them. Objective reality is the actual cause and effect sequence of events.
+
+Subjective reality is our representation of cause and effect. Through instinct and experience we build causal diagrams in the mind. When a causal explanation finds causal factors relating to a mind’s causal models it is part of the subjective level of reality. When a causal explanation relates to a causal model of a network of minds it is the intersubjective level of reality.
+
+There is an objective level of how our brains are structured and function, but there is also the informational level of our minds processing information. Of course our causal model can be wildly different from objective reality, but there is a relationship between the two.
 
 ---
 

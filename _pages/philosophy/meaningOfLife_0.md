@@ -158,6 +158,17 @@ In your work, always seek at least these 3 components: **autonomy**, **mastery**
 
 ---
 
+Another great acronym, PURE, a [model for meaning developed by Paul Wong](https://en.wikipedia.org/wiki/Meaning_of_life#Nature_of_meaning_in_life).
+
+"...Wong has proposed a four-component solution to the question of meaning in life, with the four components purpose, understanding, responsibility, and enjoyment (PURE):
+
+- You need to choose a worthy purpose or a significant life goal.
+- You need to have sufficient understanding of who you are, what life demands of you, and how you can play a significant role in life.
+- You and you alone are responsible for deciding what kind of life you want to live, and what constitutes a significant and worthwhile life goal.
+- You will enjoy a deep sense of significance and satisfaction only when you have exercised your responsibility for self-determination and actively pursue a worthy life-goal."
+
+---
+
 ### Loving Yourself and Others
 
 How can you learn to love yourself and others?

@@ -219,8 +219,6 @@ Quite likely you don't have beliefs which are as rational as can be according to
 
 According to critical rationalism, our inductive methods of generalization are not rationally supported but due to "our evolved tendencies." We have some mental model, a schema, to successfully determine cause and effect. What is it? How does it work?
 
-Consider the relationship of altitude and temperature. The higher up we go away from the surface of the Earth, the colder things get, but the relationship goes one way. If we cool an object down, it doesn't change its altitude, its height. Why does that make sense?
-
 If you ask a child who has only seen buses with a bus driver and ask them, "can there be a bus without a bus driver?" they should answer yes. We intuitively know bus drivers are separate from buses even though 100% of buses in observations have bus drivers. How? Are we justified?
 
 In _The Book of Why: the New Science of Cause and Effect_ Judea Pearl and Dana Mackenzie explain the history of cause and effect. Going back to the first paper on linear regression, scientists have long been taught not to infer causation from mere correlation, to observations occurring together with no meaningful relationship. Further back in time, philosophers have many arguments and questions regarding cause and effect relationships. Pearl and Mackenzie argue the topic is confused because of a lack of precise language to formulate cause and effect questions. Pearl describes a three-layered explanation of intelligence up to and including understanding cause and effect, seeing, doing, and imagining. (See figure 1.2 from the book.)
@@ -264,6 +262,12 @@ An example of causal diagrams:
 {: refdef}
 
 With precise language to ask properly formed cause and effect questions we can simulate this reasoning in machines. Machine inference of cause and effect is [developing more each day](/ai/causeEffect/). Other machine learning models such as trees are modified to causal decision trees.
+
+Relating cause and effect to the three levels of reality this connects them. Objective reality is the actual cause and effect sequence of events.
+
+Subjective reality is our representation of cause and effect. Through instinct and experience we build causal diagrams in the mind. When a causal explanation finds causal factors relating to a mind’s causal models it is part of the subjective level of reality. When a causal explanation relates to a causal model of a network of minds it is the intersubjective level of reality.
+
+There is an objective level of how our brains are structured and function, but there is also the informational level of our minds processing information. Of course our causal model can be wildly different from objective reality, but there is a relationship between the two.
 
 {:refdef: style="text-align: center;"}
 [Part 3](/meaningOfLife_2/) • [Part 5](/meaningOfLife_4/)

@@ -49,7 +49,6 @@ An outline of my argument:
 - There are three levels of reality, objective, subjective, and intersubjective.
 - Objective reality causes subjective reality, which causes intersubjective reality.
 - The three levels have causes and effects on each other, inter-relationships.
-- The universe is randomly started.
 - The universe goes from order to disorder (entropy) following orderly laws of nature.
 - Complexity quickly and efficiently creates more entropy.
 - Complexity causes life which speeds up entropy (the heat death of the universe) in exchange for life maintaining and growing before succumbing to disorder.
