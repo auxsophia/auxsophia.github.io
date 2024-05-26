@@ -4,6 +4,12 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_3/
 ---
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/DGEPhFaQebQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 How can we be sure our mind didn't form similar to how a single raindrop forms, aggregating based on random chance? There is some theoretical backing to these ideas of blips of consciousness.
 
 > "The [Boltzmann brain argument](https://en.wikipedia.org/wiki/Boltzmann_brain) suggests that it is more likely for a single brain to spontaneously and briefly form in a void (complete with a false memory of having existed in our universe) than it is for our universe to have come about in the way modern science thinks it actually did. It was first proposed as a reductio ad absurdum response to Ludwig Boltzmann's early explanation for the low-entropy state of our universe.

@@ -6,6 +6,12 @@ permalink: /meaningOfLife_1/
 
 # The Meaning of Life
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/XkO7Q1ZdStw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 As for the truest, most objective, most accurate description of reality and the meaning of life, before I continue I would sincerely like you to consider that it may shake you to your core. As I will explain, the average person is full of delusions and lives on the basis of ignorance and lies. They are inaccurate yet productive lies. You will likely be unable to return to your previous mode of thinking. As you might expect, the answer is complex and incomplete. Give up expectation on how you think you will react.
 
 ### The Island of Reality

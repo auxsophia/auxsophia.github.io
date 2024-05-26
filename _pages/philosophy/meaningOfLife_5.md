@@ -6,6 +6,12 @@ permalink: /meaningOfLife_5/
 
 # [Ethics](https://en.wikipedia.org/wiki/Ethics)
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/QOOujg6MIpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 The history of ethics shows three major traditions which enhance and conflict with each other: [virtue](https://en.wikipedia.org/wiki/Virtue_ethics), [deontological](https://en.wikipedia.org/wiki/Deontological_ethics), and [consequentialist](https://en.wikipedia.org/wiki/Consequentialism) ethics. A simpler way to explain these concepts are character, rules, and outcomes.
 
 Consequentialism judges action based on outcome. Is the result of your actions good or bad? We can think of moral situations under duration, path, outcome. When time, your choices, and the outcome can be measured and known, we can potentially find an optimal moral choice. Of course we need some evaluation of the moral value of each path. If we can evaluate each choice according to levels of bad, neutral, or good, we simply choose the option which is the most good. Life is often more complex. How do we agree on a duration? What if someone only cares about their own personal life? That changes drastically what choices are made. What if there are more options than we can consider? Who decides when the outcome is settled? There aren't always clear end points.

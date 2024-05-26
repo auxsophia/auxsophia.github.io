@@ -4,6 +4,12 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_2/
 ---
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/Cxw_ToogPPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 Returning to Professor Smith's lecture:
 
 ### What about civilization as dissipative structures?

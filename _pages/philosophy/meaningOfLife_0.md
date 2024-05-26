@@ -4,6 +4,12 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_0/
 ---
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/pr_CMTbZhpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 Here is my attempt to answer the question of the meaning of life.
 
 I'm a person who's had a lot of time to think and reflect on life and my experience. I've searched for meaning my entire life. Any talk of meaning has focused my attention.

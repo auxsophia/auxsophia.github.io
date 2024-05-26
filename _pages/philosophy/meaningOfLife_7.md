@@ -6,6 +6,12 @@ permalink: /meaningOfLife_7/
 
 ## Life is like a dream.
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/Rr7f2pCFXGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 Consciousness is a dream state. Our dreams are simply more disconnected states of our brain, not all of the regions are functioning normally. Dreams appear distorted, but our waking state is different in coherence and acuity. We are all dreaming similarly enough that we can interact with each other.
 
 As evolutionary creatures we see the world in a delusional and distorted way shaped by the adaptation of our ancestors. The best we can do to get close to objective reality is to reflect on our thinking, beware fallacies and cognitive biases, and rely on tools to interact with what we want to measure in as direct a way as possible.

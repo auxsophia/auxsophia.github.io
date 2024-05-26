@@ -6,6 +6,12 @@ permalink: /meaningOfLife_4/
 
 # The Drive of Intelligent Agents and Subjective Meaning
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/ql7OYP6mLqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 So far much of this explanation is objective. For many this will not help our personal woes or provide direction. We expect the meaning of life to tell us what we _should_ be doing. First we will attempt to explain why we are currently doing what we are doing.
 
 I found the work of Juergen Schmidhuber incredible. In his paper, [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360), Schmidhuber gives an algorithmic framework of the drive of all intelligent creatures.

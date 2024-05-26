@@ -6,6 +6,12 @@ permalink: /meaningOfLife_8/
 
 # The End of the Self and Identity
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/hDgnabw5Y4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
+
 Given the previous information, our picture of the self, who we are, becomes unclear.
 
 **What are you?**

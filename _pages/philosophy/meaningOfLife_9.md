@@ -102,8 +102,10 @@ We come from nothing, and we will return to nothing. From star dust to star dust
 
 For further developments on this foundation, please see [Society 3.0](/society3/)
 
+Please read [the epilogue](/epilogue/) as well.
+
 ---
 
 {:refdef: style="text-align: center;"}
-[Part 9](/meaningOfLife_8/) • [Read the full text on one page](/meaningOfLife/)
+[Part 9](/meaningOfLife_8/) • [The Epilogue](/epilogue/)
 {:refdef }
