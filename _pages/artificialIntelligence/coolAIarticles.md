@@ -4,6 +4,61 @@ title: Philosopher Scholar - Artificial Intelligence
 permalink: /ai/coolAIarticles/
 ---
 
+# Cool AI Articles
+
+It's been a while since I posted about articles. Since then Large Language Models (LLMs) have taken the world by storm. I see a deluge of articles related to LLMs. Are they really the next generation of AI or temporary hype?
+
+---
+
+### [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672)
+Submitted 22 of June 2023
+
+The paper is actually quite long. He also presented this as [a lecture on YouTube](https://www.youtube.com/watch?v=mvDxzmMpvl8). The work is fascinating as it bridges a major gap in current LLMs - world models. In fact Yan LeCunn criticizes LLM work strongly due to a lack of world modeling which will be essential for agents to act and reason about the world in a human way. Well this could solve the issue by connecting LLMs with probabilistic programming. 
+
+From the abstract: "In this paper, we propose rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference...We illustrate our framework through examples covering four core domains from cognitive science: probabilistic reasoning, logical and relational reasoning, visual and physical reasoning, and social reasoning."
+
+You can get Bayesian inference from the probabilistic models and a distribution over possibel worlds. Amazing. 
+
+---
+
+### [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)
+(Submitted on 13 May 2024)
+
+Wow, this paper is mind-blowing. The main gist: if you have a vision model with representation X and a text-based model with representation Y, both representations converge. The authors hypothesize the models are overlapping on the underlying reality, Z. "We hypothesize that this convergence is driving toward a shared statistical model of reality, akin to Plato's concept of an ideal reality." Always great to see philosophy pop up in machine learning!
+
+As scale increases the representation of reality gets better. "As models are trained on more data and for more tasks, they require representations that capture more and more information about Z, and hence alignment toward Z increases toward a convergent point as a function of scale."
+
+#### The Multitask Scaling Hypothesis
+> There are fewer representations that are competent for N tasks than there are for M < N tasks. As we train more general models that solve more tasks at once, we should expect fewer possible solutions.
+
+There are some great visuals to show this intuitively as well. 
+
+#### The Capacity Hypothesis
+> Bigger models are more likely to converge to a shared representation than smaller models.
+
+#### The Simplicity Bias Hypothesis
+> Deep networks are biased toward finding simple fits to the data, and the bigger the model, the stronger the bias. Therefore, as models get bigger, we should expect convergence to a smaller solution space.
+
+So this paper is in line with the idea of "scale is all you need" for greater intelligence. However they note that what architecture you use determines efficiency in scaling.
+
+There is transfer across modalities, so images help text and vice versa. "In theory, there should be some conversion ratio: a pixel is worth _a_ words for training LLMs, and a word is worth _b_ pixels for training vision models." Whoa, so the data wall can be climbed. Even if we already used all of the text data on the internet, LLMs can be leveraged yet again with all video data available. Similarly it appears more modalities constrain the hypothesis space to more simple and optimal solutions. This could explain why organisms have so many sense organs. Each sense helps to contrain the solution space. We can start adding more senses to AI, speech, vision, language, hearing, robotics, etc. We could even add senses like sonar and ultraviolet light. This could all models to converge faster. 
+
+"Scaling may reduce hallucination and bias... Our hypothesis implies that, while this may be true, we should expect larger models to amplify bias less. This does not mean bias will be removed, rather that the model’s biases will more accurately reflect the data’s biases, rather than exacerbating them."
+
+There are counterexamples and limitations. One aspect is not all models are converging. This could be due to the architectures and input. If the input doesn't share information between modalities then convergence is unlikely. 
+
+But wait, we're getting close to reality? How does this compare to works like The Case Against Reality where we're optimized for fitness and not viewing reality at all? Well, there's a hint in the paper:
+
+"Our argument only holds for intelligences that are optimized to perform well on many tasks. We have argued that a representation of reality is a structure that is useful across many tasks, but for any special purpose there may be shortcuts, or even effective representations detached from reality. Such shortcuts may be more efficient and necessary for continued improvements in specific domains. This will become more relevant if continued scaling comes up against boundary conditions around resources like energy and compute."
+
+We humans pride ourselves on the complexity of our lives given the small energy required to run our brains. Perhaps much of our intelligence is actually quite specialized. Many of our perceptual modules might contain shortcuts. This would explain how we can be more optimized for fitness yet make some trade off with generality. Maybe we really are getting closer to reality at least through aggregated science and philosophy which connects us through time and life. 
+
+Gosh, such fascinating work. I hope it gets supported! Yet again more arguments towards AI being closer to reality than we ever could be. 
+
+---
+
+These are some older papers.
+
 ---
 ### [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)
 (Submitted on 5 Jun 2017)

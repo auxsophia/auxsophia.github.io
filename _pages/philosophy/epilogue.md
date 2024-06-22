@@ -8,6 +8,11 @@ permalink: /epilogue/
 
 What else is there to say? Quite a bit, I'm sure. 
 
+You can watch the video for this page here:
+
+{:refdef: style="text-align: center;"}
+<iframe width="680" height="480" src="https://youtube.com/embed/mLBCsM-mrCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:refdef }
 
 ## Reframing Nihilism, Existentialism, and Absurdism in Information Theory
 
