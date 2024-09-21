@@ -4,7 +4,7 @@ title: Philosopher Scholar - Scheduling Humans
 permalink: /CS/schedulingHumans/
 ---
 
-I'm currently reading selected parts of _Algorithms to Live By - The Computer Science of Human Decisions_ by Brian Christian and Tom Griffiths. The book is awesome so far. The only downside is they don't explicitly list their references in their work. It's just a long bibliography in the back. This is a break down of chapter 5 of their book on scheduling (time management).
+I'm currently reading selected parts of _Algorithms to Live By - The Computer Science of Human Decisions_ by Brian Christian and Tom Griffiths. The book is awesome. This is a break down of chapter 5 of their book on scheduling (time management).
 
 > "How we spend our days is, of course, how we spend our lives." - Annie Dillard
 
@@ -128,3 +128,7 @@ One solution is the time slice (AKA __quantum__), the minimum processing time gi
 **Interrupt coalescing**: complete all the interruptions at once. Example: text messages, designate a block of time when you answer all texts. This is why regular meetings can be a benefit despite their drawbacks, they should minimize the number of interruptions.
 
 > Perhaps the patron saint of the minimal-context-switching lifestyle is the legendary programmer Donald Knuth. "I do one thing at a time," he says. "This is what computer scientists call batch proccessing-the alternative is swapping in and out. I don't swap in and out." Knuth isn't kidding. On January 1, 2014, he embarked on "The TeX Tuneup of 2014," in which he fixed all of the bugs that had been reported in his TeX typesetting software over the previous __six years__. His report ends with the cheery sign-off "Stay tuned for The TeX Tuneup of 2021!" Likewise, Knuth has not had an email address since 1990. "Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration." He reviews all his postal mail every three months, and all his faxes every six.
+
+---
+
+The concluding principle of the book is called __computational kindness__. The idea is good algorithms reduce the amount of computation required to solve problems. To simulate other minds is one of the most complicated computations a mind has to run, so we should make our preferences clearly explicit. Rather than open ended questions we can give a few options to start finding a shared resolution. It's search versus verification. All of this leads to a kindness to other intelligent agents and respect for their computation costs. 
