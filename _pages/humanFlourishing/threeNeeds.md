@@ -6,6 +6,10 @@ permalink: /humanFlourishing/threeNeeds/
 
 # Safety, Significance, Connection
 
+{:refdef: style="text-align: center;"}
+<img src="../../images/dear_kelly.png" width="100%" height="100%">
+{: refdef}
+
 I was lucky to watch an early screening of Channel 5's Andrew Callaghan's latest 2024 documentary Dear Kelly. They follow an extreme character who follows far right conspiracy theories. We often see conspiracy theorists posting seemingly ridiculous things online and protesting with signs, but what is the background of a person led into these ideas? The documentary proposes a thesis based on trauma and human needs.
 
 __When a person faces a critical trauma that shakes the foundation of safety, significance, and connection they become highly susceptible to strong ideologies.__
