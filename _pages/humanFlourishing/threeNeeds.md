@@ -20,7 +20,7 @@ I have to say I've thought a lot about this view of human needs. It so nicely co
 
 ## But I can't find these needs backed by any psychological theory! 
 
-At least not so succintly, yet they appear so obviously true. They cover many of the bases of Maslow's hierarchy of needs.
+At least not so succinctly, yet they appear so obviously true. They cover many of the bases of Maslow's hierarchy of needs.
 
 > Maslow used the terms "physiological", "safety", "belonging and love", "social needs" or "esteem", "self-actualization" and "transcendence" to describe the pattern through which human needs and motivations generally move. [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 
