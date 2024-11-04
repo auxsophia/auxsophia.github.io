@@ -4,7 +4,27 @@ title: Philosopher Scholar - Consciousness
 permalink: /consciousness/
 ---
 
-I listened to [Jeff Hawkins: Thousand Brains Theory of Intelligence | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=-EVqrDlAqYo&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4&index=23&t=0s) where Jeff (the [Numenta](https://numenta.com/) guy) pointed to [Why Red Doesn't Sound Like a Bell: Understanding the feel of consciousness 1st Edition by J. Kevin O'Regan](https://www.amazon.com/Doesnt-Sound-Like-Bell-Understanding/dp/0199775222). A review of the book by Bob Blum pointed to a talk he gave about his idea, [Why things feel the way they do?](https://www.youtube.com/watch?v=8c-qbGgEAEI) This is all absolutely fascinating! What a simple question that leads to a profound search, why does seeing feel so different than hearing?
+# Theories of Consciousness
+
+[AI Consciousness is Inevitable: A Theoretical Computer Science Perspective](https://arxiv.org/abs/2403.17101) by Lenore and Manuel Blum.
+
+This paper is awesome! I don't know why it isn't in the news? People are skeptical? From the abstract, "From this perspective, we develop a formal machine model for consciousness. The model is inspired by Alan Turing's simple yet powerful model of computation and Bernard Baars' theater model of consciousness. Though extremely simple, the model aligns at a high level with many of the major scientific theories of human and animal consciousness, supporting our claim that machine consciousness is inevitable."
+
+They call their consciousness model the CTM, conscious Turing machine. When including a robot, the RTCM. They address many of the issues in consciousness, such as the Hard Problem of consciousness outlined by David Chalmers. They define two types of consciousness, conscious attention and conscious awareness. To understand each takes some understanding of the model.
+
+Basically they take a consciousness stance like _global workspace theory_, however there is no one "conductor." All of the processors compete for consciousness which is when a message is broadcast to all others. Conscious attention is when the winning message is broadcast. They state attention is NOT all you need for the feeling of consciousness. Conscious awareness involves the model fusing multimodalities over time. From lived experience, senses, feeling, self, are fused in "brainish," a language between processors. "Formal	definition	2. rCTM	becomes	consciously	aware of a Model-of-the-World Brainish-labeled sketch (sketch and label) when it pays conscious attention to a chunk containing a gist with this labeled sketch."
+
+"CTM is defined	formally as a 7-tuple, (Short Term Memory, Long Term Memory, Up-Tree, Down-Tree, Links, Input, Output)"
+
+Kevin Mitchell gave an incomplete list of [What questions should a real theory of consciousness encompass?](http://www.wiringthebrain.com/2023/09/what-questions-should-real-theory-of.html), and they attempt to answer them all! 
+
+I just find this model so fascinating. I don't know why more people aren't talking about it? Like why isn't this in the news? The authors have two lectures hosted on YouTube. David Chalmers is even in the audience! He asks an important question many philosophers ask related to the Hard Problem. What really makes the model feel? If the model is in pain why doesn't it just ignore that gist? It's just another message. My view is that it evolved to not to be ignored. In some rare cases it really can be ignored, but this often not advantageous. 
+
+I'd love to see this model developed in an environment like the snake game where a bunch of snakes navigate their environment, collect food, and defend from/fight predators. 
+
+---
+
+I listened to [Jeff Hawkins: Thousand Brains Theory of Intelligence - Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=-EVqrDlAqYo&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4&index=23&t=0s) where Jeff (the [Numenta](https://numenta.com/) guy) pointed to [Why Red Doesn't Sound Like a Bell: Understanding the feel of consciousness 1st Edition by J. Kevin O'Regan](https://www.amazon.com/Doesnt-Sound-Like-Bell-Understanding/dp/0199775222). A review of the book by Bob Blum pointed to a talk he gave about his idea, [Why things feel the way they do?](https://www.youtube.com/watch?v=8c-qbGgEAEI) This is all absolutely fascinating! What a simple question that leads to a profound search, why does seeing feel so different than hearing?
 
 > "Why things feel the way they do: the sensorimotor approach to understanding phenomenal consciousness, J. Kevin O’Regan (Laboratoire Psychologie de la Perception, Université Paris Descartes, France)
 Why does red not look green? Why does it not sound like a bell? Why does pain hurt rather than just provoking pain behavior and avoidance reactions? These are the questions of “qualia” or “phenomenal consciousness”, which the philosophers consider to be a “hard” problem.

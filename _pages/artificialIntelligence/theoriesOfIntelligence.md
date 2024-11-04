@@ -4,6 +4,37 @@ title: Philosopher Scholar - Theories of Intelligence
 permalink: /ai/intelligence/
 ---
 
+# Theories of Intelligence 
+
+---
+
+### A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains by Max Bennett
+
+This book is awesome! It really goes back to the origin. What I find really interesting is just how much intelligence stems from simply steering a body left or right. The author charts how evolution converges on the same learning algorithms repeatedly just as it converged on eyes and other physical features. Just have a look at the table of contents:
+
+The world before brains
+The birth of good and bad
+The origin of emotion
+Associating, predicting, and the dawn of learning
+The Cambrian explosion
+The evolution of temporal difference learning
+The problems of pattern recognition
+Why life got curious
+The first model of the world
+The neural dark ages
+Generative models and the neocortical mystery
+Mice in the imaginarium
+Model-based reinforcement learning
+The secret to dishwashing robots
+The arms race for political saavy
+How to model other minds
+Monkey hammers and self-driving cars
+Why rats can't go grocery shopping
+The search for human uniqueness
+Language in the brain
+The perfect storm
+ChatGPT and the window into the mind
+The sixth breakthrough.
 
 ---
 ### [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360)
