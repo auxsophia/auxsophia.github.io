@@ -33,4 +33,4 @@ gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.
 
 gem "webrick", "~> 1.8"
 
-gem "rexml", "~> 3.2"
+gem "rexml", "~> 3.3"
