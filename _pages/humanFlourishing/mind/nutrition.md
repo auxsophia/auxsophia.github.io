@@ -98,7 +98,13 @@ For now, here's an incomplete list of the benefits I've experienced:
 - Significantly reduced craving for alcohol and drugs 
 - Greater libido
 
-Some on this list I'll go into detail later. It's hard to explain what a relief this has been in so many ways. I've had food issues my whole life and the carnivore way of eating has cleared up so much. 
+Some on this list I'll go into detail later. It's hard to explain what a relief this has been in so many ways. I've had food issues my whole life and the carnivore way of eating has cleared up so much. I discovered I do have some mild food allergies! Sadly, from what I can tell this comes from some cheese mold. I can eat fresh cheese no problem but old cheese causes me to have some rashes. I likely wouldn't have noticed without my body getting rid of this regular exposure.
+
+**On top of all this I've lost over 20 pounds of fat this passed year!**
+
+That from eating _above maintenance_. I was never trying to restrict myself. I ate mostly whenever I wanted. That's part of the beauty of this diet. Eat until you're satisfied then stop. That's never been an intuitive thing for me before. I've realized that carbs rev up my hunger. I've eating a pound of meat and been entirely full. My brother will cook and pizza and suddenly I'm hungry again. It's just tough for me to eat until satiety with carbs. 
+
+I haven't been strict either. If I really want to eat something I just eat it. I've found I almost always regret it, and rarely is it as good as I hoped it would be. I recommend not cheating! If you do get some extra vitamin C as carbs compete with vitamin C receptors. I don't go for "healthy" foods either. I want cookies and ice cream. When I've had pizza, something I never wanted to go without before, I realized it just wasn't that satisfying of a food. It's a calorie bomb but insufficient protein. I was surprised to find how many foods don't taste like "real" food anymore. In fact many fibrous things don't fully register as food to my body. It's like eating paper. 
 
 I am shocked at just how nourished my body is on a pound of beef and 2 eggs. I love getting my pound of meat out of the freezer. I think of it as my "food brick." I did Soylent experiments, but this is what I wanted, healthy foods I could set on repeat and know my body is getting everything it needs. 
 
