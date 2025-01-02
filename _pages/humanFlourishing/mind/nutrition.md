@@ -6,6 +6,114 @@ permalink: /nutrition/
 
 # Nutrition
 
+My views on nutrition have changed quite a bit over the years. Primarily I'm interested in a diet for mental health and performance. I still am. The previous dietary advice is included at the bottom of this page (the old stuff).
+
+This is what I want to get across:
+
+## If ever in your life you are desperate for health TRY THE CARNIVORE DIET.
+
+If **ever** in your **life** you are __desperate__ for physical, mental, or emotional health try the carnivore diet!
+
+I say this for two reasons, 1. it will usually take something extreme for a person to go against all nutritional advice they've ever heard and cut out so many foods they're used to. 2. I've come to believe the carnivore diet is nearly optimal for human health. 
+
+I've waited along time to "evangelize" about the carnivore diet. I see why some people make it their entire personality. 
+
+Once you truly feel the effects of this way of eating you will want to shout it from the rooftops. I can't help bringing it up to people. I try not to be too pushy, but I wish everyone would experiment. They could feel it for themselves. 
+
+I've seen this simple phrase come up a lot in the carnivore community: **meat heals**. People list all of the health symptoms that the carnivore diet cured. Sometimes health conditions they've had for decades gone within weeks to months of the diet change. 
+
+Dr. Ken Berry calls the carnivore diet the "proper human diet." All the foods causing you issues get out of the way and the body can heal without impediments.
+
+I won't say I figured this out on my own or approached the diet with noble intentions. A friend's partner was trying the diet. He told me that plants like spinach have toxins in them. I thought he was in an insane and harmful conspiracy theory. Plants have toxic defense chemicals? That goes against everything I'd heard. 
+
+I read so much you can find later on this page and so much included a more plant-based diet. Two of the top resources recommended meat, red meat, and eggs. I ignored the red meat, ate fish and chicken, and tried to keep my saturated fat low. I mixed all the dietary advice I could find together. I counted calories, macros, made a spreadsheet to match the M.I.N.D. diet study, and all sorts of things. I was feeling better and losing weight, but I struggled with binging and drinking alcohol. Getting most of the processed food out of my life helped a lot, but I didn't know how much better I could feel.
+
+Eventually I gained significant weight back. I was gaining and losing the same few pounds. I ate 4 salads per week, 2+ servings of vegetables a day, soup, a daily breakfast of protein packed oatmeal with blueberries unless I was intermittent fasting. It was okay, but the monster salads took me two hours to eat sometimes. For the first time in my life I actually got bored and tired of eating. It was really a privilege. 
+
+Then I came across a video by a martial artist I follow, Grant Stevens. He trains a ton, has explosive energy, and was super lean. He said he followed an animal based diet like many fighters do. He ate a steak per day. Whoa! What? An animal based diet? I'd never heard it put that way. That's an option? At this point I want to be RIPPED. What do I have to do to get shredded? 
+
+While I've seen Grant has changed his diet, I went down the rabbit hole of animal based. That took me straight to Paul Saladino. I was hooked. In January of 2024 I decided to start the new year doing AB30, animal based for 30 days. Saladino was my introduction to the space. I became convinced.
+
+Every living thing wants to survive. Why would a plant want you to eat its leaves, roots, or stem? You're killing it and taking away its energy producers. 
+
+Plants fight back with chemical warfare. They create compounds to deter predators. Most meat is safe to eat because animals can fight or flee. 
+
+Plants concentrate these defense chemicals in their seeds because that's their babies.
+
+Suddenly things started clicking. If you think about it from the plant's perspective this makes total sense. They want to live and protect too. Why would a plant want to be eaten with no benefit? 
+
+Well, I would give the diet a try and see what happened. I used the food calculator they provided and was generous with myself. I tried the keto diet years ago, so I thought this would be easy by comparison with some carbs. My diet was a bit ridiculous. A typical day was the following:
+
+- A pound of 85/15 ground beef
+- Two eggs
+- A tablespoon or two of butter 
+- One piece of fruit (pear)
+- A tablespoon of honey
+- A cube of cheese 
+- Glass of milk
+- Glass of bone broth 
+
+I would consume this twice a day. I didn't count calories as they say that would be unnecessary. Only later did I calculate this would be over 5,000 calories per day! This was over double what I was eating in a day before. My energy levels went way up. I felt satisfied. I wasn't tempted by anything sweet knowing that I had fruit and honey to look forward to. I was incredibly satisfied and noticed changes in my bodily health. 
+
+Not only did I feel great and satisfied but I slowly lost weight, a few pounds, while eating this much. After the first few months of this I stuck to the diet with relative ease. I wasn't consumed by cravings for much of anything. 
+
+I fell down the carnivore rabbit hole. Some friends questioned my diet and called Paul Saladino a quack. The animal based group were a little culty. I did buy some supplements from his company, dessicated organs, bone powder pills, and some organ meat fats. I started learning more and found out Saladino originally was on the carnivore diet. 
+
+Since then I've learned about Shawn Baker, Anthony Chaffee, Steak and Butter gal, Ken Berry, Max German, Kent carnivore, Kelly Hogan, and more. Lots of people have tried the carnivore diet. I listened to the arguments and found testimonials. I decided to try the full carnivore diet after about 3 months. 
+
+There are two books I would highly recommend:
+
+- Change Your Diet, Change Your Mind: A Powerful Plan to Improve Mood, Overcome Anxiety, and Protect Memory for a Lifetime of Optimal Mental Health by Dr. Georgia Ede
+- The Vegetarian Myth by Lierre Keith
+
+Dr. Ede is a Harvard trained nutritional psychiatrist. Her book is fascinating. She doesn't even explicitly say carnivore is the best diet. She argues people can try a paleo diet, keto, then carnivore as the most restrictive. This is a therapeutic tool. She rails against grains and legumes especially. She writes about how healthy ketosis is for the brain. How many psychiatric illnesses, schizophrenia, bipolar, etc. could come from impairments in energy systems, specifically mitochondria. There's an "engine E" and "engine M," pathways which metabolize sugars and fats. There are more steps to the sugar pathway. If there's some issue with metabolizing sugars then all kinds of things can go wrong. People with mental struggles may have more problems with these pathways.
+
+**Some mental illnesses can literally be cured by ketosis.**
+
+Not to mention in many studies people have reduced symptoms and far less need for medication. Like many others I was starting my day with a bowl of whole grains (oatmeal), nuts, and blueberries for my brain health. She calls out this example of how people are trying to do the right thing with the wrong information! I was blown away that some of the healthiest brain foods are the nutritionally dense red meat and eggs! So while I searched for optimal brain foods I previously ignored some of the best.
+
+The Vegetarian Myth was also an incredible read. It's one of the best books out there for vegans and vegetarians. Keith was a vegan for several years with increasing health issues which led her to learn more. I was once vegan for a few years and heavily struggled with it. Honestly, most meals were "sad." Of course I missed meat. Of course I craved it. Like Keith I wanted to minimize harm to animals and the environment. Keith goes into the history of how agriculture is actually terrible for both animals and the environment. It's a hard truth for empathetic people: life must die for us to live. There's no way around it. 
+
+Her argument is long and worth listening to even in a podcast. Agriculture is a scar on the land, supports empires, war, keeps us addicted, and hurts animals unnaturally. Nature intended for hooved animals to live on the grasslands. Grass grazers are like the blood of the ecosystem. When they flee from predators to different areas it's like the pulse of a beating heart. That's what really sequesters carbon and heals the ecosystem. Animal farming can be done in a restorative way to heal the planet. 
+
+This has all radically changed my outlook on life and diet. Again, I understand this goes against everything people have likely heard about nutrition and health. All I can say is that when you **feel** what it's like to be fat-adapted on animal products you will know this is truly the optimal diet for humans, _the true human diet_. 
+
+I am really going so far as to say that you will feel like a human being for the first time in your life. 
+
+This is why I say that if you are ever desperate for health you should try carnivore! The stories of healing are endless. There's an answer for just about every question you have. 
+
+For now, here's an incomplete list of the benefits I've experienced:
+
+- Increased mental clarity
+- Reduced anxiety
+- Much less hunger
+- Much less binging
+- Better, more stable energy 
+- Fat loss
+- Increased workout recovery
+- Growth and maintenance of muscle 
+- Efficient poops (yes, pooping is better)
+- Simpler shopping
+- I now cook for myself daily
+- Significantly reduced craving for alcohol and drugs 
+- Greater libido
+
+Some on this list I'll go into detail later. It's hard to explain what a relief this has been in so many ways. I've had food issues my whole life and the carnivore way of eating has cleared up so much. 
+
+I am shocked at just how nourished my body is on a pound of beef and 2 eggs. I love getting my pound of meat out of the freezer. I think of it as my "food brick." I did Soylent experiments, but this is what I wanted, healthy foods I could set on repeat and know my body is getting everything it needs. 
+
+For advice on how to get started:
+
+### Eat meat, not too little, mostly fat - Amber O'Hearn.
+
+Start with balancing your protein and fat at 50/50. You can move around from there. 
+
+I hope you give it a solid try, 1 to 3 months. It may change your life for the better forever. 
+
+---
+
+# The Old Stuff
+
 "Nutrition is the science that interprets the nutrients and other substances in food in relation to maintenance, growth, reproduction, health and disease of an organism," -- [Wikipedia](https://en.wikipedia.org/wiki/Nutrition).
 
 I'm not a nutritionist. None of this is "legitimate" nutritional advice. However food is one of the pillars of health and one area we can make good choices. To be upfront, I've struggled with my weight my whole life. I was obese at the age of 6 and spent most of my childhood overweight. I've experimented and learned about food and diets for over 15 years.
