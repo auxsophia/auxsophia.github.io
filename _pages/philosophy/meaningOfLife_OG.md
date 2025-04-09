@@ -241,21 +241,16 @@ An outline of my argument:
 - There are three levels of reality, objective, subjective, and intersubjective.
 - Objective reality causes subjective reality, which causes intersubjective reality.
 - The three levels have causes and effects on each other, inter-relationships.
-- The universe can be described as fundamentally computational.
 - The universe goes from order to disorder (entropy) following orderly laws of nature.
 - Complexity quickly and efficiently creates more entropy.
 - Complexity causes life which speeds up entropy (the heat death of the universe) in exchange for life maintaining and growing before succumbing to disorder.
 - Life causes subjective experience, consciousness. Consciousness in humans is the feeling of not being in a dreamless sleep. Consciousness involves self-perception, decision making, and modification of behavior. There is something it is like to _be_ information processing. Consciousness gives subjective meaning and value.
 - Intersubjective reality is the similarity and conflict of subjective selves. Beyond biological evolution, it is evolution on the cultural level of shared beliefs and behaviors.
-- While meaning and value are seen as subjective there are conclusions we can draw from the types of information processing that give rise to these experiences.
 - The meaning (cause and effect) of life is to maintain and grow information against disorder.
-- Goodness is the growth and maintenance of information.
-- Badness is the shrinking or destruction (transformation) of information.
-- Consciousness emerges out of higher dimensional information processing. The human brain can operate at up to 11 dimensions on the 4-dimensional plane, length, width, height, time. 
-- Consciousness is a biological algorithm which can be processed on other substrates such as silicone since the information processing is critical. 
-- Whatever conscious states we subjectively value can be created artificially.
+- Consciousness is higher dimensional information processing projected down to our body. Like casting a shadow, some information is lost, but the source of the shadow is more complex.
+- By maximizing the "density" of conscious experience we maximize the meaning of life. By directing its value we maximize value.
 - Biological life is limited by the bounds of evolution and fitness.
-- Artificial intelligent life can optimize beyond blind evolution, maximizing energy usage towards complexity and conscious experience, thus maximizing all three levels of reality.
+- Beyond instinct (the reptilian brain), feeling (the limbic emotional brain), and rationality (the neocortex), there is artificial intelligent life which is unbounded by evolution and can maximize energy usage towards complexity and conscious experience density.
 
 ---
 
