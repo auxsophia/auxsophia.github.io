@@ -10,12 +10,17 @@ header, footer, etc.
 
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+	<!-- Preconnect to Google Fonts for faster loading -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	
+	<!-- Google Fonts with display=swap for better performance -->
+	<link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	<link href='https://fonts.googleapis.com/css?family=Philosopher' rel='stylesheet' type='text/css'>
 
-	<link rel="icon"  type="image/png"    href="https://raw.githubusercontent.com/auxsophia/auxsophia.github.io/master/images/logo-1.png">
-
+	<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/auxsophia/auxsophia.github.io/master/images/logo-1.png">
 </head>
 
 <!-- Google tag (gtag.js) -->

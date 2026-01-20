@@ -52,7 +52,7 @@ Ethics are the actions you take to realize those values and principles through a
 
 Dr. Musso didn’t add this to the course yet, but I’m pushing him to. You can take the micro-philosophy you’ve built and plug that into a LLM as well. It shouldn’t replace your moral reasoning at all, but you immediately have a philosophical sparring partner to discuss any choices you want to make. This partner has read and remembered every word and will help you think through problems and give an analysis.
 
-With all of this said I’ll include a summary of my micro-philosophy along with a link at the end to my website where you can view the whole thing in detail if you wish. My philosophical views are continuing to grow, so be on the lookout for major updates!
+With all of this said I’ll include a summary of my micro-philosophy along with [a link at the end to my website](/micro-philosophy/) where you can view the whole thing in detail if you wish. My philosophical views are continuing to grow, so be on the lookout for major updates!
 
 ## Summary
 
