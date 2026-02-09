@@ -4,6 +4,14 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife_0/
 ---
 
+---
+
+## __Disclaimer__: _[My views have changed significantly at the core](/spirituality/), but I leave this work as an artifact._
+
+---
+
+# The Meaning of Life
+
 You can watch the video for this page here:
 
 {:refdef: style="text-align: center;"}

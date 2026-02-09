@@ -4,7 +4,7 @@ title: Philosopher Scholar - Micro-Philosophy Review
 permalink: /micro-philosophy-review/
 ---
 
-Dr. Paul Musso of Rutgers university developed the concept of a micro-philosophy, the minimum number of questions a person should answer to have their own philosophy to live by. He identifies three main pillars: 
+Dr. Paul Musso of Rutgers University developed the concept of a micro-philosophy, the minimum number of questions a person should answer to have their own philosophy to live by. He identifies three main pillars: 
 
 - World beliefs: What the world is like and how you relate to it.
 - Values: Which things are valuable in the world.
@@ -18,9 +18,9 @@ I took this course in the fall of 2025 to clarify my own beliefs. Recently my be
 
 Not only for these reasons, but I realized this sly dog was monetizing philosophy! Hey, I want to do that! How is he doing it? I also generally like to support philosophers in their endeavors. For the low, low price of $99 I now have lifetime access to the course. I was part of the very first cohort to go through. Paul is only improving the course with feedback. He’s now adding videos to go along with the written lessons in addition to a journal you can complete, your own philosophy book. For me the price was worth it to have the one-on-one chat with the Musso himself. He’s a super nice guy who genuinely cares about his students.
 
-I should say I’m not affiliated with this course or anything. There’s no monetary kickbacks to me so far. I was drawn to Paul by his substack writing. You can view [his articles here](https://substack.com/@paulmusso). He describes the [micro-philosophy framework](https://themicrophilosopher.substack.com/p/micro-philosophy-20-major-update?utm_source=profile&utm_medium=reader2) in detail and you can see how his ideas evolved. This will give you a good idea if the course is for you. He also offers a free course on Stoicism and Marcus Aurelius. The course cost is now $200, but it could very well be worth it to you.
+I should say I’m not affiliated with this course or anything. There’s no monetary kickbacks to me so far. I was drawn to Paul by his substack writing. You can view [his articles here](https://substack.com/@paulmusso). He describes the [micro-philosophy framework](https://themicrophilosopher.substack.com/p/micro-philosophy-20-major-update?utm_source=profile&utm_medium=reader2) in detail and you can see how his ideas evolved. This will give you a good idea if the course is for you. He also offers a free course on Stoicism and Marcus Aurelius. The [course cost is changing](https://stan.store/paulmussophilosophy), but it could very well be worth it to you.
 
-Generally the course is structured into four parts. I’ll say it really felt like a philosophy course. I graduated with my bachelors in philosophy in 2012. Every once in a while I really itch to do some philosophizing. This course scratches that. Your head might hurt with all the thinking and reflecting you will do.
+Generally the course is structured into four parts. I’ll say it really felt like a philosophy course. I graduated with my bachelor's in philosophy in 2012. Every once in a while I really itch to do some philosophizing. This course scratches that. Your head might hurt with all the thinking and reflecting you will do - mine sure did!
 
 ## The birth view analysis
 
@@ -30,7 +30,7 @@ This is the preparation for understanding your world view. It’s essentially th
 
 People need to have beliefs about the world to live and act in it. “A worldview is a collection of someone or some group of people’s fundamental beliefs and assumptions about reality, value, morality, the self, time, space, and other related topics.”
 
-A part of what makes this course so interesting, surprising, and well worth the price is the prompts developed by Dr. Musso. I’m no prompt engineer, but these are some of the best structured prompts I’ve seen, let alone for philosophy. The prompts cover a huge range of the ideas of philosophy, often 250+ of terms, actions, etc. The LLM of your choice becomes an interviewer assisting you in thinking and learning about your world view and all of the pillars and assignments. 
+A part of what makes this course so interesting, surprising, and well worth the price is the prompts developed by Dr. Musso. These are some of the best structured prompts I’ve ever seen, let alone for philosophy. The prompts cover a huge range of the ideas of philosophy, often 250+ of terms, actions, etc. The LLM of your choice becomes an interviewer assisting you in thinking and learning about your world view and all of the pillars and assignments. 
 
 What many people who want to get into philosophy might worry about is how daunting the breadth and depth of the field is. Dr. Musso says he sees himself as a cartographer making a map of philosophy for people to navigate. You aren’t just grabbing random perspectives you come across but getting a real sense of the entire territory. Rest assured you will cover a lot of ground and know where your values are.
 
@@ -52,7 +52,7 @@ Ethics are the actions you take to realize those values and principles through a
 
 Dr. Musso didn’t add this to the course yet, but I’m pushing him to. You can take the micro-philosophy you’ve built and plug that into a LLM as well. It shouldn’t replace your moral reasoning at all, but you immediately have a philosophical sparring partner to discuss any choices you want to make. This partner has read and remembered every word and will help you think through problems and give an analysis.
 
-With all of this said I’ll include a summary of my micro-philosophy along with [a link at the end to my website](/micro-philosophy/) where you can view the whole thing in detail if you wish. My philosophical views are continuing to grow, so be on the lookout for major updates!
+With all of this said I’ll include a summary of my micro-philosophy along with [a link to my website](/micro-philosophy/) where you can view the whole thing in detail if you wish. My philosophical views are continuing to grow, so be on the lookout for major updates!
 
 ## Summary
 

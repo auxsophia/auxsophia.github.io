@@ -4,6 +4,12 @@ title: Philosopher Scholar - The Meaning of Life
 permalink: /meaningOfLife/
 ---
 
+---
+
+## __Disclaimer__: _[My views have changed significantly at the core](/spirituality/), but I leave this work as an artifact._
+
+---
+
 Here is my attempt to answer the question of the meaning of life. You can read this as a series of [ten parts here](/meaningOfLife_0/) with accompanying videos.
 
 I'm a person who's had a lot of time to think and reflect on life and my experience. I've searched for meaning my entire life. Any talk of meaning has focused my attention.
