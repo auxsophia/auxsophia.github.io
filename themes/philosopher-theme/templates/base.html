@@ -1,0 +1,103 @@
+<!--
+The layout that your content will conform to.
+-->
+
+<!DOCTYPE html>
+<html>
+{% include 'head.html' %}
+
+<script src="https://cdn.jsdelivr.net/npm/tsparticles-slim@2.0.6/tsparticles.slim.bundle.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    let particlesEnabled = localStorage.getItem('particlesState') !== 'disabled';
+    const toggleBtn = document.getElementById('particle-toggle');
+
+    // 1. Configuration for the MAIN Background (Purple, spreading into margins)
+    const mainParticleConfig = {
+        background: { color: { value: "transparent" } },
+        interactivity: {
+            events: { onHover: { enable: true, mode: "grab" } },
+            modes: {
+                grab: { distance: 250, links: { opacity: 0.6, color: "#6C3082" } }
+            }
+        },
+        particles: {
+            color: { value: "#6C3082" },
+            links: { color: "#6C3082", distance: 150, enable: true, opacity: 0.2, width: 1 },
+            move: { enable: true, speed: 0.8, direction: "none", outModes: "out" },
+            number: { density: { enable: true, area: 800 }, value: 40 },
+            opacity: { value: 0.3 },
+            size: { value: { min: 1, max: 3 } }
+        }
+    };
+
+    // 2. Configuration for the HEADER & FOOTER (White, denser, bouncing)
+    const elementParticleConfig = {
+        background: { color: { value: "transparent" } },
+        interactivity: {
+            events: { onHover: { enable: true, mode: "grab" } },
+            modes: {
+                grab: { distance: 150, links: { opacity: 0.8, color: "#FFFFFF" } }
+            }
+        },
+        particles: {
+            color: { value: "#FFFFFF" },
+            links: { color: "#FFFFFF", distance: 80, enable: true, opacity: 0.3, width: 1 },
+            move: { enable: true, speed: 1.2, direction: "none", outModes: "bounce" },
+            number: { density: { enable: true, area: 400 }, value: 60 },
+            opacity: { value: 0.5 },
+            size: { value: { min: 1, max: 2 } }
+        }
+    };
+
+    // 3. Function to load or destroy all particle systems
+    async function initParticles() {
+        if (particlesEnabled) {
+            // Load the main background layer
+            await tsParticles.load("tsparticles", mainParticleConfig);
+            // Load the header and footer layers
+            await tsParticles.load("tsparticles-header", elementParticleConfig);
+            await tsParticles.load("tsparticles-footer", elementParticleConfig);
+            
+            // Fade the main container in
+            document.getElementById('tsparticles').style.opacity = "1";
+        } else {
+            // Destroy EVERY active particle system on the page
+            const allInstances = tsParticles.dom();
+            allInstances.forEach(instance => instance.destroy());
+            
+            // Fade the main container out
+            document.getElementById('tsparticles').style.opacity = "0";
+        }
+    }
+
+    // Initialize (if not on mobile)
+    if (window.innerWidth > 768) {
+        initParticles();
+    }
+
+    // Handle the Toggle Button
+    if (toggleBtn) {
+        toggleBtn.addEventListener('click', () => {
+            particlesEnabled = !particlesEnabled;
+            localStorage.setItem('particlesState', particlesEnabled ? 'enabled' : 'disabled');
+            initParticles();
+        });
+    }
+});
+</script>
+
+<body>
+	<div id="tsparticles"></div>
+	{% include 'header.html' %}
+	<main>
+		<article>
+			{% block content %}
+			{% endblock %}
+		</article>
+	</main>
+	{% include 'footer.html' %}
+</body>
+
+</html>

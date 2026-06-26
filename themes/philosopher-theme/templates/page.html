@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ SITENAME }}{% endblock %}
+
+{% block canonical %}
+<link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+{% endblock %}
+
+{% block content %}
+    <div style="text-align: right; font-size: 0.85rem; color: #777; margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;">
+        {% if page.date %}
+            <strong>Created:</strong> {{ page.date | strftime('%B %d, %Y') }}
+        {% endif %}
+        
+        {% if page.modified %}
+            &nbsp;|&nbsp; <strong>Last Modified:</strong> {{ page.modified | strftime('%B %d, %Y') }}
+        {% endif %}
+        <button id="particle-toggle" style="background: none; border: 1px solid #6C3082; color: #6C3082; padding: 5px 10px; cursor: pointer; border-radius: 4px; font-family: inherit;">
+    Toggle Particles
+	    </button>
+    </div>
+
+    {{ page.content }}
+{% endblock %}

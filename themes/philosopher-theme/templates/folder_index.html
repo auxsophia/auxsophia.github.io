@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ SITENAME }}{% endblock %}
+
+{% block canonical %}
+<link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+{% endblock %}
+
+{% block content %}
+    <div class="article-layout">
+        <div class="article-body">
+            <div style="text-align: right; font-size: 0.85rem; color: #777; margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;">
+                {% if page.date %}
+                    <strong>Created:</strong> {{ page.date | strftime('%B %d, %Y') }}
+                {% endif %}
+                
+                {% if page.modified %}
+                    &nbsp;|&nbsp; <strong>Last Modified:</strong> {{ page.modified | strftime('%B %d, %Y') }}
+                {% endif %}
+                
+                <button id="particle-toggle">Toggle Particles</button>
+            </div>
+
+            {{ page.content }}
+        </div>
+
+        <aside class="article-sidebar">
+            <div class="sidebar-content">
+                <h3>{{ page.sidebar_title | default('Directory') }}</h3>
+                
+                {% set target_folder = page.source_folder or page.metadata.get('source_folder') %}
+                {% if target_folder %}
+                    {% set target = target_folder | replace('\\', '/') %}
+                    {% if not target.endswith('/') %}{% set target = target ~ '/' %}{% endif %}
+                    
+                    {% set subfolders = [] %}
+                    {% set direct_files = [] %}
+                    {% set all_content = articles + pages %}
+                    
+                    {% for item in all_content if item.relative_source_path and item != page %}
+                        {% set path = item.relative_source_path | replace('\\', '/') %}
+                        {% set path = path | replace('_posts/', '') | replace('_pages/', '') %}
+                        
+                        {% if path.startswith(target) %}
+                            {% set remainder = path[target|length:] %}
+                            {% if remainder.startswith('/') %}{% set remainder = remainder[1:] %}{% endif %}
+                            
+                            {% if '/' in remainder %}
+                                {% set sub_name = remainder.split('/')[0] %}
+                                {% if sub_name not in subfolders %}
+                                    {% if subfolders.append(sub_name) %}{% endif %}
+                                {% endif %}
+                            {% else %}
+                                {% if direct_files.append(item) %}{% endif %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    <ul class="adjacent-links">
+                        {% for item in direct_files | sort(attribute='title') %}
+                            <li>
+                                <a href="{{ SITEURL }}/{{ item.url }}">{{ item.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+
+                    {% for folder in subfolders | sort %}
+                        <h4 style="margin-top: 1.5rem; margin-bottom: 0.5rem; font-size: 0.9rem; color: #555; text-transform: uppercase;">
+                            📁 {{ folder }}
+                        </h4>
+                        <ul class="adjacent-links" style="margin-left: 10px; padding-left: 10px; border-left: 2px solid #f0f0f0;">
+                            {% for item in all_content if item.relative_source_path and item != page %}
+                                {% set path = item.relative_source_path | replace('\\', '/') | replace('_posts/', '') | replace('_pages/', '') %}
+                                {% set expected_prefix = target ~ folder ~ '/' %}
+                                
+                                {% if path.startswith(expected_prefix) %}
+                                    <li>
+                                        <a href="{{ SITEURL }}/{{ item.url }}">{{ item.title }}</a>
+                                    </li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    {% endfor %}
+
+                {% else %}
+                    <p style="font-size: 0.8rem; color: #888;">Add 'source_folder' to frontmatter to populate this directory.</p>
+                {% endif %}
+            </div>
+        </aside>
+    </div>
+{% endblock %}

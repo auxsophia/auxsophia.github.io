@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} | {{ SITENAME }}{% endblock %}
+
+{% block canonical %}
+<link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+{% endblock %}
+
+{% block content %}
+    <div style="text-align: right; font-size: 0.85rem; color: #777; margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;">
+        {% if article.date %}
+            <strong>Created:</strong> {{ article.date | strftime('%B %d, %Y') }}
+        {% endif %}
+        
+        {% if article.modified %}
+            &nbsp;|&nbsp; <strong>Last Modified:</strong> {{ article.modified | strftime('%B %d, %Y') }}
+        {% endif %}
+        <button id="particle-toggle">Toggle Particles</button>
+    </div>
+
+    {{ article.content }}
+    
+{% endblock %}

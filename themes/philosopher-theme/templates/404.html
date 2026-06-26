@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}Page Not Found | {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="error-page" style="text-align: center; padding: 40px 15px;">
+    <h1>404</h1>
+    <h2>Oops! We couldn't find that page.</h2>
+    <p>The note or article you are looking for might have been moved or deleted.</p>
+    
+    <hr style="margin: 40px auto; max-width: 50%;">
+
+    <h3>While you are here, check out some recently updated notes:</h3>
+    <ul style="list-style: none; padding: 0; margin-top: 20px;">
+        {% for p in (pages | sort(attribute='date', reverse=True))[:5] %}
+            <li style="margin-bottom: 10px;">
+                <a href="{{ SITEURL }}/{{ p.url }}" style="font-size: 1.2rem; font-weight: bold;">
+                    {{ p.title }}
+                </a>
+                <br>
+                <small>Last updated: {{ p.date | strftime('%B %d, %Y') }}</small>
+            </li>
+        {% endfor %}
+    </ul>
+    
+    <div style="margin-top: 40px;">
+        <a href="{{ SITEURL }}/" class="button">Return to Homepage</a>
+    </div>
+</div>
+{% endblock %}

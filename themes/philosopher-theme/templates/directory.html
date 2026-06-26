@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    <div class="article-layout">
+        <div class="article-body">
+            <h1>{{ page.title }}</h1>
+            {{ page.content }}
+            
+            <ul style="list-style: none; padding: 0; margin-top: 2rem;">
+                {% set all_content = articles + pages %}
+                {% for item in all_content | sort(attribute='modified', reverse=True) %}
+                    <li style="margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;">
+                        <div style="font-size: 0.85rem; color: #777; margin-bottom: 0.2rem;">
+                            Last Updated: {{ item.modified | strftime('%B %d, %Y') }}
+                        </div>
+                        <a href="{{ SITEURL }}/{{ item.url }}" style="text-decoration: none; color: #6C3082; font-size: 1.1rem; font-weight: bold;">
+                            {{ item.title }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+{% endblock %}
