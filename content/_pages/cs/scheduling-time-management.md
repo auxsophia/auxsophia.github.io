@@ -7,7 +7,7 @@ date: 2019-02-25
 modified: 2024-09-21
 ---
 
-I'm currently reading selected parts of _Algorithms to Live By - The Computer Science of Human Decisions_ by Brian Christian and Tom Griffiths. The book is awesome. This is a break down of chapter 5 of their book on scheduling (time management).
+I'm continually inspire by _Algorithms to Live By - The Computer Science of Human Decisions_ by Brian Christian and Tom Griffiths. The book is awesome. This is a break down of chapter 5 of their book on scheduling (time management).
 
 > "How we spend our days is, of course, how we spend our lives." - Annie Dillard
 

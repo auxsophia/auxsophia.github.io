@@ -1,0 +1,7 @@
+#!/bin/bash
+git config --global credential.helper cache
+read -p "Commit description: " desc
+git add . && \
+  git add -u && \
+  git commit -m "$desc" && \
+  git push origin  master
